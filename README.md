@@ -599,7 +599,6 @@
 - [jtchilders/python_tools](https://github.com/jtchilders/python_tools) - My Personal Collection of Python Tools
 - [modestbayes/hamiltonian](https://github.com/modestbayes/hamiltonian) - Speed up HMC with neural network gradient approximation
 - [thiery-lab/manifold-mcmc-for-diffusions](https://github.com/thiery-lab/manifold-mcmc-for-diffusions) - Code accompanying the paper 'Manifold MCMC methods for Bayesian inference in a wide class of diffusion models'
-- [saforem2/ising_worm](https://github.com/saforem2/ising_worm) - 
 - [karpathy/pytorch-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) - Normalizing flows in PyTorch. Current intended use is education not production.
 - [ericjang/nf-jax](https://github.com/ericjang/nf-jax) - Normalizing Flows in Jax
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
@@ -620,7 +619,6 @@
 - [sharanry/pymc4_prototypes](https://github.com/sharanry/pymc4_prototypes) - Experimental code for porting PyMC to alternative backends
 - [pymc-devs/pymc4](https://github.com/pymc-devs/pymc4) - Experimental PyMC interface for TensorFlow Probability. Official work on this project has been discontinued.
 - [crgagne/pymc3-tensorflow-and-theano-backends](https://github.com/crgagne/pymc3-tensorflow-and-theano-backends) - Within this repo, I altered some of the PyMC3 source code so that it can run on either Theano or TensorFlow backends
-- [rsln-s/qml](https://github.com/rsln-s/qml) - Simple stuff, implemented in Rigetti's pyQuil
 - [brain-research/l2hmc](https://github.com/brain-research/l2hmc) - TensorFlow implementation for training MCMC samplers from the paper: Generalizing Hamiltonian Monte Carlo with Neural Network
 - [rasbt/deep-learning-book](https://github.com/rasbt/deep-learning-book) - Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python"
 - [ageron/handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
@@ -862,7 +860,6 @@
 - [willieneis/bayesian-algorithm-execution](https://github.com/willieneis/bayesian-algorithm-execution) - Bayesian algorithm execution (BAX)
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
-- [github/copilot-preview](https://github.com/github/copilot-preview) - Repository for GitHub Copilot
 - [tacaswell/mpl-gui](https://github.com/tacaswell/mpl-gui) - Prototype for mpl-gui module
 - [mschwager/cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
