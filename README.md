@@ -102,6 +102,7 @@
 
 ## C++ 
 
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [tuplex/tuplex](https://github.com/tuplex/tuplex) - Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set.
@@ -182,7 +183,6 @@
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 - [khanhas/genius-spicetify](https://github.com/khanhas/genius-spicetify) - Fetch lyrics from Genius and Musixmatch right in Spotify desktop client
-- [shaunsingh/vimrc-dotfiles](https://github.com/shaunsingh/vimrc-dotfiles) - Dotfiles schoolwork and kotlin, lua, and rust programming
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
 - [leriomaggio/notexbook-jupyter-theme](https://github.com/leriomaggio/notexbook-jupyter-theme) - noTeXbook: Jupyter notebook theme for LaTeX lovers
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
@@ -215,6 +215,7 @@
 
 ## Emacs Lisp 
 
+- [shaunsingh/vimrc-dotfiles](https://github.com/shaunsingh/vimrc-dotfiles) - Dotfiles schoolwork and kotlin, lua, and rust programming
 - [yangsheng6810/org-latex-impatient](https://github.com/yangsheng6810/org-latex-impatient) - Instant Previews LaTeX snippets in Org-mode
 
 ## FORTRAN 
@@ -260,6 +261,7 @@
 
 ## HTML 
 
+- [Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints](https://github.com/Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints) - Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (October 2016) the authority fined them $2.3 million, after receiving over 1000 consumer complaints. The existing database will serve as a repository of public customer complaints file.
 - [trikita/slide-html](https://github.com/trikita/slide-html) - Text presentation maker for a simplified markup language
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [a-nau/markdownslides](https://github.com/a-nau/markdownslides) - A "markdown-first" approach for generating beautiful browser-based slides easily. Based on Reveal.js and Reveal-Jekyll.
@@ -303,6 +305,8 @@
 
 ## JavaScript 
 
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [maierfelix/poxi](https://github.com/maierfelix/poxi) - A flat pixel art editor
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [bwasti/jott](https://github.com/bwasti/jott) - A simple way to jot down notes
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -436,6 +440,8 @@
 
 ## Jupyter Notebook 
 
+- [GokuMohandas/MLOps](https://github.com/GokuMohandas/MLOps) - A project-based course on the foundations of MLOps with a focus on intuition and application.
+- [thjashin/mirror-stein-samplers](https://github.com/thjashin/mirror-stein-samplers) - Sampling with Mirrored Stein Operators
 - [chrisculver/WickContractions](https://github.com/chrisculver/WickContractions) - 
 - [learningmatter-mit/Segal](https://github.com/learningmatter-mit/Segal) - 
 - [scottire/fastpages](https://github.com/scottire/fastpages) - 
@@ -638,6 +644,8 @@
 
 ## Lua 
 
+- [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua
+- [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
@@ -819,6 +827,8 @@
 
 ## Python 
 
+- [VincentStimper/hmc-hyperparameter-tuning](https://github.com/VincentStimper/hmc-hyperparameter-tuning) - Framework to tune the hyperparameters of Hamiltonian Monte Carlo in an automated fashion
+- [Liao-Xu/SFS_py](https://github.com/Liao-Xu/SFS_py) - 
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations =&gt; neural networks in JAX.
 - [poets-ai/elegy](https://github.com/poets-ai/elegy) - Elegy is a framework-agnostic Trainer interface for the Jax ecosystem.
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
@@ -1093,7 +1103,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-402-Stars](https://github.com/iBug/This-Repo-Has-402-Stars) - Yes, it's true :two_hearts: This repository has 402 stars.
+- [iBug/This-Repo-Has-402-Stars](https://github.com/iBug/This-Repo-Has-402-Stars) - Yes, it's true :heart: This repository has 402 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1651,7 +1661,7 @@
 - [aahung/Unshaky](https://github.com/aahung/Unshaky) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
 - [amebalabs/TRex](https://github.com/amebalabs/TRex) - Easy to use text extraction tool for macOS
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
-- [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder) - Duplicate Finder is a MacOS Application that is written by Swift. It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
+- [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder) - Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [glaurent/MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - a macOS/OSX app to comfortably browse and search through your Messages.app history.
 - [lyc2345/Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.
