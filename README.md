@@ -63,6 +63,8 @@
 
 ## C 
 
+- [hpc-io/h5bench](https://github.com/hpc-io/h5bench) - A benchmark suite for measuring HDF5 performance.
+- [hpc-io/vol-async](https://github.com/hpc-io/vol-async) - HDF5 Asynchronous I/O VOL connector that enables asynchronous I/O for HDF5 applications
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
@@ -261,6 +263,7 @@
 
 ## HTML 
 
+- [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints](https://github.com/Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints) - Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (October 2016) the authority fined them $2.3 million, after receiving over 1000 consumer complaints. The existing database will serve as a repository of public customer complaints file.
 - [trikita/slide-html](https://github.com/trikita/slide-html) - Text presentation maker for a simplified markup language
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
@@ -503,7 +506,7 @@
 - [hila-chefer/Transformer-Explainability](https://github.com/hila-chefer/Transformer-Explainability) - [CVPR 2021] Official PyTorch implementation for Transformer Interpretability Beyond Attention Visualization, a novel method to visualize classifications by Transformer based networks.
 - [jo-mab/TruncatedMC](https://github.com/jo-mab/TruncatedMC) - Supplementary Material for "Proposing new configurations in Monte Carlo simulations using truncated Markov Chains"
 - [andreas128/SRFlow](https://github.com/andreas128/SRFlow) - Official SRFlow training code: Super-Resolution using Normalizing Flow in PyTorch
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧠 Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback, vit), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), reinforcement learning (ppo, dqn), capsnet, distillation, etc.
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠
 - [MacroAnalyst/Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python
 - [henryiii/level-up-your-python](https://github.com/henryiii/level-up-your-python) - Course over intermediate Python
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
@@ -827,6 +830,8 @@
 
 ## Python 
 
+- [thu-ml/zhusuan](https://github.com/thu-ml/zhusuan) - A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow
+- [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
 - [VincentStimper/hmc-hyperparameter-tuning](https://github.com/VincentStimper/hmc-hyperparameter-tuning) - Framework to tune the hyperparameters of Hamiltonian Monte Carlo in an automated fashion
 - [Liao-Xu/SFS_py](https://github.com/Liao-Xu/SFS_py) - 
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations =&gt; neural networks in JAX.
@@ -1573,6 +1578,7 @@
 
 ## Rust 
 
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [facundoolano/rpg-cli](https://github.com/facundoolano/rpg-cli) - Your filesystem as a dungeon!
