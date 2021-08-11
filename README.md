@@ -63,6 +63,7 @@
 
 ## C 
 
+- [HDFGroup/hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 - [hpc-io/h5bench](https://github.com/hpc-io/h5bench) - A benchmark suite for measuring HDF5 performance.
 - [hpc-io/vol-async](https://github.com/hpc-io/vol-async) - HDF5 Asynchronous I/O VOL connector that enables asynchronous I/O for HDF5 applications
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
@@ -104,6 +105,7 @@
 
 ## C++ 
 
+- [ORNL/TASMANIAN](https://github.com/ORNL/TASMANIAN) - The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
@@ -182,6 +184,7 @@
 
 ## CSS 
 
+- [jupyterlab/theme-cookiecutter](https://github.com/jupyterlab/theme-cookiecutter) - A cookiecutter template to help you make new JupyterLab theme extensions
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 - [khanhas/genius-spicetify](https://github.com/khanhas/genius-spicetify) - Fetch lyrics from Genius and Musixmatch right in Spotify desktop client
@@ -263,6 +266,7 @@
 
 ## HTML 
 
+- [zhengying/hungrymark](https://github.com/zhengying/hungrymark) - hungrymark website
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints](https://github.com/Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints) - Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (October 2016) the authority fined them $2.3 million, after receiving over 1000 consumer complaints. The existing database will serve as a repository of public customer complaints file.
 - [trikita/slide-html](https://github.com/trikita/slide-html) - Text presentation maker for a simplified markup language
@@ -443,6 +447,8 @@
 
 ## Jupyter Notebook 
 
+- [twitter-research/graph-neural-pde](https://github.com/twitter-research/graph-neural-pde) - Continuous Diffusion Graph Neural Network
+- [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
 - [GokuMohandas/MLOps](https://github.com/GokuMohandas/MLOps) - A project-based course on the foundations of MLOps with a focus on intuition and application.
 - [thjashin/mirror-stein-samplers](https://github.com/thjashin/mirror-stein-samplers) - Sampling with Mirrored Stein Operators
 - [chrisculver/WickContractions](https://github.com/chrisculver/WickContractions) - 
@@ -702,6 +708,8 @@
 
 ## Objective-C 
 
+- [shahruz/Sketch-Toolbox](https://github.com/shahruz/Sketch-Toolbox) - A plugin manager for Sketch.app
+- [dteoh/SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.
 - [ShazamScrobbler/shazamscrobbler-macos](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app
 - [ddddxxx/MusicPlayer](https://github.com/ddddxxx/MusicPlayer) - Music player submodule for LyricsX
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
@@ -830,6 +838,9 @@
 
 ## Python 
 
+- [surmising/surmise](https://github.com/surmising/surmise) - A python package for surrogate models that interface with calibration and other tools
+- [Libensemble/libensemble](https://github.com/Libensemble/libensemble) - A library to coordinate the concurrent evaluation of dynamic ensembles of calculations.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [thu-ml/zhusuan](https://github.com/thu-ml/zhusuan) - A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow
 - [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
 - [VincentStimper/hmc-hyperparameter-tuning](https://github.com/VincentStimper/hmc-hyperparameter-tuning) - Framework to tune the hyperparameters of Hamiltonian Monte Carlo in an automated fashion
@@ -1060,7 +1071,7 @@
 - [ASTAugustin/WNTK_Machine_Learning](https://github.com/ASTAugustin/WNTK_Machine_Learning) - Code for the paper: Weighted Neural Tangent Kernel: A Generalized and Improved Network-Induced Kernel
 - [jeanfeydy/geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes
 - [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
-- [benedekrozemberczki/pytorch_geometric_temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - A Temporal Extension Library for PyTorch Geometric
+- [benedekrozemberczki/pytorch_geometric_temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models (CIKM 2021)
 - [tonywu95/eval_gen](https://github.com/tonywu95/eval_gen) - Evaluation code with models for the paper "On the Quantitative Analysis of Decoder-Based Generative Models"
 - [mariaref/rfvs2lnn_GMM_online](https://github.com/mariaref/rfvs2lnn_GMM_online) - Implementation of numerical simulation and analytical computations for the training, via online SGD, of two layer neural networks and random features on a mixture of Gaussian.
 - [makepath/xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analytics for Python
@@ -1179,7 +1190,6 @@
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [johannbrehmer/pointers](https://github.com/johannbrehmer/pointers) - Things that make me feel productive
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
-- [CSRedRat/topalias](https://github.com/CSRedRat/topalias) - Linux bash/zsh aliases generator
 - [JelteF/PyLaTeX](https://github.com/JelteF/PyLaTeX) - A Python library for creating LaTeX files
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
 - [choderalab/gimlet](https://github.com/choderalab/gimlet) - Graph Inference on MoLEcular Topology
@@ -1610,6 +1620,9 @@
 
 ## Shell 
 
+- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+- [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
+- [alichtman/scripts](https://github.com/alichtman/scripts) - Some scripts I've written, modified, or stolen for doing various things.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [PrincetonUniversity/hpc_beginning_workshop](https://github.com/PrincetonUniversity/hpc_beginning_workshop) - 
 - [felker/conda_install_scripts](https://github.com/felker/conda_install_scripts) - Some install scripts for miniconda that include tensorflow and keras in the intel channel.
@@ -1661,6 +1674,11 @@
 
 ## Swift 
 
+- [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+- [kaunteya/MacCacheCleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac cache cleaner
+- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
+- [kmikiy/SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 - [AnaghSharma/Carol](https://github.com/AnaghSharma/Carol) - Carol is a minimal and beautiful lyrics app for macOS built with SwiftUI
@@ -1724,6 +1742,8 @@
 
 ## TypeScript 
 
+- [bqplot/bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
+- [jupyterlab/lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
 - [valentjn/vscode-ltex](https://github.com/valentjn/vscode-ltex) - LTeX: Grammar/spell checker :mag::heavy_check_mark: for VS Code using LanguageTool with support for LaTeX :mortar_board:, Markdown :pencil:, and others
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
