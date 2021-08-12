@@ -21,6 +21,7 @@
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [Groff](#groff)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
@@ -28,6 +29,7 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [LLVM](#llvm)
   - [Lua](#lua)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
@@ -105,6 +107,7 @@
 
 ## C++ 
 
+- [maxpkatz/atpesc_2021_nvidia_examples](https://github.com/maxpkatz/atpesc_2021_nvidia_examples) - NVIDIA profiling tutorial for ATPESC 2021
 - [ORNL/TASMANIAN](https://github.com/ORNL/TASMANIAN) - The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
@@ -184,6 +187,7 @@
 
 ## CSS 
 
+- [8lueberry/google-material-color](https://github.com/8lueberry/google-material-color) - Google material color for SASS, LESS, Stylus, CSS, JS, etc
 - [jupyterlab/theme-cookiecutter](https://github.com/jupyterlab/theme-cookiecutter) - A cookiecutter template to help you make new JupyterLab theme extensions
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
@@ -263,6 +267,10 @@
 ## Groff 
 
 - [JC-B/Data-Incubator-Semi-Finalist](https://github.com/JC-B/Data-Incubator-Semi-Finalist) - 
+
+## HCL 
+
+- [Netflix/metaflow-tools](https://github.com/Netflix/metaflow-tools) - 
 
 ## HTML 
 
@@ -447,6 +455,10 @@
 
 ## Jupyter Notebook 
 
+- [noegroup/dlqmc-project](https://github.com/noegroup/dlqmc-project) - 
+- [noegroup/stochastic_normalizing_flows](https://github.com/noegroup/stochastic_normalizing_flows) - Stochastic Normalizing Flows
+- [noegroup/paper_boltzmann_generators](https://github.com/noegroup/paper_boltzmann_generators) - 
+- [noegroup/bgflow](https://github.com/noegroup/bgflow) - Boltzmann Generators and Normalizing Flows in PyTorch
 - [twitter-research/graph-neural-pde](https://github.com/twitter-research/graph-neural-pde) - Continuous Diffusion Graph Neural Network
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
 - [GokuMohandas/MLOps](https://github.com/GokuMohandas/MLOps) - A project-based course on the foundations of MLOps with a focus on intuition and application.
@@ -494,14 +506,13 @@
 - [mpld3/mpld3](https://github.com/mpld3/mpld3) - D3 Renderings of Matplotlib Graphics
 - [nathanshammah/make-your-code-count](https://github.com/nathanshammah/make-your-code-count) - Create an open-source library in Python for your scientific research.
 - [yobibyte/prettyplots](https://github.com/yobibyte/prettyplots) - Design your own matplotlib stylefile interactively
-- [sayakpaul/Spatial-Transformer-Networks-with-Keras](https://github.com/sayakpaul/Spatial-Transformer-Networks-with-Keras) - This repository provides a Colab Notebook that shows how to use Spatial Transformer Networks inside CNNs build in Keras.
+- [sayakpaul/Spatial-Transformer-Networks-with-Keras](https://github.com/sayakpaul/Spatial-Transformer-Networks-with-Keras) - This repository provides a Colab Notebook that shows how to use Spatial Transformer Networks inside CNNs in Keras.
 - [Cryoris/notebooks](https://github.com/Cryoris/notebooks) - 
 - [manzilzaheer/DeepSets](https://github.com/manzilzaheer/DeepSets) - 
 - [vkverma01/EFT](https://github.com/vkverma01/EFT) - Class Incremental learning, Task Incremental Learning
 - [wri-dssg-omdena/policy-data-analyzer](https://github.com/wri-dssg-omdena/policy-data-analyzer) - Building a model to recognize incentives for landscape restoration in environmental policies from Latin America, the US and India. Bringing NLP to the world of policy analysis through an extensible framework that includes scraping, preprocessing, active learning and text analysis pipelines.
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [tacaswell/2021-03_APS](https://github.com/tacaswell/2021-03_APS) - 
-- [aimat-lab/gcnn_keras](https://github.com/aimat-lab/gcnn_keras) - Graph convolution with tf.keras
 - [geomstats/challenge-iclr-2021](https://github.com/geomstats/challenge-iclr-2021) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
 - [wandb/examples](https://github.com/wandb/examples) - Example deep learning projects that use wandb's features.
 - [bentrevett/pytorch-rl](https://github.com/bentrevett/pytorch-rl) - Tutorials for reinforcement learning in PyTorch and Gym by implementing a few of the popular algorithms. [IN PROGRESS]
@@ -651,6 +662,10 @@
 - [lightaime/cs231n](https://github.com/lightaime/cs231n) - cs231n assignments sovled by https://ghli.org
 - [ipython-books/cookbook-code](https://github.com/ipython-books/cookbook-code) - [DEPRECATED] See the new edition:
 
+## LLVM 
+
+- [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - 
+
 ## Lua 
 
 - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua
@@ -774,7 +789,6 @@
 - [Machine-Learning-Tokyo/AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum) - Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley.
 - [AakashKumarNain/annotated_research_papers](https://github.com/AakashKumarNain/annotated_research_papers) - This repo contains annotated research papers that I found really good and useful
 - [sha256feng/mldl-md-dynamics](https://github.com/sha256feng/mldl-md-dynamics) - A repository of update in molecular dynamics field by recent progress in machine learning and deep learning.
-- [Netflix/metaflow-tools](https://github.com/Netflix/metaflow-tools) - 
 - [markshannon/faster-cpython](https://github.com/markshannon/faster-cpython) - How to make CPython faster.
 - [M4cs/Pretty-Readme](https://github.com/M4cs/Pretty-Readme) - 🎃 HACKTOBERFEST 2020 👻: A community collection of Readme tools and badges to make your profile/repos more attractive.
 - [Zymrael/awesome-neural-ode](https://github.com/Zymrael/awesome-neural-ode) - A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.
@@ -1075,6 +1089,7 @@
 - [tonywu95/eval_gen](https://github.com/tonywu95/eval_gen) - Evaluation code with models for the paper "On the Quantitative Analysis of Decoder-Based Generative Models"
 - [mariaref/rfvs2lnn_GMM_online](https://github.com/mariaref/rfvs2lnn_GMM_online) - Implementation of numerical simulation and analytical computations for the training, via online SGD, of two layer neural networks and random features on a mixture of Gaussian.
 - [makepath/xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analytics for Python
+- [aimat-lab/gcnn_keras](https://github.com/aimat-lab/gcnn_keras) - Graph convolution with tf.keras
 - [juliagusak/neural-ode-norm](https://github.com/juliagusak/neural-ode-norm) - Models and code for the ICLR 2020 workshop paper "Towards Understanding Normalization in Neural ODEs"
 - [priyankjaini/discFlowMH](https://github.com/priyankjaini/discFlowMH) - Pytorch code for Sampling in Combinatorial Spaces with SurVAE Flow Augmented MCMC
 - [yukimasano/linear-probes](https://github.com/yukimasano/linear-probes) - Evaluating AlexNet features at various depths
