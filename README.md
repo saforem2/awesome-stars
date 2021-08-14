@@ -455,6 +455,7 @@
 
 ## Jupyter Notebook 
 
+- [erinaldi/bmn2-lattice](https://github.com/erinaldi/bmn2-lattice) - Data analysis of lattice Monte Carlo simulations of quantum matrix models.
 - [noegroup/dlqmc-project](https://github.com/noegroup/dlqmc-project) - 
 - [noegroup/stochastic_normalizing_flows](https://github.com/noegroup/stochastic_normalizing_flows) - Stochastic Normalizing Flows
 - [noegroup/paper_boltzmann_generators](https://github.com/noegroup/paper_boltzmann_generators) - 
