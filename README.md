@@ -448,7 +448,7 @@
 - [TuringLang/AdvancedHMC.jl](https://github.com/TuringLang/AdvancedHMC.jl) - Robust, modular and efficient implementation of advanced Hamiltonian Monte Carlo algorithms
 - [JuliaApproximation/ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) - Julia package for function approximation
 - [JuliaManifolds/Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl) - Optimization on Manifolds in Julia
-- [crstnbr/MonteCarlo.jl](https://github.com/crstnbr/MonteCarlo.jl) - Classical and quantum Monte Carlo simulations in Julia
+- [carstenbauer/MonteCarlo.jl](https://github.com/carstenbauer/MonteCarlo.jl) - Classical and quantum Monte Carlo simulations in Julia
 - [JunoLab/Juno.jl](https://github.com/JunoLab/Juno.jl) - 
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [MelkoCollective/BH_diagonalize](https://github.com/MelkoCollective/BH_diagonalize) - Exact diagonalization for the Bose Hubbard model in Julia
@@ -1055,7 +1055,7 @@
 - [ingmarschuster/kameleon_rks](https://github.com/ingmarschuster/kameleon_rks) - Random kitchen sink version of Kameleon MCMC
 - [argonne-lcf/CompPerfWorkshop-2021](https://github.com/argonne-lcf/CompPerfWorkshop-2021) - 2021 ALCF Computational Performance Workshop
 - [libeanim/contact-symplectic-integrator-network](https://github.com/libeanim/contact-symplectic-integrator-network) - Contact-Aware Symplectic Integrator Network
-- [scipy/scipy](https://github.com/scipy/scipy) - Scipy library main repository
+- [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [DavideBuffelli/SAME](https://github.com/DavideBuffelli/SAME) - Code for the paper: "A Meta-Learning Approach for Graph Representation Learning in Multi-Task Settings", D. Buffelli & F. Vandin, presented at the  NeurIPS Workshop on Meta-Learning (MetaLearn) 2020.
 - [deepmind/distrax](https://github.com/deepmind/distrax) - 
 - [katiebreivik/cosmic-cat-creator](https://github.com/katiebreivik/cosmic-cat-creator) - a tool to produce astrophysical catalogs from cosmic data
