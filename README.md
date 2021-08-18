@@ -853,6 +853,7 @@
 
 ## Python 
 
+- [brohrer/taming_matplotlib](https://github.com/brohrer/taming_matplotlib) - Tutorials for getting the most out of Matplotlib
 - [surmising/surmise](https://github.com/surmising/surmise) - A python package for surrogate models that interface with calibration and other tools
 - [Libensemble/libensemble](https://github.com/Libensemble/libensemble) - A library to coordinate the concurrent evaluation of dynamic ensembles of calculations.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
@@ -1135,7 +1136,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-402-Stars](https://github.com/iBug/This-Repo-Has-402-Stars) - Yes, it's true :heart: This repository has 402 stars.
+- [iBug/This-Repo-Has-401-Stars](https://github.com/iBug/This-Repo-Has-401-Stars) - Yes, it's true :two_hearts: This repository has 401 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1604,6 +1605,7 @@
 
 ## Rust 
 
+- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
