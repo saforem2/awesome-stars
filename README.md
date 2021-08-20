@@ -203,6 +203,7 @@
 
 ## Clojure 
 
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
 - [camspiers/dotfiles](https://github.com/camspiers/dotfiles) - Dotfiles (macOS, stow, brew, yabai, nvim, kitty, tmux)
 
 ## CoffeeScript 
@@ -670,6 +671,7 @@
 
 ## Lua 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, tmux, kitty, iTerm, Konsole, and Alacritty written in Lua
@@ -854,6 +856,9 @@
 
 ## Python 
 
+- [twitter-research/cwn](https://github.com/twitter-research/cwn) - Message Passing on Simplicial and Cell Complexes
+- [tantale/deprecated](https://github.com/tantale/deprecated) - Python @deprecated decorator to deprecate old python classes, functions or methods.
+- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
 - [brohrer/taming_matplotlib](https://github.com/brohrer/taming_matplotlib) - Tutorials for getting the most out of Matplotlib
 - [surmising/surmise](https://github.com/surmising/surmise) - A python package for surrogate models that interface with calibration and other tools
@@ -1587,6 +1592,7 @@
 
 ## Roff 
 
+- [lanl/McPhD](https://github.com/lanl/McPhD) - A Parallel Haskell framework for particle-based Monte Carlo simulations
 - [WenboGong/MetaSGMCMC](https://github.com/WenboGong/MetaSGMCMC) - The code for Meta Learning for SGMCMC
 
 ## Ruby 
@@ -1764,6 +1770,7 @@
 
 ## TypeScript 
 
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [bqplot/bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 - [jupyterlab/lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
 - [valentjn/vscode-ltex](https://github.com/valentjn/vscode-ltex) - LTeX: Grammar/spell checker :mag::heavy_check_mark: for VS Code using LanguageTool with support for LaTeX :mortar_board:, Markdown :pencil:, and others
