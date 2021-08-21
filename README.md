@@ -346,7 +346,7 @@
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [khanhas/spotify-release-list](https://github.com/khanhas/spotify-release-list) - 📅 Display list of Spotify releases from artists you follow
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 100+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS
 - [dcrousso/GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App
 - [hanayik/CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg
@@ -403,6 +403,7 @@
 
 ## Julia 
 
+- [jgorham/SteinDiscrepancy.jl](https://github.com/jgorham/SteinDiscrepancy.jl) - Practical tools for quantifying how well a sample approximates a target distribution
 - [JuliaPlots/Makie.jl](https://github.com/JuliaPlots/Makie.jl) - High level plotting on the GPU.
 - [JuliaAI/ScientificTypes.jl](https://github.com/JuliaAI/ScientificTypes.jl) - An API for dispatching on the "scientific" type of data instead of the machine type
 - [JuliaImages/juliaimages.github.io](https://github.com/JuliaImages/juliaimages.github.io) - Documentation For JuliaImages
@@ -457,6 +458,7 @@
 
 ## Jupyter Notebook 
 
+- [coreyjadams/CosmicTagger](https://github.com/coreyjadams/CosmicTagger) - Cosmic Tagging Network for Neutrino Physics
 - [erinaldi/bmn2-lattice](https://github.com/erinaldi/bmn2-lattice) - Data analysis of lattice Monte Carlo simulations of quantum matrix models.
 - [noegroup/dlqmc-project](https://github.com/noegroup/dlqmc-project) - 
 - [noegroup/stochastic_normalizing_flows](https://github.com/noegroup/stochastic_normalizing_flows) - Stochastic Normalizing Flows
@@ -693,6 +695,7 @@
 
 ## MATLAB 
 
+- [wilson-ye-chen/sp-mcmc](https://github.com/wilson-ye-chen/sp-mcmc) - MATLAB code for Stein Point Markov Chain Monte Carlo.
 - [lacerbi/vbmc](https://github.com/lacerbi/vbmc) - Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB
 
 ## Makefile 
@@ -1585,8 +1588,8 @@
 
 ## R 
 
-- [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) code from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficiency and effectivity, explore adstock rates and saturation curves. It's built for granular datasets with many independent variables and therefore especially suitable for digital and direct response advertisers with rich dataset.
 - [bonStats/smcdar](https://github.com/bonStats/smcdar) - Data and code to accompany paper "Accelerating sequential Monte Carlo with surrogate likelihoods"
+- [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) code from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficiency and effectivity, explore adstock rates and saturation curves. It's built for granular datasets with many independent variables and therefore especially suitable for digital and direct response advertisers with rich dataset.
 - [yao-yl/path-tempering](https://github.com/yao-yl/path-tempering) - continuous tempering by path sampling
 - [wxwx1993/PM_COVID](https://github.com/wxwx1993/PM_COVID) - Public Available Code and Data to Reproduce Analyses in "Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis."
 
