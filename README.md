@@ -673,6 +673,7 @@
 
 ## Lua 
 
+- [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
@@ -745,6 +746,7 @@
 
 ## Others 
 
+- [saforem2/awesome-stars](https://github.com/saforem2/awesome-stars) - A curated list of my GitHub stars!
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [gabeclass/introlinux](https://github.com/gabeclass/introlinux) - Intro to the Linux Command Line (PICSciE)
 - [degregat/awesome-research](https://github.com/degregat/awesome-research) - A curated list of resources to help with computational research.
@@ -859,6 +861,8 @@
 
 ## Python 
 
+- [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+- [jliu/graph-normalizing-flows](https://github.com/jliu/graph-normalizing-flows) - Code for Graph Normalizing Flows.
 - [twitter-research/cwn](https://github.com/twitter-research/cwn) - Message Passing on Simplicial and Cell Complexes
 - [tantale/deprecated](https://github.com/tantale/deprecated) - Python @deprecated decorator to deprecate old python classes, functions or methods.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
@@ -1773,6 +1777,7 @@
 
 ## TypeScript 
 
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [bqplot/bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 - [jupyterlab/lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
