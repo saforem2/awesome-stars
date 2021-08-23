@@ -403,6 +403,7 @@
 
 ## Julia 
 
+- [JuliaDocs/Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) - A documentation generator for Julia.
 - [jgorham/SteinDiscrepancy.jl](https://github.com/jgorham/SteinDiscrepancy.jl) - Practical tools for quantifying how well a sample approximates a target distribution
 - [JuliaPlots/Makie.jl](https://github.com/JuliaPlots/Makie.jl) - High level plotting on the GPU.
 - [JuliaAI/ScientificTypes.jl](https://github.com/JuliaAI/ScientificTypes.jl) - An API for dispatching on the "scientific" type of data instead of the machine type
@@ -861,6 +862,8 @@
 
 ## Python 
 
+- [wonderworks-software/PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
+- [qiime2/qiime2](https://github.com/qiime2/qiime2) - Official repository for the QIIME 2 framework.
 - [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
 - [jliu/graph-normalizing-flows](https://github.com/jliu/graph-normalizing-flows) - Code for Graph Normalizing Flows.
 - [twitter-research/cwn](https://github.com/twitter-research/cwn) - Message Passing on Simplicial and Cell Complexes
