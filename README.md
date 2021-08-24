@@ -247,6 +247,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - Simple time tracking CLI
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -459,6 +460,7 @@
 
 ## Jupyter Notebook 
 
+- [agoose77/literary](https://github.com/agoose77/literary) - Literate Python package development with Jupyter
 - [coreyjadams/CosmicTagger](https://github.com/coreyjadams/CosmicTagger) - Cosmic Tagging Network for Neutrino Physics
 - [erinaldi/bmn2-lattice](https://github.com/erinaldi/bmn2-lattice) - Data analysis of lattice Monte Carlo simulations of quantum matrix models.
 - [noegroup/dlqmc-project](https://github.com/noegroup/dlqmc-project) - 
@@ -862,6 +864,7 @@
 
 ## Python 
 
+- [RobertTLange/mle-logging](https://github.com/RobertTLange/mle-logging) - Lightweight Machine Learning Experiment Logging 📖
 - [wonderworks-software/PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
 - [qiime2/qiime2](https://github.com/qiime2/qiime2) - Official repository for the QIIME 2 framework.
 - [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
