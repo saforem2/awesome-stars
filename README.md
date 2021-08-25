@@ -471,7 +471,6 @@
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
 - [GokuMohandas/MLOps](https://github.com/GokuMohandas/MLOps) - A project-based course on the foundations of MLOps with a focus on intuition and application.
 - [thjashin/mirror-stein-samplers](https://github.com/thjashin/mirror-stein-samplers) - Sampling with Mirrored Stein Operators
-- [chrisculver/WickContractions](https://github.com/chrisculver/WickContractions) - 
 - [learningmatter-mit/Segal](https://github.com/learningmatter-mit/Segal) - 
 - [scottire/fastpages](https://github.com/scottire/fastpages) - 
 - [ro-jefferson/entropy_dnn](https://github.com/ro-jefferson/entropy_dnn) - Code for project on relative entropy in deep neural networks
@@ -864,6 +863,8 @@
 
 ## Python 
 
+- [argonne-lcf/dlSoftwareTests](https://github.com/argonne-lcf/dlSoftwareTests) - Simple tests to verify ML/DL environments on ALCF HPC resources are working correctly.
+- [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 - [RobertTLange/mle-logging](https://github.com/RobertTLange/mle-logging) - Lightweight Machine Learning Experiment Logging 📖
 - [wonderworks-software/PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
 - [qiime2/qiime2](https://github.com/qiime2/qiime2) - Official repository for the QIIME 2 framework.
@@ -883,6 +884,7 @@
 - [Liao-Xu/SFS_py](https://github.com/Liao-Xu/SFS_py) - 
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations =&gt; neural networks in JAX.
 - [poets-ai/elegy](https://github.com/poets-ai/elegy) - Elegy is a framework-agnostic Trainer interface for the Jax ecosystem.
+- [chrisculver/WickContractions](https://github.com/chrisculver/WickContractions) - 
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [percevalw/rich_logger](https://github.com/percevalw/rich_logger) - Table logger using Rich, aimed at Pytorch Lightning logging
 - [facebookresearch/NeuralCompression](https://github.com/facebookresearch/NeuralCompression) - A collection of tools for neural compression enthusiasts.
