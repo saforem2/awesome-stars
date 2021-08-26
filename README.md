@@ -13,6 +13,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Cuda](#cuda)
+  - [Cython](#cython)
   - [Delphi](#delphi)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
@@ -214,6 +215,10 @@
 ## Cuda 
 
 - [SkafteNicki/cuda_expm](https://github.com/SkafteNicki/cuda_expm) - Matrix exponential in cuda for pytorch and tensorflow
+
+## Cython 
+
+- [IntelPython/mkl-service](https://github.com/IntelPython/mkl-service) - Python hooks for Intel(R) Math Kernel Library runtime control settings.
 
 ## Delphi 
 
@@ -698,6 +703,7 @@
 
 ## MATLAB 
 
+- [maestro-project/maestro](https://github.com/maestro-project/maestro) - An analytical cost model evaluating DNN mappings (dataflows and tiling).
 - [wilson-ye-chen/sp-mcmc](https://github.com/wilson-ye-chen/sp-mcmc) - MATLAB code for Stein Point Markov Chain Monte Carlo.
 - [lacerbi/vbmc](https://github.com/lacerbi/vbmc) - Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB
 
@@ -995,7 +1001,6 @@
 - [se2p/pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [ajinkya98/TensorBoard_PyTorch](https://github.com/ajinkya98/TensorBoard_PyTorch) - 
-- [IntelPython/mkl-service](https://github.com/IntelPython/mkl-service) - Python hooks for Intel(R) Math Kernel Library runtime control settings.
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [msu-coinlab/pymoo](https://github.com/msu-coinlab/pymoo) - NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO
