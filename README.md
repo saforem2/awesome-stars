@@ -66,6 +66,7 @@
 
 ## C 
 
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [HDFGroup/hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 - [hpc-io/h5bench](https://github.com/hpc-io/h5bench) - A benchmark suite for measuring HDF5 performance.
 - [hpc-io/vol-async](https://github.com/hpc-io/vol-async) - HDF5 Asynchronous I/O VOL connector that enables asynchronous I/O for HDF5 applications
@@ -191,7 +192,6 @@
 
 - [8lueberry/google-material-color](https://github.com/8lueberry/google-material-color) - Google material color for SASS, LESS, Stylus, CSS, JS, etc
 - [jupyterlab/theme-cookiecutter](https://github.com/jupyterlab/theme-cookiecutter) - A cookiecutter template to help you make new JupyterLab theme extensions
-- [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 - [khanhas/genius-spicetify](https://github.com/khanhas/genius-spicetify) - Fetch lyrics from Genius and Musixmatch right in Spotify desktop client
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
@@ -756,6 +756,7 @@
 
 ## Others 
 
+- [mxmnk/flat-ui-colors](https://github.com/mxmnk/flat-ui-colors) - Clone of Flat UI Colors built with React.
 - [saforem2/awesome-stars](https://github.com/saforem2/awesome-stars) - A curated list of my GitHub stars!
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [gabeclass/introlinux](https://github.com/gabeclass/introlinux) - Intro to the Linux Command Line (PICSciE)
@@ -1636,6 +1637,7 @@
 
 ## Rust 
 
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
@@ -1651,6 +1653,7 @@
 
 ## SCSS 
 
+- [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [iris-hep/iris-hep.github.io-source](https://github.com/iris-hep/iris-hep.github.io-source) - Institute for Research and Innovation in Software for High Energy Physics
