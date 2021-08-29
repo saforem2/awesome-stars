@@ -756,6 +756,7 @@
 
 ## Others 
 
+- [gwisk/gradguide](https://github.com/gwisk/gradguide) - A guide on STEM PhD admissions
 - [mxmnk/flat-ui-colors](https://github.com/mxmnk/flat-ui-colors) - Clone of Flat UI Colors built with React.
 - [saforem2/awesome-stars](https://github.com/saforem2/awesome-stars) - A curated list of my GitHub stars!
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
