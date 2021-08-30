@@ -300,7 +300,7 @@
 - [pymanopt/pymanopt](https://github.com/pymanopt/pymanopt) - Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
 - [keceli/ezHPC](https://github.com/keceli/ezHPC) - Interactive and simplified high-performance computing with Jupyter notebook
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-- [wowchemy/wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [RealOrangeOne/hugo-theme-revealjs](https://github.com/RealOrangeOne/hugo-theme-revealjs) - Use Hugo to build a presentation, powered by RevealJS
 - [machine19/machine19.github.io](https://github.com/machine19/machine19.github.io) - 
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
@@ -695,6 +695,7 @@
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
 - [dsanson/hs.tiling](https://github.com/dsanson/hs.tiling) - Add tiling window management powers to your hammerspoon
 - [leehomyc/Faster-High-Res-Neural-Inpainting](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting) - High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis
 - [facebookarchive/fb.resnet.torch](https://github.com/facebookarchive/fb.resnet.torch) - Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts
@@ -1851,7 +1852,6 @@
 - [saforem2/dotfiles](https://github.com/saforem2/dotfiles) - dotfiles
 - [gibiansky/vim-latex-objects](https://github.com/gibiansky/vim-latex-objects) - Text objects and motions for Latex editing in Vim.
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [MilesCranmer/gso](https://github.com/MilesCranmer/gso) - 🏃  Google StackOverflow in Vim. Copy-pastes the code directly in your script.
