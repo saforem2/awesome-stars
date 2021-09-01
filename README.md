@@ -685,6 +685,11 @@
 
 ## Lua 
 
+- [nvim-telescope/telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim) - 
+- [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim) - FZY style sorter that is compiled
+- [tami5/sql.nvim](https://github.com/tami5/sql.nvim) - SQLite/LuaJIT binding for lua and neovim
+- [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
+- [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua
@@ -878,6 +883,21 @@
 
 ## Python 
 
+- [1313e/CMasher](https://github.com/1313e/CMasher) - Scientific colormaps for making accessible, informative and 'cmashing' plots
+- [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
+- [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
+- [jiffyclub/palettable](https://github.com/jiffyclub/palettable) - Color palettes for Python
+- [almarklein/visvis](https://github.com/almarklein/visvis) - Visvis - the object oriented approach to visualization
+- [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀
+- [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
+- [alopezrivera/mpl_plotter](https://github.com/alopezrivera/mpl_plotter) - Matplotlib based plotting library. Simple and effective.
+- [cmbant/getdist](https://github.com/cmbant/getdist) - MCMC sample analysis, kernel densities, plotting, and GUI
+- [minaskar/zeus](https://github.com/minaskar/zeus) - ⚡️ zeus: Lightning Fast MCMC ⚡️
+- [telegraphic/hickle](https://github.com/telegraphic/hickle) - a HDF5-based python pickle replacement
+- [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
+- [nschloe/termplotlib](https://github.com/nschloe/termplotlib) - :chart_with_upwards_trend: Plotting on the command line
+- [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
+- [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
@@ -1148,7 +1168,6 @@
 - [maxjiang93/ugscnn](https://github.com/maxjiang93/ugscnn) - Spherical CNNs on Unstructured Grids Using Parameterized Differential Operators
 - [hackingmaterials/rocketsled](https://github.com/hackingmaterials/rocketsled) - plug-n-play black box optimizer for high-throughput computing
 - [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
-- [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
 - [bnmnetp/pythonds](https://github.com/bnmnetp/pythonds) - Data Structures package for Problem Solving with Algorithms and Data Structures using Python
 - [jrmcornish/cif](https://github.com/jrmcornish/cif) - PyTorch implementation of Continuously Indexed Flows paper, with many baseline normalising flows
 - [thu-ml/vflow](https://github.com/thu-ml/vflow) - code for "VFlow: More Expressive Generative Flows with Variational Data Augmentation"
@@ -1858,6 +1877,7 @@
 
 ## Vim script 
 
+- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [sainnhe/sonokai](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro
 - [ChristianChiarulli/nvcode-color-schemes.vim](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - A bunch of generated colorschemes (treesitter supported)
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
