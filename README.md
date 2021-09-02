@@ -687,7 +687,7 @@
 
 - [nvim-telescope/telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim) - 
 - [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim) - FZY style sorter that is compiled
-- [tami5/sql.nvim](https://github.com/tami5/sql.nvim) - SQLite/LuaJIT binding for lua and neovim
+- [tami5/sqlite.lua](https://github.com/tami5/sqlite.lua) - SQLite/LuaJIT binding for lua and neovim
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
@@ -869,6 +869,7 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [mattharrison/Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - This repository contains the text for the Tiny Python 3.6 Notebook.
 - [dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes) - Summaries and notes on Deep Learning research papers
 - [cthorey/Machine-Learning-Tutorials](https://github.com/cthorey/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
@@ -1338,7 +1339,7 @@
 - [omry/omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [akandykeller/SelfNormalizingFlows](https://github.com/akandykeller/SelfNormalizingFlows) - 
 - [NVlabs/NVAE](https://github.com/NVlabs/NVAE) - The Official PyTorch Implementation of "NVAE: A Deep Hierarchical Variational Autoencoder" (NeurIPS 2020 spotlight paper)
-- [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook
+- [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [deepmind/jax_verify](https://github.com/deepmind/jax_verify) - Neural network verification in JAX
 - [google/active-learning](https://github.com/google/active-learning) - 
 - [ermongroup/markov-chain-gan](https://github.com/ermongroup/markov-chain-gan) - Code for "Generative Adversarial Training for Markov Chains" (ICLR 2017 Workshop)
@@ -1744,7 +1745,6 @@
 - [JELGT2011/.dotfiles](https://github.com/JELGT2011/.dotfiles) - 
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [kalbhor/thirsty](https://github.com/kalbhor/thirsty) - Reminds you to drink water - on your terminal.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [prezto-inactive-community-fork/prezto](https://github.com/prezto-inactive-community-fork/prezto) - THIS FORK HAS SHUT DOWN – use the original!
 - [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
