@@ -110,6 +110,7 @@
 
 ## C++ 
 
+- [intel/opencl-intercept-layer](https://github.com/intel/opencl-intercept-layer) - Intercept Layer for Debugging and Analyzing OpenCL Applications
 - [khrykin/StrategrDesktop](https://github.com/khrykin/StrategrDesktop) - No-Fuss Time Management App
 - [maxpkatz/atpesc_2021_nvidia_examples](https://github.com/maxpkatz/atpesc_2021_nvidia_examples) - NVIDIA profiling tutorial for ATPESC 2021
 - [ORNL/TASMANIAN](https://github.com/ORNL/TASMANIAN) - The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN
@@ -771,6 +772,7 @@
 
 ## Others 
 
+- [data-apis/consortium-feedback](https://github.com/data-apis/consortium-feedback) - A repository for discussions related and for giving feedback on the Consortium
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [gwisk/gradguide](https://github.com/gwisk/gradguide) - A guide on STEM PhD admissions
 - [mxmnk/flat-ui-colors](https://github.com/mxmnk/flat-ui-colors) - Clone of Flat UI Colors built with React.
@@ -890,6 +892,11 @@
 
 ## Python 
 
+- [ndeutschmann/zunis](https://github.com/ndeutschmann/zunis) - Normalizing flows for neural importance sampling
+- [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
+- [muammar/ml4chem](https://github.com/muammar/ml4chem) - ML4Chem:  Machine Learning for Chemistry and Materials
+- [astropy/astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
+- [data-apis/array-api-tests](https://github.com/data-apis/array-api-tests) - Test suite for the PyData Array APIs standard
 - [LibraryCarpentry/lc-overview](https://github.com/LibraryCarpentry/lc-overview) - Library Carpentry Workshop Overview
 - [1313e/CMasher](https://github.com/1313e/CMasher) - Scientific colormaps for making accessible, informative and 'cmashing' plots
 - [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
@@ -1210,7 +1217,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-403-Stars](https://github.com/iBug/This-Repo-Has-403-Stars) - Yes, it's true :sparkling_heart: This repository has 403 stars.
+- [iBug/This-Repo-Has-404-Stars](https://github.com/iBug/This-Repo-Has-404-Stars) - Yes, it's true :revolving_hearts: This repository has 404 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1248,7 +1255,7 @@
 - [fizisist/LorentzGroupNetwork](https://github.com/fizisist/LorentzGroupNetwork) - Neural network architecture that is fully equivariant with respect to transformations under the Lorentz group, a fundamental symmetry of space and time in physics.
 - [dfm/extending-jax](https://github.com/dfm/extending-jax) - Extending JAX with custom C++ and CUDA code
 - [microsoft/AI](https://github.com/microsoft/AI) - Microsoft AI
-- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
+- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [tchaton/lightning-geometric](https://github.com/tchaton/lightning-geometric) - Integrate pytorch
 - [jonathf/chaospy](https://github.com/jonathf/chaospy) - Chaospy - Toolbox for performing uncertainty quantification.
 - [ColCarroll/ridge_map](https://github.com/ColCarroll/ridge_map) - Ridge plots of ridges
@@ -1876,7 +1883,7 @@
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird and many other pieces of software.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [DonJayamanne/pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - This extension is now maintained in the Microsoft fork.
