@@ -66,6 +66,7 @@
 
 ## C 
 
+- [claudiopica/HiRep](https://github.com/claudiopica/HiRep) - HiRep repository
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [HDFGroup/hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
@@ -110,6 +111,7 @@
 
 ## C++ 
 
+- [JeremyBYU/FastGaussianAccumulator](https://github.com/JeremyBYU/FastGaussianAccumulator) - Performs Gaussian Integration
 - [intel/opencl-intercept-layer](https://github.com/intel/opencl-intercept-layer) - Intercept Layer for Debugging and Analyzing OpenCL Applications
 - [khrykin/StrategrDesktop](https://github.com/khrykin/StrategrDesktop) - No-Fuss Time Management App
 - [maxpkatz/atpesc_2021_nvidia_examples](https://github.com/maxpkatz/atpesc_2021_nvidia_examples) - NVIDIA profiling tutorial for ATPESC 2021
@@ -254,6 +256,7 @@
 
 ## Go 
 
+- [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - Neovim GUI written in Golang, using a Golang qt backend
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - Simple time tracking CLI
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
@@ -469,6 +472,7 @@
 
 ## Jupyter Notebook 
 
+- [matt-graham/continuously-tempered-hmc](https://github.com/matt-graham/continuously-tempered-hmc) - Continuously tempered Hamiltonian Monte Carlo
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - An Introduction to Deep Generative Modeling: Examples
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast and lightweight AutoML library.
 - [Nuclear-Physics-with-Machine-Learning/AI4NP_School](https://github.com/Nuclear-Physics-with-Machine-Learning/AI4NP_School) - Notebooks and saved models for the AI4NP School
@@ -687,6 +691,8 @@
 
 ## Lua 
 
+- [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
+- [nvim-lua/neovim-ui](https://github.com/nvim-lua/neovim-ui) - Vaporware -- nothing to see here
 - [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) - Icon set using nonicons for neovim plugins and settings
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
@@ -893,6 +899,8 @@
 
 ## Python 
 
+- [mauriceweiler/MobiusCNNs](https://github.com/mauriceweiler/MobiusCNNs) - This repository implements and evaluates convolutional networks on the Möbius strip as toy model instantiations of Coordinate Independent Convolutional Networks.
+- [marco-rudolph/differnet](https://github.com/marco-rudolph/differnet) - This is the official repository to the WACV 2021 paper "Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows" by Marco Rudolph, Bastian Wandt and Bodo Rosenhahn.
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [deephyper/tutorials](https://github.com/deephyper/tutorials) - A collection of tutorials for DeepHyper.
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
@@ -1895,6 +1903,7 @@
 
 ## Vim script 
 
+- [GustavoPrietoP/doom-themes.nvim](https://github.com/GustavoPrietoP/doom-themes.nvim) - port of doom-emacs' doom-themes to neovim
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [sainnhe/sonokai](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro
 - [ChristianChiarulli/nvcode-color-schemes.vim](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - A bunch of generated colorschemes (treesitter supported)
