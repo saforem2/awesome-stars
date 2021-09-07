@@ -72,6 +72,7 @@
 - [HDFGroup/hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 - [hpc-io/h5bench](https://github.com/hpc-io/h5bench) - A benchmark suite for measuring HDF5 performance.
 - [hpc-io/vol-async](https://github.com/hpc-io/vol-async) - HDF5 Asynchronous I/O VOL connector that enables asynchronous I/O for HDF5 applications
+- [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
@@ -120,7 +121,6 @@
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [tuplex/tuplex](https://github.com/tuplex/tuplex) - Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set.
-- [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
 - [google/ml-metadata](https://github.com/google/ml-metadata) - For recording and retrieving metadata associated with ML developer and data scientist workflows.
 - [ComputationalRadiationPhysics/picongpu](https://github.com/ComputationalRadiationPhysics/picongpu) - Particle-in-Cell Simulations for the Exascale Era :sparkles:
 - [jeffhammond/HPCInfo](https://github.com/jeffhammond/HPCInfo) - Information about many aspects of high-performance computing.  Wiki content moved to ~/docs.
@@ -1229,7 +1229,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-404-Stars](https://github.com/iBug/This-Repo-Has-404-Stars) - Yes, it's true :purple_heart: This repository has 404 stars.
+- [iBug/This-Repo-Has-405-Stars](https://github.com/iBug/This-Repo-Has-405-Stars) - Yes, it's true :revolving_hearts: This repository has 405 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
