@@ -71,7 +71,7 @@
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [HDFGroup/hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 - [hpc-io/h5bench](https://github.com/hpc-io/h5bench) - A benchmark suite for measuring HDF5 performance.
-- [hpc-io/vol-async](https://github.com/hpc-io/vol-async) - HDF5 Asynchronous I/O VOL connector that enables asynchronous I/O for HDF5 applications
+- [hpc-io/vol-async](https://github.com/hpc-io/vol-async) - Enable asynchronous I/O for HDF5 applications
 - [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
@@ -353,7 +353,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
 - [williamFalcon/test-tube](https://github.com/williamFalcon/test-tube) - Python library to easily log experiments and parallelize hyperparameter search for neural networks
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [henrikingo/impress.js](https://github.com/henrikingo/impress.js) - THIS FORK IS CLOSED! All of this work + new development is now upstream at:
 - [henrikingo/impressionist](https://github.com/henrikingo/impressionist) - A Visual 3D editor for creating stunning impress.js presentations
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
@@ -1232,7 +1232,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-405-Stars](https://github.com/iBug/This-Repo-Has-405-Stars) - Yes, it's true :revolving_hearts: This repository has 405 stars.
+- [iBug/This-Repo-Has-407-Stars](https://github.com/iBug/This-Repo-Has-407-Stars) - Yes, it's true :heart: This repository has 407 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
