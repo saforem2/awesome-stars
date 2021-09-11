@@ -473,6 +473,7 @@
 
 ## Jupyter Notebook 
 
+- [pytorch/nestedtensor](https://github.com/pytorch/nestedtensor) - [Prototype] Tools for the concurrent manipulation of variably sized Tensors.
 - [srush/streambook](https://github.com/srush/streambook) - Live Python Notebooks with any Editor
 - [matt-graham/continuously-tempered-hmc](https://github.com/matt-graham/continuously-tempered-hmc) - Continuously tempered Hamiltonian Monte Carlo
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - An Introduction to Deep Generative Modeling: Examples
@@ -531,6 +532,7 @@
 - [mpld3/mpld3](https://github.com/mpld3/mpld3) - D3 Renderings of Matplotlib Graphics
 - [nathanshammah/make-your-code-count](https://github.com/nathanshammah/make-your-code-count) - Create an open-source library in Python for your scientific research.
 - [yobibyte/prettyplots](https://github.com/yobibyte/prettyplots) - Design your own matplotlib stylefile interactively
+- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 - [sayakpaul/Spatial-Transformer-Networks-with-Keras](https://github.com/sayakpaul/Spatial-Transformer-Networks-with-Keras) - This repository provides a Colab Notebook that shows how to use Spatial Transformer Networks inside CNNs in Keras.
 - [Cryoris/notebooks](https://github.com/Cryoris/notebooks) - 
 - [manzilzaheer/DeepSets](https://github.com/manzilzaheer/DeepSets) - 
@@ -902,6 +904,7 @@
 
 ## Python 
 
+- [Snowmass21-software/analysis-example-python](https://github.com/Snowmass21-software/analysis-example-python) - Example analysis with histogramming using only python
 - [mauriceweiler/MobiusCNNs](https://github.com/mauriceweiler/MobiusCNNs) - This repository implements and evaluates convolutional networks on the Möbius strip as toy model instantiations of Coordinate Independent Convolutional Networks.
 - [marco-rudolph/differnet](https://github.com/marco-rudolph/differnet) - This is the official repository to the WACV 2021 paper "Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows" by Marco Rudolph, Bastian Wandt and Bodo Rosenhahn.
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
@@ -1146,7 +1149,6 @@
 - [fablabnbg/inkscape-centerline-trace](https://github.com/fablabnbg/inkscape-centerline-trace) - A bitmap vectorizer that can trace along the centerline of a stroke. The builtin inkscape 'trace bitmap' can only trace edges, thus resulting in double lines for most basic use cases. It uses 'autotrace -centerline' and an optimal threshold to vectorize a pixel image.
 - [tensorforce/tensorforce](https://github.com/tensorforce/tensorforce) - Tensorforce: a TensorFlow library for applied reinforcement learning
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 - [moul/alfred-workflow-gauth](https://github.com/moul/alfred-workflow-gauth) - :key: TOTP - Google Authenticator Workflow for Alfred2 (Two-Factor authentication)
 - [mlech26l/ode-lstms](https://github.com/mlech26l/ode-lstms) - Code repository of the paper Learning Long-Term Dependencies in Irregularly-Sampled Time Series
 - [arturbekasov/nested_dropout_flows](https://github.com/arturbekasov/nested_dropout_flows) - Code for Ordering Dimensions with Nested Dropout Normalizing Flows paper
@@ -1232,7 +1234,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-407-Stars](https://github.com/iBug/This-Repo-Has-407-Stars) - Yes, it's true :heart: This repository has 407 stars.
+- [iBug/This-Repo-Has-408-Stars](https://github.com/iBug/This-Repo-Has-408-Stars) - Yes, it's true :heartbeat: This repository has 408 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
