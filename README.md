@@ -1271,7 +1271,7 @@
 - [fizisist/LorentzGroupNetwork](https://github.com/fizisist/LorentzGroupNetwork) - Neural network architecture that is fully equivariant with respect to transformations under the Lorentz group, a fundamental symmetry of space and time in physics.
 - [dfm/extending-jax](https://github.com/dfm/extending-jax) - Extending JAX with custom C++ and CUDA code
 - [microsoft/AI](https://github.com/microsoft/AI) - Microsoft AI
-- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Graph Neural Network Library for PyTorch
+- [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [tchaton/lightning-geometric](https://github.com/tchaton/lightning-geometric) - Integrate pytorch
 - [jonathf/chaospy](https://github.com/jonathf/chaospy) - Chaospy - Toolbox for performing uncertainty quantification.
 - [ColCarroll/ridge_map](https://github.com/ColCarroll/ridge_map) - Ridge plots of ridges
