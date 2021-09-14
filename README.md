@@ -1379,6 +1379,7 @@
 - [arviz-devs/arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [JaydeepSingh15/Lattice-Gauge-Theory](https://github.com/JaydeepSingh15/Lattice-Gauge-Theory) - Framework for computing Wilson loops in U(1), SU(3) gauge theories
 - [PhIMaL/temporal_normalizing_flows](https://github.com/PhIMaL/temporal_normalizing_flows) - 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [ludwigwinkler/pytorch_ProbabilisticLayers](https://github.com/ludwigwinkler/pytorch_ProbabilisticLayers) - Bayesian Neural Networks with Parallelized Sampling of LogLikelihood
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [nicola-decao/s-vae-pytorch](https://github.com/nicola-decao/s-vae-pytorch) - Pytorch implementation of Hyperspherical Variational Auto-Encoders
@@ -1888,7 +1889,6 @@
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [sadn1ck/draw-and-code](https://github.com/sadn1ck/draw-and-code) - Draw your explanation and write your code without pointlessly switching tabs!
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jupyterlab-contrib/jupyterlab-vim](https://github.com/jupyterlab-contrib/jupyterlab-vim) - :neckbeard: Vim notebook cell bindings for JupyterLab
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
