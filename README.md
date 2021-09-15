@@ -992,7 +992,6 @@
 - [dgilland/pydash](https://github.com/dgilland/pydash) - The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library.
 - [VLL-HD/FrEIA](https://github.com/VLL-HD/FrEIA) - Framework for Easily Invertible Architectures
 - [deepqmc/deepqmc](https://github.com/deepqmc/deepqmc) - Deep learning quantum Monte Carlo for electrons in real space
-- [BBloggsbott/ghub](https://github.com/BBloggsbott/ghub) - A Unix like CLI for GitHub
 - [facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
 - [zaccharieramzi/hoag](https://github.com/zaccharieramzi/hoag) - Hyperparameter optimization with approximate gradient - SHINE fork
@@ -1075,7 +1074,7 @@
 - [ajinkya98/TensorBoard_PyTorch](https://github.com/ajinkya98/TensorBoard_PyTorch) - 
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
-- [msu-coinlab/pymoo](https://github.com/msu-coinlab/pymoo) - NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO
+- [anyoptimization/pymoo](https://github.com/anyoptimization/pymoo) - NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO
 - [facebookresearch/taskmodularnets](https://github.com/facebookresearch/taskmodularnets) - A set of neural network modules, which are small fully connected layers operating in semantic concept space. These modules are configured through a gating function conditioned on the task to produce features representing the compatibility between the input image and the concept under consideration.
 - [uvipen/Lego-generator](https://github.com/uvipen/Lego-generator) - 
 - [IntelAI/models](https://github.com/IntelAI/models) - Model Zoo for Intel® Architecture: contains Intel optimizations for running deep learning workloads on Intel® Xeon® Scalable processors
@@ -1252,7 +1251,7 @@
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
 - [textext/textext](https://github.com/textext/textext) - Re-editable LaTeX graphics for Inkscape
-- [PyTorchLightning/lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
+- [PyTorchLightning/lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [neulab/ReviewAdvisor](https://github.com/neulab/ReviewAdvisor) - Heavy Workload on Reviewing Papers?  ReviewAdvisor Helps out
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [lucidrains/lie-transformer-pytorch](https://github.com/lucidrains/lie-transformer-pytorch) - Implementation of Lie Transformer, Equivariant Self-Attention, in Pytorch
@@ -1292,6 +1291,7 @@
 - [ku2482/rljax](https://github.com/ku2482/rljax) - A collection of RL algorithms written in JAX.
 - [mariogeiger/se3cnn](https://github.com/mariogeiger/se3cnn) - Euclidean Neural Networks
 - [deepmind/optax](https://github.com/deepmind/optax) - Optax is a gradient processing and optimization library for JAX.
+- [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :)
 - [jmoy/plotdf](https://github.com/jmoy/plotdf) - Python package to plot phase portraits of 2D differential equations.
 - [cuemacro/chartpy](https://github.com/cuemacro/chartpy) - Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more
 - [madisonmay/BlackWidow](https://github.com/madisonmay/BlackWidow) - Visualizing Python Project Import Graphs
@@ -1757,7 +1757,6 @@
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [richin13/dotfiles](https://github.com/richin13/dotfiles) - My dotfiles. Neovim + Zsh + Tmux optimized for python & React development
-- [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :)
 - [RescueTime/git-commits-to-rescuetime-daily-highlights](https://github.com/RescueTime/git-commits-to-rescuetime-daily-highlights) - An example script to show how to log code commits as Daily Highlights in RescueTime
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
