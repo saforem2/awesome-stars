@@ -473,6 +473,7 @@
 
 ## Jupyter Notebook 
 
+- [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book) - Welcome to the Physics-based Deep Learning Book (v0.1)
 - [pytorch/nestedtensor](https://github.com/pytorch/nestedtensor) - [Prototype] Tools for the concurrent manipulation of variably sized Tensors.
 - [srush/streambook](https://github.com/srush/streambook) - Live Python Notebooks with any Editor
 - [matt-graham/continuously-tempered-hmc](https://github.com/matt-graham/continuously-tempered-hmc) - Continuously tempered Hamiltonian Monte Carlo
@@ -903,6 +904,10 @@
 
 ## Python 
 
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
+- [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
+- [ldeecke/gmm-torch](https://github.com/ldeecke/gmm-torch) - Gaussian mixture models in PyTorch.
+- [lukelbd/proplot](https://github.com/lukelbd/proplot) - 🎨 A powerful matplotlib wrapper for making beautiful, publication-quality graphics
 - [Snowmass21-software/analysis-example-python](https://github.com/Snowmass21-software/analysis-example-python) - Example analysis with histogramming using only python
 - [mauriceweiler/MobiusCNNs](https://github.com/mauriceweiler/MobiusCNNs) - This repository implements and evaluates convolutional networks on the Möbius strip as toy model instantiations of Coordinate Independent Convolutional Networks.
 - [marco-rudolph/differnet](https://github.com/marco-rudolph/differnet) - This is the official repository to the WACV 2021 paper "Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows" by Marco Rudolph, Bastian Wandt and Bodo Rosenhahn.
