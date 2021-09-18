@@ -235,7 +235,6 @@
 
 ## Emacs Lisp 
 
-- [shaunsingh/vimrc-dotfiles](https://github.com/shaunsingh/vimrc-dotfiles) - Dotfiles schoolwork and kotlin, lua, and rust programming
 - [yangsheng6810/org-latex-impatient](https://github.com/yangsheng6810/org-latex-impatient) - Instant Previews LaTeX snippets in Org-mode
 
 ## FORTRAN 
@@ -474,6 +473,7 @@
 
 ## Jupyter Notebook 
 
+- [mlcommons/hpc](https://github.com/mlcommons/hpc) - Reference implementations of MLPerf™ HPC training benchmarks
 - [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book) - Welcome to the Physics-based Deep Learning Book (v0.1)
 - [pytorch/nestedtensor](https://github.com/pytorch/nestedtensor) - [Prototype] Tools for the concurrent manipulation of variably sized Tensors.
 - [srush/streambook](https://github.com/srush/streambook) - Live Python Notebooks with any Editor
@@ -722,6 +722,7 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [NVIDIA/ngc-container-environment-modules](https://github.com/NVIDIA/ngc-container-environment-modules) - Environment modules for NGC containers
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+- [shaunsingh/vimrc-dotfiles](https://github.com/shaunsingh/vimrc-dotfiles) - Dotfiles schoolwork and kotlin, lua, and rust programming
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
@@ -905,13 +906,16 @@
 
 ## Python 
 
+- [philipperemy/keract](https://github.com/philipperemy/keract) - Layers Outputs and Gradients in Keras. Made easy.
+- [rosinality/glow-pytorch](https://github.com/rosinality/glow-pytorch) - PyTorch implementation of Glow
+- [mlcommons/training_policies](https://github.com/mlcommons/training_policies) - Issues related to MLPerf™ training policies, including rules and suggested changes
 - [deeptime-ml/deeptime](https://github.com/deeptime-ml/deeptime) - Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [deepmind/tree](https://github.com/deepmind/tree) - tree is a library for working with nested data structures
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [ldeecke/gmm-torch](https://github.com/ldeecke/gmm-torch) - Gaussian mixture models in PyTorch.
-- [lukelbd/proplot](https://github.com/lukelbd/proplot) - 🎨 A powerful matplotlib wrapper for making beautiful, publication-quality graphics
+- [lukelbd/proplot](https://github.com/lukelbd/proplot) - 🎨 An efficient matplotlib wrapper for making beautiful, publication-quality graphics
 - [Snowmass21-software/analysis-example-python](https://github.com/Snowmass21-software/analysis-example-python) - Example analysis with histogramming using only python
 - [mauriceweiler/MobiusCNNs](https://github.com/mauriceweiler/MobiusCNNs) - This repository implements and evaluates convolutional networks on the Möbius strip as toy model instantiations of Coordinate Independent Convolutional Networks.
 - [marco-rudolph/differnet](https://github.com/marco-rudolph/differnet) - This is the official repository to the WACV 2021 paper "Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows" by Marco Rudolph, Bastian Wandt and Bodo Rosenhahn.
@@ -1241,7 +1245,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-408-Stars](https://github.com/iBug/This-Repo-Has-408-Stars) - Yes, it's true :heart: This repository has 408 stars.
+- [iBug/This-Repo-Has-410-Stars](https://github.com/iBug/This-Repo-Has-410-Stars) - Yes, it's true :orange_heart: This repository has 410 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
