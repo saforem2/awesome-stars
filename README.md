@@ -415,6 +415,7 @@
 
 ## Julia 
 
+- [KristofferC/PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl) - Plots in Julia using the PGFPlots LaTeX package
 - [ITensor/ITensors.jl](https://github.com/ITensor/ITensors.jl) - A Julia library for efficient tensor computations and tensor network calculations
 - [JuliaSymbolics/SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl) - Expression rewriting and simplification
 - [JuliaDocs/Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) - A documentation generator for Julia.
@@ -906,6 +907,7 @@
 
 ## Python 
 
+- [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - Interactive Python object explorer for the terminal
 - [philipperemy/keract](https://github.com/philipperemy/keract) - Layers Outputs and Gradients in Keras. Made easy.
 - [rosinality/glow-pytorch](https://github.com/rosinality/glow-pytorch) - PyTorch implementation of Glow
 - [mlcommons/training_policies](https://github.com/mlcommons/training_policies) - Issues related to MLPerf™ training policies, including rules and suggested changes
@@ -915,7 +917,7 @@
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [ldeecke/gmm-torch](https://github.com/ldeecke/gmm-torch) - Gaussian mixture models in PyTorch.
-- [lukelbd/proplot](https://github.com/lukelbd/proplot) - 🎨 An efficient matplotlib wrapper for making beautiful, publication-quality graphics
+- [lukelbd/proplot](https://github.com/lukelbd/proplot) - 🎨 An economic matplotlib wrapper for making beautiful, publication-quality graphics
 - [Snowmass21-software/analysis-example-python](https://github.com/Snowmass21-software/analysis-example-python) - Example analysis with histogramming using only python
 - [mauriceweiler/MobiusCNNs](https://github.com/mauriceweiler/MobiusCNNs) - This repository implements and evaluates convolutional networks on the Möbius strip as toy model instantiations of Coordinate Independent Convolutional Networks.
 - [marco-rudolph/differnet](https://github.com/marco-rudolph/differnet) - This is the official repository to the WACV 2021 paper "Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows" by Marco Rudolph, Bastian Wandt and Bodo Rosenhahn.
@@ -1245,7 +1247,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-410-Stars](https://github.com/iBug/This-Repo-Has-410-Stars) - Yes, it's true :orange_heart: This repository has 410 stars.
+- [iBug/This-Repo-Has-416-Stars](https://github.com/iBug/This-Repo-Has-416-Stars) - Yes, it's true :revolving_hearts: This repository has 416 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
