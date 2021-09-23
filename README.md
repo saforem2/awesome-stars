@@ -257,6 +257,7 @@
 
 ## Go 
 
+- [msoedov/hacker-slides](https://github.com/msoedov/hacker-slides) - A small UI for building presentation slides from markdown markup
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - Neovim GUI written in Golang, using a Golang qt backend
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - Simple time tracking CLI
@@ -351,7 +352,6 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [benborgers/driver](https://github.com/benborgers/driver) - 🏎 A quick and simple API for reading Google Drive and Google Docs.
 - [benborgers/potion](https://github.com/benborgers/potion) - 🧪 Reverse-engineered Notion API.
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — a super-easy way to record, search and compare 1000s of ML training runs
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
 - [williamFalcon/test-tube](https://github.com/williamFalcon/test-tube) - Python library to easily log experiments and parallelize hyperparameter search for neural networks
@@ -912,6 +912,7 @@
 
 ## Python 
 
+- [kevinzakka/densenet](https://github.com/kevinzakka/densenet) - A PyTorch Implementation of "Densely Connected Convolutional Networks"
 - [azrael417/mlperf-deepcam](https://github.com/azrael417/mlperf-deepcam) - This is the public repo for the MLPerf DeepCAM climate data segmentation proposal.
 - [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - Interactive Python object explorer for the terminal
 - [philipperemy/keract](https://github.com/philipperemy/keract) - Layers Outputs and Gradients in Keras. Made easy.
@@ -1253,7 +1254,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-417-Stars](https://github.com/iBug/This-Repo-Has-417-Stars) - Yes, it's true :gift_heart: This repository has 417 stars.
+- [iBug/This-Repo-Has-416-Stars](https://github.com/iBug/This-Repo-Has-416-Stars) - Yes, it's true :heartbeat: This repository has 416 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1893,6 +1894,7 @@
 - [voldikss/coc-floaterm](https://github.com/voldikss/coc-floaterm) - CocList and CocCommand support for vim-floaterm
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [IgorSzyporyn/badger-ui](https://github.com/IgorSzyporyn/badger-ui) - Badger UI is a theming tool for creating theme design systems
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — a super-easy way to record, search and compare 1000s of ML training runs
 - [functionland/photos](https://github.com/functionland/photos) - This is a gallery app based on react native+typescript that gives you the same smoothness and features of Google Photos or Apple Photos, but it's free and open source! It connects to decentralized backends like "box" (a new form factor),  IPFS, Filecoin, or even any centralized cloud service provider like AWS, Azure or your own server.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
