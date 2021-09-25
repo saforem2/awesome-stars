@@ -998,7 +998,7 @@
 - [Lyncs-API/lyncs](https://github.com/Lyncs-API/lyncs) - A python API for Lattice QCD applications
 - [nschloe/fontman](https://github.com/nschloe/fontman) - Manage and update your installed fonts.
 - [nschloe/dufte](https://github.com/nschloe/dufte) - :chart_with_upwards_trend: Minimalistic Matplotlib style
-- [datapane/datapane](https://github.com/datapane/datapane) - Datapane makes it simple to build shareable reports from Python.
+- [datapane/datapane](https://github.com/datapane/datapane) - Datapane is the easiest way to create data science reports from Python.
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
 - [intake/xrviz](https://github.com/intake/xrviz) - Interactive visualisation interface for Xarrays
 - [gbup-group/EAN-efficient-attention-network](https://github.com/gbup-group/EAN-efficient-attention-network) - The implementation of paper ''Efficient Attention Network: Accelerate Attention by Searching Where to Plug''.
@@ -1281,7 +1281,7 @@
 - [csqphy/Python](https://github.com/csqphy/Python) - All Algorithms implemented in Python
 - [Romit-Maulik/Neural_Operator](https://github.com/Romit-Maulik/Neural_Operator) - A neural solution operator for advection-dominated prolems
 - [predictive-analytics-lab/data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Fastest dataset optimization and management for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Easily and manage data for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
 - [agayonlombardo/pores4thought](https://github.com/agayonlombardo/pores4thought) - 
 - [drorlab/gvp](https://github.com/drorlab/gvp) - Geometric Vector Perceptron --- a rotation-equivariant GNN for learning from biomolecular structure
 - [timothygebhard/pytorch-conv4d](https://github.com/timothygebhard/pytorch-conv4d) - Rudimentary Conv4D Layer Implementation for PyTorch
@@ -1710,6 +1710,7 @@
 
 ## Ruby 
 
+- [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [Chris911/iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [gjtorikian/mathematical](https://github.com/gjtorikian/mathematical) - Convert mathematical equations to SVGs, PNGs, or MathML. A general wrapper to Lasem and mtex2MML.
@@ -1906,7 +1907,6 @@
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [egoist/flowkit](https://github.com/egoist/flowkit) - A simple online flow chart editor.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [TermyApp/archive](https://github.com/TermyApp/archive) - A terminal with autocomplete
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [thecodingmachine/workadventure](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
