@@ -338,6 +338,7 @@
 
 ## JavaScript 
 
+- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [maierfelix/poxi](https://github.com/maierfelix/poxi) - A flat pixel art editor
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -721,7 +722,7 @@
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, tmux and Alacritty written in Lua
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - 🌈 Rainbow parentheses for neovim using tree-sitter 🌈
@@ -1281,7 +1282,7 @@
 - [csqphy/Python](https://github.com/csqphy/Python) - All Algorithms implemented in Python
 - [Romit-Maulik/Neural_Operator](https://github.com/Romit-Maulik/Neural_Operator) - A neural solution operator for advection-dominated prolems
 - [predictive-analytics-lab/data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Easily and manage data for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Easily manage data for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
 - [agayonlombardo/pores4thought](https://github.com/agayonlombardo/pores4thought) - 
 - [drorlab/gvp](https://github.com/drorlab/gvp) - Geometric Vector Perceptron --- a rotation-equivariant GNN for learning from biomolecular structure
 - [timothygebhard/pytorch-conv4d](https://github.com/timothygebhard/pytorch-conv4d) - Rudimentary Conv4D Layer Implementation for PyTorch
