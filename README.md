@@ -916,7 +916,7 @@
 
 - [kevinzakka/densenet](https://github.com/kevinzakka/densenet) - A PyTorch Implementation of "Densely Connected Convolutional Networks"
 - [azrael417/mlperf-deepcam](https://github.com/azrael417/mlperf-deepcam) - This is the public repo for the MLPerf DeepCAM climate data segmentation proposal.
-- [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - Interactive Python object explorer for the terminal
+- [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - A terminal UI to inspect and explore Python objects
 - [philipperemy/keract](https://github.com/philipperemy/keract) - Layers Outputs and Gradients in Keras. Made easy.
 - [rosinality/glow-pytorch](https://github.com/rosinality/glow-pytorch) - PyTorch implementation of Glow
 - [mlcommons/training_policies](https://github.com/mlcommons/training_policies) - Issues related to MLPerf™ training policies, including rules and suggested changes
