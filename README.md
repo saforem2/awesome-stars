@@ -704,6 +704,7 @@
 
 ## Lua 
 
+- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰
 - [rafamadriz/NeoCode](https://github.com/rafamadriz/NeoCode) - 
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
@@ -1282,7 +1283,7 @@
 - [csqphy/Python](https://github.com/csqphy/Python) - All Algorithms implemented in Python
 - [Romit-Maulik/Neural_Operator](https://github.com/Romit-Maulik/Neural_Operator) - A neural solution operator for advection-dominated prolems
 - [predictive-analytics-lab/data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Easily manage data for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Easily build and manage datasets for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
 - [agayonlombardo/pores4thought](https://github.com/agayonlombardo/pores4thought) - 
 - [drorlab/gvp](https://github.com/drorlab/gvp) - Geometric Vector Perceptron --- a rotation-equivariant GNN for learning from biomolecular structure
 - [timothygebhard/pytorch-conv4d](https://github.com/timothygebhard/pytorch-conv4d) - Rudimentary Conv4D Layer Implementation for PyTorch
