@@ -958,7 +958,7 @@
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 Python's most reliable framework for browser automation and testing. 🐉
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 Python's most reliable framework for browser automation and testing.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
@@ -1257,7 +1257,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-416-Stars](https://github.com/iBug/This-Repo-Has-416-Stars) - Yes, it's true :sparkling_heart: This repository has 416 stars.
+- [iBug/This-Repo-Has-416-Stars](https://github.com/iBug/This-Repo-Has-416-Stars) - Yes, it's true :purple_heart: This repository has 416 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1651,7 +1651,7 @@
 - [nshettell/SimuViz](https://github.com/nshettell/SimuViz) - A repository with the necessary tools to Visualize different Physical Simulations.
 - [MelkoCollective/perimeter-qmc](https://github.com/MelkoCollective/perimeter-qmc) - My Master Thesis at Perimeter Institute
 - [sylvialee12/SelfLearning-MonteCarlo](https://github.com/sylvialee12/SelfLearning-MonteCarlo) - 
-- [pymc-devs/pymc3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [Samreay/ChainConsumer](https://github.com/Samreay/ChainConsumer) - Corner plots, LaTeX tables and plotting walks.
 - [dgerosa/filltex](https://github.com/dgerosa/filltex) - Automatic queries to ADS and INSPIRE databases to fill LaTex bibliography
 - [bjmorgan/bsym](https://github.com/bjmorgan/bsym) - A Basic Symmetry Module (Python)
