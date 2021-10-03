@@ -561,7 +561,7 @@
 - [hila-chefer/Transformer-Explainability](https://github.com/hila-chefer/Transformer-Explainability) - [CVPR 2021] Official PyTorch implementation for Transformer Interpretability Beyond Attention Visualization, a novel method to visualize classifications by Transformer based networks.
 - [jo-mab/TruncatedMC](https://github.com/jo-mab/TruncatedMC) - Supplementary Material for "Proposing new configurations in Monte Carlo simulations using truncated Markov Chains"
 - [andreas128/SRFlow](https://github.com/andreas128/SRFlow) - Official SRFlow training code: Super-Resolution using Normalizing Flow in PyTorch
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 47 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [MacroAnalyst/Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python
 - [henryiii/level-up-your-python](https://github.com/henryiii/level-up-your-python) - Course over intermediate Python
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
@@ -959,7 +959,7 @@
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ A Python framework for web automation and testing with Selenium and pytest. Includes a dashboard, a test recorder, and JS generators.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
@@ -1588,7 +1588,7 @@
 - [TensorBFS/dTRG](https://github.com/TensorBFS/dTRG) - 
 - [callat-qcd/espressodb](https://github.com/callat-qcd/espressodb) - Science database interface using Django as the content manager.
 - [AustenLamacraft/tfimps](https://github.com/AustenLamacraft/tfimps) - Infinite Matrix Product States in TensorFlow
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
 - [raghakot/keras-vis](https://github.com/raghakot/keras-vis) - Neural network visualization toolkit for keras
 - [li012589/xyzFile2Animation](https://github.com/li012589/xyzFile2Animation) - A small python script to create animation from multiply xyz files
 - [gehring/fax](https://github.com/gehring/fax) - 
@@ -1900,7 +1900,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [IgorSzyporyn/badger-ui](https://github.com/IgorSzyporyn/badger-ui) - Badger UI is a theming tool for creating theme design systems
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — a super-easy way to record, search and compare 1000s of ML training runs
-- [functionland/photos](https://github.com/functionland/photos) - This is a gallery app based on react native+typescript that gives you the same smoothness and features of Google Photos or Apple Photos, but it's free and open source! It connects to decentralized backends like "box" (a new form factor),  IPFS, Filecoin, or even any centralized cloud service provider like AWS, Azure or your own server.
+- [functionland/photos](https://github.com/functionland/photos) - This is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box", "Dfinity", "Filecoin" and "Crust".
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
