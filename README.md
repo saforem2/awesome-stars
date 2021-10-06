@@ -28,6 +28,7 @@
   - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [LLVM](#llvm)
@@ -419,6 +420,10 @@
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
+## Jinja 
+
+- [cfangmeier/matplotboard](https://github.com/cfangmeier/matplotboard) - A utility to generate html dashboards using matplotlib
+
 ## Julia 
 
 - [KristofferC/PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl) - Plots in Julia using the PGFPlots LaTeX package
@@ -487,6 +492,7 @@
 - [pytorch/nestedtensor](https://github.com/pytorch/nestedtensor) - [Prototype] Tools for the concurrent manipulation of variably sized Tensors.
 - [srush/streambook](https://github.com/srush/streambook) - Live Python Notebooks with any Editor
 - [matt-graham/continuously-tempered-hmc](https://github.com/matt-graham/continuously-tempered-hmc) - Continuously tempered Hamiltonian Monte Carlo
+- [deephyper/tutorials](https://github.com/deephyper/tutorials) - A collection of tutorials for DeepHyper.
 - [ndeutschmann/zunis](https://github.com/ndeutschmann/zunis) - Normalizing flows for neural importance sampling
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - An Introduction to Deep Generative Modeling: Examples
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast and lightweight AutoML library.
@@ -544,7 +550,6 @@
 - [mpld3/mpld3](https://github.com/mpld3/mpld3) - D3 Renderings of Matplotlib Graphics
 - [nathanshammah/make-your-code-count](https://github.com/nathanshammah/make-your-code-count) - Create an open-source library in Python for your scientific research.
 - [yobibyte/prettyplots](https://github.com/yobibyte/prettyplots) - Design your own matplotlib stylefile interactively
-- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 - [sayakpaul/Spatial-Transformer-Networks-with-Keras](https://github.com/sayakpaul/Spatial-Transformer-Networks-with-Keras) - This repository provides a Colab Notebook that shows how to use Spatial Transformer Networks inside CNNs in Keras.
 - [Cryoris/notebooks](https://github.com/Cryoris/notebooks) - 
 - [manzilzaheer/DeepSets](https://github.com/manzilzaheer/DeepSets) - 
@@ -936,7 +941,6 @@
 - [mauriceweiler/MobiusCNNs](https://github.com/mauriceweiler/MobiusCNNs) - This repository implements and evaluates convolutional networks on the Möbius strip as toy model instantiations of Coordinate Independent Convolutional Networks.
 - [marco-rudolph/differnet](https://github.com/marco-rudolph/differnet) - This is the official repository to the WACV 2021 paper "Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows" by Marco Rudolph, Bastian Wandt and Bodo Rosenhahn.
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
-- [deephyper/tutorials](https://github.com/deephyper/tutorials) - A collection of tutorials for DeepHyper.
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [muammar/ml4chem](https://github.com/muammar/ml4chem) - ML4Chem:  Machine Learning for Chemistry and Materials
@@ -961,7 +965,7 @@
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ A Python framework for simplifying web automation and E2E testing with Selenium & pytest. Includes a  dashboard, a recorder, and A.I. tools.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ A Python framework for reliable browser automation and testing. ✨ Includes a Dashboard, a Recorder, and code-generation tools. 📊
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
@@ -1174,6 +1178,7 @@
 - [fablabnbg/inkscape-centerline-trace](https://github.com/fablabnbg/inkscape-centerline-trace) - A bitmap vectorizer that can trace along the centerline of a stroke. The builtin inkscape 'trace bitmap' can only trace edges, thus resulting in double lines for most basic use cases. It uses 'autotrace -centerline' and an optimal threshold to vectorize a pixel image.
 - [tensorforce/tensorforce](https://github.com/tensorforce/tensorforce) - Tensorforce: a TensorFlow library for applied reinforcement learning
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 - [moul/alfred-workflow-gauth](https://github.com/moul/alfred-workflow-gauth) - :key: TOTP - Google Authenticator Workflow for Alfred2 (Two-Factor authentication)
 - [mlech26l/ode-lstms](https://github.com/mlech26l/ode-lstms) - Code repository of the paper Learning Long-Term Dependencies in Irregularly-Sampled Time Series
 - [arturbekasov/nested_dropout_flows](https://github.com/arturbekasov/nested_dropout_flows) - Code for Ordering Dimensions with Nested Dropout Normalizing Flows paper
@@ -1259,7 +1264,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-417-Stars](https://github.com/iBug/This-Repo-Has-417-Stars) - Yes, it's true :orange_heart: This repository has 417 stars.
+- [iBug/This-Repo-Has-417-Stars](https://github.com/iBug/This-Repo-Has-417-Stars) - Yes, it's true :two_hearts: This repository has 417 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1336,7 +1341,6 @@
 - [choderalab/gimlet](https://github.com/choderalab/gimlet) - Graph Inference on MoLEcular Topology
 - [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about ML, DL, PyTorch and TensorFlow. Feedback always appreciated :)
 - [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
-- [cfangmeier/matplotboard](https://github.com/cfangmeier/matplotboard) - A utility to generate html dashboards using matplotlib
 - [sliem/ScientificColorschemez](https://github.com/sliem/ScientificColorschemez) - Use the fantastic colorschemes invented by @colorschemez in your matplotlib plots!
 - [cfangmeier/vitex](https://github.com/cfangmeier/vitex) - An unholy conglomeration of vim, evince, and friends for writing LaTeX
 - [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
@@ -1792,7 +1796,7 @@
 - [BrandonRoehl/zsh-clean](https://github.com/BrandonRoehl/zsh-clean) - Minimal customizable ZSH theme
 - [mjrafferty/apollo-zsh-theme](https://github.com/mjrafferty/apollo-zsh-theme) - Heavily customizable, compatible, and fast ZSH theme framework.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [derekprior/dotfiles](https://github.com/derekprior/dotfiles) - Configuration Files
 - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [jjangsangy/MacOS-TensorflowBuilds](https://github.com/jjangsangy/MacOS-TensorflowBuilds) - Optimized tensorflow wheels binaries build for macos
