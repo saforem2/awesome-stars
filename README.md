@@ -965,7 +965,7 @@
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ A Python framework for reliable browser automation and testing. ✨ Includes a Dashboard, a Recorder, and code-generation tools. 📊
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Test any web app with Python. Easy onboarding. Scalable & reliable. Time-saving. ☑️
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
@@ -1852,7 +1852,7 @@
 
 ## TeX 
 
-- [lukeolson/clean-latex-to-arxiv](https://github.com/lukeolson/clean-latex-to-arxiv) - a simple script to assist in making a clean directory to upload to arxiv
+- [lukeolson/parxiv](https://github.com/lukeolson/parxiv) - a simple script to assist in making a clean directory to upload to arxiv
 - [anishathalye/auriga](https://github.com/anishathalye/auriga) - Auriga is a minimalist LaTeX beamer presentation theme 📽
 - [mazhengcn/suggested-notation-for-machine-learning](https://github.com/mazhengcn/suggested-notation-for-machine-learning) - This introduces a suggestion of mathematical notation protocol for machine learning.
 - [kourgeorge/arxiv-style](https://github.com/kourgeorge/arxiv-style) - A Latex style and template for paper preprints (based on NIPS style)
