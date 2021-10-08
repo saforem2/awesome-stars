@@ -67,6 +67,7 @@
 
 ## C 
 
+- [urbach/schwinger](https://github.com/urbach/schwinger) - Hybrid-Monte Carlo for the Schwinger model
 - [claudiopica/HiRep](https://github.com/claudiopica/HiRep) - HiRep repository
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -923,6 +924,8 @@
 
 ## Python 
 
+- [deepmind/xmanager](https://github.com/deepmind/xmanager) - 
+- [amorehead/Equivariant-GNNs](https://github.com/amorehead/Equivariant-GNNs) - An environment for running experiments with equivariant GNN architectures
 - [takluyver/flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules
 - [kevinzakka/densenet](https://github.com/kevinzakka/densenet) - A PyTorch Implementation of "Densely Connected Convolutional Networks"
 - [azrael417/mlperf-deepcam](https://github.com/azrael417/mlperf-deepcam) - This is the public repo for the MLPerf DeepCAM climate data segmentation proposal.
