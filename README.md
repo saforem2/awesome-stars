@@ -239,6 +239,7 @@
 
 ## Emacs Lisp 
 
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [yangsheng6810/org-latex-impatient](https://github.com/yangsheng6810/org-latex-impatient) - Instant Previews LaTeX snippets in Org-mode
 
 ## FORTRAN 
@@ -374,7 +375,7 @@
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [chi-feng/mcmc-demo](https://github.com/chi-feng/mcmc-demo) - Interactive Markov-chain Monte Carlo Javascript demos
-- [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - Generate a beautiful GitHub activity graph.
+- [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits
 - [techsyndicate/starhub](https://github.com/techsyndicate/starhub) - StarHub - A chrome extension that tracks your GitHub stars so you don't have to.
 - [cassidoo/talks](https://github.com/cassidoo/talks) - Talks at conferences, meetups, hackathons, and more, plus my speaker rider for good measure.
 - [sonnysangha/Resume-Portfolio-Starter-pack](https://github.com/sonnysangha/Resume-Portfolio-Starter-pack) - 
@@ -1268,7 +1269,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-417-Stars](https://github.com/iBug/This-Repo-Has-417-Stars) - Yes, it's true :heartpulse: This repository has 417 stars.
+- [iBug/This-Repo-Has-416-Stars](https://github.com/iBug/This-Repo-Has-416-Stars) - Yes, it's true :yellow_heart: This repository has 416 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1864,7 +1865,6 @@
 - [anishathalye/gemini](https://github.com/anishathalye/gemini) - Gemini is a modern LaTex beamerposter theme 🖼
 - [janosh/tikz](https://github.com/janosh/tikz) - Random collection of standalone TikZ images
 - [joeybose/Hyperbolic-Normalizing-Flows-ICML-2020](https://github.com/joeybose/Hyperbolic-Normalizing-Flows-ICML-2020) - Hyperbolic_NF_latex
-- [shaunsingh/vimrc-dotfiles](https://github.com/shaunsingh/vimrc-dotfiles) - Dotfiles schoolwork and kotlin, lua, and rust programming
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [So-Cool/you-only-write-thrice](https://github.com/So-Cool/you-only-write-thrice) - A companion repository to the "You Only Write Thrice: Creating Documents, Computational Notebooks and Presentations From a Single Source" paper published at Rethinking ML Papers – ICLR 2021 Workshop.
 - [FlamingTempura/bibtex-tidy](https://github.com/FlamingTempura/bibtex-tidy) - Cleaner and Formatter for BibTeX files
