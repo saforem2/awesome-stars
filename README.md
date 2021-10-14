@@ -107,7 +107,7 @@
 
 ## C# # 
 
-- [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
+- [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere WPF, WinForms, Xamarin, Avalonia, WinUI, UWP, MAUI (WIP), Blazor-wasm (WIP)
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [LaTeX-Bibitem-Styler/latex-bibitemstyler](https://github.com/LaTeX-Bibitem-Styler/latex-bibitemstyler) - Automatically exported from code.google.com/p/latex-bibitemstyler
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
@@ -1898,6 +1898,7 @@
 
 ## TypeScript 
 
+- [larslockefeer/obsidian-plugin-todo](https://github.com/larslockefeer/obsidian-plugin-todo) - 
 - [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
