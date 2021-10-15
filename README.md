@@ -197,6 +197,7 @@
 
 ## CSS 
 
+- [ddnexus/equilux-theme](https://github.com/ddnexus/equilux-theme) - A Material Design-like theme for GNOME/GTK+ based desktop environments.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [8lueberry/google-material-color](https://github.com/8lueberry/google-material-color) - Google material color for SASS, LESS, Stylus, CSS, JS, etc
 - [jupyterlab/theme-cookiecutter](https://github.com/jupyterlab/theme-cookiecutter) - A cookiecutter template to help you make new JupyterLab theme extensions
@@ -342,6 +343,7 @@
 
 ## JavaScript 
 
+- [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [maierfelix/poxi](https://github.com/maierfelix/poxi) - A flat pixel art editor
@@ -925,6 +927,9 @@
 
 ## Python 
 
+- [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
+- [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
+- [Orkis-Research/Pytorch-Quaternion-Neural-Networks](https://github.com/Orkis-Research/Pytorch-Quaternion-Neural-Networks) - This repository is an update to all previous repositories with implementations of various Quaternion-valued Neural Networks in PyTorch
 - [pymc-devs/pymc-examples](https://github.com/pymc-devs/pymc-examples) - Examples of PyMC models, including a library of Jupyter notebooks.
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) - 
 - [amorehead/Equivariant-GNNs](https://github.com/amorehead/Equivariant-GNNs) - An environment for running experiments with equivariant GNN architectures
@@ -1269,7 +1274,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-414-Stars](https://github.com/iBug/This-Repo-Has-414-Stars) - Yes, it's true :heart: This repository has 414 stars.
+- [iBug/This-Repo-Has-414-Stars](https://github.com/iBug/This-Repo-Has-414-Stars) - Yes, it's true :two_hearts: This repository has 414 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
