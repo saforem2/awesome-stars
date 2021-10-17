@@ -337,6 +337,7 @@
 
 ## Java 
 
+- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 - [openpixi/openpixi](https://github.com/openpixi/openpixi) - Open Colored Particle-in-Cell (CPIC) simulator
@@ -488,6 +489,7 @@
 
 ## Jupyter Notebook 
 
+- [oschulz/Why-Julia](https://github.com/oschulz/Why-Julia) - Talk motivating using Julia in scientific contexts
 - [znstrider/highlight_text](https://github.com/znstrider/highlight_text) - functions to plot text with &lt;highlighted substrings&gt; in matplotlib.
 - [sparticlesteve/cosmoflow-benchmark](https://github.com/sparticlesteve/cosmoflow-benchmark) - Benchmark implementation of CosmoFlow in TensorFlow Keras
 - [mlcommons/hpc](https://github.com/mlcommons/hpc) - Reference implementations of MLPerf™ HPC training benchmarks
@@ -926,6 +928,9 @@
 
 ## Python 
 
+- [lewoudar/httpcli](https://github.com/lewoudar/httpcli) - A Proof of concept of a modern python CLI with click, pydantic, rich and anyio
+- [ebekkers/gsplinets](https://github.com/ebekkers/gsplinets) - B-Spline CNNs on Lie groups
+- [facebookresearch/torcharrow](https://github.com/facebookresearch/torcharrow) - A torch.Tensor-like DataFrame library supporting multiple execution runtimes and Arrow as a common memory format
 - [nschloe/pygmsh](https://github.com/nschloe/pygmsh) - :spider_web: Gmsh for Python
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
@@ -1604,7 +1609,7 @@
 - [TensorBFS/dTRG](https://github.com/TensorBFS/dTRG) - 
 - [callat-qcd/espressodb](https://github.com/callat-qcd/espressodb) - Science database interface using Django as the content manager.
 - [AustenLamacraft/tfimps](https://github.com/AustenLamacraft/tfimps) - Infinite Matrix Product States in TensorFlow
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [raghakot/keras-vis](https://github.com/raghakot/keras-vis) - Neural network visualization toolkit for keras
 - [li012589/xyzFile2Animation](https://github.com/li012589/xyzFile2Animation) - A small python script to create animation from multiply xyz files
 - [gehring/fax](https://github.com/gehring/fax) - 
@@ -1863,6 +1868,7 @@
 
 ## TeX 
 
+- [rodluger/showyourwork](https://github.com/rodluger/showyourwork) - Fully reproducible, open source scientific articles in LaTeX.
 - [lukeolson/parxiv](https://github.com/lukeolson/parxiv) - a simple script to assist in making a clean directory to upload to arxiv
 - [anishathalye/auriga](https://github.com/anishathalye/auriga) - Auriga is a minimalist LaTeX beamer presentation theme 📽
 - [mazhengcn/suggested-notation-for-machine-learning](https://github.com/mazhengcn/suggested-notation-for-machine-learning) - This introduces a suggestion of mathematical notation protocol for machine learning.
