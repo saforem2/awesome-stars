@@ -551,6 +551,7 @@
 - [FlorianMarquardt/machine-learning-for-physicists](https://github.com/FlorianMarquardt/machine-learning-for-physicists) - Code for "Machine Learning for Physicists 2020" lecture series
 - [je-suis-tm/graph-theory](https://github.com/je-suis-tm/graph-theory) - Julia and Python complex system applications in ecology, epidemiology, sociology, economics & finance; network science models including Bianconi-Barabási, Barabási-Albert, Watts-Strogatz, Waxman Model & Erdős-Rényi; graph theory algorithms involving Gillespie, Bron Kerbosch, Ramsey, Bellman Ford, A*, Kruskal, Borůvka, Prim, Dijkstra, DSatur, Randomized Distributed, Vizing, Topological Sort, DFS, BFS
 - [salihmarangoz/github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert) - Convert notebook (*.ipynb) files using Github Actions automatically after each commit and access HTML outputs with a public URL using Github Pages
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [twitter-research/image-crop-analysis](https://github.com/twitter-research/image-crop-analysis) - Code for reproducing our analysis in the paper titled: Image Cropping on Twitter: Fairness Metrics, their Limitations, and the Importance of Representation, Design, and Agency
 - [g-benton/learning-invariances](https://github.com/g-benton/learning-invariances) - Codebase for Learning Invariances in Neural Networks
 - [haulek/CompPhysics](https://github.com/haulek/CompPhysics) - Computational Physics codes
@@ -935,6 +936,8 @@
 
 ## Python 
 
+- [rw435/wreathProdNet](https://github.com/rw435/wreathProdNet) - 
+- [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
 - [lewoudar/httpcli](https://github.com/lewoudar/httpcli) - A Proof of concept of a modern python CLI with click, pydantic, rich and anyio
 - [ebekkers/gsplinets](https://github.com/ebekkers/gsplinets) - B-Spline CNNs on Lie groups
 - [facebookresearch/torcharrow](https://github.com/facebookresearch/torcharrow) - A torch.Tensor-like DataFrame library supporting multiple execution runtimes and Arrow as a common memory format
@@ -987,7 +990,7 @@
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 🌟 Test any web app with Python. Easy onboarding. Scalable & reliable. Time-saving.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✔️ Fast and reliable end-to-end testing for modern web apps, with Python.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
@@ -1147,7 +1150,6 @@
 - [intake/intake](https://github.com/intake/intake) - Intake is a lightweight package for finding, investigating, loading and disseminating data.
 - [jingli9111/EUNN-tensorflow](https://github.com/jingli9111/EUNN-tensorflow) - Efficient Unitary Neural Network(EUNN) implementation in Tensorflow
 - [Yelp/gprof2dot](https://github.com/Yelp/gprof2dot) - Converts profiling output to a dot graph.
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [wdphy16/neural-cluster-update](https://github.com/wdphy16/neural-cluster-update) - Code for 'Unbiased Monte Carlo Cluster Updates with Autoregressive Neural Networks'.
 - [true3dco/splashgen](https://github.com/true3dco/splashgen) - Rapidly build landing pages in &lt;20 lines of python
@@ -1917,6 +1919,7 @@
 
 ## TypeScript 
 
+- [Dmitriy-Shulha/obsidian-plotly](https://github.com/Dmitriy-Shulha/obsidian-plotly) - Obsidian plugin to embed Plotly charts into markdown notes.
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [larslockefeer/obsidian-plugin-todo](https://github.com/larslockefeer/obsidian-plugin-todo) - 
 - [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables
