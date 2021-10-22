@@ -495,6 +495,7 @@
 
 ## Jupyter Notebook 
 
+- [gpuhackathons-org/gpubootcamp](https://github.com/gpuhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
 - [oschulz/Why-Julia](https://github.com/oschulz/Why-Julia) - Talk motivating using Julia in scientific contexts
 - [znstrider/highlight_text](https://github.com/znstrider/highlight_text) - functions to plot text with &lt;highlighted substrings&gt; in matplotlib.
 - [sparticlesteve/cosmoflow-benchmark](https://github.com/sparticlesteve/cosmoflow-benchmark) - Benchmark implementation of CosmoFlow in TensorFlow Keras
@@ -1289,7 +1290,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-414-Stars](https://github.com/iBug/This-Repo-Has-414-Stars) - Yes, it's true :two_hearts: This repository has 414 stars.
+- [iBug/This-Repo-Has-415-Stars](https://github.com/iBug/This-Repo-Has-415-Stars) - Yes, it's true :revolving_hearts: This repository has 415 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
