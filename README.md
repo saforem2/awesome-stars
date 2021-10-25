@@ -994,7 +994,7 @@
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Fast, easy, and reliable browser testing with Python.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 💡
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
@@ -1005,7 +1005,7 @@
 - [materialsvirtuallab/mlearn](https://github.com/materialsvirtuallab/mlearn) - Benchmark Suite for Machine Learning Interatomic Potentials for Materials
 - [argonne-lcf/dlSoftwareTests](https://github.com/argonne-lcf/dlSoftwareTests) - Simple tests to verify ML/DL environments on ALCF HPC resources are working correctly.
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
-- [RobertTLange/mle-logging](https://github.com/RobertTLange/mle-logging) - Lightweight Machine Learning Experiment Logging 📖
+- [RobertTLange/mle-logging](https://github.com/RobertTLange/mle-logging) - A Lightweight ML Experiment Logging Tool 📖
 - [wonderworks-software/PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
 - [qiime2/qiime2](https://github.com/qiime2/qiime2) - Official repository for the QIIME 2 framework.
 - [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
