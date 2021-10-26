@@ -994,7 +994,7 @@
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 💡
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
@@ -1081,7 +1081,7 @@
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
 - [y0ast/Glow-PyTorch](https://github.com/y0ast/Glow-PyTorch) - Simple, extendable, easy to understand Glow implementation in PyTorch
-- [NeuroDiffGym/neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq) - A light-weight & flexible library for solving differential equations using neural networks based on PyTorch. Spatiotemporal ODEs and PDEs are both supported.
+- [NeuroDiffGym/neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq) - A library for solving differential equations using neural networks based on PyTorch, used by multiple research groups around the world, including at Harvard IACS.
 - [geoopt/geoopt](https://github.com/geoopt/geoopt) - Riemannian Adaptive Optimization Methods with pytorch optim
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
@@ -1293,7 +1293,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-415-Stars](https://github.com/iBug/This-Repo-Has-415-Stars) - Yes, it's true :yellow_heart: This repository has 415 stars.
+- [iBug/This-Repo-Has-416-Stars](https://github.com/iBug/This-Repo-Has-416-Stars) - Yes, it's true :two_hearts: This repository has 416 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1345,7 +1345,7 @@
 - [matthewfeickert/nvidia-gpu-ml-library-test](https://github.com/matthewfeickert/nvidia-gpu-ml-library-test) - Simple tests for JAX, PyTorch, and TensorFlow to test if the installed NVIDIA drivers are being properly picked up
 - [scikit-hep/cookie](https://github.com/scikit-hep/cookie) - Modern Python Package Cookiecutter
 - [facebookresearch/TransCoder](https://github.com/facebookresearch/TransCoder) - Public release of the TransCoder research project https://arxiv.org/pdf/2006.03511.pdf
-- [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project
+- [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
 - [danielalcalde/encap](https://github.com/danielalcalde/encap) - A simple tool to keep track of computational experiments.
 - [leegao/readme2tex](https://github.com/leegao/readme2tex) - Renders TeXy Math for Github Readmes
 - [daft-dev/daft](https://github.com/daft-dev/daft) - Render probabilistic graphical models using matplotlib
@@ -1736,7 +1736,7 @@
 ## R 
 
 - [bonStats/smcdar](https://github.com/bonStats/smcdar) - Data and code to accompany paper "Accelerating sequential Monte Carlo with surrogate likelihoods"
-- [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) code from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficiency and effectivity, explore adstock rates and saturation curves. It's built for granular datasets with many independent variables and therefore especially suitable for digital and direct response advertisers with rich dataset.
+- [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficiency and effectivity, explore adstock rates and saturation curves. It's built for granular datasets with many independent variables and therefore especially suitable for digital and direct response advertisers with rich dataset.
 - [yao-yl/path-tempering](https://github.com/yao-yl/path-tempering) - continuous tempering by path sampling
 - [wxwx1993/PM_COVID](https://github.com/wxwx1993/PM_COVID) - Public Available Code and Data to Reproduce Analyses in "Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis."
 
