@@ -299,6 +299,8 @@
 
 ## HTML 
 
+- [haptork/csaransh](https://github.com/haptork/csaransh) - Study, Explore and Visualize Collision Cascades
+- [rajgoel/reveal.js-demos](https://github.com/rajgoel/reveal.js-demos) - Demo presentations for reveal.js
 - [mavroudisv/plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
 - [zhengying/hungrymark](https://github.com/zhengying/hungrymark) - hungrymark website
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
@@ -819,6 +821,7 @@
 
 ## Others 
 
+- [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
 - [argonne-lcf/ai-science-training-series](https://github.com/argonne-lcf/ai-science-training-series) - 
 - [sparticlesteve/ocp](https://github.com/sparticlesteve/ocp) - https://opencatalystproject.org/
 - [data-apis/consortium-feedback](https://github.com/data-apis/consortium-feedback) - A repository for discussions related and for giving feedback on the Consortium
@@ -1294,7 +1297,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-417-Stars](https://github.com/iBug/This-Repo-Has-417-Stars) - Yes, it's true :orange_heart: This repository has 417 stars.
+- [iBug/This-Repo-Has-418-Stars](https://github.com/iBug/This-Repo-Has-418-Stars) - Yes, it's true :heartpulse: This repository has 418 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1924,6 +1927,7 @@
 
 ## TypeScript 
 
+- [retorquere/zotero-storage-scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [Dmitriy-Shulha/obsidian-plotly](https://github.com/Dmitriy-Shulha/obsidian-plotly) - Obsidian plugin to embed Plotly charts into markdown notes.
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
