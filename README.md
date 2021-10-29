@@ -727,6 +727,7 @@
 
 ## Lua 
 
+- [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [shift-d/nv](https://github.com/shift-d/nv) - 
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - A better way to create key mappings in Neovim.
@@ -822,7 +823,6 @@
 ## Others 
 
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
-- [argonne-lcf/ai-science-training-series](https://github.com/argonne-lcf/ai-science-training-series) - 
 - [sparticlesteve/ocp](https://github.com/sparticlesteve/ocp) - https://opencatalystproject.org/
 - [data-apis/consortium-feedback](https://github.com/data-apis/consortium-feedback) - A repository for discussions related and for giving feedback on the Consortium
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -943,6 +943,8 @@
 
 ## Python 
 
+- [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font) - Nerd Fonts with Cursive Italic Styles
+- [argonne-lcf/ai-science-training-series](https://github.com/argonne-lcf/ai-science-training-series) - 
 - [OATML/non-parametric-transformers](https://github.com/OATML/non-parametric-transformers) - Code for "Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning"
 - [rw435/wreathProdNet](https://github.com/rw435/wreathProdNet) - 
 - [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
@@ -1979,6 +1981,7 @@
 
 ## Vim script 
 
+- [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - Set of operators and textobjects to search/select/edit sandwiched texts.
 - [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
 - [GustavoPrietoP/doom-themes.nvim](https://github.com/GustavoPrietoP/doom-themes.nvim) - port of doom-emacs' doom-themes to neovim
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
