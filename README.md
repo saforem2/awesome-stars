@@ -1986,6 +1986,7 @@
 
 ## Vim script 
 
+- [patstockwell/vim-monokai-tasty](https://github.com/patstockwell/vim-monokai-tasty) - VIM Colour scheme
 - [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - Set of operators and textobjects to search/select/edit sandwiched texts.
 - [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
 - [GustavoPrietoP/doom-themes.nvim](https://github.com/GustavoPrietoP/doom-themes.nvim) - port of doom-emacs' doom-themes to neovim
