@@ -68,6 +68,7 @@
 
 ## C 
 
+- [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [urbach/schwinger](https://github.com/urbach/schwinger) - Hybrid-Monte Carlo for the Schwinger model
 - [claudiopica/HiRep](https://github.com/claudiopica/HiRep) - HiRep repository
@@ -299,6 +300,7 @@
 
 ## HTML 
 
+- [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) - 
 - [dwyl/learn-tachyons](https://github.com/dwyl/learn-tachyons) - :heart_eyes: Learn how to use Tachyons to craft beautiful, responsive and fast UI with functional CSS!
 - [haptork/csaransh](https://github.com/haptork/csaransh) - Study, Explore and Visualize Collision Cascades
 - [rajgoel/reveal.js-demos](https://github.com/rajgoel/reveal.js-demos) - Demo presentations for reveal.js
@@ -500,6 +502,7 @@
 
 ## Jupyter Notebook 
 
+- [argonne-lcf/ai-science-training-series](https://github.com/argonne-lcf/ai-science-training-series) - 
 - [gpuhackathons-org/gpubootcamp](https://github.com/gpuhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
 - [oschulz/Why-Julia](https://github.com/oschulz/Why-Julia) - Talk motivating using Julia in scientific contexts
 - [znstrider/highlight_text](https://github.com/znstrider/highlight_text) - functions to plot text with &lt;highlighted substrings&gt; in matplotlib.
@@ -824,6 +827,7 @@
 
 ## Others 
 
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
 - [sparticlesteve/ocp](https://github.com/sparticlesteve/ocp) - https://opencatalystproject.org/
 - [data-apis/consortium-feedback](https://github.com/data-apis/consortium-feedback) - A repository for discussions related and for giving feedback on the Consortium
@@ -954,7 +958,6 @@
 - [GPflow/GeometricKernels](https://github.com/GPflow/GeometricKernels) - Geometric kernels on manifolds, meshes and graphs
 - [GilesStrong/lumin](https://github.com/GilesStrong/lumin) - LUMIN - a deep learning and data science ecosystem for high-energy physics.
 - [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font) - Nerd Fonts with Cursive Italic Styles
-- [argonne-lcf/ai-science-training-series](https://github.com/argonne-lcf/ai-science-training-series) - 
 - [OATML/non-parametric-transformers](https://github.com/OATML/non-parametric-transformers) - Code for "Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning"
 - [rw435/wreathProdNet](https://github.com/rw435/wreathProdNet) - 
 - [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
@@ -1021,7 +1024,7 @@
 - [materialsvirtuallab/mlearn](https://github.com/materialsvirtuallab/mlearn) - Benchmark Suite for Machine Learning Interatomic Potentials for Materials
 - [argonne-lcf/dlSoftwareTests](https://github.com/argonne-lcf/dlSoftwareTests) - Simple tests to verify ML/DL environments on ALCF HPC resources are working correctly.
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
-- [RobertTLange/mle-logging](https://github.com/RobertTLange/mle-logging) - A Lightweight ML Experiment Logging Tool 📖
+- [mle-infrastructure/mle-logging](https://github.com/mle-infrastructure/mle-logging) - A Lightweight ML Experiment Logging Tool 📖
 - [wonderworks-software/PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
 - [qiime2/qiime2](https://github.com/qiime2/qiime2) - Official repository for the QIIME 2 framework.
 - [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
@@ -1309,7 +1312,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-418-Stars](https://github.com/iBug/This-Repo-Has-418-Stars) - Yes, it's true :orange_heart: This repository has 418 stars.
+- [iBug/This-Repo-Has-420-Stars](https://github.com/iBug/This-Repo-Has-420-Stars) - Yes, it's true :heartpulse: This repository has 420 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1939,6 +1942,7 @@
 
 ## TypeScript 
 
+- [schemar/obsidian-tasks](https://github.com/schemar/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [retorquere/zotero-storage-scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [Dmitriy-Shulha/obsidian-plotly](https://github.com/Dmitriy-Shulha/obsidian-plotly) - Obsidian plugin to embed Plotly charts into markdown notes.
