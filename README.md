@@ -950,6 +950,8 @@
 
 ## Python 
 
+- [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
+- [VincentStimper/resampled-base-flows](https://github.com/VincentStimper/resampled-base-flows) - Normalizing Flows with a resampled base distribution
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
 - [hariharan-devarajan/dlio_benchmark](https://github.com/hariharan-devarajan/dlio_benchmark) - This is repository for a I/O benchmark which represents Scientific Deep Learning Workloads.
 - [zhenghh04/dlio_benchmark](https://github.com/zhenghh04/dlio_benchmark) - This is repository for a I/O benchmark which represents Scientific Deep Learning Workloads.
@@ -1043,7 +1045,7 @@
 - [VincentStimper/hmc-hyperparameter-tuning](https://github.com/VincentStimper/hmc-hyperparameter-tuning) - Framework to tune the hyperparameters of Hamiltonian Monte Carlo in an automated fashion
 - [Liao-Xu/SFS_py](https://github.com/Liao-Xu/SFS_py) - 
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations =&gt; neural networks in JAX.
-- [poets-ai/elegy](https://github.com/poets-ai/elegy) - Elegy is a framework-agnostic Trainer interface for the Jax ecosystem.
+- [poets-ai/elegy](https://github.com/poets-ai/elegy) - A High Level API for Deep Learning in JAX
 - [chrisculver/WickContractions](https://github.com/chrisculver/WickContractions) - 
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [percevalw/rich_logger](https://github.com/percevalw/rich_logger) - Table logger using Rich, aimed at Pytorch Lightning logging
@@ -1313,7 +1315,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-420-Stars](https://github.com/iBug/This-Repo-Has-420-Stars) - Yes, it's true :heartpulse: This repository has 420 stars.
+- [iBug/This-Repo-Has-420-Stars](https://github.com/iBug/This-Repo-Has-420-Stars) - Yes, it's true :heart: This repository has 420 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
