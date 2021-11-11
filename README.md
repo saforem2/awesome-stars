@@ -516,6 +516,7 @@
 - [deephyper/tutorials](https://github.com/deephyper/tutorials) - A collection of tutorials for DeepHyper.
 - [ndeutschmann/zunis](https://github.com/ndeutschmann/zunis) - Normalizing flows for neural importance sampling
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - An Introduction to Deep Generative Modeling: Examples
+- [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast and lightweight AutoML library.
 - [Nuclear-Physics-with-Machine-Learning/AI4NP_School](https://github.com/Nuclear-Physics-with-Machine-Learning/AI4NP_School) - Notebooks and saved models for the AI4NP School
 - [agoose77/literary](https://github.com/agoose77/literary) - Literate Python package development with Jupyter
 - [coreyjadams/CosmicTagger](https://github.com/coreyjadams/CosmicTagger) - Cosmic Tagging Network for Neutrino Physics
@@ -1020,7 +1021,6 @@
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
-- [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast and lightweight AutoML library.
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
 - [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
 - [Kautenja/gym-super-mario-bros](https://github.com/Kautenja/gym-super-mario-bros) - An OpenAI Gym interface to Super Mario Bros. & Super Mario Bros. 2 (Lost Levels) on The NES
