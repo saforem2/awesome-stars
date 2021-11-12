@@ -324,6 +324,7 @@
 - [pymanopt/pymanopt](https://github.com/pymanopt/pymanopt) - Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
 - [keceli/ezHPC](https://github.com/keceli/ezHPC) - Interactive and simplified high-performance computing with Jupyter notebook
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+- [avehtari/BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) - Bayesian Data Analysis course at Aalto
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [RealOrangeOne/hugo-theme-revealjs](https://github.com/RealOrangeOne/hugo-theme-revealjs) - Use Hugo to build a presentation, powered by RevealJS
 - [machine19/machine19.github.io](https://github.com/machine19/machine19.github.io) - 
@@ -1934,7 +1935,6 @@
 - [MilesCranmer/python_citations](https://github.com/MilesCranmer/python_citations) - Bibtex for various Python science and machine learning software
 - [datasciencescoop/Data-Science--Cheat-Sheet](https://github.com/datasciencescoop/Data-Science--Cheat-Sheet) - Cheat Sheets
 - [sagemath/sagetex](https://github.com/sagemath/sagetex) - embed code, results of computations, and plots from the Sage mathematics software suite (https://www.sagemath.org) into LaTeX documents
-- [avehtari/BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) - Bayesian Data Analysis course at Aalto
 - [jxy/hmc_test](https://github.com/jxy/hmc_test) - 
 - [mhjensen/MLFRIB](https://github.com/mhjensen/MLFRIB) - Files for Machine Learning and Artificial Intelligence in Nuclear Physics
 - [saforem2/RESUME](https://github.com/saforem2/RESUME) - My resume
