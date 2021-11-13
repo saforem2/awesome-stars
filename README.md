@@ -910,7 +910,7 @@
 - [MIT-AI-Accelerator/sciml-directory](https://github.com/MIT-AI-Accelerator/sciml-directory) - Scientific Machine Learning team information directory
 - [MIT-AI-Accelerator/sciml-papers](https://github.com/MIT-AI-Accelerator/sciml-papers) - Collection of papers and references for scientific machine learning techniques and applications
 - [ZhihangXu/Scientific-computing-paper](https://github.com/ZhihangXu/Scientific-computing-paper) - 
-- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - ❗️WIP❗️An open access book on scientific visualization using python and matplotlib
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [Thenerdstation/TensorNetsForML](https://github.com/Thenerdstation/TensorNetsForML) - Code for the paper "Tensor Networks for Maching Learning"
 - [refraction-ray/admc](https://github.com/refraction-ray/admc) - Infinite order automatic differentiation for Monte Carlo with unnormalized probability distribution
 - [manjunath5496/Feynman-Lectures](https://github.com/manjunath5496/Feynman-Lectures) - "Physics is like sex: sure, it may give some practical results, but that's not why we do it." ― Richard P. Feynman
@@ -952,6 +952,7 @@
 
 ## Python 
 
+- [adrn/makecite](https://github.com/adrn/makecite) - Generate latex + bibtex citation commands by looking at what packages are imported
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [VincentStimper/resampled-base-flows](https://github.com/VincentStimper/resampled-base-flows) - Normalizing Flows with a resampled base distribution
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
@@ -1316,7 +1317,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-420-Stars](https://github.com/iBug/This-Repo-Has-420-Stars) - Yes, it's true :heart: This repository has 420 stars.
+- [iBug/This-Repo-Has-421-Stars](https://github.com/iBug/This-Repo-Has-421-Stars) - Yes, it's true :two_hearts: This repository has 421 stars.
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1448,7 +1449,6 @@
 - [zhendongli2008/fPEPS](https://github.com/zhendongli2008/fPEPS) - fermionic Projected Entangled Pairs States (fPEPS)
 - [SymJAX/SymJAX](https://github.com/SymJAX/SymJAX) - Documentation:
 - [piomonti/carefl](https://github.com/piomonti/carefl) - Code for "Causal autoregressive flows" - AISTATS, 2021
-- [TaufeqRazakh/Faster-Jacobians-NF](https://github.com/TaufeqRazakh/Faster-Jacobians-NF) - CSCI 586 Project
 - [omry/omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [akandykeller/SelfNormalizingFlows](https://github.com/akandykeller/SelfNormalizingFlows) - 
 - [NVlabs/NVAE](https://github.com/NVlabs/NVAE) - The Official PyTorch Implementation of "NVAE: A Deep Hierarchical Variational Autoencoder" (NeurIPS 2020 spotlight paper)
