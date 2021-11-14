@@ -146,7 +146,6 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [danieljsharpe/DISCOTRESS](https://github.com/danieljsharpe/DISCOTRESS) - 🦜 DISCOTRESS 🦜 is a software package to simulate and analyse the dynamics on arbitrary Markov chains
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
-- [vardigroup/TensorOrder](https://github.com/vardigroup/TensorOrder) - A tool for weighted model counting through tensor network contraction
 - [lawmurray/Birch](https://github.com/lawmurray/Birch) - A probabilistic programming language that combines automatic differentiation, automatic marginalization, and automatic conditioning within Monte Carlo methods.
 - [sid027/progtech2](https://github.com/sid027/progtech2) - Programming Techniques for Scientific Simulation II
 - [argonne-lcf/sycltrain](https://github.com/argonne-lcf/sycltrain) - Training examples for SYCL
@@ -269,6 +268,8 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [msoedov/hacker-slides](https://github.com/msoedov/hacker-slides) - A small UI for building presentation slides from markdown markup
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - Neovim GUI written in Golang, using a Golang qt backend
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -305,6 +306,7 @@
 - [dwyl/learn-tachyons](https://github.com/dwyl/learn-tachyons) - :heart_eyes: Learn how to use Tachyons to craft beautiful, responsive and fast UI with functional CSS!
 - [haptork/csaransh](https://github.com/haptork/csaransh) - Study, Explore and Visualize Collision Cascades
 - [rajgoel/reveal.js-demos](https://github.com/rajgoel/reveal.js-demos) - Demo presentations for reveal.js
+- [pymc-devs/pymc-examples](https://github.com/pymc-devs/pymc-examples) - Examples of PyMC models, including a library of Jupyter notebooks.
 - [mavroudisv/plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
 - [zhengying/hungrymark](https://github.com/zhengying/hungrymark) - hungrymark website
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
@@ -952,6 +954,7 @@
 
 ## Python 
 
+- [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity, but very lite, simply providing the core value proposition of the ability to tag arxiv papers of interest and have the program recommend similar papers.
 - [adrn/makecite](https://github.com/adrn/makecite) - Generate latex + bibtex citation commands by looking at what packages are imported
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [VincentStimper/resampled-base-flows](https://github.com/VincentStimper/resampled-base-flows) - Normalizing Flows with a resampled base distribution
@@ -974,7 +977,6 @@
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
 - [Orkis-Research/Pytorch-Quaternion-Neural-Networks](https://github.com/Orkis-Research/Pytorch-Quaternion-Neural-Networks) - This repository is an update to all previous repositories with implementations of various Quaternion-valued Neural Networks in PyTorch
-- [pymc-devs/pymc-examples](https://github.com/pymc-devs/pymc-examples) - Examples of PyMC models, including a library of Jupyter notebooks.
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) - 
 - [amorehead/Equivariant-GNNs](https://github.com/amorehead/Equivariant-GNNs) - An environment for running experiments with equivariant GNN architectures
 - [takluyver/flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules
@@ -1447,6 +1449,7 @@
 - [IDSIA/sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
 - [automl/NASLib](https://github.com/automl/NASLib) - NASLib is a Neural Architecture Search (NAS) library for facilitating NAS research for the community by providing interfaces to several state-of-the-art NAS search spaces and optimizers.
 - [zhendongli2008/fPEPS](https://github.com/zhendongli2008/fPEPS) - fermionic Projected Entangled Pairs States (fPEPS)
+- [vardigroup/TensorOrder](https://github.com/vardigroup/TensorOrder) - A tool for weighted model counting through tensor network contraction
 - [SymJAX/SymJAX](https://github.com/SymJAX/SymJAX) - Documentation:
 - [piomonti/carefl](https://github.com/piomonti/carefl) - Code for "Causal autoregressive flows" - AISTATS, 2021
 - [omry/omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
