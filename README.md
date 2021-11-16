@@ -483,7 +483,7 @@
 - [USCqserver/OpenQuantumTools.jl](https://github.com/USCqserver/OpenQuantumTools.jl) - Julia toolkit for open quantum system simulation.
 - [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations
 - [JuliaGPU/oneAPI.jl](https://github.com/JuliaGPU/oneAPI.jl) - Julia support for the oneAPI programming toolkit.
-- [akio-tomiya/LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl) - Julia native Lattice QCD code with dynamical fermions in 4 dimension.
+- [akio-tomiya/LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl) - A native Julia code for lattice QCD with dynamical fermions in 4 dimension.
 - [JuliaDiff/FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) - High accuracy derivatives, estimated via numerical finite differences (formerly FDM.jl)
 - [TuringLang/Bijectors.jl](https://github.com/TuringLang/Bijectors.jl) - Implementation of normalising flows and constrained random variable transformations
 - [JuliaReach/ReachabilityAnalysis.jl](https://github.com/JuliaReach/ReachabilityAnalysis.jl) - Methods to compute sets of states reachable by dynamical systems
@@ -913,7 +913,6 @@
 - [MIT-AI-Accelerator/sciml-directory](https://github.com/MIT-AI-Accelerator/sciml-directory) - Scientific Machine Learning team information directory
 - [MIT-AI-Accelerator/sciml-papers](https://github.com/MIT-AI-Accelerator/sciml-papers) - Collection of papers and references for scientific machine learning techniques and applications
 - [ZhihangXu/Scientific-computing-paper](https://github.com/ZhihangXu/Scientific-computing-paper) - 
-- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [Thenerdstation/TensorNetsForML](https://github.com/Thenerdstation/TensorNetsForML) - Code for the paper "Tensor Networks for Maching Learning"
 - [refraction-ray/admc](https://github.com/refraction-ray/admc) - Infinite order automatic differentiation for Monte Carlo with unnormalized probability distribution
 - [manjunath5496/Feynman-Lectures](https://github.com/manjunath5496/Feynman-Lectures) - "Physics is like sex: sure, it may give some practical results, but that's not why we do it." ― Richard P. Feynman
@@ -1605,7 +1604,7 @@
 - [natewong1313/bird-bot](https://github.com/natewong1313/bird-bot) - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
 - [lazyprogrammer/machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
-- [sshane/Konverter](https://github.com/sshane/Konverter) - A tool to convert simple Keras models to pure Python 🐍+ NumPy
+- [sshane/Konverter](https://github.com/sshane/Konverter) - Convert simple Keras models to pure Python 🐍+ NumPy
 - [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk) - "Cyberpunk style" for matplotlib plots
 - [argonne-lcf/DL-Profiling-Examples](https://github.com/argonne-lcf/DL-Profiling-Examples) - Example scripts and profiling demonstrations for deep learning models
 - [amarshah/complex_RNN](https://github.com/amarshah/complex_RNN) - unitary matrix for hidden to hidden layer
@@ -1651,6 +1650,7 @@
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [raghakot/keras-vis](https://github.com/raghakot/keras-vis) - Neural network visualization toolkit for keras
 - [li012589/xyzFile2Animation](https://github.com/li012589/xyzFile2Animation) - A small python script to create animation from multiply xyz files
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [gehring/fax](https://github.com/gehring/fax) - 
 - [gecrooks/quantumflow-dev](https://github.com/gecrooks/quantumflow-dev) - QuantumFlow: A Quantum Algorithms Development Toolkit
 - [JonasLandman/QCNN](https://github.com/JonasLandman/QCNN) - quantum convolutional neural network - simulations
