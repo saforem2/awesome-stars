@@ -39,6 +39,7 @@
   - [Markdown](#markdown)
   - [Mathematica](#mathematica)
   - [Matlab](#matlab)
+  - [Nextflow](#nextflow)
   - [Nim](#nim)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
@@ -529,7 +530,7 @@
 - [noegroup/stochastic_normalizing_flows](https://github.com/noegroup/stochastic_normalizing_flows) - Stochastic Normalizing Flows
 - [noegroup/paper_boltzmann_generators](https://github.com/noegroup/paper_boltzmann_generators) - 
 - [noegroup/bgflow](https://github.com/noegroup/bgflow) - Boltzmann Generators and Normalizing Flows in PyTorch
-- [twitter-research/graph-neural-pde](https://github.com/twitter-research/graph-neural-pde) - Continuous Diffusion Graph Neural Network
+- [twitter-research/graph-neural-pde](https://github.com/twitter-research/graph-neural-pde) - Graph Neural PDEs
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
 - [GokuMohandas/MLOps](https://github.com/GokuMohandas/MLOps) - A project-based course on the foundations of MLOps with a focus on intuition and application.
 - [thjashin/mirror-stein-samplers](https://github.com/thjashin/mirror-stein-samplers) - Sampling with Mirrored Stein Operators
@@ -803,6 +804,10 @@
 
 - [lanzithinking/BayesCOV](https://github.com/lanzithinking/BayesCOV) - Flexible Bayesian Dynamic Modeling of Covariance and Correlation Matrices
 - [Sohl-Dickstein/LAHMC](https://github.com/Sohl-Dickstein/LAHMC) - Look Ahead Hamiltonian Monte Carlo
+
+## Nextflow 
+
+- [nf-core/modules](https://github.com/nf-core/modules) - Repository to host tool-specific module files for the Nextflow DSL2 community!
 
 ## Nim 
 
@@ -1319,7 +1324,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-421-Stars](https://github.com/iBug/This-Repo-Has-421-Stars) - Yes, it's true :two_hearts: This repository has 421 stars.
+- [iBug/This-Repo-Has-421-Stars](https://github.com/iBug/This-Repo-Has-421-Stars) - Yes, it's true :heart: This repository has 421 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
@@ -1761,6 +1766,7 @@
 
 ## R 
 
+- [joonhap/THT_source](https://github.com/joonhap/THT_source) - source files for tempered Hamiltonian transitions
 - [bonStats/smcdar](https://github.com/bonStats/smcdar) - Data and code to accompany paper "Accelerating sequential Monte Carlo with surrogate likelihoods"
 - [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficiency and effectivity, explore adstock rates and saturation curves. It's built for granular datasets with many independent variables and therefore especially suitable for digital and direct response advertisers with rich dataset.
 - [yao-yl/path-tempering](https://github.com/yao-yl/path-tempering) - continuous tempering by path sampling
@@ -1884,7 +1890,7 @@
 - [kaunteya/MacCacheCleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac cache cleaner
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [kmikiy/SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 - [AnaghSharma/Carol](https://github.com/AnaghSharma/Carol) - Carol is a minimal and beautiful lyrics app for macOS built with SwiftUI
