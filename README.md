@@ -743,7 +743,7 @@
 - [shift-d/nv](https://github.com/shift-d/nv) - 
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - A better way to create key mappings in Neovim.
-- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰
+- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Understand code like a boss 🦍.
 - [rafamadriz/NeoCode](https://github.com/rafamadriz/NeoCode) - 
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
@@ -959,6 +959,7 @@
 
 ## Python 
 
+- [Qualcomm-AI-research/gauge-equivariant-mesh-cnn](https://github.com/Qualcomm-AI-research/gauge-equivariant-mesh-cnn) - 
 - [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity, but very lite, simply providing the core value proposition of the ability to tag arxiv papers of interest and have the program recommend similar papers.
 - [adrn/makecite](https://github.com/adrn/makecite) - Generate latex + bibtex citation commands by looking at what packages are imported
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
@@ -1097,7 +1098,7 @@
 - [tacaswell/mpl-gui](https://github.com/tacaswell/mpl-gui) - Prototype for mpl-gui module
 - [mschwager/cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
 - [facebookresearch/pplbench](https://github.com/facebookresearch/pplbench) - Evaluation Framework for Probabilistic Programming Languages
 - [stefanwebb/flowtorch-old](https://github.com/stefanwebb/flowtorch-old) - Separating Normalizing Flows code from Pyro and improving API
@@ -1324,7 +1325,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-420-Stars](https://github.com/iBug/This-Repo-Has-420-Stars) - Yes, it's true :purple_heart: This repository has 420 stars.
+- [iBug/This-Repo-Has-420-Stars](https://github.com/iBug/This-Repo-Has-420-Stars) - Yes, it's true :gift_heart: This repository has 420 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
@@ -1954,6 +1955,8 @@
 
 ## TypeScript 
 
+- [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [schemar/obsidian-tasks](https://github.com/schemar/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [retorquere/zotero-storage-scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
