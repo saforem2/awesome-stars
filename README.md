@@ -450,6 +450,7 @@
 
 ## Julia 
 
+- [chriselrod/AppleAccelerateLinAlgWrapper.jl](https://github.com/chriselrod/AppleAccelerateLinAlgWrapper.jl) - Simple experimental wrapper of small number of Apple Accelerate linear algebra routines using libblastrampoline. Largely used for benchmarking routines using the Apple M1's matrix instructions.
 - [KristofferC/PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl) - Plots in Julia using the PGFPlots LaTeX package
 - [ITensor/ITensors.jl](https://github.com/ITensor/ITensors.jl) - A Julia library for efficient tensor computations and tensor network calculations
 - [JuliaSymbolics/SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl) - Expression rewriting and simplification
@@ -743,7 +744,7 @@
 - [shift-d/nv](https://github.com/shift-d/nv) - 
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - A better way to create key mappings in Neovim.
-- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Understand code like a boss 🦍.
+- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Control codes like a boss 🦍.
 - [rafamadriz/NeoCode](https://github.com/rafamadriz/NeoCode) - 
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
@@ -959,6 +960,7 @@
 
 ## Python 
 
+- [tensorflow/gnn](https://github.com/tensorflow/gnn) - TensorFlow GNN is a library to build Graph Neural Networks on the TensorFlow platform.
 - [google/brain-tokyo-workshop](https://github.com/google/brain-tokyo-workshop) - 🧠🗼
 - [Qualcomm-AI-research/gauge-equivariant-mesh-cnn](https://github.com/Qualcomm-AI-research/gauge-equivariant-mesh-cnn) - 
 - [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity, but very lite, simply providing the core value proposition of the ability to tag arxiv papers of interest and have the program recommend similar papers.
@@ -1327,7 +1329,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-419-Stars](https://github.com/iBug/This-Repo-Has-419-Stars) - Yes, it's true :two_hearts: This repository has 419 stars.
+- [iBug/This-Repo-Has-419-Stars](https://github.com/iBug/This-Repo-Has-419-Stars) - Yes, it's true :orange_heart: This repository has 419 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
