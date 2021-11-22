@@ -398,7 +398,7 @@
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [chi-feng/mcmc-demo](https://github.com/chi-feng/mcmc-demo) - Interactive Markov-chain Monte Carlo Javascript demos
-- [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits
+- [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits.
 - [techsyndicate/starhub](https://github.com/techsyndicate/starhub) - StarHub - A chrome extension that tracks your GitHub stars so you don't have to.
 - [cassidoo/talks](https://github.com/cassidoo/talks) - Talks at conferences, meetups, hackathons, and more, plus my speaker rider for good measure.
 - [sonnysangha/Resume-Portfolio-Starter-pack](https://github.com/sonnysangha/Resume-Portfolio-Starter-pack) - 
@@ -1329,7 +1329,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-419-Stars](https://github.com/iBug/This-Repo-Has-419-Stars) - Yes, it's true :orange_heart: This repository has 419 stars.
+- [iBug/This-Repo-Has-419-Stars](https://github.com/iBug/This-Repo-Has-419-Stars) - Yes, it's true :two_hearts: This repository has 419 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
