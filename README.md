@@ -119,6 +119,7 @@
 
 ## C++ 
 
+- [microsoft/Microsoft-MPI](https://github.com/microsoft/Microsoft-MPI) - Microsoft MPI
 - [JeremyBYU/FastGaussianAccumulator](https://github.com/JeremyBYU/FastGaussianAccumulator) - Performs Gaussian Integration
 - [intel/opencl-intercept-layer](https://github.com/intel/opencl-intercept-layer) - Intercept Layer for Debugging and Analyzing OpenCL Applications
 - [khrykin/StrategrDesktop](https://github.com/khrykin/StrategrDesktop) - No-Fuss Time Management App
@@ -960,11 +961,13 @@
 
 ## Python 
 
+- [marcelah/entropy_adaptive_hmc](https://github.com/marcelah/entropy_adaptive_hmc) - 
+- [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [JamesBrofos/Thresholds-in-Hamiltonian-Monte-Carlo](https://github.com/JamesBrofos/Thresholds-in-Hamiltonian-Monte-Carlo) - An empirical analysis of the effect of the convergence threshold in RMHMC
 - [tensorflow/gnn](https://github.com/tensorflow/gnn) - TensorFlow GNN is a library to build Graph Neural Networks on the TensorFlow platform.
 - [google/brain-tokyo-workshop](https://github.com/google/brain-tokyo-workshop) - 🧠🗼
 - [Qualcomm-AI-research/gauge-equivariant-mesh-cnn](https://github.com/Qualcomm-AI-research/gauge-equivariant-mesh-cnn) - 
-- [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity, but very lite, simply providing the core value proposition of the ability to tag arxiv papers of interest and have the program recommend similar papers.
+- [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite, simply providing the core value proposition of tagging arxiv papers of interest and having the program recommend similar papers in a nice UI using simple SVMs on tfidf feature vectors based on paper abstracts.
 - [adrn/makecite](https://github.com/adrn/makecite) - Generate latex + bibtex citation commands by looking at what packages are imported
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [VincentStimper/resampled-base-flows](https://github.com/VincentStimper/resampled-base-flows) - Normalizing Flows with a resampled base distribution
@@ -1330,7 +1333,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-420-Stars](https://github.com/iBug/This-Repo-Has-420-Stars) - Yes, it's true :heartbeat: This repository has 420 stars.
+- [iBug/This-Repo-Has-421-Stars](https://github.com/iBug/This-Repo-Has-421-Stars) - Yes, it's true :gift_heart: This repository has 421 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
