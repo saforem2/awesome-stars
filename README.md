@@ -871,7 +871,7 @@
 - [kriasoft/Folder-Structure-Conventions](https://github.com/kriasoft/Folder-Structure-Conventions) - Folder / directory structure options and naming conventions for software projects
 - [jason718/awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome self-supervised methods
 - [weihaox/awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering) - A collection of resources on neural rendering.
-- [margaretmz/study-with-sketchnotes](https://github.com/margaretmz/study-with-sketchnotes) - Study with sketchnotes to help me better comprehend & remember what I learned...
+- [margaretmz/study-with-sketchnotes](https://github.com/margaretmz/study-with-sketchnotes) - My sketchnotes of what I learned from talks, papers, books and courses.
 - [lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 - [tirthajyoti/Papers-Literature-ML-DL-RL-AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) - Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning
 - [dwyl/learn-codeclimate](https://github.com/dwyl/learn-codeclimate) - :rainbow: Learn how to use CodeClimate to track the quality of your JavaScript/Node.js code.
@@ -1333,7 +1333,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-421-Stars](https://github.com/iBug/This-Repo-Has-421-Stars) - Yes, it's true :gift_heart: This repository has 421 stars.
+- [iBug/This-Repo-Has-420-Stars](https://github.com/iBug/This-Repo-Has-420-Stars) - Yes, it's true :yellow_heart: This repository has 420 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
