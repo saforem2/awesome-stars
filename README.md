@@ -362,6 +362,7 @@
 
 ## JavaScript 
 
+- [schwamic/klangspektrum](https://github.com/schwamic/klangspektrum) - An insight into the musical tastes of Spotify users 🎶
 - [dwyl/javascript-todo-list-tutorial](https://github.com/dwyl/javascript-todo-list-tutorial) - ✅ A step-by-step complete beginner example/tutorial for building a Todo List App (TodoMVC) from scratch in JavaScript following Test Driven Development (TDD) best practice.  🌱
 - [Toinane/colorpicker](https://github.com/Toinane/colorpicker) - A mininal but complete colorpicker desktop app
 - [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
@@ -1965,6 +1966,7 @@
 
 ## TypeScript 
 
+- [schwamic/klangspektrum2](https://github.com/schwamic/klangspektrum2) - An insight into the musical tastes of Spotify users :notes:
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
