@@ -841,6 +841,7 @@
 
 ## Others 
 
+- [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
 - [sparticlesteve/ocp](https://github.com/sparticlesteve/ocp) - https://opencatalystproject.org/
@@ -968,7 +969,7 @@
 - [tensorflow/gnn](https://github.com/tensorflow/gnn) - TensorFlow GNN is a library to build Graph Neural Networks on the TensorFlow platform.
 - [google/brain-tokyo-workshop](https://github.com/google/brain-tokyo-workshop) - 🧠🗼
 - [Qualcomm-AI-research/gauge-equivariant-mesh-cnn](https://github.com/Qualcomm-AI-research/gauge-equivariant-mesh-cnn) - 
-- [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite, simply providing the core value proposition of tagging arxiv papers of interest and having the program recommend similar papers in a nice UI using simple SVMs on tfidf feature vectors based on paper abstracts.
+- [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.
 - [adrn/makecite](https://github.com/adrn/makecite) - Generate latex + bibtex citation commands by looking at what packages are imported
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [VincentStimper/resampled-base-flows](https://github.com/VincentStimper/resampled-base-flows) - Normalizing Flows with a resampled base distribution
