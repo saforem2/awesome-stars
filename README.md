@@ -355,6 +355,7 @@
 
 ## Java 
 
+- [sylvainhalle/textidote](https://github.com/sylvainhalle/textidote) - Spelling, grammar and style checking on LaTeX documents
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
@@ -362,6 +363,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [schwamic/klangspektrum](https://github.com/schwamic/klangspektrum) - An insight into the musical tastes of Spotify users 🎶
 - [dwyl/javascript-todo-list-tutorial](https://github.com/dwyl/javascript-todo-list-tutorial) - ✅ A step-by-step complete beginner example/tutorial for building a Todo List App (TodoMVC) from scratch in JavaScript following Test Driven Development (TDD) best practice.  🌱
 - [Toinane/colorpicker](https://github.com/Toinane/colorpicker) - A mininal but complete colorpicker desktop app
@@ -389,7 +391,6 @@
 - [henrikingo/impressionist](https://github.com/henrikingo/impressionist) - A Visual 3D editor for creating stunning impress.js presentations
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
-- [khanhas/spotify-release-list](https://github.com/khanhas/spotify-release-list) - 📅 Display list of Spotify releases from artists you follow
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS
 - [dcrousso/GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App
@@ -511,6 +512,8 @@
 
 ## Jupyter Notebook 
 
+- [rocketmlhq/sciml](https://github.com/rocketmlhq/sciml) - Scientific Machine Learning Tutorials
+- [nec-research/tf-imle](https://github.com/nec-research/tf-imle) - Tensorflow implementation and notebooks for Implicit Maximum Likelihood Estimation
 - [GTorlai/NeuralNetworks-for-Quantum](https://github.com/GTorlai/NeuralNetworks-for-Quantum) - Tutorials for the paper: "Neural network in quantum many-body physics: a hands-on tutorial"
 - [argonne-lcf/ai-science-training-series](https://github.com/argonne-lcf/ai-science-training-series) - 
 - [gpuhackathons-org/gpubootcamp](https://github.com/gpuhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
@@ -964,6 +967,7 @@
 
 ## Python 
 
+- [google/ml_collections](https://github.com/google/ml_collections) - ML Collections is a library of Python Collections designed for ML use cases.
 - [dmlc/dlpack](https://github.com/dmlc/dlpack) - common in-memory tensor structure
 - [facebookincubator/flowtorch](https://github.com/facebookincubator/flowtorch) - This library would form a permanent home for reusable components for deep probabilistic programming. The library would form and harness a community of users and contributors by focusing initially on complete infra and documentation for how to use and create components.
 - [marcelah/entropy_adaptive_hmc](https://github.com/marcelah/entropy_adaptive_hmc) - 
@@ -997,7 +1001,7 @@
 - [Orkis-Research/Pytorch-Quaternion-Neural-Networks](https://github.com/Orkis-Research/Pytorch-Quaternion-Neural-Networks) - This repository is an update to all previous repositories with implementations of various Quaternion-valued Neural Networks in PyTorch
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) - 
 - [amorehead/Equivariant-GNNs](https://github.com/amorehead/Equivariant-GNNs) - An environment for running experiments with equivariant GNN architectures
-- [takluyver/flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules
+- [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [kevinzakka/densenet](https://github.com/kevinzakka/densenet) - A PyTorch Implementation of "Densely Connected Convolutional Networks"
 - [azrael417/mlperf-deepcam](https://github.com/azrael417/mlperf-deepcam) - This is the public repo for the MLPerf DeepCAM climate data segmentation proposal.
 - [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - A terminal UI to inspect and explore Python objects
@@ -1337,7 +1341,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-420-Stars](https://github.com/iBug/This-Repo-Has-420-Stars) - Yes, it's true :heart: This repository has 420 stars.
+- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :heartbeat: This repository has 422 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
