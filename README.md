@@ -45,6 +45,7 @@
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
   - [Others](#others)
+  - [Perl](#perl)
   - [Pug](#pug)
   - [Python](#python)
   - [R](#r)
@@ -275,7 +276,7 @@
 - [msoedov/hacker-slides](https://github.com/msoedov/hacker-slides) - A small UI for building presentation slides from markdown markup
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - Neovim GUI written in Golang, using a Golang qt backend
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - Simple time tracking CLI
+- [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - timetrace is a simple CLI for tracking your working time.
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
@@ -304,6 +305,7 @@
 
 ## HTML 
 
+- [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) - 
 - [dwyl/learn-tachyons](https://github.com/dwyl/learn-tachyons) - :heart_eyes: Learn how to use Tachyons to craft beautiful, responsive and fast UI with functional CSS!
 - [haptork/csaransh](https://github.com/haptork/csaransh) - Study, Explore and Visualize Collision Cascades
@@ -960,12 +962,18 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated)
 
+## Perl 
+
+- [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) - LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
+- [latex2html/latex2html](https://github.com/latex2html/latex2html) - Converts LaTeX documents to HTML
+
 ## Pug 
 
 - [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
 
 ## Python 
 
+- [Rupt/which_is_real](https://github.com/Rupt/which_is_real) - Code and data to reproduce content for "A method to challenge symmetries in data with self-supervised learning" https://arxiv.org/abs/2111.05442
 - [google/ml_collections](https://github.com/google/ml_collections) - ML Collections is a library of Python Collections designed for ML use cases.
 - [dmlc/dlpack](https://github.com/dmlc/dlpack) - common in-memory tensor structure
 - [facebookincubator/flowtorch](https://github.com/facebookincubator/flowtorch) - This library would form a permanent home for reusable components for deep probabilistic programming. The library would form and harness a community of users and contributors by focusing initially on complete infra and documentation for how to use and create components.
@@ -1545,7 +1553,7 @@
 - [didriknielsen/survae_flows](https://github.com/didriknielsen/survae_flows) - Code for paper "SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows"
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [rgflowopen/rg-flow](https://github.com/rgflowopen/rg-flow) - Code for RG-Flow: A hierarchical and explainable flow model based on renormalization group and sparse prior.
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [alpha-davidson/TensorBNN](https://github.com/alpha-davidson/TensorBNN) - Full Bayesian inference for neural networks using TensorFlow
 - [hongyehu/RG-Flow](https://github.com/hongyehu/RG-Flow) - This is project page for the paper "RG-Flow: a hierarchical and explainable flow model based on renormalization group and sparse prior". Paper link: https://arxiv.org/abs/2010.00029
 - [ealcobaca/pymfe](https://github.com/ealcobaca/pymfe) - Python Meta-Feature Extractor package.
@@ -1972,6 +1980,7 @@
 
 ## TypeScript 
 
+- [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
 - [schwamic/klangspektrum2](https://github.com/schwamic/klangspektrum2) - An insight into the musical tastes of Spotify users :notes:
