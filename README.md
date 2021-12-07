@@ -152,6 +152,7 @@
 - [lawmurray/Birch](https://github.com/lawmurray/Birch) - A probabilistic programming language that combines automatic differentiation, automatic marginalization, and automatic conditioning within Monte Carlo methods.
 - [sid027/progtech2](https://github.com/sid027/progtech2) - Programming Techniques for Scientific Simulation II
 - [argonne-lcf/sycltrain](https://github.com/argonne-lcf/sycltrain) - Training examples for SYCL
+- [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - NumPy drop-in replacement for Intel(R) XPUs
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [jeffhammond/dpcpp-tutorial](https://github.com/jeffhammond/dpcpp-tutorial) - Intel Data Parallel C++ (and SYCL 2020) Tutorial.
 - [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
@@ -515,6 +516,7 @@
 
 ## Jupyter Notebook 
 
+- [LukasRinder/normalizing-flows](https://github.com/LukasRinder/normalizing-flows) - Implementation of normalizing flows in TensorFlow 2 including a small tutorial.
 - [rocketmlhq/sciml](https://github.com/rocketmlhq/sciml) - Scientific Machine Learning Tutorials
 - [nec-research/tf-imle](https://github.com/nec-research/tf-imle) - Tensorflow implementation and notebooks for Implicit Maximum Likelihood Estimation
 - [GTorlai/NeuralNetworks-for-Quantum](https://github.com/GTorlai/NeuralNetworks-for-Quantum) - Tutorials for the paper: "Neural network in quantum many-body physics: a hands-on tutorial"
@@ -797,6 +799,7 @@
 
 ## Makefile 
 
+- [jceb/mdshow](https://github.com/jceb/mdshow) - Turn markdown files into beautiful presentations quickly
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 - [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 
@@ -847,6 +850,7 @@
 
 ## Others 
 
+- [nimadehmamy/L-conv-code](https://github.com/nimadehmamy/L-conv-code) - Lie Algebra Convolutional Network implementation
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
@@ -1528,7 +1532,6 @@
 - [tsudalab/combo](https://github.com/tsudalab/combo) - COMmon Bayesian Optimization
 - [AlexanderMath/fasth](https://github.com/AlexanderMath/fasth) - Code for the article "What if Neural Networks had SVDs?", to be presented as a spotlight paper at NeurIPS 2020.
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - NumPy drop-in replacement for Intel(R) XPUs
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [exoplanet-dev/pymc3-ext](https://github.com/exoplanet-dev/pymc3-ext) - PyMC3 Extras extracted from the "exoplanet" library
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
