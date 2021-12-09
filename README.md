@@ -1203,7 +1203,7 @@
 - [josefkaufmann/ana_cont](https://github.com/josefkaufmann/ana_cont) - Package for analytic continuation of many-body Green's functions
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [HaohanWang/HFC](https://github.com/HaohanWang/HFC) - Implementation for the paper (CVPR Oral): High Frequency Component Helps Explain the Generalization of Convolutional Neural Networks
-- [lululxvi/deepxde](https://github.com/lululxvi/deepxde) - Deep learning library for solving differential equations and more
+- [lululxvi/deepxde](https://github.com/lululxvi/deepxde) - A library for scientific machine learning
 - [AmanoTeam/LyricsPy](https://github.com/AmanoTeam/LyricsPy) - Python library for searching lyrics on Musixmatch, Genius and letras.mus.br.
 - [hudsonbrendon/python-musixmatch](https://github.com/hudsonbrendon/python-musixmatch) - Simple integrate of API musixmatch.com with python
 - [alexmojaki/heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
@@ -1351,7 +1351,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :purple_heart: This repository has 422 stars.
+- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :revolving_hearts: This repository has 422 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
