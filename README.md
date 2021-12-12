@@ -328,7 +328,6 @@
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
 - [MisaOgura/flashtorch](https://github.com/MisaOgura/flashtorch) - Visualization toolkit for neural networks in PyTorch! Demo --&gt;
 - [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.
-- [pymanopt/pymanopt](https://github.com/pymanopt/pymanopt) - Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
 - [keceli/ezHPC](https://github.com/keceli/ezHPC) - Interactive and simplified high-performance computing with Jupyter notebook
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [avehtari/BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) - Bayesian Data Analysis course at Aalto
@@ -624,7 +623,7 @@
 - [henryiii/compclass](https://github.com/henryiii/compclass) - A class over Computational Physics in Jupyter
 - [tjburch/twitter-studies](https://github.com/tjburch/twitter-studies) - Quick study into my engagements on  twitter
 - [greydanus/mnist1d](https://github.com/greydanus/mnist1d) - A 1D analogue of the MNIST dataset for measuring spatial biases and answering "science of deep learning" questions.
-- [undark-lab/swyft](https://github.com/undark-lab/swyft) - A python package for truncated marginal neural ratio estimation estimation.
+- [undark-lab/swyft](https://github.com/undark-lab/swyft) - Truncated marginal neural ratio estimation estimation with PyTorch.
 - [QMagen/PyQMagen](https://github.com/QMagen/PyQMagen) - A method which combines quantum many-body calculation and unbiased optimizers to automatically learn effective Hamiltonians for quantum magnets
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
@@ -1432,6 +1431,7 @@
 - [sliem/ScientificColorschemez](https://github.com/sliem/ScientificColorschemez) - Use the fantastic colorschemes invented by @colorschemez in your matplotlib plots!
 - [cfangmeier/vitex](https://github.com/cfangmeier/vitex) - An unholy conglomeration of vim, evince, and friends for writing LaTeX
 - [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
+- [pymanopt/pymanopt](https://github.com/pymanopt/pymanopt) - Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
 - [MaginnGroup/PyLAT](https://github.com/MaginnGroup/PyLAT) - 
 - [federicobergamin/Variational-Inference-with-Normalizing-Flows](https://github.com/federicobergamin/Variational-Inference-with-Normalizing-Flows) - Personal implementation of "Variational Inference with Normalizing Flows" by [Rezende, et al., 2015] in PyTorch
 - [Romit-Maulik/PAR-RL](https://github.com/Romit-Maulik/PAR-RL) - Scaling RLLib for generic simulation environments on Theta
@@ -2030,7 +2030,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jupyterlab-contrib/jupyterlab-vim](https://github.com/jupyterlab-contrib/jupyterlab-vim) - :neckbeard: Vim notebook cell bindings for JupyterLab
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [vv-vim/vv](https://github.com/vv-vim/vv) - Neovim client for macOS
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
