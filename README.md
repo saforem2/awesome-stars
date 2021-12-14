@@ -364,6 +364,7 @@
 
 ## JavaScript 
 
+- [riccardoscalco/textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [schwamic/klangspektrum](https://github.com/schwamic/klangspektrum) - An insight into the musical tastes of Spotify users 🎶
 - [dwyl/javascript-todo-list-tutorial](https://github.com/dwyl/javascript-todo-list-tutorial) - ✅ A step-by-step complete beginner example/tutorial for building a Todo List App (TodoMVC) from scratch in JavaScript following Test Driven Development (TDD) best practice.  🌱
@@ -662,7 +663,7 @@
 - [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) - The "Python Machine Learning (3rd edition)" book code repository
 - [jerryxyx/MonteCarlo](https://github.com/jerryxyx/MonteCarlo) - A model free Monte Carlo approach to price and hedge American options equiped with Heston model, OHMC, and LSM
 - [mafda/generative_adversarial_networks_101](https://github.com/mafda/generative_adversarial_networks_101) - Keras implementations of Generative Adversarial Networks. GANs, DCGAN, CGAN, CCGAN, WGAN and LSGAN models with MNIST and CIFAR-10 datasets.
-- [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch based library for all things neural differential equations and implicit neural models.
+- [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods.
 - [nikikilbertus/Sky-MoCa](https://github.com/nikikilbertus/Sky-MoCa) - :coffee: Sky-MoCa :coffee: Skyrmion - Monte Carlo: Simulated annealing for a 3D spin lattice in Julia
 - [fonnesbeck/mcmc_pydata_london_2019](https://github.com/fonnesbeck/mcmc_pydata_london_2019) - PyData London 2019 Tutorial on Markov chain Monte Carlo with PyMC3
 - [nkotelevskii/l2hmc_pytorch](https://github.com/nkotelevskii/l2hmc_pytorch) - PyTorch l2hmc realization
@@ -975,6 +976,9 @@
 
 ## Python 
 
+- [nschloe/betterbib](https://github.com/nschloe/betterbib) - :green_book: Update BibTeX files with info from online resources.
+- [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
+- [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
 - [microsoft/Graphormer](https://github.com/microsoft/Graphormer) - This is the official implementation for "Do Transformers Really Perform Bad for Graph Representation?".
 - [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf) - pure-Python HistFactory implementation with tensors and autodiff
 - [Rupt/which_is_real](https://github.com/Rupt/which_is_real) - Code and data to reproduce content for "A method to challenge symmetries in data with self-supervised learning" https://arxiv.org/abs/2111.05442
