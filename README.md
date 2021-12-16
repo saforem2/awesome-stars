@@ -564,7 +564,6 @@
 - [domitry/matascii](https://github.com/domitry/matascii) - ASCII back-end for matplotlib
 - [Emcc81/NFLMC](https://github.com/Emcc81/NFLMC) - Dynamical sampling with Langevin Normalization Flow
 - [jupyterlite/demo](https://github.com/jupyterlite/demo) - JupyterLite demo deployed to GitHub Pages 🚀
-- [jbusecke/xmovie](https://github.com/jbusecke/xmovie) - A simple way of creating movies from xarray objects
 - [statphysandml/LatticeModelImplementations](https://github.com/statphysandml/LatticeModelImplementations) - Repository that contains implementations and the evaluation for the MCMC simulation of common physical models and update formalisms on a lattice and on a site.
 - [edebrouwer/gru_ode_bayes](https://github.com/edebrouwer/gru_ode_bayes) - Pytorch implementation of GRU-ODE-Bayes
 - [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
@@ -1191,6 +1190,7 @@
 - [nv-legate/cunumeric](https://github.com/nv-legate/cunumeric) - An Aspiring Drop-In Replacement for NumPy at Scale
 - [lspvic/jupyter_tensorboard](https://github.com/lspvic/jupyter_tensorboard) - Start Tensorboard in Jupyter Notebook
 - [t-makaro/animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
+- [jbusecke/xmovie](https://github.com/jbusecke/xmovie) - A simple way of creating movies from xarray objects
 - [xqding/Flows-on-Manifolds](https://github.com/xqding/Flows-on-Manifolds) - Normalizing Flow on Tori
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [se2p/pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
