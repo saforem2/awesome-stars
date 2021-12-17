@@ -532,7 +532,7 @@
 - [deephyper/tutorials](https://github.com/deephyper/tutorials) - A collection of tutorials for DeepHyper.
 - [ndeutschmann/zunis](https://github.com/ndeutschmann/zunis) - Normalizing flows for neural importance sampling
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - An Introduction to Deep Generative Modeling: Examples
-- [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast and lightweight AutoML library.
+- [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning.
 - [Nuclear-Physics-with-Machine-Learning/AI4NP_School](https://github.com/Nuclear-Physics-with-Machine-Learning/AI4NP_School) - Notebooks and saved models for the AI4NP School
 - [agoose77/literary](https://github.com/agoose77/literary) - Literate Python package development with Jupyter
 - [coreyjadams/CosmicTagger](https://github.com/coreyjadams/CosmicTagger) - Cosmic Tagging Network for Neutrino Physics
