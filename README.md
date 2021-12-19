@@ -272,6 +272,7 @@
 
 ## Go 
 
+- [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -289,7 +290,6 @@
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [google/todo-tracks](https://github.com/google/todo-tracks) - Web dashboard for tracking the TODOs in a Git repo
 - [kubeflow/mpi-operator](https://github.com/kubeflow/mpi-operator) - Kubernetes Operator for Allreduce-style Distributed Training
-- [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [zachlatta/pyre](https://github.com/zachlatta/pyre) - tinder cli built at stupid hackathon san francisco 2015
 - [google/grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [kalbhor/MusicRepair](https://github.com/kalbhor/MusicRepair) - Fixes music metadata and adds album art.
@@ -366,6 +366,7 @@
 
 ## JavaScript 
 
+- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [riccardoscalco/textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [schwamic/klangspektrum](https://github.com/schwamic/klangspektrum) - An insight into the musical tastes of Spotify users 🎶
@@ -981,6 +982,10 @@
 
 ## Python 
 
+- [peci1/nvidia-htop](https://github.com/peci1/nvidia-htop) - A tool for enriching the output of nvidia-smi.
+- [dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim) - Interact with Jupyter from NeoVim.
+- [AnweshGangula/PKMigrator](https://github.com/AnweshGangula/PKMigrator) - Tools to migrate between various Personal Knowledge Management Utilities
+- [michael-c-brennan/lazymaps](https://github.com/michael-c-brennan/lazymaps) - Numerical examples from 'Greedy inference with structure-exploiting lazy maps'
 - [nschloe/matplotx](https://github.com/nschloe/matplotx) - :bar_chart: More styles and useful extensions for Matplotlib
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
 - [nschloe/betterbib](https://github.com/nschloe/betterbib) - :green_book: Update BibTeX files with info from online resources.
