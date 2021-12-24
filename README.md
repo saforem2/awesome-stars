@@ -96,7 +96,6 @@
 - [argonne-lcf/alcl](https://github.com/argonne-lcf/alcl) - Argonne Leadership Computing Facility OpenCL tutorial
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [jppbsi/LibDEEP](https://github.com/jppbsi/LibDEEP) - 
-- [PyTables/PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [etmc/tmLQCD](https://github.com/etmc/tmLQCD) - tmLQCD is a freely available software suite providing a set of tools to be used in lattice QCD simulations. This is mainly a HMC implementation (including PHMC and RHMC) for Wilson, Wilson Clover and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.  The code is fully parallelised and ships with optimisations for various modern architectures, such as commodity PC clusters and the Blue Gene family.
 - [ardagnir/athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
 - [milc-qcd/milc_qcd](https://github.com/milc-qcd/milc_qcd) - MILC collaboration code for lattice QCD calculations
@@ -517,6 +516,7 @@
 
 ## Jupyter Notebook 
 
+- [khanhnamle1994/cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
 - [LukasRinder/normalizing-flows](https://github.com/LukasRinder/normalizing-flows) - Implementation of normalizing flows in TensorFlow 2 including a small tutorial.
 - [nimadehmamy/L-conv-code](https://github.com/nimadehmamy/L-conv-code) - Lie Algebra Convolutional Network implementation
 - [rocketmlhq/sciml](https://github.com/rocketmlhq/sciml) - Scientific Machine Learning Tutorials
@@ -981,6 +981,7 @@
 
 ## Python 
 
+- [VincentStimper/normalizing-flows](https://github.com/VincentStimper/normalizing-flows) - PyTorch implementation of normalizing flow models
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [NVIDIA/PyProf](https://github.com/NVIDIA/PyProf) - A GPU performance profiling tool for PyTorch models
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
@@ -1333,7 +1334,7 @@
 - [priyankjaini/discFlowMH](https://github.com/priyankjaini/discFlowMH) - Pytorch code for Sampling in Combinatorial Spaces with SurVAE Flow Augmented MCMC
 - [yukimasano/linear-probes](https://github.com/yukimasano/linear-probes) - Evaluating AlexNet features at various depths
 - [clarken92/DisentanglementMetrics](https://github.com/clarken92/DisentanglementMetrics) - This repository contains the full code for our paper "Theory and evaluation metrics for learning disentangled representations"
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [distdl/distdl](https://github.com/distdl/distdl) - 
 - [maxjiang93/ugscnn](https://github.com/maxjiang93/ugscnn) - Spherical CNNs on Unstructured Grids Using Parameterized Differential Operators
 - [hackingmaterials/rocketsled](https://github.com/hackingmaterials/rocketsled) - plug-n-play black box optimizer for high-throughput computing
@@ -1372,7 +1373,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :yellow_heart: This repository has 422 stars.
+- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :orange_heart: This repository has 422 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
@@ -1689,6 +1690,7 @@
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [ColCarroll/minimc](https://github.com/ColCarroll/minimc) - Just a little MCMC
+- [PyTables/PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [phobson/paramnormal](https://github.com/phobson/paramnormal) - Conventionally parameterized probability distributions
 - [rlouf/mcx](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference on CPU & GPU. Powered by JAX.
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
@@ -1882,6 +1884,7 @@
 
 ## Shell 
 
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
