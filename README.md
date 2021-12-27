@@ -79,7 +79,6 @@
 - [urbach/schwinger](https://github.com/urbach/schwinger) - Hybrid-Monte Carlo for the Schwinger model
 - [claudiopica/HiRep](https://github.com/claudiopica/HiRep) - HiRep repository
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [HDFGroup/hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 - [hpc-io/h5bench](https://github.com/hpc-io/h5bench) - A benchmark suite for measuring HDF5 performance.
 - [hpc-io/vol-async](https://github.com/hpc-io/vol-async) - Enable asynchronous I/O for HDF5 applications
@@ -518,6 +517,8 @@
 
 ## Jupyter Notebook 
 
+- [sscardapane/hydra-tutorial](https://github.com/sscardapane/hydra-tutorial) - Companion code for a tutorial on using Hydra.
+- [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [khanhnamle1994/cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
 - [LukasRinder/normalizing-flows](https://github.com/LukasRinder/normalizing-flows) - Implementation of normalizing flows in TensorFlow 2 including a small tutorial.
 - [nimadehmamy/L-conv-code](https://github.com/nimadehmamy/L-conv-code) - Lie Algebra Convolutional Network implementation
@@ -1375,7 +1376,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :orange_heart: This repository has 422 stars.
+- [iBug/This-Repo-Has-423-Stars](https://github.com/iBug/This-Repo-Has-423-Stars) - Yes, it's true :yellow_heart: This repository has 423 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
