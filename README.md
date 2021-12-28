@@ -204,6 +204,7 @@
 
 ## CSS 
 
+- [drewpotter/resume](https://github.com/drewpotter/resume) - My CV/resume using a free Hugo theme
 - [chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets) - A repo full of my snippets for Obsidian.md. Use them to customize your workspace and/or add to a theme! 🪄
 - [ddnexus/equilux-theme](https://github.com/ddnexus/equilux-theme) - A Material Design-like theme for GNOME/GTK+ based desktop environments.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -366,6 +367,7 @@
 
 ## JavaScript 
 
+- [xriley/Orbit-Theme](https://github.com/xriley/Orbit-Theme) - FREE Bootstrap 5 Resume/CV Template for Developers -
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [riccardoscalco/textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -457,6 +459,7 @@
 
 ## Julia 
 
+- [akio-tomiya/Wilsonloop.jl](https://github.com/akio-tomiya/Wilsonloop.jl) - 
 - [chriselrod/AppleAccelerateLinAlgWrapper.jl](https://github.com/chriselrod/AppleAccelerateLinAlgWrapper.jl) - Simple experimental wrapper of small number of Apple Accelerate linear algebra routines using libblastrampoline. Largely used for benchmarking routines using the Apple M1's matrix instructions.
 - [KristofferC/PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl) - Plots in Julia using the PGFPlots LaTeX package
 - [ITensor/ITensors.jl](https://github.com/ITensor/ITensors.jl) - A Julia library for efficient tensor computations and tensor network calculations
@@ -537,6 +540,7 @@
 - [matt-graham/continuously-tempered-hmc](https://github.com/matt-graham/continuously-tempered-hmc) - Continuously tempered Hamiltonian Monte Carlo
 - [deephyper/tutorials](https://github.com/deephyper/tutorials) - A collection of tutorials for DeepHyper.
 - [ndeutschmann/zunis](https://github.com/ndeutschmann/zunis) - Normalizing flows for neural importance sampling
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - An Introduction to Deep Generative Modeling: Examples
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning.
 - [Nuclear-Physics-with-Machine-Learning/AI4NP_School](https://github.com/Nuclear-Physics-with-Machine-Learning/AI4NP_School) - Notebooks and saved models for the AI4NP School
@@ -1074,7 +1078,6 @@
 - [nschloe/termplotlib](https://github.com/nschloe/termplotlib) - :chart_with_upwards_trend: Plotting on the command line
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
