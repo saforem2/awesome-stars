@@ -153,6 +153,7 @@
 - [lawmurray/Birch](https://github.com/lawmurray/Birch) - A probabilistic programming language that combines automatic differentiation, automatic marginalization, and automatic conditioning within Monte Carlo methods.
 - [sid027/progtech2](https://github.com/sid027/progtech2) - Programming Techniques for Scientific Simulation II
 - [argonne-lcf/sycltrain](https://github.com/argonne-lcf/sycltrain) - Training examples for SYCL
+- [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - NumPy drop-in replacement for Intel(R) XPUs
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [jeffhammond/dpcpp-tutorial](https://github.com/jeffhammond/dpcpp-tutorial) - Intel Data Parallel C++ (and SYCL 2020) Tutorial.
 - [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
@@ -758,6 +759,7 @@
 
 ## Lua 
 
+- [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [shift-d/nv](https://github.com/shift-d/nv) - 
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
@@ -991,7 +993,7 @@
 
 - [andrewcharlesjones/plottify](https://github.com/andrewcharlesjones/plottify) - 
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
-- [delestro/outputformater](https://github.com/delestro/outputformater) - Python library to decorate and beautify strings
+- [delestro/outputformat](https://github.com/delestro/outputformat) - Python library to decorate and beautify strings
 - [VincentStimper/normalizing-flows](https://github.com/VincentStimper/normalizing-flows) - PyTorch implementation of normalizing flow models
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [NVIDIA/PyProf](https://github.com/NVIDIA/PyProf) - A GPU performance profiling tool for PyTorch models
@@ -1565,7 +1567,6 @@
 - [tsudalab/combo](https://github.com/tsudalab/combo) - COMmon Bayesian Optimization
 - [AlexanderMath/fasth](https://github.com/AlexanderMath/fasth) - Code for the article "What if Neural Networks had SVDs?", to be presented as a spotlight paper at NeurIPS 2020.
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - NumPy drop-in replacement for Intel(R) XPUs
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [exoplanet-dev/pymc3-ext](https://github.com/exoplanet-dev/pymc3-ext) - PyMC3 Extras extracted from the "exoplanet" library
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
