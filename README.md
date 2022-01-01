@@ -759,6 +759,7 @@
 
 ## Lua 
 
+- [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [shift-d/nv](https://github.com/shift-d/nv) - 
@@ -1324,7 +1325,7 @@
 - [lucidrains/TimeSformer-pytorch](https://github.com/lucidrains/TimeSformer-pytorch) - Implementation of TimeSformer from Facebook AI, a pure attention-based solution for video classification
 - [astropy/sphinx-automodapi](https://github.com/astropy/sphinx-automodapi) - Sphinx extension for generating API documentation
 - [holoviz/hvplot](https://github.com/holoviz/hvplot) - A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews
-- [agronholm/sphinx-autodoc-typehints](https://github.com/agronholm/sphinx-autodoc-typehints) - Type hints support for the Sphinx autodoc extension
+- [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) - Type hints support for the Sphinx autodoc extension
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [hadimafshar/NoVopHMC](https://github.com/hadimafshar/NoVopHMC) - 
 - [samuelmurail/gromacs_py](https://github.com/samuelmurail/gromacs_py) - Gromacs_py is a python library allowing a simplified use of the gromacs MD simulation software. Gromacs_py can build topologie based on a pdb file, create the simulation system (box, add water and ions) and run minimisation, equilibration and production run.
