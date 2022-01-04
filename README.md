@@ -475,7 +475,7 @@
 - [Roger-luo/PIML](https://github.com/Roger-luo/PIML) - lecture materials of the ML for Physics course 2021 in Perimeter Institute
 - [mschauer/DynamicIterators.jl](https://github.com/mschauer/DynamicIterators.jl) - Iterators with message passing and feedback loops
 - [omlins/ParallelStencil.jl](https://github.com/omlins/ParallelStencil.jl) - Package for writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs
-- [Chenghao-Wu/hPF-MD.jl](https://github.com/Chenghao-Wu/hPF-MD.jl) - hybrid particle-field molecular dynamics (hPF-MD) simulation method
+- [Chenghao-Wu/hPF-MD.jl](https://github.com/Chenghao-Wu/hPF-MD.jl) - Massively parallel hybrid particle-field molecular dynamics (hPF-MD) simulation method in Julia
 - [ZvonimirBandic/IsingGauge](https://github.com/ZvonimirBandic/IsingGauge) - Monte Carlo simulator of d-dimensional Ising Gauge hamiltonian
 - [KristofferC/OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) - Syntax highlighting and other enhancements for the Julia REPL
 - [JuliaPhysics/Lattices.jl](https://github.com/JuliaPhysics/Lattices.jl) - A Lattice Library for Julia
