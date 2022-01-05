@@ -992,7 +992,7 @@
 ## Python 
 
 - [kelvins/steganography](https://github.com/kelvins/steganography) - :see_no_evil: Steganography: Hiding an image inside another
-- [andrewcharlesjones/plottify](https://github.com/andrewcharlesjones/plottify) - 
+- [andrewcharlesjones/plottify](https://github.com/andrewcharlesjones/plottify) - A simple matplotlib wrapper that automatically scales font sizes, scatter point sizes, and line widths to be proportional to figure size.
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [delestro/outputformat](https://github.com/delestro/outputformat) - Python library to decorate and beautify strings
 - [VincentStimper/normalizing-flows](https://github.com/VincentStimper/normalizing-flows) - PyTorch implementation of normalizing flow models
@@ -2089,6 +2089,7 @@
 
 ## Vim script 
 
+- [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 - [patstockwell/vim-monokai-tasty](https://github.com/patstockwell/vim-monokai-tasty) - VIM Colour scheme
 - [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - Set of operators and textobjects to search/select/edit sandwiched texts.
