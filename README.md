@@ -121,6 +121,7 @@
 
 ## C++ 
 
+- [HyTruongSon/GraphFlow](https://github.com/HyTruongSon/GraphFlow) - Deep Learning framework in C++/CUDA that supports symbolic/automatic differentiation, dynamic computation graphs, tensor/matrix operations accelerated by GPU and implementations of various state-of-the-art graph neural networks and other Machine Learning models including Covariant Compositional Networks For Learning Graphs [Risi et al]
 - [microsoft/Microsoft-MPI](https://github.com/microsoft/Microsoft-MPI) - Microsoft MPI
 - [JeremyBYU/FastGaussianAccumulator](https://github.com/JeremyBYU/FastGaussianAccumulator) - Performs Gaussian Integration
 - [intel/opencl-intercept-layer](https://github.com/intel/opencl-intercept-layer) - Intercept Layer for Debugging and Analyzing OpenCL Applications
@@ -475,7 +476,7 @@
 - [Roger-luo/PIML](https://github.com/Roger-luo/PIML) - lecture materials of the ML for Physics course 2021 in Perimeter Institute
 - [mschauer/DynamicIterators.jl](https://github.com/mschauer/DynamicIterators.jl) - Iterators with message passing and feedback loops
 - [omlins/ParallelStencil.jl](https://github.com/omlins/ParallelStencil.jl) - Package for writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs
-- [Chenghao-Wu/hPF-MD.jl](https://github.com/Chenghao-Wu/hPF-MD.jl) - Massively parallel hybrid particle-field molecular dynamics (hPF-MD) simulation method in Julia
+- [Chenghao-Wu/hPFMD.jl](https://github.com/Chenghao-Wu/hPFMD.jl) - Massively parallel hybrid particle-field molecular dynamics (hPF-MD) simulation method in Julia
 - [ZvonimirBandic/IsingGauge](https://github.com/ZvonimirBandic/IsingGauge) - Monte Carlo simulator of d-dimensional Ising Gauge hamiltonian
 - [KristofferC/OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) - Syntax highlighting and other enhancements for the Julia REPL
 - [JuliaPhysics/Lattices.jl](https://github.com/JuliaPhysics/Lattices.jl) - A Lattice Library for Julia
@@ -1224,7 +1225,7 @@
 - [t-makaro/animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 - [jbusecke/xmovie](https://github.com/jbusecke/xmovie) - A simple way of creating movies from xarray objects
 - [xqding/Flows-on-Manifolds](https://github.com/xqding/Flows-on-Manifolds) - Normalizing Flow on Tori
-- [willmcgugan/textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [se2p/pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [ajinkya98/TensorBoard_PyTorch](https://github.com/ajinkya98/TensorBoard_PyTorch) - 
@@ -1569,7 +1570,7 @@
 - [tsudalab/combo](https://github.com/tsudalab/combo) - COMmon Bayesian Optimization
 - [AlexanderMath/fasth](https://github.com/AlexanderMath/fasth) - Code for the article "What if Neural Networks had SVDs?", to be presented as a spotlight paper at NeurIPS 2020.
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [exoplanet-dev/pymc3-ext](https://github.com/exoplanet-dev/pymc3-ext) - PyMC3 Extras extracted from the "exoplanet" library
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [adamerose/PandasGUI](https://github.com/adamerose/PandasGUI) - A GUI for Pandas DataFrames
@@ -1841,6 +1842,7 @@
 
 ## Roff 
 
+- [risilab/Learnable_MMF](https://github.com/risilab/Learnable_MMF) - Learning Multiresolution Matrix Factorization and its Wavelet Networks on Graphs, https://arxiv.org/pdf/2111.01940.pdf.
 - [lanl/McPhD](https://github.com/lanl/McPhD) - A Parallel Haskell framework for particle-based Monte Carlo simulations
 - [WenboGong/MetaSGMCMC](https://github.com/WenboGong/MetaSGMCMC) - The code for Meta Learning for SGMCMC
 
