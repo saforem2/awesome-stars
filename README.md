@@ -476,7 +476,7 @@
 - [Roger-luo/PIML](https://github.com/Roger-luo/PIML) - lecture materials of the ML for Physics course 2021 in Perimeter Institute
 - [mschauer/DynamicIterators.jl](https://github.com/mschauer/DynamicIterators.jl) - Iterators with message passing and feedback loops
 - [omlins/ParallelStencil.jl](https://github.com/omlins/ParallelStencil.jl) - Package for writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs
-- [Chenghao-Wu/hPFMD.jl](https://github.com/Chenghao-Wu/hPFMD.jl) - Massively parallel hybrid particle-field molecular dynamics (hPF-MD) simulation method in Julia
+- [Chenghao-Wu/RobertoMD.jl](https://github.com/Chenghao-Wu/RobertoMD.jl) - Massively parallel hybrid particle-field molecular dynamics (hPF-MD) simulation method in Julia
 - [ZvonimirBandic/IsingGauge](https://github.com/ZvonimirBandic/IsingGauge) - Monte Carlo simulator of d-dimensional Ising Gauge hamiltonian
 - [KristofferC/OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) - Syntax highlighting and other enhancements for the Julia REPL
 - [JuliaPhysics/Lattices.jl](https://github.com/JuliaPhysics/Lattices.jl) - A Lattice Library for Julia
@@ -865,6 +865,7 @@
 
 ## Others 
 
+- [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
 - [jeremysanders/awesome-dataviz](https://github.com/jeremysanders/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
