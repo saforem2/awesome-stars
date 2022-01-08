@@ -993,6 +993,7 @@
 
 ## Python 
 
+- [gregversteeg/esh_dynamics](https://github.com/gregversteeg/esh_dynamics) - Hamiltonian Dynamics with Non-Newtonian Momentum for Rapid Sampling
 - [kelvins/steganography](https://github.com/kelvins/steganography) - :see_no_evil: Steganography: Hiding an image inside another
 - [andrewcharlesjones/plottify](https://github.com/andrewcharlesjones/plottify) - A simple matplotlib wrapper that automatically scales font sizes, scatter point sizes, and line widths to be proportional to figure size.
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
@@ -1390,7 +1391,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-423-Stars](https://github.com/iBug/This-Repo-Has-423-Stars) - Yes, it's true :yellow_heart: This repository has 423 stars.
+- [iBug/This-Repo-Has-424-Stars](https://github.com/iBug/This-Repo-Has-424-Stars) - Yes, it's true :orange_heart: This repository has 424 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
@@ -2027,6 +2028,7 @@
 
 ## TypeScript 
 
+- [jeffersonlicet/snipped](https://github.com/jeffersonlicet/snipped) - 🖥️ 🖼️ Create fancy screenshots of your code without leaving the editor.
 - [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
