@@ -593,6 +593,7 @@
 - [haulek/CompPhysics](https://github.com/haulek/CompPhysics) - Computational Physics codes
 - [ryansmccoy/spreadsheets-to-dataframes](https://github.com/ryansmccoy/spreadsheets-to-dataframes) - Pycon 2021 Tutorial to help Spreadsheet (Excel) Users learn Python
 - [hep-lbdl/OmniFold](https://github.com/hep-lbdl/OmniFold) - 
+- [Open-Catalyst-Project/ocp](https://github.com/Open-Catalyst-Project/ocp) - https://opencatalystproject.org/
 - [mpld3/mpld3](https://github.com/mpld3/mpld3) - D3 Renderings of Matplotlib Graphics
 - [nathanshammah/make-your-code-count](https://github.com/nathanshammah/make-your-code-count) - Create an open-source library in Python for your scientific research.
 - [yobibyte/prettyplots](https://github.com/yobibyte/prettyplots) - Design your own matplotlib stylefile interactively
@@ -764,7 +765,7 @@
 - [shift-d/nv](https://github.com/shift-d/nv) - 
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - 🗺 A better way to create key mappings in Neovim.
-- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Control codes like a boss 🦍.
+- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Take control like a boss 🦍.
 - [rafamadriz/NeoCode](https://github.com/rafamadriz/NeoCode) - 
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
@@ -992,6 +993,7 @@
 
 ## Python 
 
+- [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
 - [gregversteeg/esh_dynamics](https://github.com/gregversteeg/esh_dynamics) - Hamiltonian Dynamics with Non-Newtonian Momentum for Rapid Sampling
 - [kelvins/steganography](https://github.com/kelvins/steganography) - :see_no_evil: Steganography: Hiding an image inside another
 - [andrewcharlesjones/plottify](https://github.com/andrewcharlesjones/plottify) - A simple matplotlib wrapper that automatically scales font sizes, scatter point sizes, and line widths to be proportional to figure size.
@@ -1284,7 +1286,6 @@
 - [calmisential/TensorFlow2.0_ResNet](https://github.com/calmisential/TensorFlow2.0_ResNet) - A ResNet(ResNet18, ResNet34, ResNet50, ResNet101, ResNet152) implementation using TensorFlow-2.0.
 - [Bao-Jiarong/ResNet](https://github.com/Bao-Jiarong/ResNet) - This repository includes ResNet18, ResNet34, ResNet50, ResNet101, ResNet152 in Tensorflow 2.
 - [rougier/matplotlib-3d](https://github.com/rougier/matplotlib-3d) - Experimental 3D axis for matplotlib
-- [Open-Catalyst-Project/ocp](https://github.com/Open-Catalyst-Project/ocp) - https://opencatalystproject.org/
 - [open-research/sumatra](https://github.com/open-research/sumatra) - 
 - [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning
 - [amanb2000/AI_Labs](https://github.com/amanb2000/AI_Labs) - Artificial Intelligence (ROB311) Labs at the University of Toronto
@@ -1850,6 +1851,7 @@
 
 ## Ruby 
 
+- [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast and smart citation reference parsing
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [Chris911/iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
@@ -2029,6 +2031,7 @@
 
 ## TypeScript 
 
+- [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for papers and books.
 - [jeffersonlicet/snipped](https://github.com/jeffersonlicet/snipped) - 🖥️ 🖼️ Create fancy screenshots of your code without leaving the editor.
 - [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
