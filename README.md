@@ -327,7 +327,6 @@
 - [AndrewGYork/publication_template](https://github.com/AndrewGYork/publication_template) - A template for writing scientific papers. View it in action here: https://andrewgyork.github.io/publication_template/
 - [jakobnissen/hardware_introduction](https://github.com/jakobnissen/hardware_introduction) - What scientific programmers must know about CPUs and RAM to write fast code.
 - [saforem2/site](https://github.com/saforem2/site) - 
-- [hyperlog/hyperlog](https://github.com/hyperlog/hyperlog) - AI-Generated Developer Portfolios
 - [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [Inventium/latexcolor.com](https://github.com/Inventium/latexcolor.com) - 
 - [janosh/ml-matrics](https://github.com/janosh/ml-matrics) - Metrics and visualizations for model performance in data-driven materials discovery.
@@ -1072,7 +1071,7 @@
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [muammar/ml4chem](https://github.com/muammar/ml4chem) - ML4Chem:  Machine Learning for Chemistry and Materials
-- [astropy/astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
+- [astropy/astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library
 - [data-apis/array-api-tests](https://github.com/data-apis/array-api-tests) - Test suite for the PyData Array APIs standard
 - [LibraryCarpentry/lc-overview](https://github.com/LibraryCarpentry/lc-overview) - Library Carpentry Workshop Overview
 - [1313e/CMasher](https://github.com/1313e/CMasher) - Scientific colormaps for making accessible, informative and 'cmashing' plots
@@ -1254,7 +1253,7 @@
 - [intake/intake](https://github.com/intake/intake) - Intake is a lightweight package for finding, investigating, loading and disseminating data.
 - [jingli9111/EUNN-tensorflow](https://github.com/jingli9111/EUNN-tensorflow) - Efficient Unitary Neural Network(EUNN) implementation in Tensorflow
 - [Yelp/gprof2dot](https://github.com/Yelp/gprof2dot) - Converts profiling output to a dot graph.
-- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
+- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [wdphy16/neural-cluster-update](https://github.com/wdphy16/neural-cluster-update) - Code for 'Unbiased Monte Carlo Cluster Updates with Autoregressive Neural Networks'.
 - [true3dco/splashgen](https://github.com/true3dco/splashgen) - Rapidly build landing pages in &lt;20 lines of python
 - [larose/utt](https://github.com/larose/utt) - Ultimate Time Tracker - A simple command-line time tracker written in Python
