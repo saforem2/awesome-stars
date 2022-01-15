@@ -521,6 +521,7 @@
 
 ## Jupyter Notebook 
 
+- [webdataset/webdataset](https://github.com/webdataset/webdataset) - A high-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch.
 - [facebookresearch/beanmachine](https://github.com/facebookresearch/beanmachine) - A library that allows for inference on probabilistic models
 - [sscardapane/hydra-tutorial](https://github.com/sscardapane/hydra-tutorial) - Companion code for a tutorial on using Hydra.
 - [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
@@ -1988,6 +1989,7 @@
 
 ## TeX 
 
+- [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX
 - [rodluger/showyourwork](https://github.com/rodluger/showyourwork) - Fully reproducible, open source scientific articles in LaTeX.
 - [lukeolson/parxiv](https://github.com/lukeolson/parxiv) - a simple script to assist in making a clean directory to upload to arxiv
