@@ -276,7 +276,7 @@
 ## Go 
 
 - [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [msoedov/hacker-slides](https://github.com/msoedov/hacker-slides) - A small UI for building presentation slides from markdown markup
@@ -1392,7 +1392,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :heartbeat: This repository has 422 stars.
+- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :sparkling_heart: This repository has 422 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
