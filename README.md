@@ -20,6 +20,7 @@
   - [FORTRAN](#fortran)
   - [Fennel](#fennel)
   - [Fortran](#fortran)
+  - [GLSL](#glsl)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [Groff](#groff)
@@ -268,6 +269,10 @@
 - [cphysics/fermion2d](https://github.com/cphysics/fermion2d) - Lattice Gauge Theory in 2D with Fermion content.
 - [madebr/pyOpt](https://github.com/madebr/pyOpt) - Fork of http://www.pyopt.org/ (python3 compatible)
 - [mhoffman/kmos](https://github.com/mhoffman/kmos) - kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier
+
+## GLSL 
+
+- [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 
 ## Gnuplot 
 
@@ -1820,7 +1825,6 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [Akuli/python-tutorial](https://github.com/Akuli/python-tutorial) - A Python 3 programming tutorial for beginners.
-- [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [flipflop97/WebMan](https://github.com/flipflop97/WebMan) - A web interface for the Arch Linux package manager (pacman)
 - [general-ai-challenge/Round1](https://github.com/general-ai-challenge/Round1) - Environment and tasks for the first round of the General AI Challenge.
