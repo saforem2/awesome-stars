@@ -20,7 +20,6 @@
   - [FORTRAN](#fortran)
   - [Fennel](#fennel)
   - [Fortran](#fortran)
-  - [GLSL](#glsl)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [Groff](#groff)
@@ -269,10 +268,6 @@
 - [cphysics/fermion2d](https://github.com/cphysics/fermion2d) - Lattice Gauge Theory in 2D with Fermion content.
 - [madebr/pyOpt](https://github.com/madebr/pyOpt) - Fork of http://www.pyopt.org/ (python3 compatible)
 - [mhoffman/kmos](https://github.com/mhoffman/kmos) - kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier
-
-## GLSL 
-
-- [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 
 ## Gnuplot 
 
@@ -1397,7 +1392,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :sparkling_heart: This repository has 422 stars.
+- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :two_hearts: This repository has 422 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
@@ -1825,6 +1820,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [Akuli/python-tutorial](https://github.com/Akuli/python-tutorial) - A Python 3 programming tutorial for beginners.
+- [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [flipflop97/WebMan](https://github.com/flipflop97/WebMan) - A web interface for the Arch Linux package manager (pacman)
 - [general-ai-challenge/Round1](https://github.com/general-ai-challenge/Round1) - Environment and tasks for the first round of the General AI Challenge.
