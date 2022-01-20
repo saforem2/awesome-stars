@@ -72,6 +72,7 @@
 
 ## C 
 
+- [XProger/OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
 - [suliveevil/Capslock](https://github.com/suliveevil/Capslock) - ultimate macOS keyboard re-mapping
 - [mkietzm4n/really-fast-dijkstra](https://github.com/mkietzm4n/really-fast-dijkstra) - "wow, that is really fast." - Kyle Gerard Felker
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
@@ -493,7 +494,7 @@
 - [JuliaMath/HCubature.jl](https://github.com/JuliaMath/HCubature.jl) - pure-Julia multidimensional h-adaptive integration
 - [JuliaDiff/TaylorSeries.jl](https://github.com/JuliaDiff/TaylorSeries.jl) - A julia package for Taylor polynomial expansions in one and several independent variables.
 - [TensorBFS/SimpleTensorNetworks.jl](https://github.com/TensorBFS/SimpleTensorNetworks.jl) - Naive generic implementation of tensor networks (WIP)
-- [Jutho/LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) - A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
+- [JuliaLinearAlgebra/LinearMaps.jl](https://github.com/JuliaLinearAlgebra/LinearMaps.jl) - A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 - [USCqserver/OpenQuantumTools.jl](https://github.com/USCqserver/OpenQuantumTools.jl) - Julia toolkit for open quantum system simulation.
 - [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations
 - [JuliaGPU/oneAPI.jl](https://github.com/JuliaGPU/oneAPI.jl) - Julia support for the oneAPI programming toolkit.
@@ -993,6 +994,9 @@
 
 ## Python 
 
+- [ofek/hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management
+- [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
+- [mbilos/neural-flows-experiments](https://github.com/mbilos/neural-flows-experiments) - Experiments for Neural Flows paper
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
 - [gregversteeg/esh_dynamics](https://github.com/gregversteeg/esh_dynamics) - Hamiltonian Dynamics with Non-Newtonian Momentum for Rapid Sampling
 - [kelvins/steganography](https://github.com/kelvins/steganography) - :see_no_evil: Steganography: Hiding an image inside another
@@ -1392,7 +1396,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :two_hearts: This repository has 422 stars.
+- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :yellow_heart: This repository has 422 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
@@ -2032,6 +2036,7 @@
 
 ## TypeScript 
 
+- [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for papers and books.
 - [jeffersonlicet/snipped](https://github.com/jeffersonlicet/snipped) - 🖥️ 🖼️ Create fancy screenshots of your code without leaving the editor.
 - [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian
