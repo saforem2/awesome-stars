@@ -594,7 +594,6 @@
 - [haulek/CompPhysics](https://github.com/haulek/CompPhysics) - Computational Physics codes
 - [ryansmccoy/spreadsheets-to-dataframes](https://github.com/ryansmccoy/spreadsheets-to-dataframes) - Pycon 2021 Tutorial to help Spreadsheet (Excel) Users learn Python
 - [hep-lbdl/OmniFold](https://github.com/hep-lbdl/OmniFold) - 
-- [Open-Catalyst-Project/ocp](https://github.com/Open-Catalyst-Project/ocp) - https://opencatalystproject.org/
 - [mpld3/mpld3](https://github.com/mpld3/mpld3) - D3 Renderings of Matplotlib Graphics
 - [nathanshammah/make-your-code-count](https://github.com/nathanshammah/make-your-code-count) - Create an open-source library in Python for your scientific research.
 - [yobibyte/prettyplots](https://github.com/yobibyte/prettyplots) - Design your own matplotlib stylefile interactively
@@ -994,6 +993,7 @@
 
 ## Python 
 
+- [Chris-hughes10/pytorch-accelerated](https://github.com/Chris-hughes10/pytorch-accelerated) - A lightweight library designed to accelerate the process of training PyTorch models by providing a minimal, but extensible training loop which is flexible enough to handle the majority of use cases, and capable of utilizing different hardware options with no code changes required. Docs: https://pytorch-accelerated.readthedocs.io/en/latest/
 - [ofek/hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management
 - [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [mbilos/neural-flows-experiments](https://github.com/mbilos/neural-flows-experiments) - Experiments for Neural Flows paper
@@ -1290,6 +1290,7 @@
 - [calmisential/TensorFlow2.0_ResNet](https://github.com/calmisential/TensorFlow2.0_ResNet) - A ResNet(ResNet18, ResNet34, ResNet50, ResNet101, ResNet152) implementation using TensorFlow-2.0.
 - [Bao-Jiarong/ResNet](https://github.com/Bao-Jiarong/ResNet) - This repository includes ResNet18, ResNet34, ResNet50, ResNet101, ResNet152 in Tensorflow 2.
 - [rougier/matplotlib-3d](https://github.com/rougier/matplotlib-3d) - Experimental 3D axis for matplotlib
+- [Open-Catalyst-Project/ocp](https://github.com/Open-Catalyst-Project/ocp) - https://opencatalystproject.org/
 - [open-research/sumatra](https://github.com/open-research/sumatra) - 
 - [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning
 - [amanb2000/AI_Labs](https://github.com/amanb2000/AI_Labs) - Artificial Intelligence (ROB311) Labs at the University of Toronto
