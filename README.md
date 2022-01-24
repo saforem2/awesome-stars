@@ -115,6 +115,7 @@
 
 ## C# # 
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere WPF, WinForms, Xamarin, Avalonia, WinUI, UWP, Blazor-wasm, MAUI (WIP)
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [LaTeX-Bibitem-Styler/latex-bibitemstyler](https://github.com/LaTeX-Bibitem-Styler/latex-bibitemstyler) - Automatically exported from code.google.com/p/latex-bibitemstyler
@@ -461,6 +462,8 @@
 
 ## Julia 
 
+- [JuliaArrays/ArrayInterface.jl](https://github.com/JuliaArrays/ArrayInterface.jl) - Designs for new Base array interface primitives, used widely through scientific machine learning (SciML) and other organizations
+- [SciML/RecursiveArrayTools.jl](https://github.com/SciML/RecursiveArrayTools.jl) - Tools for easily handling objects like arrays of arrays and deeper nestings in scientific machine learning (SciML) and other applications
 - [akio-tomiya/Wilsonloop.jl](https://github.com/akio-tomiya/Wilsonloop.jl) - 
 - [chriselrod/AppleAccelerateLinAlgWrapper.jl](https://github.com/chriselrod/AppleAccelerateLinAlgWrapper.jl) - Simple experimental wrapper of small number of Apple Accelerate linear algebra routines using libblastrampoline. Largely used for benchmarking routines using the Apple M1's matrix instructions.
 - [KristofferC/PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl) - Plots in Julia using the PGFPlots LaTeX package
@@ -993,6 +996,8 @@
 
 ## Python 
 
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Chris-hughes10/pytorch-accelerated](https://github.com/Chris-hughes10/pytorch-accelerated) - A lightweight library designed to accelerate the process of training PyTorch models by providing a minimal, but extensible training loop which is flexible enough to handle the majority of use cases, and capable of utilizing different hardware options with no code changes required. Docs: https://pytorch-accelerated.readthedocs.io/en/latest/
 - [ofek/hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management
 - [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
@@ -1874,6 +1879,7 @@
 
 ## Rust 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
