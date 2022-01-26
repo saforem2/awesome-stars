@@ -208,6 +208,7 @@
 
 ## CSS 
 
+- [gitobsidiantutorial/obsidian-tabs](https://github.com/gitobsidiantutorial/obsidian-tabs) - Plugin for tabbed obsidian browsing
 - [drewpotter/resume](https://github.com/drewpotter/resume) - My CV/resume using a free Hugo theme
 - [chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets) - A repo full of my snippets for Obsidian.md. Use them to customize your workspace and/or add to a theme! 🪄
 - [ddnexus/equilux-theme](https://github.com/ddnexus/equilux-theme) - A Material Design-like theme for GNOME/GTK+ based desktop environments.
@@ -871,6 +872,7 @@
 
 ## Others 
 
+- [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
 - [jeremysanders/awesome-dataviz](https://github.com/jeremysanders/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
@@ -2046,6 +2048,7 @@
 
 ## TypeScript 
 
+- [justmemos/memos](https://github.com/justmemos/memos) - An open source, self-hosted alternative to flomo.
 - [jupyterlab-contrib/jupyter-ui-toolkit](https://github.com/jupyterlab-contrib/jupyter-ui-toolkit) - UI Toolkit for Jupyter
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for papers and books.
