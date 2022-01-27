@@ -90,6 +90,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
 - [JorjMcKie/py-mupdf](https://github.com/JorjMcKie/py-mupdf) - Python bindings for MuPDF's rendering library.
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [mrlhansen/YaHMC](https://github.com/mrlhansen/YaHMC) - Numerical simulation code for non-abelian gauge theories
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
@@ -1432,7 +1433,6 @@
 - [csqphy/Python](https://github.com/csqphy/Python) - All Algorithms implemented in Python
 - [Romit-Maulik/Neural_Operator](https://github.com/Romit-Maulik/Neural_Operator) - A neural solution operator for advection-dominated prolems
 - [predictive-analytics-lab/data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [agayonlombardo/pores4thought](https://github.com/agayonlombardo/pores4thought) - 
 - [drorlab/gvp](https://github.com/drorlab/gvp) - Geometric Vector Perceptron --- a rotation-equivariant GNN for learning from biomolecular structure
 - [timothygebhard/pytorch-conv4d](https://github.com/timothygebhard/pytorch-conv4d) - Rudimentary Conv4D Layer Implementation for PyTorch
