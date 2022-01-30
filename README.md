@@ -1172,7 +1172,7 @@
 - [deepqmc/deepqmc](https://github.com/deepqmc/deepqmc) - Deep learning quantum Monte Carlo for electrons in real space
 - [facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
-- [zaccharieramzi/hoag](https://github.com/zaccharieramzi/hoag) - Hyperparameter optimization with approximate gradient - SHINE fork
+- [zaccharieramzi/hoag](https://github.com/zaccharieramzi/hoag) - Code for the bi-level experiments of the ICLR 2022 paper "SHINE: SHaring the INverse Estimate from the forward pass for bi-level optimization and implicit models" (on branch shine)
 - [locuslab/mdeq](https://github.com/locuslab/mdeq) - [NeurIPS'20] Multiscale Deep Equilibrium Models
 - [fabianp/hoag](https://github.com/fabianp/hoag) - Hyperparameter optimization with approximate gradient
 - [arnoldjulian/Interpretable-and-unsupervised-phase-classification](https://github.com/arnoldjulian/Interpretable-and-unsupervised-phase-classification) - 
