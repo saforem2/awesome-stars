@@ -1007,6 +1007,7 @@
 
 ## Python 
 
+- [gisalgs/geom](https://github.com/gisalgs/geom) - Algorithms for geometric operations
 - [deepmind/annealed_flow_transport](https://github.com/deepmind/annealed_flow_transport) - 
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -1416,7 +1417,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-427-Stars](https://github.com/iBug/This-Repo-Has-427-Stars) - Yes, it's true :sparkling_heart: This repository has 427 stars.
+- [iBug/This-Repo-Has-428-Stars](https://github.com/iBug/This-Repo-Has-428-Stars) - Yes, it's true :heartpulse: This repository has 428 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
@@ -2057,6 +2058,7 @@
 
 ## TypeScript 
 
+- [jtpio/replite](https://github.com/jtpio/replite) - An embeddable REPL powered by JupyterLite
 - [ospfranco/sol](https://github.com/ospfranco/sol) - A Raycast/Alfred/Spotlight alternative
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for [Obsidian.md](https://obsidian.md/) that assists with managing tasks within a document.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
