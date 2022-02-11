@@ -1007,6 +1007,7 @@
 
 ## Python 
 
+- [adautobraz/ergo](https://github.com/adautobraz/ergo) - 
 - [gisalgs/geom](https://github.com/gisalgs/geom) - Algorithms for geometric operations
 - [deepmind/annealed_flow_transport](https://github.com/deepmind/annealed_flow_transport) - 
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
@@ -1186,7 +1187,7 @@
 - [willieneis/bayesian-algorithm-execution](https://github.com/willieneis/bayesian-algorithm-execution) - Bayesian algorithm execution (BAX)
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
-- [tacaswell/mpl-gui](https://github.com/tacaswell/mpl-gui) - Prototype for mpl-gui module
+- [matplotlib/mpl-gui](https://github.com/matplotlib/mpl-gui) - Prototype for mpl-gui module
 - [mschwager/cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
@@ -1417,7 +1418,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-428-Stars](https://github.com/iBug/This-Repo-Has-428-Stars) - Yes, it's true :heartpulse: This repository has 428 stars.
+- [iBug/This-Repo-Has-429-Stars](https://github.com/iBug/This-Repo-Has-429-Stars) - Yes, it's true :gift_heart: This repository has 429 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
