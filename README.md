@@ -531,6 +531,7 @@
 
 ## Jupyter Notebook 
 
+- [undark-lab/swyft](https://github.com/undark-lab/swyft) - Truncated marginal neural ratio estimation estimation with PyTorch.
 - [geomstats/challenge-iclr-2022](https://github.com/geomstats/challenge-iclr-2022) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
 - [webdataset/webdataset](https://github.com/webdataset/webdataset) - A high-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch.
 - [facebookresearch/beanmachine](https://github.com/facebookresearch/beanmachine) - A library that allows for inference on probabilistic models
@@ -645,7 +646,6 @@
 - [henryiii/compclass](https://github.com/henryiii/compclass) - A class over Computational Physics in Jupyter
 - [tjburch/twitter-studies](https://github.com/tjburch/twitter-studies) - Quick study into my engagements on  twitter
 - [greydanus/mnist1d](https://github.com/greydanus/mnist1d) - A 1D analogue of the MNIST dataset for measuring spatial biases and answering "science of deep learning" questions.
-- [undark-lab/swyft](https://github.com/undark-lab/swyft) - Truncated marginal neural ratio estimation estimation with PyTorch.
 - [QMagen/PyQMagen](https://github.com/QMagen/PyQMagen) - A method which combines quantum many-body calculation and unbiased optimizers to automatically learn effective Hamiltonians for quantum magnets
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
@@ -959,8 +959,6 @@
 - [PurpleBooth/a-good-readme-template](https://github.com/PurpleBooth/a-good-readme-template) - A template to make good README.md
 - [hsf-training/PyHEP-resources](https://github.com/hsf-training/PyHEP-resources) - Python libraries of interest to particle physicists.  This is meant for educational purposes.
 - [JimJoyce/usps](https://github.com/JimJoyce/usps) - USPS Webtools API for Ruby
-- [MIT-AI-Accelerator/sciml-directory](https://github.com/MIT-AI-Accelerator/sciml-directory) - Scientific Machine Learning team information directory
-- [MIT-AI-Accelerator/sciml-papers](https://github.com/MIT-AI-Accelerator/sciml-papers) - Collection of papers and references for scientific machine learning techniques and applications
 - [ZhihangXu/Scientific-computing-paper](https://github.com/ZhihangXu/Scientific-computing-paper) - 
 - [Thenerdstation/TensorNetsForML](https://github.com/Thenerdstation/TensorNetsForML) - Code for the paper "Tensor Networks for Maching Learning"
 - [refraction-ray/admc](https://github.com/refraction-ray/admc) - Infinite order automatic differentiation for Monte Carlo with unnormalized probability distribution
@@ -1419,7 +1417,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-430-Stars](https://github.com/iBug/This-Repo-Has-430-Stars) - Yes, it's true :purple_heart: This repository has 430 stars.
+- [iBug/This-Repo-Has-430-Stars](https://github.com/iBug/This-Repo-Has-430-Stars) - Yes, it's true :yellow_heart: This repository has 430 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
