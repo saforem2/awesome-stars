@@ -879,6 +879,7 @@
 
 ## Others 
 
+- [vsitzmann/awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
 - [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
 - [jeremysanders/awesome-dataviz](https://github.com/jeremysanders/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
@@ -1006,6 +1007,7 @@
 
 ## Python 
 
+- [CharlesPikachu/pydrawing](https://github.com/CharlesPikachu/pydrawing) - Pydrawing: Beautify your image or video.
 - [adautobraz/ergo](https://github.com/adautobraz/ergo) - 
 - [gisalgs/geom](https://github.com/gisalgs/geom) - Algorithms for geometric operations
 - [deepmind/annealed_flow_transport](https://github.com/deepmind/annealed_flow_transport) - 
@@ -1269,7 +1271,7 @@
 - [josefkaufmann/ana_cont](https://github.com/josefkaufmann/ana_cont) - Package for analytic continuation of many-body Green's functions
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [HaohanWang/HFC](https://github.com/HaohanWang/HFC) - Implementation for the paper (CVPR Oral): High Frequency Component Helps Explain the Generalization of Convolutional Neural Networks
-- [lululxvi/deepxde](https://github.com/lululxvi/deepxde) - A library for scientific machine learning
+- [lululxvi/deepxde](https://github.com/lululxvi/deepxde) - A library for scientific machine learning and physics-informed learning
 - [AmanoTeam/LyricsPy](https://github.com/AmanoTeam/LyricsPy) - Python library for searching lyrics on Musixmatch, Genius and letras.mus.br.
 - [hudsonbrendon/python-musixmatch](https://github.com/hudsonbrendon/python-musixmatch) - Simple integrate of API musixmatch.com with python
 - [alexmojaki/heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
@@ -2058,6 +2060,7 @@
 
 ## TypeScript 
 
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [jtpio/replite](https://github.com/jtpio/replite) - An embeddable REPL powered by JupyterLite
 - [ospfranco/sol](https://github.com/ospfranco/sol) - A Raycast/Alfred/Spotlight alternative
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for [Obsidian.md](https://obsidian.md/) that assists with managing tasks within a document.
