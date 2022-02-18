@@ -531,6 +531,7 @@
 
 ## Jupyter Notebook 
 
+- [HPCL/ideas-uo](https://github.com/HPCL/ideas-uo) - IDEAS project work
 - [undark-lab/swyft](https://github.com/undark-lab/swyft) - Truncated marginal neural ratio estimation estimation with PyTorch.
 - [geomstats/challenge-iclr-2022](https://github.com/geomstats/challenge-iclr-2022) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
 - [webdataset/webdataset](https://github.com/webdataset/webdataset) - A high-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch.
@@ -600,7 +601,6 @@
 - [acids-ircam/pytorch_flows](https://github.com/acids-ircam/pytorch_flows) - Implementation and tutorials of normalizing flows with the novel distributions module
 - [FlorianMarquardt/machine-learning-for-physicists](https://github.com/FlorianMarquardt/machine-learning-for-physicists) - Code for "Machine Learning for Physicists 2020" lecture series
 - [je-suis-tm/graph-theory](https://github.com/je-suis-tm/graph-theory) - Julia and Python complex system applications in ecology, epidemiology, sociology, economics & finance; network science models including Bianconi-Barabási, Barabási-Albert, Watts-Strogatz, Waxman Model & Erdős-Rényi; graph theory algorithms involving Gillespie, Bron Kerbosch, Ramsey, Bellman Ford, A*, Kruskal, Borůvka, Prim, Dijkstra, DSatur, Randomized Distributed, Vizing, Topological Sort, DFS, BFS
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [twitter-research/image-crop-analysis](https://github.com/twitter-research/image-crop-analysis) - Code for reproducing our analysis in the paper titled: Image Cropping on Twitter: Fairness Metrics, their Limitations, and the Importance of Representation, Design, and Agency
 - [g-benton/learning-invariances](https://github.com/g-benton/learning-invariances) - Codebase for Learning Invariances in Neural Networks
 - [haulek/CompPhysics](https://github.com/haulek/CompPhysics) - Computational Physics codes
@@ -1007,6 +1007,10 @@
 
 ## Python 
 
+- [captain-pool/hydra-example](https://github.com/captain-pool/hydra-example) - 
+- [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
+- [Alwinator/aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) - An Activity Watch watcher that monitors CPU, RAM, disk, network, and sensor usage.
+- [bcbernardo/aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) - An ActivityWatch watcher to pose questions to the user and record her answers.
 - [CharlesPikachu/pydrawing](https://github.com/CharlesPikachu/pydrawing) - Pydrawing: Beautify your image or video.
 - [adautobraz/ergo](https://github.com/adautobraz/ergo) - 
 - [gisalgs/geom](https://github.com/gisalgs/geom) - Algorithms for geometric operations
@@ -1280,6 +1284,7 @@
 - [intake/intake](https://github.com/intake/intake) - Intake is a lightweight package for finding, investigating, loading and disseminating data.
 - [jingli9111/EUNN-tensorflow](https://github.com/jingli9111/EUNN-tensorflow) - Efficient Unitary Neural Network(EUNN) implementation in Tensorflow
 - [Yelp/gprof2dot](https://github.com/Yelp/gprof2dot) - Converts profiling output to a dot graph.
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [wdphy16/neural-cluster-update](https://github.com/wdphy16/neural-cluster-update) - Code for 'Unbiased Monte Carlo Cluster Updates with Autoregressive Neural Networks'.
 - [true3dco/splashgen](https://github.com/true3dco/splashgen) - Rapidly build landing pages in &lt;20 lines of python
