@@ -875,6 +875,7 @@
 
 ## Others 
 
+- [githubtraining/hello-github-actions](https://github.com/githubtraining/hello-github-actions) - Course repo for GitHub Actions: Hello World on Learning Lab
 - [vsitzmann/awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
 - [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
@@ -1447,7 +1448,7 @@
 - [csqphy/Python](https://github.com/csqphy/Python) - All Algorithms implemented in Python
 - [Romit-Maulik/Neural_Operator](https://github.com/Romit-Maulik/Neural_Operator) - A neural solution operator for advection-dominated prolems
 - [predictive-analytics-lab/data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [agayonlombardo/pores4thought](https://github.com/agayonlombardo/pores4thought) - 
 - [drorlab/gvp](https://github.com/drorlab/gvp) - Geometric Vector Perceptron --- a rotation-equivariant GNN for learning from biomolecular structure
 - [timothygebhard/pytorch-conv4d](https://github.com/timothygebhard/pytorch-conv4d) - Rudimentary Conv4D Layer Implementation for PyTorch
@@ -1900,6 +1901,7 @@
 
 ## Rust 
 
+- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -2066,6 +2068,7 @@
 
 ## TypeScript 
 
+- [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - A Raycast/Alfred/Spotlight alternative
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
