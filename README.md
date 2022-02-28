@@ -1749,7 +1749,7 @@
 - [PyTables/PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [phobson/paramnormal](https://github.com/phobson/paramnormal) - Conventionally parameterized probability distributions
 - [rlouf/mcx](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference on CPU & GPU. Powered by JAX.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [stevenygd/PointFlow](https://github.com/stevenygd/PointFlow) - PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows
 - [team-approx-bayes/dl-with-bayes](https://github.com/team-approx-bayes/dl-with-bayes) - Contains code for the NeurIPS 2019 paper "Practical Deep Learning with Bayesian Principles"
 - [NVIDIA/framework-determinism](https://github.com/NVIDIA/framework-determinism) - Providing determinism in deep learning frameworks
