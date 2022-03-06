@@ -470,6 +470,7 @@
 
 ## Julia 
 
+- [NQCD/NQCDynamics.jl](https://github.com/NQCD/NQCDynamics.jl) - Fast and flexible nonadiabatic molecular dynamics in Julia!
 - [FedeClaudi/Term.jl](https://github.com/FedeClaudi/Term.jl) - Playing with terminal utilities in Julia
 - [rafaqz/DimensionalData.jl](https://github.com/rafaqz/DimensionalData.jl) - Named dimensions and indexing for julia arrays and other data
 - [akio-tomiya/Gaugefields.jl](https://github.com/akio-tomiya/Gaugefields.jl) - Utilities of gauge fields
@@ -704,7 +705,6 @@
 - [rsln-s/ANL_tutorial_June_15](https://github.com/rsln-s/ANL_tutorial_June_15) - 
 - [aseyboldt/sunode](https://github.com/aseyboldt/sunode) - Solve ODEs fast, with support for PyMC3
 - [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
-- [saforem2/l2hmc-qcd](https://github.com/saforem2/l2hmc-qcd) - Application of the L2HMC algorithm to simulations in lattice QCD.
 - [ketch/DEML](https://github.com/ketch/DEML) - Material for a course on differential equations in machine learning
 - [DLHub-Argonne/dlhub_examples](https://github.com/DLHub-Argonne/dlhub_examples) - 
 - [fengdu78/Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes) - 数据科学的笔记以及资料搜集
@@ -994,7 +994,6 @@
 - [cthorey/Machine-Learning-Tutorials](https://github.com/cthorey/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [zedtux/brewformulas.org](https://github.com/zedtux/brewformulas.org) - A website to search and discover formulas from Homebrew for Mac
 - [pjreddie/TopDeepLearning](https://github.com/pjreddie/TopDeepLearning) - A list of popular github projects related to deep learning
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated)
 
 ## Perl 
@@ -1008,6 +1007,7 @@
 
 ## Python 
 
+- [tobgu/pyrthon](https://github.com/tobgu/pyrthon) - Literal support for Pyrsistent data structures in Python
 - [captain-pool/hydra-wandb-sweeper](https://github.com/captain-pool/hydra-wandb-sweeper) - WandB sweeps integration with Hydra sweeper
 - [samuelcolvin/dirty-equals](https://github.com/samuelcolvin/dirty-equals) - Doing dirty (but extremely useful) things with equals.
 - [lettucecfd/lettuce](https://github.com/lettucecfd/lettuce) - Computational Fluid Dynamics based on PyTorch and the Lattice Boltzmann Method
@@ -1710,6 +1710,7 @@
 - [funcx-faas/funcX](https://github.com/funcx-faas/funcX) - funcX: High Performance Function Serving for Science
 - [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
 - [mfinzi/LieConv](https://github.com/mfinzi/LieConv) - 
+- [saforem2/l2hmc-qcd](https://github.com/saforem2/l2hmc-qcd) - Application of the L2HMC algorithm to simulations in lattice QCD.
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [DLHub-Argonne/dlhub_service](https://github.com/DLHub-Argonne/dlhub_service) - Service for REST requests to DLHub
 - [DLHub-Argonne/dlhub_sdk](https://github.com/DLHub-Argonne/dlhub_sdk) - Python Interface to the Data and Learning Hub for Science
