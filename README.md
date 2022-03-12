@@ -1010,6 +1010,8 @@
 
 ## Python 
 
+- [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable.
+- [patrick-kidger/mkposters](https://github.com/patrick-kidger/mkposters) - Make posters from Markdown files.
 - [microsoft/hummingbird](https://github.com/microsoft/hummingbird) - Hummingbird compiles trained ML models into tensor computation for faster inference.
 - [tobgu/pyrthon](https://github.com/tobgu/pyrthon) - Literal support for Pyrsistent data structures in Python
 - [captain-pool/hydra-wandb-sweeper](https://github.com/captain-pool/hydra-wandb-sweeper) - WandB sweeps integration with Hydra sweeper
@@ -1054,7 +1056,7 @@
 - [nschloe/betterbib](https://github.com/nschloe/betterbib) - :green_book: Update BibTeX files with info from online resources.
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 - [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
-- [microsoft/Graphormer](https://github.com/microsoft/Graphormer) - Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule science, such as material discovery, drug discovery, etc.
+- [microsoft/Graphormer](https://github.com/microsoft/Graphormer) - Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule science, such as material design, drug discovery, etc.
 - [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf) - pure-Python HistFactory implementation with tensors and autodiff
 - [Rupt/which_is_real](https://github.com/Rupt/which_is_real) - Code and data to reproduce content for "A method to challenge symmetries in data with self-supervised learning" https://arxiv.org/abs/2111.05442
 - [google/ml_collections](https://github.com/google/ml_collections) - ML Collections is a library of Python Collections designed for ML use cases.
