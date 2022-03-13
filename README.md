@@ -508,7 +508,7 @@
 - [mojaie/MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) - Graph-based molecule modeling toolkit for cheminformatics
 - [JuliaManifolds/ManifoldsBase.jl](https://github.com/JuliaManifolds/ManifoldsBase.jl) - Basic interface for manifolds in Julia
 - [JuliaMath/HCubature.jl](https://github.com/JuliaMath/HCubature.jl) - pure-Julia multidimensional h-adaptive integration
-- [JuliaDiff/TaylorSeries.jl](https://github.com/JuliaDiff/TaylorSeries.jl) - A julia package for Taylor polynomial expansions in one and several independent variables.
+- [JuliaDiff/TaylorSeries.jl](https://github.com/JuliaDiff/TaylorSeries.jl) - Taylor polynomial expansions in one and several independent variables.
 - [TensorBFS/SimpleTensorNetworks.jl](https://github.com/TensorBFS/SimpleTensorNetworks.jl) - Naive generic implementation of tensor networks (WIP)
 - [JuliaLinearAlgebra/LinearMaps.jl](https://github.com/JuliaLinearAlgebra/LinearMaps.jl) - A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 - [USCqserver/OpenQuantumTools.jl](https://github.com/USCqserver/OpenQuantumTools.jl) - Julia toolkit for open quantum system simulation.
@@ -1010,6 +1010,7 @@
 
 ## Python 
 
+- [MarcSkovMadsen/dataviz-in-python](https://github.com/MarcSkovMadsen/dataviz-in-python) - A repository used to provide an introduction to dataviz in Python
 - [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable.
 - [patrick-kidger/mkposters](https://github.com/patrick-kidger/mkposters) - Make posters from Markdown files.
 - [microsoft/hummingbird](https://github.com/microsoft/hummingbird) - Hummingbird compiles trained ML models into tensor computation for faster inference.
