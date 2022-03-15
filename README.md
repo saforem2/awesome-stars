@@ -402,7 +402,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [benborgers/driver](https://github.com/benborgers/driver) - 🏎 A quick and simple API for reading Google Drive and Google Docs.
 - [benborgers/potion](https://github.com/benborgers/potion) - 🧪 Reverse-engineered Notion API.
-- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
 - [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
 - [williamFalcon/test-tube](https://github.com/williamFalcon/test-tube) - Python library to easily log experiments and parallelize hyperparameter search for neural networks
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
