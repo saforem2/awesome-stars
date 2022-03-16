@@ -207,6 +207,7 @@
 
 ## CSS 
 
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native across platforms. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
 - [FedeClaudi/Term.jl](https://github.com/FedeClaudi/Term.jl) - Playing with terminal utilities in Julia
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
@@ -374,6 +375,8 @@
 
 ## JavaScript 
 
+- [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
+- [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [ActivityWatch/aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) - Browser watcher for ActivityWatch
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -402,7 +405,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [benborgers/driver](https://github.com/benborgers/driver) - 🏎 A quick and simple API for reading Google Drive and Google Docs.
 - [benborgers/potion](https://github.com/benborgers/potion) - 🧪 Reverse-engineered Notion API.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🔥🔥🔥
 - [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
 - [williamFalcon/test-tube](https://github.com/williamFalcon/test-tube) - Python library to easily log experiments and parallelize hyperparameter search for neural networks
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
@@ -1010,6 +1013,8 @@
 
 ## Python 
 
+- [janosh/tensorboard-reducer](https://github.com/janosh/tensorboard-reducer) - Reduce multiple PyTorch TensorBoard runs to new event (or CSV) files.
+- [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [MarcSkovMadsen/dataviz-in-python](https://github.com/MarcSkovMadsen/dataviz-in-python) - A repository used to provide an introduction to dataviz in Python
 - [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable.
 - [patrick-kidger/mkposters](https://github.com/patrick-kidger/mkposters) - Make posters from Markdown files.
@@ -1054,7 +1059,7 @@
 - [michael-c-brennan/lazymaps](https://github.com/michael-c-brennan/lazymaps) - Numerical examples from 'Greedy inference with structure-exploiting lazy maps'
 - [nschloe/matplotx](https://github.com/nschloe/matplotx) - :bar_chart: More styles and useful extensions for Matplotlib
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
-- [nschloe/betterbib](https://github.com/nschloe/betterbib) - :green_book: Update BibTeX files with info from online resources.
+- [texworld/betterbib](https://github.com/texworld/betterbib) - :green_book: Update BibTeX files with info from online resources.
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 - [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
 - [microsoft/Graphormer](https://github.com/microsoft/Graphormer) - Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule science, such as material design, drug discovery, etc.
@@ -1435,7 +1440,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :revolving_hearts: This repository has 431 stars.
+- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :yellow_heart: This repository has 431 stars.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
 - [crlishka/dl-mini-workloads](https://github.com/crlishka/dl-mini-workloads) - Mini-workloads for Deep Learning experiments
@@ -1529,7 +1534,7 @@
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
-- [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows) - A list of awesome resources on normalizing flows.
+- [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows) - Awesome resources on normalizing flows.
 - [jmtomczak/git_flow](https://github.com/jmtomczak/git_flow) - General Invertible Transformations for Flow-based Generative Models
 - [kjellmf/dot2tex](https://github.com/kjellmf/dot2tex) - Convert graphs generated by Graphviz to LaTeX friendly formats
 - [deepchem/jaxchem](https://github.com/deepchem/jaxchem) - JAXChem is a JAX-based deep learning library for complex and versatile chemical modeling
@@ -1589,7 +1594,7 @@
 - [tum-pbs/Solver-in-the-Loop](https://github.com/tum-pbs/Solver-in-the-Loop) - Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers
 - [longyangking/PhaseOfMatter](https://github.com/longyangking/PhaseOfMatter) - Machine Learning Phase of matter
 - [steindoringi/Variational_Integrator_Networks](https://github.com/steindoringi/Variational_Integrator_Networks) - 
-- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, Ape-X DQN, DDPG, TD3, SAC)
+- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC)
 - [sashahart/vex](https://github.com/sashahart/vex) - Run a command in the named virtualenv.
 - [probcomp/autoimcmc](https://github.com/probcomp/autoimcmc) - Code accompanying the paper "Automating Involutive MCMC using Probabilistic and Differentiable Programming"
 - [cansarigol/pdbr](https://github.com/cansarigol/pdbr) - pdb + Rich library
@@ -1624,7 +1629,7 @@
 - [mackelab/sbi](https://github.com/mackelab/sbi) - Simulation-based inference toolkit
 - [deepmind/ferminet](https://github.com/deepmind/ferminet) - An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
 - [pmocz/nbody-performance-comparison](https://github.com/pmocz/nbody-performance-comparison) - Directly compare performance of vectorized and for-loop implementations of the N-body problem in Matlab, Julia, and Python
-- [nschloe/tikzplotlib](https://github.com/nschloe/tikzplotlib) - :bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.
+- [texworld/tikzplotlib](https://github.com/texworld/tikzplotlib) - :bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.
 - [unixtomato/nmcrg](https://github.com/unixtomato/nmcrg) - Neural Monte Carlo Renormalization Group
 - [tizian/manifold-visualizer](https://github.com/tizian/manifold-visualizer) - 2D visualizer for specular path manifolds
 - [crazybigcat/TSGO](https://github.com/crazybigcat/TSGO) - This is the python code for "Tangent-Space Gradient Optimization of Tensor Network for Machine Learning" at https://arxiv.org/abs/2001.04029.
@@ -2081,6 +2086,7 @@
 
 ## TypeScript 
 
+- [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - A macOS global command palette. Raycast/Spotlight alternative
