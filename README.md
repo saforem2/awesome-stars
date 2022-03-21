@@ -1281,7 +1281,7 @@
 - [TakisAngelides/Flow-based-MCMC-with-Phi-4](https://github.com/TakisAngelides/Flow-based-MCMC-with-Phi-4) - A system of neural networks produces phi-4 configurations on the lattice.
 - [yperugachidiaz/invertible_densenets](https://github.com/yperugachidiaz/invertible_densenets) - 
 - [laekov/fastmoe](https://github.com/laekov/fastmoe) - A fast MoE impl for PyTorch
-- [joouha/euporie](https://github.com/joouha/euporie) - Euporie is a text-based user interface for running and editing Jupyter notebooks
+- [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [jktr/matplotlib-backend-kitty](https://github.com/jktr/matplotlib-backend-kitty) - show matplotlib plots directly in your kitty terminal
 - [daleroberts/itermplot](https://github.com/daleroberts/itermplot) - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.
 - [matplotlib/cycler](https://github.com/matplotlib/cycler) - cycler: composable cycles
@@ -2108,7 +2108,7 @@
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [ospfranco/sol](https://github.com/ospfranco/sol) - A macOS global command palette. Raycast/Spotlight alternative
+- [ospfranco/sol](https://github.com/ospfranco/sol) - A macOS launcher/command palette
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [justmemos/memos](https://github.com/justmemos/memos) - An open source, self-hosted alternative to flomo.
