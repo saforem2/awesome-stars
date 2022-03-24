@@ -381,6 +381,7 @@
 
 ## JavaScript 
 
+- [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [gadenbuie/xaringanExtra](https://github.com/gadenbuie/xaringanExtra) - :ferris_wheel: A playground of enhancements and extensions for xaringan slides.
 - [xaprb/story](https://github.com/xaprb/story) - Beautiful responsive Hugo blog theme focused on simplicity and elegance, with many extra features including presentations, math typesetting, music notation, and search.
 - [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
@@ -1641,7 +1642,7 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [exoplanet-dev/pymc3-ext](https://github.com/exoplanet-dev/pymc3-ext) - PyMC3 Extras extracted from the "exoplanet" library
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
-- [adrotog/PandasGUI](https://github.com/adrotog/PandasGUI) - A GUI for Pandas DataFrames
+- [adamerose/PandasGUI](https://github.com/adamerose/PandasGUI) - A GUI for Pandas DataFrames
 - [wookayin/gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
 - [mackelab/sbi](https://github.com/mackelab/sbi) - Simulation-based inference toolkit
 - [deepmind/ferminet](https://github.com/deepmind/ferminet) - An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
@@ -2102,6 +2103,7 @@
 
 ## TypeScript 
 
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [replit/Codemirror-CSS-color-picker](https://github.com/replit/Codemirror-CSS-color-picker) - A codemirror extension that adds a color picker input next to CSS color values. Development happens on Replit, just fork and hit run! https://replit.com/@util/Codemirror-CSS-color-picker
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [xiaohk/stickyland](https://github.com/xiaohk/stickyland) - Break the linear presentation of Jupyter Notebooks with sticky cells!
