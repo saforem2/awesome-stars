@@ -382,6 +382,7 @@
 
 ## JavaScript 
 
+- [saforem2/physicsSeminar](https://github.com/saforem2/physicsSeminar) - Talk for physics seminar
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [gadenbuie/xaringanExtra](https://github.com/gadenbuie/xaringanExtra) - :ferris_wheel: A playground of enhancements and extensions for xaringan slides.
 - [xaprb/story](https://github.com/xaprb/story) - Beautiful responsive Hugo blog theme focused on simplicity and elegance, with many extra features including presentations, math typesetting, music notation, and search.
@@ -764,7 +765,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [saforem2/worm_algorithm](https://github.com/saforem2/worm_algorithm) - Worm algorithm implementation for 2D Ising model
 - [tensorflow/probability](https://github.com/tensorflow/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
-- [pymc-devs/resources](https://github.com/pymc-devs/resources) - PyMC3 educational resources
+- [pymc-devs/pymc_resources](https://github.com/pymc-devs/pymc_resources) - PyMC3 educational resources
 - [sharanry/pymc4_prototypes](https://github.com/sharanry/pymc4_prototypes) - Experimental code for porting PyMC to alternative backends
 - [pymc-devs/pymc4](https://github.com/pymc-devs/pymc4) - Experimental PyMC interface for TensorFlow Probability. Official work on this project has been discontinued.
 - [crgagne/pymc3-tensorflow-and-theano-backends](https://github.com/crgagne/pymc3-tensorflow-and-theano-backends) - Within this repo, I altered some of the PyMC3 source code so that it can run on either Theano or TensorFlow backends
@@ -904,6 +905,7 @@
 - [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
 - [jeremysanders/awesome-dataviz](https://github.com/jeremysanders/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [texworld/betterbib](https://github.com/texworld/betterbib) - :green_book: Update BibTeX files with info from online resources.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
@@ -1026,10 +1028,10 @@
 
 ## Python 
 
+- [saforem2/l2hmc-qcd](https://github.com/saforem2/l2hmc-qcd) - Application of the L2HMC algorithm to simulations in lattice QCD.
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [timkpaine/tributary](https://github.com/timkpaine/tributary) - Streaming reactive and dataflow graphs in Python
-- [saforem2/l2hmc-qcd](https://github.com/saforem2/l2hmc-qcd) - Application of the L2HMC algorithm to simulations in lattice QCD.
 - [Mara-Li/mkdocs_obsidian_publish](https://github.com/Mara-Li/mkdocs_obsidian_publish) - Publish your obsidian vault through a python script
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [man-group/notebooker](https://github.com/man-group/notebooker) - Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
@@ -1081,7 +1083,6 @@
 - [michael-c-brennan/lazymaps](https://github.com/michael-c-brennan/lazymaps) - Numerical examples from 'Greedy inference with structure-exploiting lazy maps'
 - [nschloe/matplotx](https://github.com/nschloe/matplotx) - :bar_chart: More styles and useful extensions for Matplotlib
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
-- [texworld/betterbib](https://github.com/texworld/betterbib) - :green_book: Update BibTeX files with info from online resources.
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 - [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
 - [microsoft/Graphormer](https://github.com/microsoft/Graphormer) - Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule science, such as material design, drug discovery, etc.
@@ -2064,6 +2065,7 @@
 
 ## TeX 
 
+- [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX
 - [rodluger/showyourwork](https://github.com/rodluger/showyourwork) - Fully reproducible, open source scientific articles in LaTeX.
