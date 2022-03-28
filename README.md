@@ -608,6 +608,7 @@
 - [NIH-HPC/python-in-hpc](https://github.com/NIH-HPC/python-in-hpc) - Materials for a Python in HPC class
 - [tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons) - Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the special interest group, SIG TFX-Addons.  Join  the group at http://goo.gle/tfx-addons-group
 - [intake/intake-examples](https://github.com/intake/intake-examples) - Intake examples
+- [A3Data/hermione](https://github.com/A3Data/hermione) - ML made simple
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
 - [domitry/matascii](https://github.com/domitry/matascii) - ASCII back-end for matplotlib
 - [Emcc81/NFLMC](https://github.com/Emcc81/NFLMC) - Dynamical sampling with Langevin Normalization Flow
@@ -765,7 +766,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [saforem2/worm_algorithm](https://github.com/saforem2/worm_algorithm) - Worm algorithm implementation for 2D Ising model
 - [tensorflow/probability](https://github.com/tensorflow/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
-- [pymc-devs/pymc_resources](https://github.com/pymc-devs/pymc_resources) - PyMC3 educational resources
+- [pymc-devs/pymc-resources](https://github.com/pymc-devs/pymc-resources) - PyMC3 educational resources
 - [sharanry/pymc4_prototypes](https://github.com/sharanry/pymc4_prototypes) - Experimental code for porting PyMC to alternative backends
 - [pymc-devs/pymc4](https://github.com/pymc-devs/pymc4) - Experimental PyMC interface for TensorFlow Probability. Official work on this project has been discontinued.
 - [crgagne/pymc3-tensorflow-and-theano-backends](https://github.com/crgagne/pymc3-tensorflow-and-theano-backends) - Within this repo, I altered some of the PyMC3 source code so that it can run on either Theano or TensorFlow backends
@@ -1268,7 +1269,6 @@
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [tensorflow/tfx](https://github.com/tensorflow/tfx) - TFX is an end-to-end platform for deploying production ML pipelines
 - [intake/intake-xarray](https://github.com/intake/intake-xarray) - Intake plugin for xarray
-- [A3Data/hermione](https://github.com/A3Data/hermione) - ML made simple
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [f-dangel/backpack](https://github.com/f-dangel/backpack) - BackPACK - a backpropagation package built on top of PyTorch which efficiently computes quantities other than the gradient.
