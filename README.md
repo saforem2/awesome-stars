@@ -1030,6 +1030,8 @@
 
 ## Python 
 
+- [qkaren/COLD_decoding](https://github.com/qkaren/COLD_decoding) - 
+- [adambielski/siamese-triplet](https://github.com/adambielski/siamese-triplet) - Siamese and triplet networks with online pair/triplet mining in PyTorch
 - [CUAI/Equivariant-Manifold-Flows](https://github.com/CUAI/Equivariant-Manifold-Flows) - [NeurIPS 2021] Equivariant Manifold Flows (https://arxiv.org/abs/2107.08596)
 - [saforem2/l2hmc-qcd](https://github.com/saforem2/l2hmc-qcd) - Application of the L2HMC algorithm to simulations in lattice QCD.
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
@@ -1680,7 +1682,7 @@
 - [sicara/tf-explain](https://github.com/sicara/tf-explain) - Interpretability Methods for tf.keras models with Tensorflow 2.x
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [soravux/scoop](https://github.com/soravux/scoop) - SCOOP (Scalable COncurrent Operations in Python)
-- [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep) - A set of helpers for matplotlib to more easily produce plots typically needed in HEP as well as style them in way that's compatible with current collaboration requirements (ROOT).
+- [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep) - Extended histogram plots on top of matplotlib and HEP compatible styling similar to current collaboration requirements (ROOT).
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [Bihaqo/t3f](https://github.com/Bihaqo/t3f) - Tensor Train decomposition on TensorFlow
 - [chrischute/flowplusplus](https://github.com/chrischute/flowplusplus) - Implementation of Flow++ in PyTorch
