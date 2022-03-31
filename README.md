@@ -452,7 +452,7 @@
 - [eleurent/phd-defense](https://github.com/eleurent/phd-defense) - 
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -486,6 +486,7 @@
 
 ## Julia 
 
+- [jonniedie/ComponentArrays.jl](https://github.com/jonniedie/ComponentArrays.jl) - Arrays with arbitrarily nested named components.
 - [NQCD/NQCDynamics.jl](https://github.com/NQCD/NQCDynamics.jl) - Fast and flexible nonadiabatic molecular dynamics in Julia!
 - [rafaqz/DimensionalData.jl](https://github.com/rafaqz/DimensionalData.jl) - Named dimensions and indexing for julia arrays and other data
 - [akio-tomiya/Gaugefields.jl](https://github.com/akio-tomiya/Gaugefields.jl) - Utilities of gauge fields
@@ -1030,6 +1031,7 @@
 
 ## Python 
 
+- [allenai/python-package-template](https://github.com/allenai/python-package-template) - A template repo for Python packages
 - [qkaren/COLD_decoding](https://github.com/qkaren/COLD_decoding) - 
 - [adambielski/siamese-triplet](https://github.com/adambielski/siamese-triplet) - Siamese and triplet networks with online pair/triplet mining in PyTorch
 - [CUAI/Equivariant-Manifold-Flows](https://github.com/CUAI/Equivariant-Manifold-Flows) - [NeurIPS 2021] Equivariant Manifold Flows (https://arxiv.org/abs/2107.08596)
@@ -1466,7 +1468,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-433-Stars](https://github.com/iBug/This-Repo-Has-433-Stars) - Yes, it's true :gift_heart: This repository has 433 stars.
+- [iBug/This-Repo-Has-432-Stars](https://github.com/iBug/This-Repo-Has-432-Stars) - Yes, it's true :heartpulse: This repository has 432 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2156,7 +2158,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [IgorSzyporyn/badger-ui](https://github.com/IgorSzyporyn/badger-ui) - Badger UI is a theming tool for creating theme design systems
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — an easy-to-use and performant open-source experiment tracker.
-- [functionland/photos](https://github.com/functionland/photos) - This is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box", "Dfinity", "Filecoin" and "Crust".
+- [functionland/fotos](https://github.com/functionland/fotos) - This is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box", "Dfinity", "Filecoin" and "Crust".
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
