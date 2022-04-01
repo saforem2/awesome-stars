@@ -1031,6 +1031,7 @@
 
 ## Python 
 
+- [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) - Annotating tensor shapes using Python types
 - [allenai/python-package-template](https://github.com/allenai/python-package-template) - A template repo for Python packages
 - [qkaren/COLD_decoding](https://github.com/qkaren/COLD_decoding) - 
 - [adambielski/siamese-triplet](https://github.com/adambielski/siamese-triplet) - Siamese and triplet networks with online pair/triplet mining in PyTorch
