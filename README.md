@@ -1031,6 +1031,7 @@
 
 ## Python 
 
+- [BorgwardtLab/TOGL](https://github.com/BorgwardtLab/TOGL) - Topological Graph Neural Networks (ICLR 2022)
 - [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) - Annotating tensor shapes using Python types
 - [allenai/python-package-template](https://github.com/allenai/python-package-template) - A template repo for Python packages
 - [qkaren/COLD_decoding](https://github.com/qkaren/COLD_decoding) - 
