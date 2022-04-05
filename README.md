@@ -901,6 +901,7 @@
 
 ## Others 
 
+- [marcinabram/topological_transitions](https://github.com/marcinabram/topological_transitions) - 
 - [emitanaka/ninja-theme](https://github.com/emitanaka/ninja-theme) - A xaringan / remark js ninja theme
 - [jtleek/talkguide](https://github.com/jtleek/talkguide) - The Leek Group Guide to Giving Talks
 - [githubtraining/hello-github-actions](https://github.com/githubtraining/hello-github-actions) - Course repo for GitHub Actions: Hello World on Learning Lab
@@ -1031,6 +1032,7 @@
 
 ## Python 
 
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [BorgwardtLab/TOGL](https://github.com/BorgwardtLab/TOGL) - Topological Graph Neural Networks (ICLR 2022)
 - [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) - Annotating tensor shapes using Python types
 - [allenai/python-package-template](https://github.com/allenai/python-package-template) - A template repo for Python packages
