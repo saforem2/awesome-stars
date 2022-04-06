@@ -1472,7 +1472,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-434-Stars](https://github.com/iBug/This-Repo-Has-434-Stars) - Yes, it's true :yellow_heart: This repository has 434 stars.
+- [iBug/This-Repo-Has-435-Stars](https://github.com/iBug/This-Repo-Has-435-Stars) - Yes, it's true :two_hearts: This repository has 435 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1485,7 +1485,7 @@
 - [deepmind/chex](https://github.com/deepmind/chex) - 
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [SiggiGue/hdfdict](https://github.com/SiggiGue/hdfdict) - Helps h5py to dump and load dictionaries.
-- [nucypher/nucypher](https://github.com/nucypher/nucypher) - A decentralized threshold cryptography network offering interfaces and runtimes for secrets management and dynamic access control.
+- [nucypher/nucypher](https://github.com/nucypher/nucypher) - A decentralized threshold cryptography network focused on proxy reencryption.
 - [MathInspector/MathInspector](https://github.com/MathInspector/MathInspector) - A visual programing environment for scientific computing with python
 - [CarloGraziani/BayesVaccineEfficacy](https://github.com/CarloGraziani/BayesVaccineEfficacy) - 
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
