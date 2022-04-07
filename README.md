@@ -1483,7 +1483,7 @@
 - [ahuang11/ahlive](https://github.com/ahuang11/ahlive) - animate your data to life
 - [alteryx/evalml](https://github.com/alteryx/evalml) - EvalML is an AutoML library written in python.
 - [deepmind/chex](https://github.com/deepmind/chex) - 
-- [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
+- [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [SiggiGue/hdfdict](https://github.com/SiggiGue/hdfdict) - Helps h5py to dump and load dictionaries.
 - [nucypher/nucypher](https://github.com/nucypher/nucypher) - A decentralized threshold cryptography network focused on proxy reencryption.
 - [MathInspector/MathInspector](https://github.com/MathInspector/MathInspector) - A visual programing environment for scientific computing with python
@@ -2120,6 +2120,7 @@
 
 ## TypeScript 
 
+- [xldenis/obsidian-latex](https://github.com/xldenis/obsidian-latex) - 
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [replit/Codemirror-CSS-color-picker](https://github.com/replit/Codemirror-CSS-color-picker) - A codemirror extension that adds a color picker input next to CSS color values. Development happens on Replit, just fork and hit run! https://replit.com/@util/Codemirror-CSS-color-picker
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
