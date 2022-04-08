@@ -212,7 +212,7 @@
 - [1-2-3/remark-it](https://github.com/1-2-3/remark-it) - markdown -&gt; slideshow ——Write PPT like a programmer
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native across platforms. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
-- [FedeClaudi/Term.jl](https://github.com/FedeClaudi/Term.jl) - Playing with terminal utilities in Julia
+- [FedeClaudi/Term.jl](https://github.com/FedeClaudi/Term.jl) - Julia library for stylized terminal output
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
 - [gitobsidiantutorial/obsidian-tabs](https://github.com/gitobsidiantutorial/obsidian-tabs) - Plugin for tabbed obsidian browsing
 - [drewpotter/resume](https://github.com/drewpotter/resume) - My CV/resume using a free Hugo theme
@@ -580,6 +580,7 @@
 - [matt-graham/continuously-tempered-hmc](https://github.com/matt-graham/continuously-tempered-hmc) - Continuously tempered Hamiltonian Monte Carlo
 - [deephyper/tutorials](https://github.com/deephyper/tutorials) - A collection of tutorials for DeepHyper.
 - [ndeutschmann/zunis](https://github.com/ndeutschmann/zunis) - Normalizing flows for neural importance sampling
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - An Introduction to Deep Generative Modeling: Examples
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning.
 - [Nuclear-Physics-with-Machine-Learning/AI4NP_School](https://github.com/Nuclear-Physics-with-Machine-Learning/AI4NP_School) - Notebooks and saved models for the AI4NP School
@@ -767,7 +768,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [saforem2/worm_algorithm](https://github.com/saforem2/worm_algorithm) - Worm algorithm implementation for 2D Ising model
 - [tensorflow/probability](https://github.com/tensorflow/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
-- [pymc-devs/pymc-resources](https://github.com/pymc-devs/pymc-resources) - PyMC3 educational resources
+- [pymc-devs/pymc-resources](https://github.com/pymc-devs/pymc-resources) - PyMC educational resources
 - [sharanry/pymc4_prototypes](https://github.com/sharanry/pymc4_prototypes) - Experimental code for porting PyMC to alternative backends
 - [pymc-devs/pymc4](https://github.com/pymc-devs/pymc4) - Experimental PyMC interface for TensorFlow Probability. Official work on this project has been discontinued.
 - [crgagne/pymc3-tensorflow-and-theano-backends](https://github.com/crgagne/pymc3-tensorflow-and-theano-backends) - Within this repo, I altered some of the PyMC3 source code so that it can run on either Theano or TensorFlow backends
@@ -1171,7 +1172,6 @@
 - [nschloe/termplotlib](https://github.com/nschloe/termplotlib) - :chart_with_upwards_trend: Plotting on the command line
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
