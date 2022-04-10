@@ -580,7 +580,6 @@
 - [matt-graham/continuously-tempered-hmc](https://github.com/matt-graham/continuously-tempered-hmc) - Continuously tempered Hamiltonian Monte Carlo
 - [deephyper/tutorials](https://github.com/deephyper/tutorials) - A collection of tutorials for DeepHyper.
 - [ndeutschmann/zunis](https://github.com/ndeutschmann/zunis) - Normalizing flows for neural importance sampling
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - An Introduction to Deep Generative Modeling: Examples
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning.
 - [Nuclear-Physics-with-Machine-Learning/AI4NP_School](https://github.com/Nuclear-Physics-with-Machine-Learning/AI4NP_School) - Notebooks and saved models for the AI4NP School
@@ -1172,6 +1171,7 @@
 - [nschloe/termplotlib](https://github.com/nschloe/termplotlib) - :chart_with_upwards_trend: Plotting on the command line
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
@@ -1458,7 +1458,7 @@
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [lucidrains/egnn-pytorch](https://github.com/lucidrains/egnn-pytorch) - Implementation of E(n)-Equivariant Graph Neural Networks, in Pytorch
-- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/Troubleshooting/119e30f331799b30fb9594db29740685cb09425b
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [pimdh/relie](https://github.com/pimdh/relie) - Experiments for the AISTATS publication on Reparameterizing Distributions over Lie Groups
 - [Romit-Maulik/PyParSVD](https://github.com/Romit-Maulik/PyParSVD) - An implementation of the 1. Parallel, 2. Streaming, 3. Randomized SVD using MPI4Py
