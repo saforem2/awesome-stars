@@ -1032,6 +1032,7 @@
 
 ## Python 
 
+- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [BorgwardtLab/TOGL](https://github.com/BorgwardtLab/TOGL) - Topological Graph Neural Networks (ICLR 2022)
 - [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) - Annotating tensor shapes using Python types
