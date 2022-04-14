@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [svalinn/DAGMC](https://github.com/svalinn/DAGMC) - Direct Accelerated Geometry Monte Carlo Toolkit
 - [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind — Seamless operability between C++17 and Python
 - [HyTruongSon/GraphFlow](https://github.com/HyTruongSon/GraphFlow) - Deep Learning framework in C++/CUDA that supports symbolic/automatic differentiation, dynamic computation graphs, tensor/matrix operations accelerated by GPU and implementations of various state-of-the-art graph neural networks and other Machine Learning models including Covariant Compositional Networks For Learning Graphs [Risi et al]
 - [microsoft/Microsoft-MPI](https://github.com/microsoft/Microsoft-MPI) - Microsoft MPI
@@ -1032,6 +1033,8 @@
 
 ## Python 
 
+- [matplotlib/pytest-mpl](https://github.com/matplotlib/pytest-mpl) - A pytest plugin to facilitate image comparison for Matplotlib figures
+- [suneeta-mall/hydra_pydantic_config_management](https://github.com/suneeta-mall/hydra_pydantic_config_management) - 
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -1394,7 +1397,7 @@
 - [mlech26l/ode-lstms](https://github.com/mlech26l/ode-lstms) - Code repository of the paper Learning Long-Term Dependencies in Irregularly-Sampled Time Series
 - [arturbekasov/nested_dropout_flows](https://github.com/arturbekasov/nested_dropout_flows) - Code for Ordering Dimensions with Nested Dropout Normalizing Flows paper
 - [ingmarschuster/kameleon_rks](https://github.com/ingmarschuster/kameleon_rks) - Random kitchen sink version of Kameleon MCMC
-- [argonne-lcf/CompPerfWorkshop-2021](https://github.com/argonne-lcf/CompPerfWorkshop-2021) - 2021 ALCF Computational Performance Workshop
+- [argonne-lcf/CompPerfWorkshop](https://github.com/argonne-lcf/CompPerfWorkshop) - ALCF Computational Performance Workshop
 - [libeanim/contact-symplectic-integrator-network](https://github.com/libeanim/contact-symplectic-integrator-network) - Contact-Aware Symplectic Integrator Network
 - [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [DavideBuffelli/SAME](https://github.com/DavideBuffelli/SAME) - Code for the paper: "A Meta-Learning Approach for Graph Representation Learning in Multi-Task Settings", D. Buffelli & F. Vandin, presented at the  NeurIPS Workshop on Meta-Learning (MetaLearn) 2020.
@@ -1474,7 +1477,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-435-Stars](https://github.com/iBug/This-Repo-Has-435-Stars) - Yes, it's true :two_hearts: This repository has 435 stars.
+- [iBug/This-Repo-Has-436-Stars](https://github.com/iBug/This-Repo-Has-436-Stars) - Yes, it's true :heartpulse: This repository has 436 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
