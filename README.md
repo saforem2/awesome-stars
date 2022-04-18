@@ -801,7 +801,7 @@
 
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
-- [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
@@ -1052,7 +1052,7 @@
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [timkpaine/tributary](https://github.com/timkpaine/tributary) - Streaming reactive and dataflow graphs in Python
-- [Mara-Li/mkdocs_obsidian_publish](https://github.com/Mara-Li/mkdocs_obsidian_publish) - Publish your obsidian vault through a python script
+- [Mara-Li/obsidian-mkdocs-publisher-python](https://github.com/Mara-Li/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [man-group/notebooker](https://github.com/man-group/notebooker) - Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications.
