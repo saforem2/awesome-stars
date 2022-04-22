@@ -276,7 +276,6 @@
 
 - [nwchemgit/nwchem](https://github.com/nwchemgit/nwchem) - NWChem: Open Source High-Performance Computational Chemistry
 - [jeffhammond/blog](https://github.com/jeffhammond/blog) - My blog.
-- [cphysics/fermion2d](https://github.com/cphysics/fermion2d) - Lattice Gauge Theory in 2D with Fermion content.
 - [madebr/pyOpt](https://github.com/madebr/pyOpt) - Fork of http://www.pyopt.org/ (python3 compatible)
 - [mhoffman/kmos](https://github.com/mhoffman/kmos) - kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier
 
@@ -383,6 +382,7 @@
 
 ## JavaScript 
 
+- [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [saforem2/physicsSeminar](https://github.com/saforem2/physicsSeminar) - Talk for physics seminar
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [gadenbuie/xaringanExtra](https://github.com/gadenbuie/xaringanExtra) - :ferris_wheel: A playground of enhancements and extensions for xaringan slides.
@@ -687,7 +687,6 @@
 - [lch/dqmc_notebook](https://github.com/lch/dqmc_notebook) - 
 - [Princeton-Election-Consortium/data-backend](https://github.com/Princeton-Election-Consortium/data-backend) - All code related to scraping, parsing, cleaning, and processing data used by PEC
 - [wwang2/mlcov](https://github.com/wwang2/mlcov) - Everyone was simulating epidemic spread back then, I was too
-- [cphysics/gauge-docs](https://github.com/cphysics/gauge-docs) - Lattice Gauge Theory Tutorials
 - [hypnopump/MiniFold](https://github.com/hypnopump/MiniFold) - MiniFold: Deep Learning for Protein Structure Prediction inspired by DeepMind AlphaFold algorithm
 - [Shiling42/XY-MODEL](https://github.com/Shiling42/XY-MODEL) - Monte Carlo simulation on 2D XY-model
 - [mathieukaltschmidt/Computational-Quantum-Dynamics](https://github.com/mathieukaltschmidt/Computational-Quantum-Dynamics) - Repository to organize code and exercises for the lecture course on  "Computional Quantum Dynamics" held by Dr. M. Gärttner I attended at Heidelberg University during the winter term 2018/2019.
@@ -1628,6 +1627,7 @@
 - [arviz-devs/arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [JaydeepSingh15/Lattice-Gauge-Theory](https://github.com/JaydeepSingh15/Lattice-Gauge-Theory) - Framework for computing Wilson loops in U(1), SU(3) gauge theories
 - [PhIMaL/temporal_normalizing_flows](https://github.com/PhIMaL/temporal_normalizing_flows) - 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [ludwigwinkler/pytorch_ProbabilisticLayers](https://github.com/ludwigwinkler/pytorch_ProbabilisticLayers) - Bayesian Neural Networks with Parallelized Sampling of LogLikelihood
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [nicola-decao/s-vae-pytorch](https://github.com/nicola-decao/s-vae-pytorch) - Pytorch implementation of Hyperspherical Variational Auto-Encoders
@@ -1640,7 +1640,6 @@
 - [probcomp/autoimcmc](https://github.com/probcomp/autoimcmc) - Code accompanying the paper "Automating Involutive MCMC using Probabilistic and Differentiable Programming"
 - [cansarigol/pdbr](https://github.com/cansarigol/pdbr) - pdb + Rich library
 - [surajp92/ML-Parameterization](https://github.com/surajp92/ML-Parameterization) - This repository contains code for the paper "Data assimilation empowered neural network parameterizations for subgrid processes in geophysical flows"
-- [cphysics/gauge2d](https://github.com/cphysics/gauge2d) - Lattice Gauge Theory in 2D without fermion content.
 - [google-research/football](https://github.com/google-research/football) - Check out the new game server:
 - [pytorch/examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 - [kiwi0fruit/ipynb-py-convert](https://github.com/kiwi0fruit/ipynb-py-convert) - Convert .py files runnable in VSCode or Atom/Hydrogen to Jupyter .ipynb notebooks and vice versa
@@ -2187,7 +2186,6 @@
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [sadn1ck/draw-and-code](https://github.com/sadn1ck/draw-and-code) - Draw your explanation and write your code without pointlessly switching tabs!
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jupyterlab-contrib/jupyterlab-vim](https://github.com/jupyterlab-contrib/jupyterlab-vim) - :neckbeard: Vim notebook cell bindings for JupyterLab
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
