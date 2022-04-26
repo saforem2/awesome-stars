@@ -554,6 +554,7 @@
 
 ## Jupyter Notebook 
 
+- [MathOnco/Curvogram](https://github.com/MathOnco/Curvogram) - Method for plotting histograms on a curve using a West Transform
 - [CosmoStat/jax-lensing](https://github.com/CosmoStat/jax-lensing) - A JAX package for weak gravitational lensing
 - [ercobian/AdaAnn-VI-NF](https://github.com/ercobian/AdaAnn-VI-NF) - The code for the numerical examples in "AdaAnn: Adaptive Annealing Scheduler for Probability Approximation" by Emma R. Cobian, Jonathan D. Hauenstein, Fang Liu, and Daniele E. Schiavazzi.
 - [zhang-liyi/tsc](https://github.com/zhang-liyi/tsc) - Transport Score Climbing: Variational Inference using Inclusive KL and Adaptive Neural Transport
@@ -578,7 +579,7 @@
 - [znstrider/highlight_text](https://github.com/znstrider/highlight_text) - functions to plot text with &lt;highlighted substrings&gt; in matplotlib.
 - [sparticlesteve/cosmoflow-benchmark](https://github.com/sparticlesteve/cosmoflow-benchmark) - Benchmark implementation of CosmoFlow in TensorFlow Keras
 - [mlcommons/hpc](https://github.com/mlcommons/hpc) - Reference implementations of MLPerf™ HPC training benchmarks
-- [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book) - Welcome to the Physics-based Deep Learning Book (v0.1)
+- [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book) - Welcome to the Physics-based Deep Learning Book (v0.2)
 - [pytorch/nestedtensor](https://github.com/pytorch/nestedtensor) - [Prototype] Tools for the concurrent manipulation of variably sized Tensors.
 - [srush/streambook](https://github.com/srush/streambook) - Live Python Notebooks with any Editor
 - [matt-graham/continuously-tempered-hmc](https://github.com/matt-graham/continuously-tempered-hmc) - Continuously tempered Hamiltonian Monte Carlo
@@ -1478,7 +1479,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-440-Stars](https://github.com/iBug/This-Repo-Has-440-Stars) - Yes, it's true :gift_heart: This repository has 440 stars.
+- [iBug/This-Repo-Has-441-Stars](https://github.com/iBug/This-Repo-Has-441-Stars) - Yes, it's true :heartpulse: This repository has 441 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2194,7 +2195,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [vv-vim/vv](https://github.com/vv-vim/vv) - Neovim client for macOS
-- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
+- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
