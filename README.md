@@ -479,7 +479,6 @@
 - [sc932/Thesis](https://github.com/sc932/Thesis) - My PhD thesis
 - [areking/ChalkHome-startpage](https://github.com/areking/ChalkHome-startpage) - Startpage with chalkboard theme
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## Jinja 
 
@@ -1138,7 +1137,7 @@
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
 - [Orkis-Research/Pytorch-Quaternion-Neural-Networks](https://github.com/Orkis-Research/Pytorch-Quaternion-Neural-Networks) - This repository is an update to all previous repositories with implementations of various Quaternion-valued Neural Networks in PyTorch
-- [deepmind/xmanager](https://github.com/deepmind/xmanager) - 
+- [deepmind/xmanager](https://github.com/deepmind/xmanager) - A platform for managing machine learning experiments
 - [amorehead/Equivariant-GNNs](https://github.com/amorehead/Equivariant-GNNs) - An environment for running experiments with equivariant GNN architectures
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [kevinzakka/densenet](https://github.com/kevinzakka/densenet) - A PyTorch Implementation of "Densely Connected Convolutional Networks"
@@ -1402,7 +1401,7 @@
 - [argonne-lcf/CompPerfWorkshop](https://github.com/argonne-lcf/CompPerfWorkshop) - ALCF Computational Performance Workshop
 - [libeanim/contact-symplectic-integrator-network](https://github.com/libeanim/contact-symplectic-integrator-network) - Contact-Aware Symplectic Integrator Network
 - [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
-- [DavideBuffelli/SAME](https://github.com/DavideBuffelli/SAME) - Code for the paper: "A Meta-Learning Approach for Graph Representation Learning in Multi-Task Settings", D. Buffelli & F. Vandin, presented at the  NeurIPS Workshop on Meta-Learning (MetaLearn) 2020.
+- [DavideBuffelli/SAME](https://github.com/DavideBuffelli/SAME) - Code for the papers: "Graph Representation Learning for Multi-Task Settings: a Meta-Learning Approach", "A Meta-Learning Approach for Graph Representation Learning in Multi-Task Settings"
 - [deepmind/distrax](https://github.com/deepmind/distrax) - 
 - [katiebreivik/cosmic-cat-creator](https://github.com/katiebreivik/cosmic-cat-creator) - a tool to produce astrophysical catalogs from cosmic data
 - [nw2190/ConvPDE](https://github.com/nw2190/ConvPDE) - Convolutional Solvers for Partial Differential Equations
@@ -2205,6 +2204,7 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [DonJayamanne/pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - This extension is now maintained in the Microsoft fork.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## Vim Snippet 
 
