@@ -570,6 +570,7 @@
 - [nimadehmamy/L-conv-code](https://github.com/nimadehmamy/L-conv-code) - Lie Algebra Convolutional Network implementation
 - [rocketmlhq/sciml](https://github.com/rocketmlhq/sciml) - Scientific Machine Learning Tutorials
 - [nec-research/tf-imle](https://github.com/nec-research/tf-imle) - Tensorflow implementation and notebooks for Implicit Maximum Likelihood Estimation
+- [facebookincubator/flowtorch](https://github.com/facebookincubator/flowtorch) - This library would form a permanent home for reusable components for deep probabilistic programming. The library would form and harness a community of users and contributors by focusing initially on complete infra and documentation for how to use and create components.
 - [GTorlai/NeuralNetworks-for-Quantum](https://github.com/GTorlai/NeuralNetworks-for-Quantum) - Tutorials for the paper: "Neural network in quantum many-body physics: a hands-on tutorial"
 - [GPflow/GeometricKernels](https://github.com/GPflow/GeometricKernels) - Geometric kernels on manifolds, meshes and graphs
 - [argonne-lcf/ai-science-training-series](https://github.com/argonne-lcf/ai-science-training-series) - 
@@ -1108,7 +1109,6 @@
 - [Rupt/which_is_real](https://github.com/Rupt/which_is_real) - Code and data to reproduce content for "A method to challenge symmetries in data with self-supervised learning" https://arxiv.org/abs/2111.05442
 - [google/ml_collections](https://github.com/google/ml_collections) - ML Collections is a library of Python Collections designed for ML use cases.
 - [dmlc/dlpack](https://github.com/dmlc/dlpack) - common in-memory tensor structure
-- [facebookincubator/flowtorch](https://github.com/facebookincubator/flowtorch) - This library would form a permanent home for reusable components for deep probabilistic programming. The library would form and harness a community of users and contributors by focusing initially on complete infra and documentation for how to use and create components.
 - [marcelah/entropy_adaptive_hmc](https://github.com/marcelah/entropy_adaptive_hmc) - 
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [JamesBrofos/Thresholds-in-Hamiltonian-Monte-Carlo](https://github.com/JamesBrofos/Thresholds-in-Hamiltonian-Monte-Carlo) - An empirical analysis of the effect of the convergence threshold in RMHMC
@@ -2085,7 +2085,7 @@
 - [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX
-- [rodluger/showyourwork](https://github.com/rodluger/showyourwork) - Fully reproducible, open source scientific articles in LaTeX.
+- [showyourwork/showyourwork](https://github.com/showyourwork/showyourwork) - Fully reproducible, open source scientific articles in LaTeX.
 - [lukeolson/parxiv](https://github.com/lukeolson/parxiv) - a simple script to assist in making a clean directory to upload to arxiv
 - [anishathalye/auriga](https://github.com/anishathalye/auriga) - Auriga is a minimalist LaTeX beamer presentation theme 📽
 - [mazhengcn/suggested-notation-for-machine-learning](https://github.com/mazhengcn/suggested-notation-for-machine-learning) - This introduces a suggestion of mathematical notation protocol for machine learning.
