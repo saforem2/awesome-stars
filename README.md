@@ -289,7 +289,7 @@
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 - [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [msoedov/hacker-slides](https://github.com/msoedov/hacker-slides) - A small UI for building presentation slides from markdown markup
@@ -993,7 +993,6 @@
 - [ZhihangXu/Scientific-computing-paper](https://github.com/ZhihangXu/Scientific-computing-paper) - 
 - [Thenerdstation/TensorNetsForML](https://github.com/Thenerdstation/TensorNetsForML) - Code for the paper "Tensor Networks for Maching Learning"
 - [refraction-ray/admc](https://github.com/refraction-ray/admc) - Infinite order automatic differentiation for Monte Carlo with unnormalized probability distribution
-- [manjunath5496/Feynman-Lectures](https://github.com/manjunath5496/Feynman-Lectures) - "Physics is like sex: sure, it may give some practical results, but that's not why we do it." ― Richard P. Feynman
 - [manjunath5496/AI-Lecture-Notes](https://github.com/manjunath5496/AI-Lecture-Notes) - "Look at you, hacker: a pathetic creature of meat and bone, panting and sweating as you run through my corridors. How can you challenge a perfect, immortal machine?" ― Ken Levine
 - [jaintj95/Math_by_Richard_Feynman](https://github.com/jaintj95/Math_by_Richard_Feynman) - A repo of curated links to Math lectures by Prof. Richard Feynman
 - [gabrielpierobon/cnnshapes](https://github.com/gabrielpierobon/cnnshapes) - Visualizing intermediate activation in Convolutional Neural Networks with Keras
