@@ -753,6 +753,7 @@
 - [leoduan/TransportMonteCarlo](https://github.com/leoduan/TransportMonteCarlo) - 
 - [dngfra/Restricted-Boltzmann-Machines](https://github.com/dngfra/Restricted-Boltzmann-Machines) - Implementation of restricted Boltzmann machines in Tensorflow 2
 - [jtchilders/python_tools](https://github.com/jtchilders/python_tools) - My Personal Collection of Python Tools
+- [aseyboldt/covadapt](https://github.com/aseyboldt/covadapt) - Low rank adaptation of covariance matrices for nuts sampling in pymc3
 - [modestbayes/hamiltonian](https://github.com/modestbayes/hamiltonian) - Speed up HMC with neural network gradient approximation
 - [thiery-lab/manifold-mcmc-for-diffusions](https://github.com/thiery-lab/manifold-mcmc-for-diffusions) - Code accompanying the paper 'Manifold MCMC methods for Bayesian inference in a wide class of diffusion models'
 - [karpathy/pytorch-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) - Normalizing flows in PyTorch. Current intended use is education not production.
@@ -798,6 +799,7 @@
 
 ## Lua 
 
+- [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -828,7 +830,7 @@
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, tmux, Xresources and Alacritty written in Lua
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim and Terminals written in Lua
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. https://sr.ht/~p00f/nvim-ts-rainbow preferred
@@ -1035,6 +1037,9 @@
 
 ## Python 
 
+- [gao-lab/GLUE](https://github.com/gao-lab/GLUE) - Graph-linked unified embedding for single-cell multi-omics data integration
+- [JurijsNazarovs/bayesian_nn](https://github.com/JurijsNazarovs/bayesian_nn) - Bayesian Neural Networks in PyTorch
+- [cedricwangyu/NoFAS](https://github.com/cedricwangyu/NoFAS) - Variational Inference with NoFAS: Normalizing Flow with Adaptive Surrogate for Computationally Expensive Models
 - [matplotlib/pytest-mpl](https://github.com/matplotlib/pytest-mpl) - A pytest plugin to facilitate image comparison for Matplotlib figures
 - [suneeta-mall/hydra_pydantic_config_management](https://github.com/suneeta-mall/hydra_pydantic_config_management) - 
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
@@ -1803,7 +1808,6 @@
 - [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) - arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [ranshiju/BayesianTN](https://github.com/ranshiju/BayesianTN) - Bayesian tensor network
-- [aseyboldt/covadapt](https://github.com/aseyboldt/covadapt) - Low rank adaptation of covariance matrices for nuts sampling in pymc3
 - [TensorBFS/dTRG](https://github.com/TensorBFS/dTRG) - 
 - [callat-qcd/espressodb](https://github.com/callat-qcd/espressodb) - Science database interface using Django as the content manager.
 - [AustenLamacraft/tfimps](https://github.com/AustenLamacraft/tfimps) - Infinite Matrix Product States in TensorFlow
