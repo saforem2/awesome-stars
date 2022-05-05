@@ -289,7 +289,7 @@
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 - [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [msoedov/hacker-slides](https://github.com/msoedov/hacker-slides) - A small UI for building presentation slides from markdown markup
@@ -828,7 +828,7 @@
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
 - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim and Terminals written in Lua
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
