@@ -12,12 +12,11 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Component Pascal](#component-pascal)
   - [Cuda](#cuda)
   - [Cython](#cython)
-  - [Delphi](#delphi)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
-  - [FORTRAN](#fortran)
   - [Fennel](#fennel)
   - [Fortran](#fortran)
   - [Gnuplot](#gnuplot)
@@ -38,7 +37,6 @@
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Mathematica](#mathematica)
-  - [Matlab](#matlab)
   - [Nextflow](#nextflow)
   - [Nim](#nim)
   - [OCaml](#ocaml)
@@ -94,7 +92,7 @@
 - [argonne-lcf/alcl](https://github.com/argonne-lcf/alcl) - Argonne Leadership Computing Facility OpenCL tutorial
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [jppbsi/LibDEEP](https://github.com/jppbsi/LibDEEP) - 
-- [etmc/tmLQCD](https://github.com/etmc/tmLQCD) - tmLQCD is a freely available software suite providing a set of tools to be used in lattice QCD simulations. This is mainly a HMC implementation (including PHMC and RHMC) for Wilson, Wilson Clover and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.  The code is fully parallelised and ships with optimisations for various modern architectures, such as commodity PC clusters and the Blue Gene family.
+- [etmc/tmLQCD](https://github.com/etmc/tmLQCD) - tmLQCD is a freely available software suite providing a set of tools to be used in lattice QCD simulations. This is mainly a HMC implementation (including PHMC and RHMC) for Wilson, Wilson Clover and
 - [ardagnir/athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
 - [milc-qcd/milc_qcd](https://github.com/milc-qcd/milc_qcd) - MILC collaboration code for lattice QCD calculations
 - [mnurzia/even-better-ls](https://github.com/mnurzia/even-better-ls) - LS + Icons + Formatting
@@ -118,13 +116,13 @@
 - [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [LaTeX-Bibitem-Styler/latex-bibitemstyler](https://github.com/LaTeX-Bibitem-Styler/latex-bibitemstyler) - Automatically exported from code.google.com/p/latex-bibitemstyler
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 
 ## C++ 
 
 - [svalinn/DAGMC](https://github.com/svalinn/DAGMC) - Direct Accelerated Geometry Monte Carlo Toolkit
 - [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind — Seamless operability between C++17 and Python
-- [HyTruongSon/GraphFlow](https://github.com/HyTruongSon/GraphFlow) - Deep Learning framework in C++/CUDA that supports symbolic/automatic differentiation, dynamic computation graphs, tensor/matrix operations accelerated by GPU and implementations of various state-of-the-art graph neural networks and other Machine Learning models including Covariant Compositional Networks For Learning Graphs [Risi et al]
+- [HyTruongSon/GraphFlow](https://github.com/HyTruongSon/GraphFlow) - Deep Learning framework in C++/CUDA that supports symbolic/automatic differentiation, dynamic computation graphs, tensor/matrix operations accelerated by GPU and implementations of various state-of-th
 - [microsoft/Microsoft-MPI](https://github.com/microsoft/Microsoft-MPI) - Microsoft MPI
 - [JeremyBYU/FastGaussianAccumulator](https://github.com/JeremyBYU/FastGaussianAccumulator) - Performs Gaussian Integration
 - [intel/opencl-intercept-layer](https://github.com/intel/opencl-intercept-layer) - Intercept Layer for Debugging and Analyzing OpenCL Applications
@@ -134,7 +132,7 @@
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
-- [tuplex/tuplex](https://github.com/tuplex/tuplex) - Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set.
+- [tuplex/tuplex](https://github.com/tuplex/tuplex) - Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather
 - [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) - A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [google/ml-metadata](https://github.com/google/ml-metadata) - For recording and retrieving metadata associated with ML developer and data scientist workflows.
 - [ComputationalRadiationPhysics/picongpu](https://github.com/ComputationalRadiationPhysics/picongpu) - Particle-in-Cell Simulations for the Exascale Era :sparkles:
@@ -196,8 +194,8 @@
 - [kwrobert/ResearchCode](https://github.com/kwrobert/ResearchCode) - A collection of files and scripts I have collected, created, or contributed to during my undergraduate research as a member of the Del Maestro Condensed Matter Research Group.
 - [ALPSCore/ALPSCore](https://github.com/ALPSCore/ALPSCore) - Core ALPS libraries
 - [ALPSCore/CT-HYB](https://github.com/ALPSCore/CT-HYB) - ALPS Hybridization Expansion Matrix Code
-- [elena1905/ParallelIsingModel](https://github.com/elena1905/ParallelIsingModel) - It simulates parallel Ising Model using the Metropolis algorithm with MPI and the Worm algorithm with OpenMP on Linux. Copyright of this project and the code is owned and reserved by the author Wenchong Chen.
-- [dkitch/maxsat-ising](https://github.com/dkitch/maxsat-ising) - Ground-state solver for a generalized Ising model, based on MAXSAT and convex optimization, following the algorithm described in Huang et al, "Finding and proving the exact ground state of a generalized Ising model by convex optimization and MAXSAT" Phys. Rev. B 94, 134424 (2016)
+- [elena1905/ParallelIsingModel](https://github.com/elena1905/ParallelIsingModel) - It simulates parallel Ising Model using the Metropolis algorithm with MPI and the Worm algorithm with OpenMP on Linux. Copyright of this project and the code is owned and reserved by the author Wencho
+- [dkitch/maxsat-ising](https://github.com/dkitch/maxsat-ising) - Ground-state solver for a generalized Ising model, based on MAXSAT and convex optimization, following the algorithm described in Huang et al, "Finding and proving the exact ground state of a generaliz
 - [TauEpsilonLambda/ising-project](https://github.com/TauEpsilonLambda/ising-project) - 
 - [robertrueger/SSMC](https://github.com/robertrueger/SSMC) - a Monte Carlo simulation code for classical spin systems like the Ising model
 - [renaldev/ising_magnet_model](https://github.com/renaldev/ising_magnet_model) - Homogeneous model of a magnet on the basis of the Ising model
@@ -242,6 +240,10 @@
 - [apierz/nerdbar.widget](https://github.com/apierz/nerdbar.widget) - Customizable bar(s) for OSX.
 - [stayradiated/okeanos](https://github.com/stayradiated/okeanos) - Node.js adapter for Zephyros.
 
+## Component Pascal 
+
+- [mloesch/baposter](https://github.com/mloesch/baposter) - A nifty LaTeX Poster Class
+
 ## Cuda 
 
 - [SkafteNicki/cuda_expm](https://github.com/SkafteNicki/cuda_expm) - Matrix exponential in cuda for pytorch and tensorflow
@@ -249,10 +251,6 @@
 ## Cython 
 
 - [IntelPython/mkl-service](https://github.com/IntelPython/mkl-service) - Python hooks for Intel(R) Math Kernel Library runtime control settings.
-
-## Delphi 
-
-- [mloesch/baposter](https://github.com/mloesch/baposter) - A nifty LaTeX Poster Class
 
 ## Dockerfile 
 
@@ -264,10 +262,6 @@
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [yangsheng6810/org-latex-impatient](https://github.com/yangsheng6810/org-latex-impatient) - Instant Previews LaTeX snippets in Org-mode
 
-## FORTRAN 
-
-- [sdliuyuzhi/HOTRG](https://github.com/sdliuyuzhi/HOTRG) - HOTRG
-
 ## Fennel 
 
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort
@@ -278,6 +272,7 @@
 - [jeffhammond/blog](https://github.com/jeffhammond/blog) - My blog.
 - [madebr/pyOpt](https://github.com/madebr/pyOpt) - Fork of http://www.pyopt.org/ (python3 compatible)
 - [mhoffman/kmos](https://github.com/mhoffman/kmos) - kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier
+- [sdliuyuzhi/HOTRG](https://github.com/sdliuyuzhi/HOTRG) - HOTRG
 
 ## Gnuplot 
 
@@ -298,7 +293,7 @@
 - [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - timetrace is a simple CLI for tracking your working time.
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
@@ -336,7 +331,7 @@
 - [mavroudisv/plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
 - [zhengying/hungrymark](https://github.com/zhengying/hungrymark) - hungrymark website
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
-- [Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints](https://github.com/Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints) - Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (October 2016) the authority fined them $2.3 million, after receiving over 1000 consumer complaints. The existing database will serve as a repository of public customer complaints file.
+- [Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints](https://github.com/Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints) - Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (Octob
 - [trikita/slide-html](https://github.com/trikita/slide-html) - Text presentation maker for a simplified markup language
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [a-nau/markdownslides](https://github.com/a-nau/markdownslides) - A "markdown-first" approach for generating beautiful browser-based slides easily. Based on Reveal.js and Reveal-Jekyll.
@@ -347,7 +342,7 @@
 - [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [Inventium/latexcolor.com](https://github.com/Inventium/latexcolor.com) - 
 - [MisaOgura/flashtorch](https://github.com/MisaOgura/flashtorch) - Visualization toolkit for neural networks in PyTorch! Demo --&gt;
-- [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.
+- [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged websit
 - [keceli/ezHPC](https://github.com/keceli/ezHPC) - Interactive and simplified high-performance computing with Jupyter notebook
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [avehtari/BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) - Bayesian Data Analysis course at Aalto
@@ -357,7 +352,7 @@
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [bjpcjp/scikit-and-tensorflow-workbooks](https://github.com/bjpcjp/scikit-and-tensorflow-workbooks) - based on "Hands-On Machine Learning with Scikit-Learn & TensorFlow" (O'Reilly, Aurelien Geron)
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
-- [Chicago/food-inspections-evaluation](https://github.com/Chicago/food-inspections-evaluation) - This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predictions.
+- [Chicago/food-inspections-evaluation](https://github.com/Chicago/food-inspections-evaluation) - This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predicti
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 
 ## Haskell 
@@ -376,7 +371,7 @@
 
 - [sylvainhalle/textidote](https://github.com/sylvainhalle/textidote) - Spelling, grammar and style checking on LaTeX documents
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, An
 - [janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 - [openpixi/openpixi](https://github.com/openpixi/openpixi) - Open Colored Particle-in-Cell (CPIC) simulator
 
@@ -486,6 +481,7 @@
 
 ## Julia 
 
+- [mahaa2/EmbeddedLMC](https://github.com/mahaa2/EmbeddedLMC) - 
 - [jonniedie/ComponentArrays.jl](https://github.com/jonniedie/ComponentArrays.jl) - Arrays with arbitrarily nested named components.
 - [NQCD/NQCDynamics.jl](https://github.com/NQCD/NQCDynamics.jl) - Fast and flexible nonadiabatic molecular dynamics in Julia!
 - [rafaqz/DimensionalData.jl](https://github.com/rafaqz/DimensionalData.jl) - Named dimensions and indexing for julia arrays and other data
@@ -525,9 +521,9 @@
 - [JuliaMath/HCubature.jl](https://github.com/JuliaMath/HCubature.jl) - pure-Julia multidimensional h-adaptive integration
 - [JuliaDiff/TaylorSeries.jl](https://github.com/JuliaDiff/TaylorSeries.jl) - Taylor polynomial expansions in one and several independent variables.
 - [TensorBFS/SimpleTensorNetworks.jl](https://github.com/TensorBFS/SimpleTensorNetworks.jl) - Naive generic implementation of tensor networks (WIP)
-- [JuliaLinearAlgebra/LinearMaps.jl](https://github.com/JuliaLinearAlgebra/LinearMaps.jl) - A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
+- [JuliaLinearAlgebra/LinearMaps.jl](https://github.com/JuliaLinearAlgebra/LinearMaps.jl) - A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vect
 - [USCqserver/OpenQuantumTools.jl](https://github.com/USCqserver/OpenQuantumTools.jl) - Julia toolkit for open quantum system simulation.
-- [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations
+- [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated
 - [JuliaGPU/oneAPI.jl](https://github.com/JuliaGPU/oneAPI.jl) - Julia support for the oneAPI programming toolkit.
 - [akio-tomiya/LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl) - A native Julia code for lattice QCD with dynamical fermions in 4 dimension.
 - [JuliaDiff/FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) - High accuracy derivatives, estimated via numerical finite differences (formerly FDM.jl)
@@ -570,7 +566,7 @@
 - [nimadehmamy/L-conv-code](https://github.com/nimadehmamy/L-conv-code) - Lie Algebra Convolutional Network implementation
 - [rocketmlhq/sciml](https://github.com/rocketmlhq/sciml) - Scientific Machine Learning Tutorials
 - [nec-research/tf-imle](https://github.com/nec-research/tf-imle) - Tensorflow implementation and notebooks for Implicit Maximum Likelihood Estimation
-- [facebookincubator/flowtorch](https://github.com/facebookincubator/flowtorch) - This library would form a permanent home for reusable components for deep probabilistic programming. The library would form and harness a community of users and contributors by focusing initially on complete infra and documentation for how to use and create components.
+- [facebookincubator/flowtorch](https://github.com/facebookincubator/flowtorch) - This library would form a permanent home for reusable components for deep probabilistic programming. The library would form and harness a community of users and contributors by focusing initially on c
 - [GTorlai/NeuralNetworks-for-Quantum](https://github.com/GTorlai/NeuralNetworks-for-Quantum) - Tutorials for the paper: "Neural network in quantum many-body physics: a hands-on tutorial"
 - [GPflow/GeometricKernels](https://github.com/GPflow/GeometricKernels) - Geometric kernels on manifolds, meshes and graphs
 - [argonne-lcf/ai-science-training-series](https://github.com/argonne-lcf/ai-science-training-series) - 
@@ -609,11 +605,11 @@
 - [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with code and articles
 - [lukasheinrich/pyhep2020-autodiff-tutorial](https://github.com/lukasheinrich/pyhep2020-autodiff-tutorial) - 
 - [PacktPublishing/Matplotlib-3.0-Cookbook](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) - Matplotlib 3.0 Cookbook, published by Packt
-- [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Python, and Java.
+- [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
 - [google/nitroml](https://github.com/google/nitroml) - NitroML is a modular, portable, and scalable model-quality benchmarking framework for Machine Learning and Automated Machine Learning (AutoML) pipelines.
 - [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [NIH-HPC/python-in-hpc](https://github.com/NIH-HPC/python-in-hpc) - Materials for a Python in HPC class
-- [tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons) - Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the special interest group, SIG TFX-Addons.  Join  the group at http://goo.gle/tfx-addons-group
+- [tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons) - Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the
 - [intake/intake-examples](https://github.com/intake/intake-examples) - Intake examples
 - [A3Data/hermione](https://github.com/A3Data/hermione) - ML made simple
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
@@ -631,7 +627,7 @@
 - [sedthh/pyxelate](https://github.com/sedthh/pyxelate) - Python class that generates pixel art from images
 - [acids-ircam/pytorch_flows](https://github.com/acids-ircam/pytorch_flows) - Implementation and tutorials of normalizing flows with the novel distributions module
 - [FlorianMarquardt/machine-learning-for-physicists](https://github.com/FlorianMarquardt/machine-learning-for-physicists) - Code for "Machine Learning for Physicists 2020" lecture series
-- [je-suis-tm/graph-theory](https://github.com/je-suis-tm/graph-theory) - Julia and Python complex system applications in ecology, epidemiology, sociology, economics & finance; network science models including Bianconi-Barabási, Barabási-Albert, Watts-Strogatz, Waxman Model & Erdős-Rényi; graph theory algorithms involving Gillespie, Bron Kerbosch, Ramsey, Bellman Ford, A*, Kruskal, Borůvka, Prim, Dijkstra, DSatur, Randomized Distributed, Vizing, Topological Sort, DFS, BFS
+- [je-suis-tm/graph-theory](https://github.com/je-suis-tm/graph-theory) - Julia and Python complex system applications in ecology, epidemiology, sociology, economics & finance; network science models including Bianconi-Barabási, Barabási-Albert, Watts-Strogatz, Waxman Model
 - [twitter-research/image-crop-analysis](https://github.com/twitter-research/image-crop-analysis) - Code for reproducing our analysis in the paper titled: Image Cropping on Twitter: Fairness Metrics, their Limitations, and the Importance of Representation, Design, and Agency
 - [g-benton/learning-invariances](https://github.com/g-benton/learning-invariances) - Codebase for Learning Invariances in Neural Networks
 - [haulek/CompPhysics](https://github.com/haulek/CompPhysics) - Computational Physics codes
@@ -644,7 +640,7 @@
 - [Cryoris/notebooks](https://github.com/Cryoris/notebooks) - 
 - [manzilzaheer/DeepSets](https://github.com/manzilzaheer/DeepSets) - 
 - [vkverma01/EFT](https://github.com/vkverma01/EFT) - Class Incremental learning, Task Incremental Learning
-- [wri-dssg-omdena/policy-data-analyzer](https://github.com/wri-dssg-omdena/policy-data-analyzer) - Building a model to recognize incentives for landscape restoration in environmental policies from Latin America, the US and India. Bringing NLP to the world of policy analysis through an extensible framework that includes scraping, preprocessing, active learning and text analysis pipelines.
+- [wri-dssg-omdena/policy-data-analyzer](https://github.com/wri-dssg-omdena/policy-data-analyzer) - Building a model to recognize incentives for landscape restoration in environmental policies from Latin America, the US and India. Bringing NLP to the world of policy analysis through an extensible fr
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [tacaswell/2021-03_APS](https://github.com/tacaswell/2021-03_APS) - 
 - [aimat-lab/gcnn_keras](https://github.com/aimat-lab/gcnn_keras) - Graph convolution with tf.keras
@@ -658,8 +654,8 @@
 - [hila-chefer/Transformer-Explainability](https://github.com/hila-chefer/Transformer-Explainability) - [CVPR 2021] Official PyTorch implementation for Transformer Interpretability Beyond Attention Visualization, a novel method to visualize classifications by Transformer based networks.
 - [jo-mab/TruncatedMC](https://github.com/jo-mab/TruncatedMC) - Supplementary Material for "Proposing new configurations in Monte Carlo simulations using truncated Markov Chains"
 - [andreas128/SRFlow](https://github.com/andreas128/SRFlow) - Official SRFlow training code: Super-Resolution using Normalizing Flow in PyTorch
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-- [MacroAnalyst/Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the most must-know concepts that set the foundation of data science or advanced quantitative skillsets. Suitable for statistician/econometrician, quantitative analysts, data scientists and etc. to quickly refresh the linear algebra with the assistance of Python computation and visualization.
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan
+- [MacroAnalyst/Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the most must-know concepts that set the foundation of data science or advanced quantitative s
 - [henryiii/level-up-your-python](https://github.com/henryiii/level-up-your-python) - Course over intermediate Python
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [danielalcalde/MCMC_CRBM](https://github.com/danielalcalde/MCMC_CRBM) - 
@@ -691,7 +687,7 @@
 - [hypnopump/MiniFold](https://github.com/hypnopump/MiniFold) - MiniFold: Deep Learning for Protein Structure Prediction inspired by DeepMind AlphaFold algorithm
 - [Shiling42/XY-MODEL](https://github.com/Shiling42/XY-MODEL) - Monte Carlo simulation on 2D XY-model
 - [mathieukaltschmidt/Computational-Quantum-Dynamics](https://github.com/mathieukaltschmidt/Computational-Quantum-Dynamics) - Repository to organize code and exercises for the lecture course on  "Computional Quantum Dynamics" held by Dr. M. Gärttner I attended at Heidelberg University during the winter term 2018/2019.
-- [The-Singularity-Research/linear_algebra_for_quantum_computing](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing) - This is course material for a course on linear algebra and mathematical prerequisites for quantum computing. It contains Jupyter notebooks and Python scripts that can be downloaded as part of the course.
+- [The-Singularity-Research/linear_algebra_for_quantum_computing](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing) - This is course material for a course on linear algebra and mathematical prerequisites for quantum computing. It contains Jupyter notebooks and Python scripts that can be downloaded as part of the cour
 - [darwindarak/PotentialFlow.jl](https://github.com/darwindarak/PotentialFlow.jl) - a scaffolding for building inviscid flow models
 - [matthewfeickert/jax-exploration](https://github.com/matthewfeickert/jax-exploration) - Explorations in self learning of JAX
 - [mfinzi/constrained-hamiltonian-neural-networks](https://github.com/mfinzi/constrained-hamiltonian-neural-networks) - 
@@ -852,7 +848,9 @@
 
 - [maestro-project/maestro](https://github.com/maestro-project/maestro) - An analytical cost model evaluating DNN mappings (dataflows and tiling).
 - [wilson-ye-chen/sp-mcmc](https://github.com/wilson-ye-chen/sp-mcmc) - MATLAB code for Stein Point Markov Chain Monte Carlo.
+- [lanzithinking/BayesCOV](https://github.com/lanzithinking/BayesCOV) - Flexible Bayesian Dynamic Modeling of Covariance and Correlation Matrices
 - [lacerbi/vbmc](https://github.com/lacerbi/vbmc) - Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB
+- [Sohl-Dickstein/LAHMC](https://github.com/Sohl-Dickstein/LAHMC) - Look Ahead Hamiltonian Monte Carlo
 
 ## Makefile 
 
@@ -868,11 +866,6 @@
 
 - [iamc/ML-CM-2019](https://github.com/iamc/ML-CM-2019) - Machine Learning in Condensed Matter Physics 2019  course repository
 - [metxchris/SpinSystems](https://github.com/metxchris/SpinSystems) - Simulations in C++ and Python of statistical spin systems.
-
-## Matlab 
-
-- [lanzithinking/BayesCOV](https://github.com/lanzithinking/BayesCOV) - Flexible Bayesian Dynamic Modeling of Covariance and Correlation Matrices
-- [Sohl-Dickstein/LAHMC](https://github.com/Sohl-Dickstein/LAHMC) - Look Ahead Hamiltonian Monte Carlo
 
 ## Nextflow 
 
@@ -903,7 +896,7 @@
 
 ## Objective-C++ 
 
-- [johnboiles/obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) - ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.
+- [johnboiles/obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) - ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming s
 
 ## Others 
 
@@ -919,7 +912,6 @@
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
-- [sparticlesteve/ocp](https://github.com/sparticlesteve/ocp) - https://opencatalystproject.org/
 - [data-apis/consortium-feedback](https://github.com/data-apis/consortium-feedback) - A repository for discussions related and for giving feedback on the Consortium
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [gwisk/gradguide](https://github.com/gwisk/gradguide) - A guide on STEM PhD admissions
@@ -953,7 +945,7 @@
 - [tirthajyoti/Papers-Literature-ML-DL-RL-AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) - Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning
 - [dwyl/learn-codeclimate](https://github.com/dwyl/learn-codeclimate) - :rainbow: Learn how to use CodeClimate to track the quality of your JavaScript/Node.js code.
 - [Vincent-Carrier/CocoaVim](https://github.com/Vincent-Carrier/CocoaVim) - A BetterTouchTool preset to enable Vim keybindings in any Cocoa-based macOS app
-- [iclr2020-fsai/FSAI](https://github.com/iclr2020-fsai/FSAI) - Fundamental Science in the era of AI: This ICLR 2020 workshop will address a number of pressing topics: What is good fundamental science  in an era when AI is becoming core to the way scientists interrogate and understand the physical world? How can AI help deal rigorously with the data deluge of “big science”? How can AI help amplify the social impact of fundamental science?
+- [iclr2020-fsai/FSAI](https://github.com/iclr2020-fsai/FSAI) - Fundamental Science in the era of AI: This ICLR 2020 workshop will address a number of pressing topics: What is good fundamental science  in an era when AI is becoming core to the way scientists inter
 - [nikosarcevic/HEP-ASTRO-COSMO](https://github.com/nikosarcevic/HEP-ASTRO-COSMO) - HEP/Astroparticle/Astrophysics/Cosmology open source packages. Community effort. Physics people, unite!
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) - Paper list for equivariant neural network
@@ -983,7 +975,6 @@
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) - Reinforcement learning resources curated
 - [GRAND-Lab/Awesome-Graph-Neural-Networks](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks) - Paper Lists for Graph Neural Networks
-- [learex/macOS-eGPU](https://github.com/learex/macOS-eGPU) - Make your Mac compatible with NVIDIA and AMD eGPUs. (macOS High Sierra)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -991,7 +982,6 @@
 - [iris-hep/awesome-hep](https://github.com/iris-hep/awesome-hep) - A curated list of awesome high energy and particle physics software.
 - [PurpleBooth/a-good-readme-template](https://github.com/PurpleBooth/a-good-readme-template) - A template to make good README.md
 - [hsf-training/PyHEP-resources](https://github.com/hsf-training/PyHEP-resources) - Python libraries of interest to particle physicists.  This is meant for educational purposes.
-- [JimJoyce/usps](https://github.com/JimJoyce/usps) - USPS Webtools API for Ruby
 - [ZhihangXu/Scientific-computing-paper](https://github.com/ZhihangXu/Scientific-computing-paper) - 
 - [Thenerdstation/TensorNetsForML](https://github.com/Thenerdstation/TensorNetsForML) - Code for the paper "Tensor Networks for Maching Learning"
 - [refraction-ray/admc](https://github.com/refraction-ray/admc) - Infinite order automatic differentiation for Monte Carlo with unnormalized probability distribution
@@ -1084,7 +1074,7 @@
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for rapid and reproducible ML experimentation with best practices.  ⚡🔥⚡
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [Chris-hughes10/pytorch-accelerated](https://github.com/Chris-hughes10/pytorch-accelerated) - A lightweight library designed to accelerate the process of training PyTorch models by providing a minimal, but extensible training loop which is flexible enough to handle the majority of use cases, and capable of utilizing different hardware options with no code changes required. Docs: https://pytorch-accelerated.readthedocs.io/en/latest/
+- [Chris-hughes10/pytorch-accelerated](https://github.com/Chris-hughes10/pytorch-accelerated) - A lightweight library designed to accelerate the process of training PyTorch models by providing a minimal, but extensible training loop which is flexible enough to handle the majority of use cases, a
 - [ofek/hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management
 - [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [mbilos/neural-flows-experiments](https://github.com/mbilos/neural-flows-experiments) - Experiments for Neural Flows paper
@@ -1108,7 +1098,7 @@
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 - [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
-- [microsoft/Graphormer](https://github.com/microsoft/Graphormer) - Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule science, such as material design, drug discovery, etc.
+- [microsoft/Graphormer](https://github.com/microsoft/Graphormer) - Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule s
 - [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf) - pure-Python HistFactory implementation with tensors and autodiff
 - [Rupt/which_is_real](https://github.com/Rupt/which_is_real) - Code and data to reproduce content for "A method to challenge symmetries in data with self-supervised learning" https://arxiv.org/abs/2111.05442
 - [google/ml_collections](https://github.com/google/ml_collections) - ML Collections is a library of Python Collections designed for ML use cases.
@@ -1145,6 +1135,7 @@
 - [amorehead/Equivariant-GNNs](https://github.com/amorehead/Equivariant-GNNs) - An environment for running experiments with equivariant GNN architectures
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [kevinzakka/densenet](https://github.com/kevinzakka/densenet) - A PyTorch Implementation of "Densely Connected Convolutional Networks"
+- [sparticlesteve/ocp](https://github.com/sparticlesteve/ocp) - https://opencatalystproject.org/
 - [azrael417/mlperf-deepcam](https://github.com/azrael417/mlperf-deepcam) - This is the public repo for the MLPerf DeepCAM climate data segmentation proposal.
 - [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - A terminal UI to inspect and explore Python objects
 - [philipperemy/keract](https://github.com/philipperemy/keract) - Layers Outputs and Gradients in Keras. Made easy.
@@ -1300,7 +1291,7 @@
 - [daleroberts/hdstats](https://github.com/daleroberts/hdstats) - A library of multivariate, high-dimensional statistics, and time series algorithms for spatial-temporal stacks.
 - [kracekumar/jut](https://github.com/kracekumar/jut) - Render Jupyter notebook in the terminal
 - [statphysandml/pystatplottools](https://github.com/statphysandml/pystatplottools) - Easy evaluation and plotting of statistical data and high-dimensional distributions in python - Fast generation, loading and storing of custom datasets.
-- [statphysandml/MCMCEvaluationLib](https://github.com/statphysandml/MCMCEvaluationLib) - Python library for the evaluation of simulation data. The library provides functionalities to load simulation results into Python, to perform standard evaluation algorithms for Markov Chain Monte Carlo algorithms. It further can be used to generate a pytorch dataset from the simulation data.
+- [statphysandml/MCMCEvaluationLib](https://github.com/statphysandml/MCMCEvaluationLib) - Python library for the evaluation of simulation data. The library provides functionalities to load simulation results into Python, to perform standard evaluation algorithms for Markov Chain Monte Carl
 - [simonverret/flow_monte_carlo](https://github.com/simonverret/flow_monte_carlo) - Experimentation with autoregressive normalizing flow in Monte Carlo
 - [tatsy/normalizing-flows-pytorch](https://github.com/tatsy/normalizing-flows-pytorch) - PyTorch implementations of normalizing flow and its variants.
 - [facebookresearch/RandomizedValueFunctions](https://github.com/facebookresearch/RandomizedValueFunctions) - Randomized Value Functions via Multiplicative Normalizing Flows
@@ -1325,7 +1316,7 @@
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [anyoptimization/pymoo](https://github.com/anyoptimization/pymoo) - NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO
-- [facebookresearch/taskmodularnets](https://github.com/facebookresearch/taskmodularnets) - A set of neural network modules, which are small fully connected layers operating in semantic concept space. These modules are configured through a gating function conditioned on the task to produce features representing the compatibility between the input image and the concept under consideration.
+- [facebookresearch/taskmodularnets](https://github.com/facebookresearch/taskmodularnets) - A set of neural network modules, which are small fully connected layers operating in semantic concept space. These modules are configured through a gating function conditioned on the task to produce f
 - [uvipen/Lego-generator](https://github.com/uvipen/Lego-generator) - 
 - [IntelAI/models](https://github.com/IntelAI/models) - Model Zoo for Intel® Architecture: contains Intel optimizations for running deep learning workloads on Intel® Xeon® Scalable processors
 - [fmfn/BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
@@ -1385,16 +1376,16 @@
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [nianticlabs/manydepth](https://github.com/nianticlabs/manydepth) - [CVPR 2021] Self-supervised depth estimation from short sequences
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
-- [facebookresearch/suncet](https://github.com/facebookresearch/suncet) - Code to reproduce the results in the FAIR research papers "Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples" https://arxiv.org/abs/2104.13963 and "Supervision Accelerates Pre-training in Contrastive Semi-Supervised Learning of Visual Representations" https://arxiv.org/abs/2006.10803
+- [facebookresearch/suncet](https://github.com/facebookresearch/suncet) - Code to reproduce the results in the FAIR research papers "Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples" https://arxiv.org/abs/210
 - [facebookresearch/dino](https://github.com/facebookresearch/dino) - PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
-- [Confusezius/Revisiting_Deep_Metric_Learning_PyTorch](https://github.com/Confusezius/Revisiting_Deep_Metric_Learning_PyTorch) - (ICML 2020) This repo contains code for our paper "Revisiting Training Strategies and Generalization Performance in Deep Metric Learning" (https://arxiv.org/abs/2002.08473) to facilitate consistent research in the field of Deep Metric Learning.
+- [Confusezius/Revisiting_Deep_Metric_Learning_PyTorch](https://github.com/Confusezius/Revisiting_Deep_Metric_Learning_PyTorch) - (ICML 2020) This repo contains code for our paper "Revisiting Training Strategies and Generalization Performance in Deep Metric Learning" (https://arxiv.org/abs/2002.08473) to facilitate consistent re
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [chrisvdh/shadowtorch](https://github.com/chrisvdh/shadowtorch) - PyTorch implementation of the Shadow Manifold Hamiltonian Monte Carlo sampler
 - [google-research/batch_rl](https://github.com/google-research/batch_rl) - Offline Reinforcement Learning (aka Batch Reinforcement Learning) on Atari 2600 games
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
-- [fablabnbg/inkscape-centerline-trace](https://github.com/fablabnbg/inkscape-centerline-trace) - A bitmap vectorizer that can trace along the centerline of a stroke. The builtin inkscape 'trace bitmap' can only trace edges, thus resulting in double lines for most basic use cases. It uses 'autotrace -centerline' and an optimal threshold to vectorize a pixel image.
+- [fablabnbg/inkscape-centerline-trace](https://github.com/fablabnbg/inkscape-centerline-trace) - A bitmap vectorizer that can trace along the centerline of a stroke. The builtin inkscape 'trace bitmap' can only trace edges, thus resulting in double lines for most basic use cases. It uses 'autotra
 - [tensorforce/tensorforce](https://github.com/tensorforce/tensorforce) - Tensorforce: a TensorFlow library for applied reinforcement learning
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
@@ -1423,7 +1414,7 @@
 - [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) - Type hints support for the Sphinx autodoc extension
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [hadimafshar/NoVopHMC](https://github.com/hadimafshar/NoVopHMC) - 
-- [samuelmurail/gromacs_py](https://github.com/samuelmurail/gromacs_py) - Gromacs_py is a python library allowing a simplified use of the gromacs MD simulation software. Gromacs_py can build topologie based on a pdb file, create the simulation system (box, add water and ions) and run minimisation, equilibration and production run.
+- [samuelmurail/gromacs_py](https://github.com/samuelmurail/gromacs_py) - Gromacs_py is a python library allowing a simplified use of the gromacs MD simulation software. Gromacs_py can build topologie based on a pdb file, create the simulation system (box, add water and ion
 - [wellecks/naturalproofs](https://github.com/wellecks/naturalproofs) - NaturalProofs: Mathematical Theorem Proving in Natural Language (NeurIPS 2021 Datasets & Benchmarks)
 - [google-research/pegasus](https://github.com/google-research/pegasus) - 
 - [lzzcd001/ade-code](https://github.com/lzzcd001/ade-code) - 
@@ -1443,7 +1434,7 @@
 - [priyankjaini/discFlowMH](https://github.com/priyankjaini/discFlowMH) - Pytorch code for Sampling in Combinatorial Spaces with SurVAE Flow Augmented MCMC
 - [yukimasano/linear-probes](https://github.com/yukimasano/linear-probes) - Evaluating AlexNet features at various depths
 - [clarken92/DisentanglementMetrics](https://github.com/clarken92/DisentanglementMetrics) - This repository contains the full code for our paper "Theory and evaluation metrics for learning disentangled representations"
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, a
 - [distdl/distdl](https://github.com/distdl/distdl) - 
 - [maxjiang93/ugscnn](https://github.com/maxjiang93/ugscnn) - Spherical CNNs on Unstructured Grids Using Parameterized Differential Operators
 - [hackingmaterials/rocketsled](https://github.com/hackingmaterials/rocketsled) - plug-n-play black box optimizer for high-throughput computing
@@ -1468,7 +1459,7 @@
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [lucidrains/egnn-pytorch](https://github.com/lucidrains/egnn-pytorch) - Implementation of E(n)-Equivariant Graph Neural Networks, in Pytorch
-- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/Troubleshooting/119e30f331799b30fb9594db29740685cb09425b
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [pimdh/relie](https://github.com/pimdh/relie) - Experiments for the AISTATS publication on Reparameterizing Distributions over Lie Groups
 - [Romit-Maulik/PyParSVD](https://github.com/Romit-Maulik/PyParSVD) - An implementation of the 1. Parallel, 2. Streaming, 3. Randomized SVD using MPI4Py
@@ -1551,7 +1542,7 @@
 - [xflash96/pybind11_package_example](https://github.com/xflash96/pybind11_package_example) - Example python package with pybind11 cpp extension
 - [materialsvirtuallab/maml](https://github.com/materialsvirtuallab/maml) - Python for Materials Machine Learning, Materials Descriptors, Machine Learning Force Fields, Deep Learning, etc.
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
-- [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+- [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [johannbrehmer/pointers](https://github.com/johannbrehmer/pointers) - Things that make me feel productive
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
 - [JelteF/PyLaTeX](https://github.com/JelteF/PyLaTeX) - A Python library for creating LaTeX files
@@ -1601,8 +1592,8 @@
 - [rail-berkeley/softlearning](https://github.com/rail-berkeley/softlearning) - Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm.
 - [zongyi-li/fourier_neural_operator](https://github.com/zongyi-li/fourier_neural_operator) - Use Fourier transform to learn operators in differential equations.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [k2sebeom/mlsocket](https://github.com/k2sebeom/mlsocket) - python socket that can send numpy arrays and ml models
 - [ekbanasolutions/numpy-using-socket](https://github.com/ekbanasolutions/numpy-using-socket) - Send Python Numpy Array over TCP/IP socket with simple codes.
+- [k2sebeom/mlsocket](https://github.com/k2sebeom/mlsocket) - python socket that can send numpy arrays and ml models
 - [jonasrauber/eagerpy](https://github.com/jonasrauber/eagerpy) - PyTorch, TensorFlow, JAX and NumPy — all of them natively using the same code
 - [jwkvam/celluloid](https://github.com/jwkvam/celluloid) - :movie_camera: Matplotlib animations made easy
 - [Haokai-Zhang/EasyMPS](https://github.com/Haokai-Zhang/EasyMPS) - A pedagogical realization of MPS method.
@@ -1617,8 +1608,8 @@
 - [vardigroup/TensorOrder](https://github.com/vardigroup/TensorOrder) - A tool for weighted model counting through tensor network contraction
 - [SymJAX/SymJAX](https://github.com/SymJAX/SymJAX) - Documentation:
 - [piomonti/carefl](https://github.com/piomonti/carefl) - Code for "Causal autoregressive flows" - AISTATS, 2021
-- [omry/omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [akandykeller/SelfNormalizingFlows](https://github.com/akandykeller/SelfNormalizingFlows) - 
+- [omry/omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [NVlabs/NVAE](https://github.com/NVlabs/NVAE) - The Official PyTorch Implementation of "NVAE: A Deep Hierarchical Variational Autoencoder" (NeurIPS 2020 spotlight paper)
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [deepmind/jax_verify](https://github.com/deepmind/jax_verify) - Neural network verification in JAX
@@ -1749,9 +1740,9 @@
 - [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
 - [MelkoCollective/ICTP-SAIFR-MLPhysics](https://github.com/MelkoCollective/ICTP-SAIFR-MLPhysics) - Minicourse on Machine Learning for Many-Body Physics, Sept 25 – 29, 2017  São Paulo, Brazil
 - [ellendmk/DL_and_RG](https://github.com/ellendmk/DL_and_RG) - This repo contains code used to run experiments for the paper titled "Is Deep Learning a Renormalization Group Flow?" arXiv:1906.05212.
-- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperp
 - [bayesiains/nflows](https://github.com/bayesiains/nflows) - Normalizing flows in PyTorch
-- [IntelPython/scikit-learn_bench](https://github.com/IntelPython/scikit-learn_bench) - scikit-learn_bench benchmarks various implementations of machine learning algorithms across data analytics frameworks. It currently support the scikit-learn, DAAL4PY, cuML, and XGBoost frameworks for commonly used machine learning algorithms.
+- [IntelPython/scikit-learn_bench](https://github.com/IntelPython/scikit-learn_bench) - scikit-learn_bench benchmarks various implementations of machine learning algorithms across data analytics frameworks. It currently support the scikit-learn, DAAL4PY, cuML, and XGBoost frameworks for
 - [gcarleo/mydocstring](https://github.com/gcarleo/mydocstring) - A tool for extracting and converting Google-style docstrings to plain-text, Markdown, and JSON
 - [autonomousvision/occupancy_flow](https://github.com/autonomousvision/occupancy_flow) - This repository contains the code for the ICCV 2019 paper "Occupancy Flow - 4D Reconstruction by Learning Particle Dynamics"
 - [deepmind/acme](https://github.com/deepmind/acme) - A library of reinforcement learning components and agents
@@ -1888,7 +1879,7 @@
 - [m-labs/artiq](https://github.com/m-labs/artiq) - A leading-edge control system for quantum information experiments
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [Gilt-TNR/Gilt-TNR](https://github.com/Gilt-TNR/Gilt-TNR) - An implementation of the Gilt-TNR tensor network renormalization algorithm for square and cubical lattices.
-- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [ploggingdev/ploghub](https://github.com/ploggingdev/ploghub) - 
 - [mathics/IMathics](https://github.com/mathics/IMathics) - Jupyter Kernel for Mathics
 - [scikit-hep/iminuit](https://github.com/scikit-hep/iminuit) - Jupyter-friendly Python interface for C++ MINUIT2
@@ -1928,7 +1919,7 @@
 
 - [joonhap/THT_source](https://github.com/joonhap/THT_source) - source files for tempered Hamiltonian transitions
 - [bonStats/smcdar](https://github.com/bonStats/smcdar) - Data and code to accompany paper "Accelerating sequential Monte Carlo with surrogate likelihoods"
-- [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficiency and effectivity, explore adstock rates and saturation curves. It's built for granular datasets with many independent variables and therefore especially suitable for digital and direct response advertisers with rich dataset.
+- [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross vali
 - [yao-yl/path-tempering](https://github.com/yao-yl/path-tempering) - continuous tempering by path sampling
 - [wxwx1993/PM_COVID](https://github.com/wxwx1993/PM_COVID) - Public Available Code and Data to Reproduce Analyses in "Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis."
 
@@ -1948,6 +1939,7 @@
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [scirate/scirate](https://github.com/scirate/scirate) - An open peer review site for arXiv preprints
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+- [JimJoyce/usps](https://github.com/JimJoyce/usps) - USPS Webtools API for Ruby
 - [gaffneyc/usps](https://github.com/gaffneyc/usps) - USPS Webtools API for Ruby
 - [samg/timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
 - [ttscoff/doing](https://github.com/ttscoff/doing) - 
@@ -1977,6 +1969,7 @@
 
 ## SCSS 
 
+- [damiankorcz/Prism-Theme](https://github.com/damiankorcz/Prism-Theme) - A Comprehensive, Highly-Customisable and Elegant Light/Dark Theme for Obsidian.md
 - [l-lin/font-awesome-animation](https://github.com/l-lin/font-awesome-animation) - Simple animations using FontAwesome and some CSS3.
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
@@ -2022,15 +2015,16 @@
 - [coreyjadams/ThetaGPU-Containers](https://github.com/coreyjadams/ThetaGPU-Containers) - Singularity recipes for ThetaGPU
 - [izmailovpavel/flowgmm](https://github.com/izmailovpavel/flowgmm) - 
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [richin13/dotfiles](https://github.com/richin13/dotfiles) - My dotfiles. Neovim + Zsh + Tmux optimized for python & React development
 - [RescueTime/git-commits-to-rescuetime-daily-highlights](https://github.com/RescueTime/git-commits-to-rescuetime-daily-highlights) - An example script to show how to log code commits as Daily Highlights in RescueTime
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
+- [learex/macOS-eGPU](https://github.com/learex/macOS-eGPU) - Make your Mac compatible with NVIDIA and AMD eGPUs. (macOS High Sierra)
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [BrandonRoehl/zsh-clean](https://github.com/BrandonRoehl/zsh-clean) - Minimal customizable ZSH theme
 - [mjrafferty/apollo-zsh-theme](https://github.com/mjrafferty/apollo-zsh-theme) - Heavily customizable, compatible, and fast ZSH theme framework.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [jjangsangy/MacOS-TensorflowBuilds](https://github.com/jjangsangy/MacOS-TensorflowBuilds) - Optimized tensorflow wheels binaries build for macos
 - [umurgdk/ddnotes](https://github.com/umurgdk/ddnotes) - drop down notes for linux window managers
@@ -2109,7 +2103,7 @@
 - [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action) - :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
 - [namedtensor/notation](https://github.com/namedtensor/notation) - 
 - [wzpan/BeamerStyleSlides](https://github.com/wzpan/BeamerStyleSlides) - 🌈Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。
-- [mastwood/advancedquantum](https://github.com/mastwood/advancedquantum) - My notes from Advanced Quantum Theory (taught by Tobias Osborne). This course covers the mathematical formalism and physics of many-particle quantum mechanics (in the framework of manifolds and configuration space), scattering theory, as well as introductory relativistic quantum mechanics.
+- [mastwood/advancedquantum](https://github.com/mastwood/advancedquantum) - My notes from Advanced Quantum Theory (taught by Tobias Osborne). This course covers the mathematical formalism and physics of many-particle quantum mechanics (in the framework of manifolds and config
 - [henryiii/presentation](https://github.com/henryiii/presentation) - A basis for presentations
 - [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - Complete collection of my PGF/TikZ figures.
 - [iml-wg/HEP-ML-Resources](https://github.com/iml-wg/HEP-ML-Resources) - Listing of useful learning resources for machine learning applications in high energy physics (HEPML)
@@ -2119,7 +2113,6 @@
 - [dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates) - A collection of LaTeX templates used for research, courses, and miscellanea.
 - [MilesCranmer/python_citations](https://github.com/MilesCranmer/python_citations) - Bibtex for various Python science and machine learning software
 - [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
-- [datasciencescoop/Data-Science--Cheat-Sheet](https://github.com/datasciencescoop/Data-Science--Cheat-Sheet) - Cheat Sheets
 - [sagemath/sagetex](https://github.com/sagemath/sagetex) - embed code, results of computations, and plots from the Sage mathematics software suite (https://www.sagemath.org) into LaTeX documents
 - [jxy/hmc_test](https://github.com/jxy/hmc_test) - 
 - [mhjensen/MLFRIB](https://github.com/mhjensen/MLFRIB) - Files for Machine Learning and Artificial Intelligence in Nuclear Physics
@@ -2149,7 +2142,7 @@
 - [justmemos/memos](https://github.com/justmemos/memos) - An open source, self-hosted alternative to flomo.
 - [jupyterlab-contrib/jupyter-ui-toolkit](https://github.com/jupyterlab-contrib/jupyter-ui-toolkit) - UI Toolkit for Jupyter
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
-- [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for papers and books.
+- [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
 - [jeffersonlicet/snipped](https://github.com/jeffersonlicet/snipped) - 🖥️ 🖼️ Create fancy screenshots of your code without leaving the editor.
 - [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
@@ -2178,7 +2171,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [IgorSzyporyn/badger-ui](https://github.com/IgorSzyporyn/badger-ui) - Badger UI is a theming tool for creating theme design systems
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — easy-to-use and performant open-source ML experiment tracker.
-- [functionland/fotos](https://github.com/functionland/fotos) - This is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box", "Dfinity", "Filecoin" and "Crust".
+- [functionland/fotos](https://github.com/functionland/fotos) - This is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box", "Dfi
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
