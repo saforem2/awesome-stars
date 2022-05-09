@@ -377,6 +377,7 @@
 
 ## JavaScript 
 
+- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [saforem2/physicsSeminar](https://github.com/saforem2/physicsSeminar) - Talk for physics seminar
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
@@ -1726,7 +1727,7 @@
 - [danielegrattarola/spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
 - [jacobjinkelly/easy-neural-ode](https://github.com/jacobjinkelly/easy-neural-ode) - Code for the paper "Learning Differential Equations that are Easy to Solve"
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
-- [kaust-vislab/horovod-gpu-data-science-project](https://github.com/kaust-vislab/horovod-gpu-data-science-project) - Template repository for a Python 3-based data science project that uses Horovod.
+- [KAUST-Center-for-Teaching-and-Learning/horovod-gpu-data-science-project](https://github.com/KAUST-Center-for-Teaching-and-Learning/horovod-gpu-data-science-project) - Template repository for a Python 3-based data science project that uses Horovod.
 - [CUAI/Neural-Manifold-Ordinary-Differential-Equations](https://github.com/CUAI/Neural-Manifold-Ordinary-Differential-Equations) - [NeurIPS 2020] Neural Manifold Ordinary Differential Equations (https://arxiv.org/abs/2006.10254)
 - [necludov/iMCMC](https://github.com/necludov/iMCMC) - 
 - [bayesiains/nsf](https://github.com/bayesiains/nsf) - Code for Neural Spline Flows paper
@@ -2251,6 +2252,7 @@
 
 ## Vue 
 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [ActivityWatch/aw-webui](https://github.com/ActivityWatch/aw-webui) - Webapp for visualizing and browsing ActivityWatch data, built with Vue.js.
 - [slidevjs/themes](https://github.com/slidevjs/themes) - Official themes for Slidev
 - [duerrsimon/bioicons](https://github.com/duerrsimon/bioicons) - A library of free open source icons for science illustrations in biology and chemistry
