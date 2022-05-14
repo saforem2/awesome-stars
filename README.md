@@ -378,6 +378,8 @@
 
 ## JavaScript 
 
+- [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo) - 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
+- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [saforem2/physicsSeminar](https://github.com/saforem2/physicsSeminar) - Talk for physics seminar
@@ -429,7 +431,6 @@
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [asford/notebook_input_mode](https://github.com/asford/notebook_input_mode) - Jupyter nbextension supporting alternate input modes.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [chi-feng/mcmc-demo](https://github.com/chi-feng/mcmc-demo) - Interactive Markov-chain Monte Carlo Javascript demos
 - [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits.
@@ -1177,7 +1178,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Web-UI testing framework that lets you move fast and detect broken things. Made for Python/pytest developers. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework for Selenium. Supports pytest and behave-BDD.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -2179,9 +2180,10 @@
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
 - [getmoro/moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
 - [github/github-artifact-exporter](https://github.com/github/github-artifact-exporter) - A set of packages to make exporting artifacts from GitHub easier
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [egoist/flowkit](https://github.com/egoist/flowkit) - A simple online flow chart editor.
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [thecodingmachine/workadventure](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
