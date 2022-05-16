@@ -982,7 +982,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [iris-hep/awesome-hep](https://github.com/iris-hep/awesome-hep) - A curated list of awesome high energy and particle physics software.
 - [PurpleBooth/a-good-readme-template](https://github.com/PurpleBooth/a-good-readme-template) - A template to make good README.md
 - [hsf-training/PyHEP-resources](https://github.com/hsf-training/PyHEP-resources) - Python libraries of interest to particle physicists.  This is meant for educational purposes.
@@ -2143,7 +2143,7 @@
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
-- [justmemos/memos](https://github.com/justmemos/memos) - An open source, self-hosted alternative to flomo.
+- [justmemos/memos](https://github.com/justmemos/memos) - An open source, quickly self-hosted alternative to flomo.
 - [jupyterlab-contrib/jupyter-ui-toolkit](https://github.com/jupyterlab-contrib/jupyter-ui-toolkit) - UI Toolkit for Jupyter
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
