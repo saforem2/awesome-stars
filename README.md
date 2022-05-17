@@ -1477,7 +1477,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-442-Stars](https://github.com/iBug/This-Repo-Has-442-Stars) - Yes, it's true :heart: This repository has 442 stars.
+- [iBug/This-Repo-Has-443-Stars](https://github.com/iBug/This-Repo-Has-443-Stars) - Yes, it's true :purple_heart: This repository has 443 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1730,7 +1730,7 @@
 - [danielegrattarola/spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
 - [jacobjinkelly/easy-neural-ode](https://github.com/jacobjinkelly/easy-neural-ode) - Code for the paper "Learning Differential Equations that are Easy to Solve"
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
-- [KAUST-Center-for-Teaching-and-Learning/horovod-gpu-data-science-project](https://github.com/KAUST-Center-for-Teaching-and-Learning/horovod-gpu-data-science-project) - Template repository for a Python 3-based data science project that uses Horovod.
+- [KAUST-CTL/horovod-gpu-data-science-project](https://github.com/KAUST-CTL/horovod-gpu-data-science-project) - Template repository for a Python 3-based data science project that uses Horovod.
 - [CUAI/Neural-Manifold-Ordinary-Differential-Equations](https://github.com/CUAI/Neural-Manifold-Ordinary-Differential-Equations) - [NeurIPS 2020] Neural Manifold Ordinary Differential Equations (https://arxiv.org/abs/2006.10254)
 - [necludov/iMCMC](https://github.com/necludov/iMCMC) - 
 - [bayesiains/nsf](https://github.com/bayesiains/nsf) - Code for Neural Spline Flows paper
