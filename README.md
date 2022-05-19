@@ -1178,7 +1178,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework with all the tools you need to automate web testing.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ⚪ Python test framework for browser automation. Includes a Pytest plugin, a test generator, desktop apps, reports, a dashboard, a Behave plugin, and more.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1477,7 +1477,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-446-Stars](https://github.com/iBug/This-Repo-Has-446-Stars) - Yes, it's true :purple_heart: This repository has 446 stars.
+- [iBug/This-Repo-Has-447-Stars](https://github.com/iBug/This-Repo-Has-447-Stars) - Yes, it's true :two_hearts: This repository has 447 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1625,6 +1625,7 @@
 - [arviz-devs/arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [JaydeepSingh15/Lattice-Gauge-Theory](https://github.com/JaydeepSingh15/Lattice-Gauge-Theory) - Framework for computing Wilson loops in U(1), SU(3) gauge theories
 - [PhIMaL/temporal_normalizing_flows](https://github.com/PhIMaL/temporal_normalizing_flows) - 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [ludwigwinkler/pytorch_ProbabilisticLayers](https://github.com/ludwigwinkler/pytorch_ProbabilisticLayers) - Bayesian Neural Networks with Parallelized Sampling of LogLikelihood
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [nicola-decao/s-vae-pytorch](https://github.com/nicola-decao/s-vae-pytorch) - Pytorch implementation of Hyperspherical Variational Auto-Encoders
@@ -2190,7 +2191,6 @@
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [sadn1ck/draw-and-code](https://github.com/sadn1ck/draw-and-code) - Draw your explanation and write your code without pointlessly switching tabs!
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jupyterlab-contrib/jupyterlab-vim](https://github.com/jupyterlab-contrib/jupyterlab-vim) - :neckbeard: Vim notebook cell bindings for JupyterLab
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
