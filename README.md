@@ -1030,6 +1030,8 @@
 
 ## Python 
 
+- [rikab/GaussianAnsatz](https://github.com/rikab/GaussianAnsatz) - 
+- [fidelity/spock](https://github.com/fidelity/spock) - spock is a framework that helps manage complex parameter configurations during research and development of Python applications
 - [gao-lab/GLUE](https://github.com/gao-lab/GLUE) - Graph-linked unified embedding for single-cell multi-omics data integration
 - [JurijsNazarovs/bayesian_nn](https://github.com/JurijsNazarovs/bayesian_nn) - Bayesian Neural Networks in PyTorch
 - [cedricwangyu/NoFAS](https://github.com/cedricwangyu/NoFAS) - Variational Inference with NoFAS: Normalizing Flow with Adaptive Surrogate for Computationally Expensive Models
@@ -1056,7 +1058,7 @@
 - [janosh/tensorboard-reducer](https://github.com/janosh/tensorboard-reducer) - Reduce multiple PyTorch TensorBoard runs to new event (or CSV) files.
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [MarcSkovMadsen/dataviz-in-python](https://github.com/MarcSkovMadsen/dataviz-in-python) - A repository used to provide an introduction to dataviz in Python
-- [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable.
+- [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable. https://docs.kidger.site/diffrax/
 - [patrick-kidger/mkposters](https://github.com/patrick-kidger/mkposters) - Make posters from Markdown files.
 - [microsoft/hummingbird](https://github.com/microsoft/hummingbird) - Hummingbird compiles trained ML models into tensor computation for faster inference.
 - [tobgu/pyrthon](https://github.com/tobgu/pyrthon) - Literal support for Pyrsistent data structures in Python
@@ -1098,7 +1100,7 @@
 - [AnweshGangula/PKMigrator](https://github.com/AnweshGangula/PKMigrator) - Tools to migrate between various Personal Knowledge Management Utilities
 - [michael-c-brennan/lazymaps](https://github.com/michael-c-brennan/lazymaps) - Numerical examples from 'Greedy inference with structure-exploiting lazy maps'
 - [nschloe/matplotx](https://github.com/nschloe/matplotx) - :bar_chart: More styles and useful extensions for Matplotlib
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 - [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
 - [microsoft/Graphormer](https://github.com/microsoft/Graphormer) - Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule s
@@ -1178,7 +1180,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ⚪ Python test framework for browser automation. Includes a Pytest plugin, a test generator, desktop apps, reports, a dashboard, a Behave plugin, and more.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A complete framework for web automation and end-to-end testing. SeleniumBase uses "pytest" for running Python scripts, while using WebDriver for controlling web browsers.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1204,7 +1206,7 @@
 - [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
 - [VincentStimper/hmc-hyperparameter-tuning](https://github.com/VincentStimper/hmc-hyperparameter-tuning) - Framework to tune the hyperparameters of Hamiltonian Monte Carlo in an automated fashion
 - [Liao-Xu/SFS_py](https://github.com/Liao-Xu/SFS_py) - 
-- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations =&gt; neural networks in JAX.
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered transforms =&gt; neural networks in JAX. https://docs.kidger.site/equinox/
 - [poets-ai/elegy](https://github.com/poets-ai/elegy) - A High Level API for Deep Learning in JAX
 - [chrisculver/WickContractions](https://github.com/chrisculver/WickContractions) - 
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
@@ -1477,7 +1479,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-447-Stars](https://github.com/iBug/This-Repo-Has-447-Stars) - Yes, it's true :two_hearts: This repository has 447 stars.
+- [iBug/This-Repo-Has-447-Stars](https://github.com/iBug/This-Repo-Has-447-Stars) - Yes, it's true :sparkling_heart: This repository has 447 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2143,7 +2145,7 @@
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
-- [justmemos/memos](https://github.com/justmemos/memos) - An open source, quickly self-hosted alternative to flomo.
+- [justmemos/memos](https://github.com/justmemos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file.
 - [jupyterlab-contrib/jupyter-ui-toolkit](https://github.com/jupyterlab-contrib/jupyter-ui-toolkit) - UI Toolkit for Jupyter
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
