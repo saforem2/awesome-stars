@@ -212,7 +212,6 @@
 - [1-2-3/remark-it](https://github.com/1-2-3/remark-it) - markdown -&gt; slideshow ——Write PPT like a programmer
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native across platforms. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
-- [FedeClaudi/Term.jl](https://github.com/FedeClaudi/Term.jl) - Julia library for stylized terminal output
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
 - [gitobsidiantutorial/obsidian-tabs](https://github.com/gitobsidiantutorial/obsidian-tabs) - Plugin for tabbed obsidian browsing
 - [drewpotter/resume](https://github.com/drewpotter/resume) - My CV/resume using a free Hugo theme
@@ -488,6 +487,7 @@
 - [mahaa2/EmbeddedLMC](https://github.com/mahaa2/EmbeddedLMC) - 
 - [jonniedie/ComponentArrays.jl](https://github.com/jonniedie/ComponentArrays.jl) - Arrays with arbitrarily nested named components.
 - [NQCD/NQCDynamics.jl](https://github.com/NQCD/NQCDynamics.jl) - Fast and flexible nonadiabatic molecular dynamics in Julia!
+- [FedeClaudi/Term.jl](https://github.com/FedeClaudi/Term.jl) - Julia library for stylized terminal output
 - [rafaqz/DimensionalData.jl](https://github.com/rafaqz/DimensionalData.jl) - Named dimensions and indexing for julia arrays and other data
 - [akio-tomiya/Gaugefields.jl](https://github.com/akio-tomiya/Gaugefields.jl) - Utilities of gauge fields
 - [JuliaArrays/ArrayInterface.jl](https://github.com/JuliaArrays/ArrayInterface.jl) - Designs for new Base array interface primitives, used widely through scientific machine learning (SciML) and other organizations
@@ -1030,6 +1030,7 @@
 
 ## Python 
 
+- [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a sampling library designed for ease of use, speed and modularity.
 - [rikab/GaussianAnsatz](https://github.com/rikab/GaussianAnsatz) - 
 - [fidelity/spock](https://github.com/fidelity/spock) - spock is a framework that helps manage complex parameter configurations during research and development of Python applications
 - [gao-lab/GLUE](https://github.com/gao-lab/GLUE) - Graph-linked unified embedding for single-cell multi-omics data integration
@@ -1180,7 +1181,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A complete framework for web automation and end-to-end testing. SeleniumBase uses "pytest" for running Python scripts, while using WebDriver for controlling web browsers.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Fast, easy, and reliable Web/UI testing with Python. ✅
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -2130,6 +2131,7 @@
 
 ## TypeScript 
 
+- [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Mara-Li/obsidian-mkdocs-publisher-plugin](https://github.com/Mara-Li/obsidian-mkdocs-publisher-plugin) - Making a plugin for obsidian to publish note throught mkdocs
 - [jffaust/obsidian-variables](https://github.com/jffaust/obsidian-variables) - Plugin that adds support for variables in Obsidian.md
