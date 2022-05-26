@@ -613,6 +613,7 @@
 - [google/nitroml](https://github.com/google/nitroml) - NitroML is a modular, portable, and scalable model-quality benchmarking framework for Machine Learning and Automated Machine Learning (AutoML) pipelines.
 - [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [NIH-HPC/python-in-hpc](https://github.com/NIH-HPC/python-in-hpc) - Materials for a Python in HPC class
+- [tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons) - Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the 
 - [intake/intake-examples](https://github.com/intake/intake-examples) - Intake examples
 - [A3Data/hermione](https://github.com/A3Data/hermione) - ML made simple
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
@@ -1030,6 +1031,7 @@
 
 ## Python 
 
+- [mit-ll-responsible-ai/hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Configurable, reproducible, and scalable Python programs, via Hydra
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a sampling library designed for ease of use, speed and modularity.
 - [rikab/GaussianAnsatz](https://github.com/rikab/GaussianAnsatz) - 
 - [fidelity/spock](https://github.com/fidelity/spock) - spock is a framework that helps manage complex parameter configurations during research and development of Python applications
@@ -1283,7 +1285,6 @@
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [tensorflow/tfx](https://github.com/tensorflow/tfx) - TFX is an end-to-end platform for deploying production ML pipelines
-- [tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons) - Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the 
 - [intake/intake-xarray](https://github.com/intake/intake-xarray) - Intake plugin for xarray
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
@@ -1480,7 +1481,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-448-Stars](https://github.com/iBug/This-Repo-Has-448-Stars) - Yes, it's true :yellow_heart: This repository has 448 stars.
+- [iBug/This-Repo-Has-448-Stars](https://github.com/iBug/This-Repo-Has-448-Stars) - Yes, it's true :heartpulse: This repository has 448 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1926,7 +1927,7 @@
 
 - [joonhap/THT_source](https://github.com/joonhap/THT_source) - source files for tempered Hamiltonian transitions
 - [bonStats/smcdar](https://github.com/bonStats/smcdar) - Data and code to accompany paper "Accelerating sequential Monte Carlo with surrogate likelihoods"
-- [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross vali
+- [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objectiv
 - [yao-yl/path-tempering](https://github.com/yao-yl/path-tempering) - continuous tempering by path sampling
 - [wxwx1993/PM_COVID](https://github.com/wxwx1993/PM_COVID) - Public Available Code and Data to Reproduce Analyses in "Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis."
 
