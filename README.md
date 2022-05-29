@@ -1032,6 +1032,7 @@
 
 ## Python 
 
+- [untitled-ai/jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending) - Ascend your Jupyter Notebook usage
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
 - [mit-ll-responsible-ai/hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Configurable, reproducible, and scalable Python programs, via Hydra
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a sampling library designed for ease of use, speed and modularity.
@@ -1483,7 +1484,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-449-Stars](https://github.com/iBug/This-Repo-Has-449-Stars) - Yes, it's true :two_hearts: This repository has 449 stars.
+- [iBug/This-Repo-Has-449-Stars](https://github.com/iBug/This-Repo-Has-449-Stars) - Yes, it's true :purple_heart: This repository has 449 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2134,6 +2135,7 @@
 
 ## TypeScript 
 
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [excalidraw/svg-to-excalidraw](https://github.com/excalidraw/svg-to-excalidraw) - Convert SVGs into Excalidraw data
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -2264,6 +2266,7 @@
 
 ## Vue 
 
+- [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [ActivityWatch/aw-webui](https://github.com/ActivityWatch/aw-webui) - Webapp for visualizing and browsing ActivityWatch data, built with Vue.js.
 - [slidevjs/themes](https://github.com/slidevjs/themes) - Official themes for Slidev
