@@ -574,7 +574,7 @@
 - [GTorlai/NeuralNetworks-for-Quantum](https://github.com/GTorlai/NeuralNetworks-for-Quantum) - Tutorials for the paper: "Neural network in quantum many-body physics: a hands-on tutorial"
 - [GPflow/GeometricKernels](https://github.com/GPflow/GeometricKernels) - Geometric kernels on manifolds, meshes and graphs
 - [argonne-lcf/ai-science-training-series](https://github.com/argonne-lcf/ai-science-training-series) - 
-- [gpuhackathons-org/gpubootcamp](https://github.com/gpuhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
+- [openhackathons-org/gpubootcamp](https://github.com/openhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
 - [oschulz/Why-Julia](https://github.com/oschulz/Why-Julia) - Talk motivating using Julia in scientific contexts
 - [znstrider/highlight_text](https://github.com/znstrider/highlight_text) - functions to plot text with &lt;highlighted substrings&gt; in matplotlib.
 - [sparticlesteve/cosmoflow-benchmark](https://github.com/sparticlesteve/cosmoflow-benchmark) - Benchmark implementation of CosmoFlow in TensorFlow Keras
@@ -1032,6 +1032,7 @@
 
 ## Python 
 
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package manager with PEP 582 support.
 - [untitled-ai/jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending) - Ascend your Jupyter Notebook usage
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
 - [mit-ll-responsible-ai/hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Configurable, reproducible, and scalable Python programs, via Hydra
