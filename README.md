@@ -327,7 +327,6 @@
 - [dwyl/learn-tachyons](https://github.com/dwyl/learn-tachyons) - :heart_eyes: Learn how to use Tachyons to craft beautiful, responsive and fast UI with functional CSS!
 - [haptork/csaransh](https://github.com/haptork/csaransh) - Study, Explore and Visualize Collision Cascades
 - [rajgoel/reveal.js-demos](https://github.com/rajgoel/reveal.js-demos) - Demo presentations for reveal.js
-- [pymc-devs/pymc-examples](https://github.com/pymc-devs/pymc-examples) - Examples of PyMC models, including a library of Jupyter notebooks.
 - [mavroudisv/plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
 - [zhengying/hungrymark](https://github.com/zhengying/hungrymark) - hungrymark website
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
@@ -553,6 +552,7 @@
 
 ## Jupyter Notebook 
 
+- [data-centric-ai/dcbench](https://github.com/data-centric-ai/dcbench) - A benchmark of data-centric tasks from across the machine learning lifecycle.
 - [MathOnco/Curvogram](https://github.com/MathOnco/Curvogram) - Method for plotting histograms on a curve using a West Transform
 - [CosmoStat/jax-lensing](https://github.com/CosmoStat/jax-lensing) - A JAX package for weak gravitational lensing
 - [ercobian/AdaAnn-VI-NF](https://github.com/ercobian/AdaAnn-VI-NF) - The code for the numerical examples in "AdaAnn: Adaptive Annealing Scheduler for Probability Approximation" by Emma R. Cobian, Jonathan D. Hauenstein, Fang Liu, and Daniele E. Schiavazzi.
@@ -1143,6 +1143,7 @@
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
 - [Orkis-Research/Pytorch-Quaternion-Neural-Networks](https://github.com/Orkis-Research/Pytorch-Quaternion-Neural-Networks) - This repository is an update to all previous repositories with implementations of various Quaternion-valued Neural Networks in PyTorch
+- [pymc-devs/pymc-examples](https://github.com/pymc-devs/pymc-examples) - Examples of PyMC models, including a library of Jupyter notebooks.
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) - A platform for managing machine learning experiments
 - [amorehead/Equivariant-GNNs](https://github.com/amorehead/Equivariant-GNNs) - An environment for running experiments with equivariant GNN architectures
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
@@ -1187,7 +1188,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A web automation framework for Python developers. Includes a test generator, a pytest plugin, dashboards, reports, a driver manager, and more.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework / pytest plugin for web testing and automation. Includes driver managers, a dashboard, a test recorder+exporter, and other tools.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1485,7 +1486,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-449-Stars](https://github.com/iBug/This-Repo-Has-449-Stars) - Yes, it's true :purple_heart: This repository has 449 stars.
+- [iBug/This-Repo-Has-449-Stars](https://github.com/iBug/This-Repo-Has-449-Stars) - Yes, it's true :orange_heart: This repository has 449 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1641,7 +1642,7 @@
 - [tum-pbs/Solver-in-the-Loop](https://github.com/tum-pbs/Solver-in-the-Loop) - Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers
 - [longyangking/PhaseOfMatter](https://github.com/longyangking/PhaseOfMatter) - Machine Learning Phase of matter
 - [steindoringi/Variational_Integrator_Networks](https://github.com/steindoringi/Variational_Integrator_Networks) - 
-- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC)
+- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [sashahart/vex](https://github.com/sashahart/vex) - Run a command in the named virtualenv.
 - [probcomp/autoimcmc](https://github.com/probcomp/autoimcmc) - Code accompanying the paper "Automating Involutive MCMC using Probabilistic and Differentiable Programming"
 - [cansarigol/pdbr](https://github.com/cansarigol/pdbr) - pdb + Rich library
@@ -2003,6 +2004,7 @@
 
 ## Shell 
 
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
 - [argonne-lcf/conda_install_scripts](https://github.com/argonne-lcf/conda_install_scripts) - Some install scripts for miniconda that include tensorflow and keras in the intel channel.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [theshteves/commit-bot](https://github.com/theshteves/commit-bot) - Automatically generates GitHub activity
@@ -2140,7 +2142,7 @@
 - [excalidraw/svg-to-excalidraw](https://github.com/excalidraw/svg-to-excalidraw) - Convert SVGs into Excalidraw data
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [Mara-Li/obsidian-github-publisher](https://github.com/Mara-Li/obsidian-github-publisher) - Making a plugin for obsidian to publish note throught mkdocs
+- [Mara-Li/obsidian-github-publisher](https://github.com/Mara-Li/obsidian-github-publisher) - Making a plugin for obsidian to publish note to github
 - [jffaust/obsidian-variables](https://github.com/jffaust/obsidian-variables) - Plugin that adds support for variables in Obsidian.md
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
 - [xldenis/obsidian-latex](https://github.com/xldenis/obsidian-latex) - 
@@ -2167,7 +2169,7 @@
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
-- [schemar/obsidian-tasks](https://github.com/schemar/obsidian-tasks) - Task management for the Obsidian knowledge base.
+- [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [retorquere/zotero-storage-scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [Dmytro-Shulha/obsidian-plotly](https://github.com/Dmytro-Shulha/obsidian-plotly) - Obsidian plugin to embed Plotly charts into markdown notes.
