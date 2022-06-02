@@ -670,7 +670,6 @@
 - [mattjj/autodidact](https://github.com/mattjj/autodidact) - A pedagogical implementation of Autograd
 - [argonne-lcf/sdl_ai_workshop](https://github.com/argonne-lcf/sdl_ai_workshop) - The ALCF hosts a regular simulation, data, and learning workshop to help users scale their data science workflows. This workshop agenda repo focuses on AI capabilities at scale.
 - [xiaoh/DAFI](https://github.com/xiaoh/DAFI) - DAFI: Ensemble based data assimilation and field inversion, repository for internal development
-- [datawhalechina/fantastic-matplotlib](https://github.com/datawhalechina/fantastic-matplotlib) - Matplotlib中文教程，在线阅读地址：https://datawhalechina.github.io/fantastic-matplotlib/
 - [rmjcs2020/NATSurrogates](https://github.com/rmjcs2020/NATSurrogates) - Supporting code for ICML 2020 submission: Non-autoregressive time-series methods for stable parametric surrogate models
 - [cranmer/stats-ds-book](https://github.com/cranmer/stats-ds-book) - http://cranmer.github.io/stats-ds-book
 - [AIScienceTutorial/Material_Science](https://github.com/AIScienceTutorial/Material_Science) - 
@@ -1032,6 +1031,7 @@
 
 ## Python 
 
+- [layer6ai-labs/CEF](https://github.com/layer6ai-labs/CEF) - Code for the NeurIPS'21 paper "Tractable Density Estimation on Learned Manifolds with Conformal Embedding Flows"
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package manager with PEP 582 support.
 - [untitled-ai/jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending) - Ascend your Jupyter Notebook usage
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
@@ -1138,7 +1138,7 @@
 - [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
 - [lewoudar/httpcli](https://github.com/lewoudar/httpcli) - A Proof of concept of a modern python CLI with click, pydantic, rich and anyio
 - [ebekkers/gsplinets](https://github.com/ebekkers/gsplinets) - B-Spline CNNs on Lie groups
-- [facebookresearch/torcharrow](https://github.com/facebookresearch/torcharrow) - A torch.Tensor-like DataFrame library supporting multiple execution runtimes and Arrow as a common memory format
+- [facebookresearch/torcharrow](https://github.com/facebookresearch/torcharrow) - A machine learning preprocessing library providing performant and Pandas-style easy-to-use API for ML model development
 - [meshpro/pygmsh](https://github.com/meshpro/pygmsh) - :spider_web: Gmsh for Python
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
@@ -1188,7 +1188,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework / pytest plugin for web testing and automation. Includes driver managers, a dashboard, a test recorder+exporter, and other tools.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅🤖 A complete Python framework for reliable web automation and testing. 📊
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1570,6 +1570,7 @@
 - [MaginnGroup/PyLAT](https://github.com/MaginnGroup/PyLAT) - 
 - [federicobergamin/Variational-Inference-with-Normalizing-Flows](https://github.com/federicobergamin/Variational-Inference-with-Normalizing-Flows) - Personal implementation of "Variational Inference with Normalizing Flows" by [Rezende, et al., 2015] in PyTorch
 - [Romit-Maulik/PAR-RL](https://github.com/Romit-Maulik/PAR-RL) - Scaling RLLib for generic simulation environments on Theta
+- [datawhalechina/fantastic-matplotlib](https://github.com/datawhalechina/fantastic-matplotlib) - Matplotlib中文教程，在线阅读地址：https://datawhalechina.github.io/fantastic-matplotlib/
 - [gcucurull/jax-gcn](https://github.com/gcucurull/jax-gcn) - Graph Convolutional Networks in JAX
 - [marcelbischoff/tinygrad](https://github.com/marcelbischoff/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [aws/amazon-braket-examples](https://github.com/aws/amazon-braket-examples) - Example notebooks that show how to apply quantum computing in Amazon Braket.
@@ -2138,6 +2139,8 @@
 
 ## TypeScript 
 
+- [mauriciopoppe/function-plot](https://github.com/mauriciopoppe/function-plot) - A 2d function plotter powered by d3 and interval arithmetic
+- [leonhma/obsidian-functionplot](https://github.com/leonhma/obsidian-functionplot) - A obsidian.md plugin for rendering maths graphs.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [excalidraw/svg-to-excalidraw](https://github.com/excalidraw/svg-to-excalidraw) - Convert SVGs into Excalidraw data
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
