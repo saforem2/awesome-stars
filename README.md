@@ -338,6 +338,7 @@
 - [AndrewGYork/publication_template](https://github.com/AndrewGYork/publication_template) - A template for writing scientific papers. View it in action here: https://andrewgyork.github.io/publication_template/
 - [jakobnissen/hardware_introduction](https://github.com/jakobnissen/hardware_introduction) - What scientific programmers must know about CPUs and RAM to write fast code.
 - [saforem2/site](https://github.com/saforem2/site) - 
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [Inventium/latexcolor.com](https://github.com/Inventium/latexcolor.com) - 
 - [MisaOgura/flashtorch](https://github.com/MisaOgura/flashtorch) - Visualization toolkit for neural networks in PyTorch! Demo --&gt;
@@ -939,7 +940,6 @@
 - [davidsd/lie](https://github.com/davidsd/lie) - A python interface to the computer algebra package LiE, for computations with Lie groups, representations, etc..
 - [dwarvesf/VimMotionApp](https://github.com/dwarvesf/VimMotionApp) - Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.
 - [transformerdb/transformerdb](https://github.com/transformerdb/transformerdb) - TransformerDB
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [kriasoft/Folder-Structure-Conventions](https://github.com/kriasoft/Folder-Structure-Conventions) - Folder / directory structure options and naming conventions for software projects
 - [jason718/awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome self-supervised methods
@@ -1031,6 +1031,7 @@
 
 ## Python 
 
+- [edbennett/high-performance-python](https://github.com/edbennett/high-performance-python) - Carpentries-style lesson on Python for High Performance Computing
 - [layer6ai-labs/CEF](https://github.com/layer6ai-labs/CEF) - Code for the NeurIPS'21 paper "Tractable Density Estimation on Learned Manifolds with Conformal Embedding Flows"
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package manager with PEP 582 support.
 - [untitled-ai/jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending) - Ascend your Jupyter Notebook usage
@@ -1138,7 +1139,7 @@
 - [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
 - [lewoudar/httpcli](https://github.com/lewoudar/httpcli) - A Proof of concept of a modern python CLI with click, pydantic, rich and anyio
 - [ebekkers/gsplinets](https://github.com/ebekkers/gsplinets) - B-Spline CNNs on Lie groups
-- [facebookresearch/torcharrow](https://github.com/facebookresearch/torcharrow) - A machine learning preprocessing library providing performant and Pandas-style easy-to-use API for ML model development
+- [facebookresearch/torcharrow](https://github.com/facebookresearch/torcharrow) - A machine learning preprocessing library providing performant and Pandas-style easy-to-use API for model development
 - [meshpro/pygmsh](https://github.com/meshpro/pygmsh) - :spider_web: Gmsh for Python
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
