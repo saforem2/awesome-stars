@@ -1139,7 +1139,7 @@
 - [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
 - [lewoudar/httpcli](https://github.com/lewoudar/httpcli) - A Proof of concept of a modern python CLI with click, pydantic, rich and anyio
 - [ebekkers/gsplinets](https://github.com/ebekkers/gsplinets) - B-Spline CNNs on Lie groups
-- [facebookresearch/torcharrow](https://github.com/facebookresearch/torcharrow) - A machine learning preprocessing library providing performant and Pandas-style easy-to-use API for model development
+- [facebookresearch/torcharrow](https://github.com/facebookresearch/torcharrow) - A machine learning preprocessing library over batch data (columnar layout), providing performant and Pandas-style easy-to-use API for model development
 - [meshpro/pygmsh](https://github.com/meshpro/pygmsh) - :spider_web: Gmsh for Python
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
