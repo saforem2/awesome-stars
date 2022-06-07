@@ -1032,6 +1032,7 @@
 
 ## Python 
 
+- [wesselb/plum](https://github.com/wesselb/plum) - Multiple dispatch in Python
 - [conda-incubator/grayskull](https://github.com/conda-incubator/grayskull) - Grayskull :skull: - Recipe generator for Conda
 - [edbennett/high-performance-python](https://github.com/edbennett/high-performance-python) - Carpentries-style lesson on Python for High Performance Computing
 - [layer6ai-labs/CEF](https://github.com/layer6ai-labs/CEF) - Code for the NeurIPS'21 paper "Tractable Density Estimation on Learned Manifolds with Conformal Embedding Flows"
@@ -1191,7 +1192,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python Web UI Testing Made Easy.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 A complete framework for fast, easy, & reliable Web/UI testing. (Selenium/Python) 🚀
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1968,6 +1969,7 @@
 
 ## Rust 
 
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
@@ -2143,7 +2145,7 @@
 
 ## TypeScript 
 
-- [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - 
+- [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
 - [mauriciopoppe/function-plot](https://github.com/mauriciopoppe/function-plot) - A 2d function plotter powered by d3 and interval arithmetic
 - [leonhma/obsidian-functionplot](https://github.com/leonhma/obsidian-functionplot) - A obsidian.md plugin for rendering maths graphs.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
