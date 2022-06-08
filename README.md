@@ -1032,6 +1032,7 @@
 
 ## Python 
 
+- [gcorso/torsional-diffusion](https://github.com/gcorso/torsional-diffusion) - Implementation of Torsional Diffusion for Molecular Conformer Generation
 - [wesselb/plum](https://github.com/wesselb/plum) - Multiple dispatch in Python
 - [conda-incubator/grayskull](https://github.com/conda-incubator/grayskull) - Grayskull :skull: - Recipe generator for Conda
 - [edbennett/high-performance-python](https://github.com/edbennett/high-performance-python) - Carpentries-style lesson on Python for High Performance Computing
@@ -1142,7 +1143,7 @@
 - [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
 - [lewoudar/httpcli](https://github.com/lewoudar/httpcli) - A Proof of concept of a modern python CLI with click, pydantic, rich and anyio
 - [ebekkers/gsplinets](https://github.com/ebekkers/gsplinets) - B-Spline CNNs on Lie groups
-- [facebookresearch/torcharrow](https://github.com/facebookresearch/torcharrow) - A machine learning preprocessing library over batch data (columnar layout), providing performant and Pandas-style easy-to-use API for model development
+- [facebookresearch/torcharrow](https://github.com/facebookresearch/torcharrow) - A machine learning preprocessing library over batch data, providing performant and Pandas-style easy-to-use API for model development
 - [meshpro/pygmsh](https://github.com/meshpro/pygmsh) - :spider_web: Gmsh for Python
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
@@ -1192,7 +1193,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 A complete framework for fast, easy, & reliable Web/UI testing. (Selenium/Python) 🚀
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework for testing the entire end-to-end experience of your web app.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
