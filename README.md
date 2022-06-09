@@ -123,6 +123,7 @@
 
 ## C++ 
 
+- [ECP-WarpX/impactx](https://github.com/ECP-WarpX/impactx) - ImpactX: the next generation of the IMPACT-Z beam dynamics code
 - [svalinn/DAGMC](https://github.com/svalinn/DAGMC) - Direct Accelerated Geometry Monte Carlo Toolkit
 - [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind — Seamless operability between C++17 and Python
 - [HyTruongSon/GraphFlow](https://github.com/HyTruongSon/GraphFlow) - Deep Learning framework in C++/CUDA that supports symbolic/automatic differentiation, dynamic computation graphs, tensor/matrix operations accelerated by GPU and implementations of various state-of-th
@@ -1032,6 +1033,7 @@
 
 ## Python 
 
+- [statbiophys/MINIMALIST](https://github.com/statbiophys/MINIMALIST) - Companion Github of the MINIMALIST preprint.
 - [gcorso/torsional-diffusion](https://github.com/gcorso/torsional-diffusion) - Implementation of Torsional Diffusion for Molecular Conformer Generation
 - [wesselb/plum](https://github.com/wesselb/plum) - Multiple dispatch in Python
 - [conda-incubator/grayskull](https://github.com/conda-incubator/grayskull) - Grayskull :skull: - Recipe generator for Conda
@@ -1193,7 +1195,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework for testing the entire end-to-end experience of your web app.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1491,7 +1493,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-449-Stars](https://github.com/iBug/This-Repo-Has-449-Stars) - Yes, it's true :orange_heart: This repository has 449 stars.
+- [iBug/This-Repo-Has-449-Stars](https://github.com/iBug/This-Repo-Has-449-Stars) - Yes, it's true :yellow_heart: This repository has 449 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2285,7 +2287,7 @@
 ## Vue 
 
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [ActivityWatch/aw-webui](https://github.com/ActivityWatch/aw-webui) - Webapp for visualizing and browsing ActivityWatch data, built with Vue.js.
 - [slidevjs/themes](https://github.com/slidevjs/themes) - Official themes for Slidev
 - [duerrsimon/bioicons](https://github.com/duerrsimon/bioicons) - A library of free open source icons for science illustrations in biology and chemistry
