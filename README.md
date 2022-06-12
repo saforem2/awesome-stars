@@ -828,6 +828,7 @@
 - [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim) - FZY style sorter that is compiled
 - [tami5/sqlite.lua](https://github.com/tami5/sqlite.lua) - SQLite/LuaJIT binding for lua and neovim
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
+- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
@@ -1195,7 +1196,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A web automation framework for Python developers. Includes a test generator, a pytest plugin, a dashboard, detailed reports, a webdriver manager, and more.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 🔑 The key to reliable Web/UI Automation & Testing with Python, pytest, and Selenium. ✅
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -2251,7 +2252,6 @@
 - [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - Set of operators and textobjects to search/select/edit sandwiched texts.
 - [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
 - [GustavoPrietoP/doom-themes.nvim](https://github.com/GustavoPrietoP/doom-themes.nvim) - port of doom-emacs' doom-themes to neovim
-- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [sainnhe/sonokai](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro
 - [ChristianChiarulli/nvcode-color-schemes.vim](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - A bunch of generated colorschemes (treesitter supported)
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
