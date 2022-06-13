@@ -282,6 +282,7 @@
 
 ## Go 
 
+- [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
@@ -486,6 +487,7 @@
 
 ## Julia 
 
+- [JuliaDynamics/DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) - The perfect sidekick to your scientific inquiries
 - [mahaa2/EmbeddedLMC](https://github.com/mahaa2/EmbeddedLMC) - 
 - [jonniedie/ComponentArrays.jl](https://github.com/jonniedie/ComponentArrays.jl) - Arrays with arbitrarily nested named components.
 - [NQCD/NQCDynamics.jl](https://github.com/NQCD/NQCDynamics.jl) - Fast and flexible nonadiabatic molecular dynamics in Julia!
@@ -639,6 +641,7 @@
 - [g-benton/learning-invariances](https://github.com/g-benton/learning-invariances) - Codebase for Learning Invariances in Neural Networks
 - [haulek/CompPhysics](https://github.com/haulek/CompPhysics) - Computational Physics codes
 - [ryansmccoy/spreadsheets-to-dataframes](https://github.com/ryansmccoy/spreadsheets-to-dataframes) - Pycon 2021 Tutorial to help Spreadsheet (Excel) Users learn Python
+- [cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.
 - [hep-lbdl/OmniFold](https://github.com/hep-lbdl/OmniFold) - 
 - [mpld3/mpld3](https://github.com/mpld3/mpld3) - D3 Renderings of Matplotlib Graphics
 - [nathanshammah/make-your-code-count](https://github.com/nathanshammah/make-your-code-count) - Create an open-source library in Python for your scientific research.
@@ -1065,7 +1068,7 @@
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [timkpaine/tributary](https://github.com/timkpaine/tributary) - Streaming reactive and dataflow graphs in Python
-- [Mara-Li/obsidian-mkdocs-publisher-python](https://github.com/Mara-Li/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
+- [obsidianMkdocs/obsidian-mkdocs-publisher-python](https://github.com/obsidianMkdocs/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [man-group/notebooker](https://github.com/man-group/notebooker) - Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A modern TUI library free from the shackles of web development.
@@ -1196,7 +1199,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 🔑 The key to reliable Web/UI Automation & Testing with Python, pytest, and Selenium. ✅
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1382,7 +1385,6 @@
 - [shawwn/sparkvis](https://github.com/shawwn/sparkvis) - Visualize tensors in a plain Python REPL using Sparklines
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
-- [cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.
 - [HEmile/storchastic](https://github.com/HEmile/storchastic) - Stochastic Automatic Differentiation library for PyTorch.
 - [Yelrose/linecache_light](https://github.com/Yelrose/linecache_light) - A python package that can fast random access any lines in a large file without high memory cost.
 - [calmisential/TensorFlow2.0_ResNet](https://github.com/calmisential/TensorFlow2.0_ResNet) - A ResNet(ResNet18, ResNet34, ResNet50, ResNet101, ResNet152) implementation using TensorFlow-2.0.
@@ -2156,7 +2158,7 @@
 - [excalidraw/svg-to-excalidraw](https://github.com/excalidraw/svg-to-excalidraw) - Convert SVGs into Excalidraw data
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [Mara-Li/obsidian-github-publisher](https://github.com/Mara-Li/obsidian-github-publisher) - A plugin to easily publish note to github
+- [obsidianMkdocs/obsidian-github-publisher](https://github.com/obsidianMkdocs/obsidian-github-publisher) - A plugin to easily publish note to github
 - [jffaust/obsidian-variables](https://github.com/jffaust/obsidian-variables) - Plugin that adds support for variables in Obsidian.md
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
 - [xldenis/obsidian-latex](https://github.com/xldenis/obsidian-latex) - 
