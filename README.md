@@ -562,6 +562,7 @@
 - [CosmoStat/jax-lensing](https://github.com/CosmoStat/jax-lensing) - A JAX package for weak gravitational lensing
 - [ercobian/AdaAnn-VI-NF](https://github.com/ercobian/AdaAnn-VI-NF) - The code for the numerical examples in "AdaAnn: Adaptive Annealing Scheduler for Probability Approximation" by Emma R. Cobian, Jonathan D. Hauenstein, Fang Liu, and Daniele E. Schiavazzi.
 - [zhang-liyi/tsc](https://github.com/zhang-liyi/tsc) - Transport Score Climbing: Variational Inference using Inclusive KL and Adaptive Neural Transport
+- [marcinabram/topological_transitions](https://github.com/marcinabram/topological_transitions) - 
 - [labmlai/labml](https://github.com/labmlai/labml) - 🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
 - [HPCL/ideas-uo](https://github.com/HPCL/ideas-uo) - IDEAS project work
@@ -911,7 +912,6 @@
 ## Others 
 
 - [mayankchaudhary26/Cool-Readme-ideas](https://github.com/mayankchaudhary26/Cool-Readme-ideas) - :tada::tada::tada: Some cool ideas for your readme profile, enjoy :)
-- [marcinabram/topological_transitions](https://github.com/marcinabram/topological_transitions) - 
 - [emitanaka/ninja-theme](https://github.com/emitanaka/ninja-theme) - A xaringan / remark js ninja theme
 - [jtleek/talkguide](https://github.com/jtleek/talkguide) - The Leek Group Guide to Giving Talks
 - [githubtraining/hello-github-actions](https://github.com/githubtraining/hello-github-actions) - Course repo for GitHub Actions: Hello World on Learning Lab
@@ -1199,7 +1199,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Automate and test 8x faster with Selenium+pytest. Batteries included.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase helps you automate and test more easily with Selenium & pytest. Test Recorder and Dashboard included.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
