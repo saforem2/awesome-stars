@@ -395,7 +395,7 @@
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-- [xriley/Orbit-Theme](https://github.com/xriley/Orbit-Theme) - FREE Bootstrap 5 Resume/CV Template for Developers -
+- [xriley/Orbit-Theme](https://github.com/xriley/Orbit-Theme) - FREE Bootstrap 5 Resume/CV Template for Developers
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [riccardoscalco/textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -911,6 +911,7 @@
 
 ## Others 
 
+- [vdutor/neural-diffusion-processes](https://github.com/vdutor/neural-diffusion-processes) - Neural Diffusion Processes
 - [mayankchaudhary26/Cool-Readme-ideas](https://github.com/mayankchaudhary26/Cool-Readme-ideas) - :tada::tada::tada: Some cool ideas for your readme profile, enjoy :)
 - [emitanaka/ninja-theme](https://github.com/emitanaka/ninja-theme) - A xaringan / remark js ninja theme
 - [jtleek/talkguide](https://github.com/jtleek/talkguide) - The Leek Group Guide to Giving Talks
@@ -1037,6 +1038,7 @@
 
 ## Python 
 
+- [iterative/example-get-started](https://github.com/iterative/example-get-started) - Get started DVC project
 - [statbiophys/MINIMALIST](https://github.com/statbiophys/MINIMALIST) - Companion Github of the MINIMALIST preprint.
 - [gcorso/torsional-diffusion](https://github.com/gcorso/torsional-diffusion) - Implementation of Torsional Diffusion for Molecular Conformer Generation
 - [wesselb/plum](https://github.com/wesselb/plum) - Multiple dispatch in Python
@@ -1199,7 +1201,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase helps you automate and test more easily with Selenium & pytest. Test Recorder and Dashboard included.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 Web-UI testing framework that's fast, easy, and reliable. Extends pytest.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1291,7 +1293,7 @@
 - [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 - [felker/deephyper_pytorch_layers](https://github.com/felker/deephyper_pytorch_layers) - Use DeepHyper to find the max FLOPS for various PyTorch Layers.
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
-- [PyTorchLightning/lightning-bolts](https://github.com/PyTorchLightning/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
+- [Lightning-AI/lightning-bolts](https://github.com/Lightning-AI/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [jinxu06/gsubsampling](https://github.com/jinxu06/gsubsampling) - Reference implementation for "Group Equivariant Subsampling"
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -1515,7 +1517,7 @@
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
 - [textext/textext](https://github.com/textext/textext) - Re-editable LaTeX graphics for Inkscape
-- [PyTorchLightning/lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
+- [Lightning-AI/lightning-flash](https://github.com/Lightning-AI/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [neulab/ReviewAdvisor](https://github.com/neulab/ReviewAdvisor) - Heavy Workload on Reviewing Papers?  ReviewAdvisor Helps out
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [lucidrains/lie-transformer-pytorch](https://github.com/lucidrains/lie-transformer-pytorch) - Implementation of Lie Transformer, Equivariant Self-Attention, in Pytorch
@@ -1715,7 +1717,7 @@
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [soravux/scoop](https://github.com/soravux/scoop) - SCOOP (Scalable COncurrent Operations in Python)
 - [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep) - Extended histogram plots on top of matplotlib and HEP compatible styling similar to current collaboration requirements (ROOT).
-- [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [Bihaqo/t3f](https://github.com/Bihaqo/t3f) - Tensor Train decomposition on TensorFlow
 - [chrischute/flowplusplus](https://github.com/chrischute/flowplusplus) - Implementation of Flow++ in PyTorch
 - [albertomontesg/keras-model-zoo](https://github.com/albertomontesg/keras-model-zoo) - Keras Model Zoo
