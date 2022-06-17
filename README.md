@@ -37,6 +37,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
+- [NSIS](#nsis)
 - [Nextflow](#nextflow)
 - [Nim](#nim)
 - [OCaml](#ocaml)
@@ -286,7 +287,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
-- [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -878,6 +879,10 @@
 - [iamc/ML-CM-2019](https://github.com/iamc/ML-CM-2019) - Machine Learning in Condensed Matter Physics 2019  course repository
 - [metxchris/SpinSystems](https://github.com/metxchris/SpinSystems) - Simulations in C++ and Python of statistical spin systems.
 
+## NSIS 
+
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+
 ## Nextflow 
 
 - [nf-core/modules](https://github.com/nf-core/modules) - Repository to host tool-specific module files for the Nextflow DSL2 community!
@@ -946,6 +951,7 @@
 - [Alvin-Zeng/Awesome-Temporal-Action-Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) - A curated list of temporal action localization/detection and related area (e.g. temporal action proposal) resources.
 - [davidsd/lie](https://github.com/davidsd/lie) - A python interface to the computer algebra package LiE, for computations with Lie groups, representations, etc..
 - [dwarvesf/VimMotionApp](https://github.com/dwarvesf/VimMotionApp) - Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [transformerdb/transformerdb](https://github.com/transformerdb/transformerdb) - TransformerDB
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [kriasoft/Folder-Structure-Conventions](https://github.com/kriasoft/Folder-Structure-Conventions) - Folder / directory structure options and naming conventions for software projects
@@ -958,6 +964,7 @@
 - [Vincent-Carrier/CocoaVim](https://github.com/Vincent-Carrier/CocoaVim) - A BetterTouchTool preset to enable Vim keybindings in any Cocoa-based macOS app
 - [iclr2020-fsai/FSAI](https://github.com/iclr2020-fsai/FSAI) - Fundamental Science in the era of AI: This ICLR 2020 workshop will address a number of pressing topics: What is good fundamental science  in an era when AI is becoming core to the way scientists inter
 - [nikosarcevic/HEP-ASTRO-COSMO](https://github.com/nikosarcevic/HEP-ASTRO-COSMO) - HEP/Astroparticle/Astrophysics/Cosmology open source packages. Community effort. Physics people, unite!
+- [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) - Paper list for equivariant neural network
 - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
@@ -1201,7 +1208,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 Web-UI testing framework that's fast, easy, and reliable. Extends pytest.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🐉 Python framework for Web/UI automation and testing.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1412,7 +1419,6 @@
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [fablabnbg/inkscape-centerline-trace](https://github.com/fablabnbg/inkscape-centerline-trace) - A bitmap vectorizer that can trace along the centerline of a stroke. The builtin inkscape 'trace bitmap' can only trace edges, thus resulting in double lines for most basic use cases. It uses 'autotra
 - [tensorforce/tensorforce](https://github.com/tensorforce/tensorforce) - Tensorforce: a TensorFlow library for applied reinforcement learning
-- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 - [moul/alfred-workflow-gauth](https://github.com/moul/alfred-workflow-gauth) - :key: TOTP - Google Authenticator Workflow for Alfred2 (Two-Factor authentication)
 - [mlech26l/ode-lstms](https://github.com/mlech26l/ode-lstms) - Code repository of the paper Learning Long-Term Dependencies in Irregularly-Sampled Time Series
@@ -1466,7 +1472,7 @@
 - [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 - [bnmnetp/pythonds](https://github.com/bnmnetp/pythonds) - Data Structures package for Problem Solving with Algorithms and Data Structures using Python
 - [jrmcornish/cif](https://github.com/jrmcornish/cif) - PyTorch implementation of Continuously Indexed Flows paper, with many baseline normalising flows
-- [thu-ml/vflow](https://github.com/thu-ml/vflow) - code for "VFlow: More Expressive Generative Flows with Variational Data Augmentation"
+- [thu-ml/vflow](https://github.com/thu-ml/vflow) - Official code for "VFlow: More Expressive Generative Flows with Variational Data Augmentation" (ICML 2020)
 - [joeybose/HyperbolicNF](https://github.com/joeybose/HyperbolicNF) - ICML 2020 Paper: Latent Variable Modelling with Hyperbolic Normalizing Flows
 - [changyi7231/MEF](https://github.com/changyi7231/MEF) - A PyTorch implementation of Generative Flows with Matrix Exponential.
 - [c-hofer/topologically_densified_distributions](https://github.com/c-hofer/topologically_densified_distributions) - 
@@ -1479,7 +1485,6 @@
 - [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
 - [holoviz/param](https://github.com/holoviz/param) - Param: Make your Python code clearer and more reliable by declaring Parameters
 - [wandb/client](https://github.com/wandb/client) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
-- [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [pentschev/pybench](https://github.com/pentschev/pybench) - Automation tools for Python benchmarking
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
@@ -1717,7 +1722,7 @@
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [soravux/scoop](https://github.com/soravux/scoop) - SCOOP (Scalable COncurrent Operations in Python)
 - [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep) - Extended histogram plots on top of matplotlib and HEP compatible styling similar to current collaboration requirements (ROOT).
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models for state-of-the-art AI research, and deploy them with Lightning Apps (end-to-end ML systems).
 - [Bihaqo/t3f](https://github.com/Bihaqo/t3f) - Tensor Train decomposition on TensorFlow
 - [chrischute/flowplusplus](https://github.com/chrischute/flowplusplus) - Implementation of Flow++ in PyTorch
 - [albertomontesg/keras-model-zoo](https://github.com/albertomontesg/keras-model-zoo) - Keras Model Zoo
@@ -2153,6 +2158,8 @@
 
 ## TypeScript 
 
+- [shabegom/buttons](https://github.com/shabegom/buttons) - Buttons in Obsidian
+- [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
 - [mauriciopoppe/function-plot](https://github.com/mauriciopoppe/function-plot) - A 2d function plotter powered by d3 and interval arithmetic
 - [leonhma/obsidian-functionplot](https://github.com/leonhma/obsidian-functionplot) - A obsidian.md plugin for rendering maths graphs.
@@ -2237,7 +2244,6 @@
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [DonJayamanne/pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - This extension is now maintained in the Microsoft fork.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## Vala 
