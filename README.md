@@ -37,7 +37,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
-- [NSIS](#nsis)
 - [Nextflow](#nextflow)
 - [Nim](#nim)
 - [OCaml](#ocaml)
@@ -881,10 +880,6 @@
 - [iamc/ML-CM-2019](https://github.com/iamc/ML-CM-2019) - Machine Learning in Condensed Matter Physics 2019  course repository
 - [metxchris/SpinSystems](https://github.com/metxchris/SpinSystems) - Simulations in C++ and Python of statistical spin systems.
 
-## NSIS 
-
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-
 ## Nextflow 
 
 - [nf-core/modules](https://github.com/nf-core/modules) - Repository to host tool-specific module files for the Nextflow DSL2 community!
@@ -1047,6 +1042,7 @@
 
 ## Python 
 
+- [glotzerlab/signac](https://github.com/glotzerlab/signac) - Manage large and heterogeneous data spaces on the file system.
 - [iterative/example-get-started](https://github.com/iterative/example-get-started) - Get started DVC project
 - [statbiophys/MINIMALIST](https://github.com/statbiophys/MINIMALIST) - Companion Github of the MINIMALIST preprint.
 - [gcorso/torsional-diffusion](https://github.com/gcorso/torsional-diffusion) - Implementation of Torsional Diffusion for Molecular Conformer Generation
@@ -1181,7 +1177,7 @@
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [ldeecke/gmm-torch](https://github.com/ldeecke/gmm-torch) - Gaussian mixture models in PyTorch.
-- [proplot-org/proplot](https://github.com/proplot-org/proplot) - 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
+- [proplot-dev/proplot](https://github.com/proplot-dev/proplot) - 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
 - [Snowmass21-software/analysis-example-python](https://github.com/Snowmass21-software/analysis-example-python) - Example analysis with histogramming using only python
 - [mauriceweiler/MobiusCNNs](https://github.com/mauriceweiler/MobiusCNNs) - This repository implements and evaluates convolutional networks on the Möbius strip as toy model instantiations of Coordinate Independent Convolutional Networks.
 - [marco-rudolph/differnet](https://github.com/marco-rudolph/differnet) - This is the official repository to the WACV 2021 paper "Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows" by Marco Rudolph, Bastian Wandt and Bodo Rosenhahn.
@@ -1504,7 +1500,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars) - Yes, it's true :purple_heart: This repository has 450 stars.
+- [iBug/This-Repo-Has-451-Stars](https://github.com/iBug/This-Repo-Has-451-Stars) - Yes, it's true :revolving_hearts: This repository has 451 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2246,6 +2242,7 @@
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [DonJayamanne/pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - This extension is now maintained in the Microsoft fork.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## Vala 
