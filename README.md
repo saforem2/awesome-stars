@@ -557,6 +557,8 @@
 
 ## Jupyter Notebook 
 
+- [PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows](https://github.com/PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows) - Source code for Large-Scale Wasserstein Gradient Flows (NeurIPS 2021)
+- [iamalexkorotin/Wasserstein2GenerativeNetworks](https://github.com/iamalexkorotin/Wasserstein2GenerativeNetworks) - PyTorch implementation of the paper "Wasserstein-2 Generative Networks".
 - [google-research/simclr](https://github.com/google-research/simclr) - SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [data-centric-ai/dcbench](https://github.com/data-centric-ai/dcbench) - A benchmark of data-centric tasks from across the machine learning lifecycle.
 - [MathOnco/Curvogram](https://github.com/MathOnco/Curvogram) - Method for plotting histograms on a curve using a West Transform
@@ -1042,6 +1044,8 @@
 
 ## Python 
 
+- [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
+- [gradhep/relaxed](https://github.com/gradhep/relaxed) - Provides differentiable versions of common HEP operations and objectives.
 - [glotzerlab/signac](https://github.com/glotzerlab/signac) - Manage large and heterogeneous data spaces on the file system.
 - [iterative/example-get-started](https://github.com/iterative/example-get-started) - Get started DVC project
 - [statbiophys/MINIMALIST](https://github.com/statbiophys/MINIMALIST) - Companion Github of the MINIMALIST preprint.
@@ -1078,7 +1082,7 @@
 - [obsidianMkdocs/obsidian-mkdocs-publisher-python](https://github.com/obsidianMkdocs/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [man-group/notebooker](https://github.com/man-group/notebooker) - Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
-- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A modern TUI library free from the shackles of web development.
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [janosh/tensorboard-reducer](https://github.com/janosh/tensorboard-reducer) - Reduce multiple PyTorch TensorBoard runs to new event (or CSV) files.
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
@@ -1205,7 +1209,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🐉 Python framework for Web/UI automation and testing.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🤖 Python framework for Web UI testing. 📊 Fast • Easy • Reliable. ⚙️
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1500,7 +1504,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-451-Stars](https://github.com/iBug/This-Repo-Has-451-Stars) - Yes, it's true :revolving_hearts: This repository has 451 stars.
+- [iBug/This-Repo-Has-453-Stars](https://github.com/iBug/This-Repo-Has-453-Stars) - Yes, it's true :revolving_hearts: This repository has 453 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
