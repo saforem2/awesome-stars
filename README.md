@@ -379,6 +379,7 @@
 
 ## JavaScript 
 
+- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [planetoftheweb/rayveal](https://github.com/planetoftheweb/rayveal) - A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
 - [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo) - 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
@@ -558,7 +559,7 @@
 ## Jupyter Notebook 
 
 - [PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows](https://github.com/PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows) - Source code for Large-Scale Wasserstein Gradient Flows (NeurIPS 2021)
-- [iamalexkorotin/Wasserstein2GenerativeNetworks](https://github.com/iamalexkorotin/Wasserstein2GenerativeNetworks) - PyTorch implementation of the paper "Wasserstein-2 Generative Networks".
+- [iamalexkorotin/Wasserstein2GenerativeNetworks](https://github.com/iamalexkorotin/Wasserstein2GenerativeNetworks) - PyTorch implementation of "Wasserstein-2 Generative Networks" (ICLR 2021)
 - [google-research/simclr](https://github.com/google-research/simclr) - SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [data-centric-ai/dcbench](https://github.com/data-centric-ai/dcbench) - A benchmark of data-centric tasks from across the machine learning lifecycle.
 - [MathOnco/Curvogram](https://github.com/MathOnco/Curvogram) - Method for plotting histograms on a curve using a West Transform
@@ -1209,7 +1210,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🤖 Python framework for Web UI testing. 📊 Fast • Easy • Reliable. ⚙️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Python framework for Web UI testing. 📊 Fast • Powerful • Reliable.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
