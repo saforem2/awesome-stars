@@ -162,6 +162,7 @@
 - [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - NumPy drop-in replacement for Intel(R) XPUs
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [jeffhammond/dpcpp-tutorial](https://github.com/jeffhammond/dpcpp-tutorial) - Intel Data Parallel C++ (and SYCL 2020) Tutorial.
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
 - [facebookincubator/gloo](https://github.com/facebookincubator/gloo) - Collective communications library with various primitives for multi-machine training.
 - [tizian/specular-manifold-sampling](https://github.com/tizian/specular-manifold-sampling) - Code for "Specular Manifold Sampling for Rendering High-Frequency Caustics and Glints" (SIGGRAPH 2020) by Tizian Zeltner, Iliyan Georgiev, and Wenzel Jakob
@@ -1045,6 +1046,7 @@
 
 ## Python 
 
+- [holoviz/colorcet](https://github.com/holoviz/colorcet) - A set of useful perceptually uniform colormaps for plotting scientific data
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [gradhep/relaxed](https://github.com/gradhep/relaxed) - Provides differentiable versions of common HEP operations and objectives.
 - [glotzerlab/signac](https://github.com/glotzerlab/signac) - Manage large and heterogeneous data spaces on the file system.
@@ -1210,7 +1212,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Python framework for Web UI testing. 📊 Fast • Powerful • Reliable.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ A complete Python framework for powerful UI automation & testing. 📊
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1708,7 +1710,6 @@
 - [xitorch/xitorch](https://github.com/xitorch/xitorch) - Differentiable scientific computing library
 - [asteroidhouse/INN-exploding-inverses](https://github.com/asteroidhouse/INN-exploding-inverses) - Code for Understanding and Mitigating Exploding Inverses in Invertible Neural Networks http://arxiv.org/abs/2006.09347
 - [probprog/pyprob](https://github.com/probprog/pyprob) - A probabilistic programming system for simulators and high-performance computing (HPC), based on PyTorch
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [didriknielsen/survae_flows](https://github.com/didriknielsen/survae_flows) - Code for paper "SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows"
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [rgflowopen/rg-flow](https://github.com/rgflowopen/rg-flow) - Code for RG-Flow: A hierarchical and explainable flow model based on renormalization group and sparse prior.
@@ -1984,6 +1985,8 @@
 
 ## Rust 
 
+- [dginev/ar5iv](https://github.com/dginev/ar5iv) - A web service offering HTML5 articles from arXiv.org as converted with latexml
+- [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
