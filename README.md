@@ -612,7 +612,7 @@
 - [noegroup/bgflow](https://github.com/noegroup/bgflow) - Boltzmann Generators and Normalizing Flows in PyTorch
 - [twitter-research/graph-neural-pde](https://github.com/twitter-research/graph-neural-pde) - Graph Neural PDEs
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
-- [GokuMohandas/MLOps](https://github.com/GokuMohandas/MLOps) - A project-based course on the foundations of MLOps with a focus on intuition and application.
+- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - A project-based course on the foundations of MLOps with a focus on intuition and application.
 - [thjashin/mirror-stein-samplers](https://github.com/thjashin/mirror-stein-samplers) - Sampling with Mirrored Stein Operators
 - [learningmatter-mit/Segal](https://github.com/learningmatter-mit/Segal) - 
 - [scottire/fastpages](https://github.com/scottire/fastpages) - 
@@ -728,7 +728,7 @@
 - [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) - The "Python Machine Learning (3rd edition)" book code repository
 - [jerryxyx/MonteCarlo](https://github.com/jerryxyx/MonteCarlo) - A model free Monte Carlo approach to price and hedge American options equiped with Heston model, OHMC, and LSM
 - [mafda/generative_adversarial_networks_101](https://github.com/mafda/generative_adversarial_networks_101) - Keras implementations of Generative Adversarial Networks. GANs, DCGAN, CGAN, CCGAN, WGAN and LSGAN models with MNIST and CIFAR-10 datasets.
-- [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods.
+- [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods
 - [nikikilbertus/Sky-MoCa](https://github.com/nikikilbertus/Sky-MoCa) - :coffee: Sky-MoCa :coffee: Skyrmion - Monte Carlo: Simulated annealing for a 3D spin lattice in Julia
 - [fonnesbeck/mcmc_pydata_london_2019](https://github.com/fonnesbeck/mcmc_pydata_london_2019) - PyData London 2019 Tutorial on Markov chain Monte Carlo with PyMC3
 - [nkotelevskii/l2hmc_pytorch](https://github.com/nkotelevskii/l2hmc_pytorch) - PyTorch l2hmc realization
@@ -1060,7 +1060,7 @@
 - [conda-incubator/grayskull](https://github.com/conda-incubator/grayskull) - Grayskull :skull: - Recipe generator for Conda
 - [edbennett/high-performance-python](https://github.com/edbennett/high-performance-python) - Carpentries-style lesson on Python for High Performance Computing
 - [layer6ai-labs/CEF](https://github.com/layer6ai-labs/CEF) - Code for the NeurIPS'21 paper "Tractable Density Estimation on Learned Manifolds with Conformal Embedding Flows"
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package manager with PEP 582 support.
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [untitled-ai/jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending) - Ascend your Jupyter Notebook usage
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
 - [mit-ll-responsible-ai/hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Configurable, reproducible, and scalable Python programs, via Hydra
@@ -1510,7 +1510,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-454-Stars](https://github.com/iBug/This-Repo-Has-454-Stars) - Yes, it's true :yellow_heart: This repository has 454 stars.
+- [iBug/This-Repo-Has-458-Stars](https://github.com/iBug/This-Repo-Has-458-Stars) - Yes, it's true :orange_heart: This repository has 458 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
