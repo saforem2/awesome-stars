@@ -569,6 +569,7 @@
 - [ercobian/AdaAnn-VI-NF](https://github.com/ercobian/AdaAnn-VI-NF) - The code for the numerical examples in "AdaAnn: Adaptive Annealing Scheduler for Probability Approximation" by Emma R. Cobian, Jonathan D. Hauenstein, Fang Liu, and Daniele E. Schiavazzi.
 - [zhang-liyi/tsc](https://github.com/zhang-liyi/tsc) - Transport Score Climbing: Variational Inference using Inclusive KL and Adaptive Neural Transport
 - [marcinabram/topological_transitions](https://github.com/marcinabram/topological_transitions) - 
+- [saforem2/l2hmc-qcd](https://github.com/saforem2/l2hmc-qcd) - Application of the L2HMC algorithm to simulations in lattice QCD.
 - [labmlai/labml](https://github.com/labmlai/labml) - 🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
 - [HPCL/ideas-uo](https://github.com/HPCL/ideas-uo) - IDEAS project work
@@ -1080,7 +1081,6 @@
 - [qkaren/COLD_decoding](https://github.com/qkaren/COLD_decoding) - 
 - [adambielski/siamese-triplet](https://github.com/adambielski/siamese-triplet) - Siamese and triplet networks with online pair/triplet mining in PyTorch
 - [CUAI/Equivariant-Manifold-Flows](https://github.com/CUAI/Equivariant-Manifold-Flows) - [NeurIPS 2021] Equivariant Manifold Flows (https://arxiv.org/abs/2107.08596)
-- [saforem2/l2hmc-qcd](https://github.com/saforem2/l2hmc-qcd) - Application of the L2HMC algorithm to simulations in lattice QCD.
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [streamlet-dev/tributary](https://github.com/streamlet-dev/tributary) - Streaming reactive and dataflow graphs in Python
@@ -1509,7 +1509,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-469-Stars](https://github.com/iBug/This-Repo-Has-469-Stars) - Yes, it's true :revolving_hearts: This repository has 469 stars.
+- [iBug/This-Repo-Has-469-Stars](https://github.com/iBug/This-Repo-Has-469-Stars) - Yes, it's true :heart: This repository has 469 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
