@@ -675,7 +675,7 @@
 - [jo-mab/TruncatedMC](https://github.com/jo-mab/TruncatedMC) - Supplementary Material for "Proposing new configurations in Monte Carlo simulations using truncated Markov Chains"
 - [andreas128/SRFlow](https://github.com/andreas128/SRFlow) - Official SRFlow training code: Super-Resolution using Normalizing Flow in PyTorch
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan
-- [MacroAnalyst/Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the most must-know concepts that set the foundation of data science or advanced quantitative s
+- [MacroAnalyst/Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skills
 - [henryiii/level-up-your-python](https://github.com/henryiii/level-up-your-python) - Course over intermediate Python
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [danielalcalde/MCMC_CRBM](https://github.com/danielalcalde/MCMC_CRBM) - 
@@ -1510,7 +1510,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-467-Stars](https://github.com/iBug/This-Repo-Has-467-Stars) - Yes, it's true :heartbeat: This repository has 467 stars.
+- [iBug/This-Repo-Has-468-Stars](https://github.com/iBug/This-Repo-Has-468-Stars) - Yes, it's true :heart: This repository has 468 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
