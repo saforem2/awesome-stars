@@ -1215,7 +1215,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ A powerful Python framework for browser automation and testing. 📊
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Better web testing with Selenium, Python, and pytest.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
