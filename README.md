@@ -561,6 +561,8 @@
 
 ## Jupyter Notebook 
 
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
+- [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles) - Solve puzzles. Improve your pytorch.
 - [PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows](https://github.com/PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows) - Source code for Large-Scale Wasserstein Gradient Flows (NeurIPS 2021)
 - [iamalexkorotin/Wasserstein2GenerativeNetworks](https://github.com/iamalexkorotin/Wasserstein2GenerativeNetworks) - PyTorch implementation of "Wasserstein-2 Generative Networks" (ICLR 2021)
 - [google-research/simclr](https://github.com/google-research/simclr) - SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
@@ -1049,6 +1051,8 @@
 
 ## Python 
 
+- [MLMI2-CSSI/foundry](https://github.com/MLMI2-CSSI/foundry) - Simplifying the discovery and usage of machine-learning ready datasets in materials science and chemistry
+- [landerlini/hopaas_client](https://github.com/landerlini/hopaas_client) - Hyperparameter Optimization as a Service (Client)
 - [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
 - [holoviz/colorcet](https://github.com/holoviz/colorcet) - A set of useful perceptually uniform colormaps for plotting scientific data
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
@@ -1215,7 +1219,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Better web testing with Selenium, Python, and pytest.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🐍 Python framework for Web UI testing. 🤖 ⚡ Fast • Easy • Reliable. Extends Selenium and pytest.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1510,7 +1514,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-469-Stars](https://github.com/iBug/This-Repo-Has-469-Stars) - Yes, it's true :revolving_hearts: This repository has 469 stars.
+- [iBug/This-Repo-Has-471-Stars](https://github.com/iBug/This-Repo-Has-471-Stars) - Yes, it's true :two_hearts: This repository has 471 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2092,6 +2096,7 @@
 
 ## Swift 
 
+- [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [tuxu/nbviewer-app](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS
 - [DigiDNA/ColorSet](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
