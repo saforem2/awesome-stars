@@ -324,6 +324,7 @@
 
 ## HTML 
 
+- [outerbounds/full-stack-ML-metaflow-tutorial](https://github.com/outerbounds/full-stack-ML-metaflow-tutorial) - It's all in the name
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [titaniumnetwork-dev/Incognito-old](https://github.com/titaniumnetwork-dev/Incognito-old) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
@@ -562,6 +563,9 @@
 
 ## Jupyter Notebook 
 
+- [deephyper/anl-22-summer-workshop](https://github.com/deephyper/anl-22-summer-workshop) - 
+- [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition) - This project aims to classify human activities using data obtained from accelerometer and gyroscope sensors from phone and watch.
+- [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles) - Solve puzzles. Improve your pytorch.
 - [PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows](https://github.com/PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows) - Source code for Large-Scale Wasserstein Gradient Flows (NeurIPS 2021)
@@ -923,6 +927,8 @@
 
 ## Others 
 
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
+- [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers
 - [vdutor/neural-diffusion-processes](https://github.com/vdutor/neural-diffusion-processes) - Neural Diffusion Processes
 - [mayankchaudhary26/Cool-Readme-ideas](https://github.com/mayankchaudhary26/Cool-Readme-ideas) - :tada::tada::tada: Some cool ideas for your readme profile, enjoy :)
 - [emitanaka/ninja-theme](https://github.com/emitanaka/ninja-theme) - A xaringan / remark js ninja theme
@@ -1052,6 +1058,13 @@
 
 ## Python 
 
+- [executablebooks/github-activity](https://github.com/executablebooks/github-activity) - Simple markdown changelogs for GitHub repositories
+- [asperti/We_love_latent_space](https://github.com/asperti/We_love_latent_space) - Repository relative to the article "Comparing the latent space of generative models", joint work with Valerio Tonelli
+- [jimporter/mike](https://github.com/jimporter/mike) - Manage multiple versions of your MkDocs-powered documentation via Git
+- [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
+- [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
+- [bjing2016/subspace-diffusion](https://github.com/bjing2016/subspace-diffusion) - Improved diffusion generative models with subspaces
+- [online-ml/beaver](https://github.com/online-ml/beaver) - 🦫 MLOps for online machine learning
 - [MLMI2-CSSI/foundry](https://github.com/MLMI2-CSSI/foundry) - Simplifying the discovery and usage of machine-learning ready datasets in materials science and chemistry
 - [landerlini/hopaas_client](https://github.com/landerlini/hopaas_client) - Hyperparameter Optimization as a Service (Client)
 - [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
@@ -1220,7 +1233,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🤖 Python framework for Web UI testing. Extends Selenium and pytest.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your Web UI testing with Selenium, Python, and pytest.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -2172,6 +2185,7 @@
 
 ## TypeScript 
 
+- [siefkenj/unified-latex](https://github.com/siefkenj/unified-latex) - Utilities for parsing and manipulating LaTeX ASTs with the Unified.js framework
 - [kometenstaub/customizable-page-header-buttons](https://github.com/kometenstaub/customizable-page-header-buttons) - Add command buttons left to the standard buttons in Obsidian mobile (and desktop, if enabled).
 - [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
 - [mgmeyers/obsidian-list-callouts](https://github.com/mgmeyers/obsidian-list-callouts) - Create callouts in lists in Obsidian.
