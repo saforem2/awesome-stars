@@ -16,6 +16,7 @@
 - [Cuda](#cuda)
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
 - [Fortran](#fortran)
@@ -212,6 +213,7 @@
 
 ## CSS 
 
+- [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [Lithou/Sandbox](https://github.com/Lithou/Sandbox) - Testing and Experimentation for Obsidian and CSS
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 - [1-2-3/remark-it](https://github.com/1-2-3/remark-it) - markdown -&gt; slideshow ——Write PPT like a programmer
@@ -260,6 +262,10 @@
 
 - [goerz-docker/docs-build-env](https://github.com/goerz-docker/docs-build-env) - Docker image for building Sphinx documentation.
 - [matthewfeickert/pyenv-virtualenv-conda-example](https://github.com/matthewfeickert/pyenv-virtualenv-conda-example) - Example Docker image with pyenv controlling virtualenv and miniconda Python virtual environments
+
+## Elixir 
+
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 
 ## Emacs Lisp 
 
@@ -493,6 +499,7 @@
 
 ## Julia 
 
+- [JuliaImages/ImageInTerminal.jl](https://github.com/JuliaImages/ImageInTerminal.jl) - Julia package for displaying images in the terminal using ANSI colors and Unicode characters
 - [JuliaDynamics/DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) - The perfect sidekick to your scientific inquiries
 - [mahaa2/EmbeddedLMC](https://github.com/mahaa2/EmbeddedLMC) - 
 - [jonniedie/ComponentArrays.jl](https://github.com/jonniedie/ComponentArrays.jl) - Arrays with arbitrarily nested named components.
@@ -1963,7 +1970,6 @@
 - [Ekultek/Pybelt](https://github.com/Ekultek/Pybelt) - The hackers tool belt
 - [neomoha/python-lsi-similarity](https://github.com/neomoha/python-lsi-similarity) - A small code in python to compute semantic similarity between documents (or items) using Latent Semantic Indexing
 - [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) - Web interface for browsing, search and filtering recent arxiv submissions
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
