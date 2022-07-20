@@ -595,6 +595,7 @@
 - [khanhnamle1994/cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
 - [LukasRinder/normalizing-flows](https://github.com/LukasRinder/normalizing-flows) - Implementation of normalizing flows in TensorFlow 2 including a small tutorial.
 - [nimadehmamy/L-conv-code](https://github.com/nimadehmamy/L-conv-code) - Lie Algebra Convolutional Network implementation
+- [Rupt/paper-which-is-real](https://github.com/Rupt/paper-which-is-real) - Code and data to reproduce content for "A method to challenge symmetries in data with self-supervised learning"
 - [rocketmlhq/sciml](https://github.com/rocketmlhq/sciml) - Scientific Machine Learning Tutorials
 - [nec-research/tf-imle](https://github.com/nec-research/tf-imle) - Tensorflow implementation and notebooks for Implicit Maximum Likelihood Estimation
 - [facebookincubator/flowtorch](https://github.com/facebookincubator/flowtorch) - This library would form a permanent home for reusable components for deep probabilistic programming. The library would form and harness a community of users and contributors by focusing initially on c
@@ -1165,7 +1166,6 @@
 - [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
 - [microsoft/Graphormer](https://github.com/microsoft/Graphormer) - Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule s
 - [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf) - pure-Python HistFactory implementation with tensors and autodiff
-- [Rupt/paper-which-is-real](https://github.com/Rupt/paper-which-is-real) - Code and data to reproduce content for "A method to challenge symmetries in data with self-supervised learning"
 - [google/ml_collections](https://github.com/google/ml_collections) - ML Collections is a library of Python Collections designed for ML use cases.
 - [dmlc/dlpack](https://github.com/dmlc/dlpack) - common in-memory tensor structure
 - [marcelah/entropy_adaptive_hmc](https://github.com/marcelah/entropy_adaptive_hmc) - 
@@ -1535,7 +1535,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-480-Stars](https://github.com/iBug/This-Repo-Has-480-Stars) - Yes, it's true :sparkling_heart: This repository has 480 stars.
+- [iBug/This-Repo-Has-483-Stars](https://github.com/iBug/This-Repo-Has-483-Stars) - Yes, it's true :heartbeat: This repository has 483 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
