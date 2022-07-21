@@ -1110,7 +1110,7 @@
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [streamlet-dev/tributary](https://github.com/streamlet-dev/tributary) - Streaming reactive and dataflow graphs in Python
-- [obsidianMkdocs/obsidian-mkdocs-publisher-python](https://github.com/obsidianMkdocs/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
+- [ObsidianPublisher/obsidian-mkdocs-publisher-python](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [man-group/notebooker](https://github.com/man-group/notebooker) - Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
@@ -1535,7 +1535,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-483-Stars](https://github.com/iBug/This-Repo-Has-483-Stars) - Yes, it's true :heartbeat: This repository has 483 stars.
+- [iBug/This-Repo-Has-483-Stars](https://github.com/iBug/This-Repo-Has-483-Stars) - Yes, it's true :two_hearts: This repository has 483 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2205,7 +2205,7 @@
 - [excalidraw/svg-to-excalidraw](https://github.com/excalidraw/svg-to-excalidraw) - Convert SVGs into Excalidraw data
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [obsidianMkdocs/obsidian-github-publisher](https://github.com/obsidianMkdocs/obsidian-github-publisher) - A plugin to easily publish note to github
+- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
 - [xldenis/obsidian-latex](https://github.com/xldenis/obsidian-latex) - 
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
