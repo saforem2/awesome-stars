@@ -570,6 +570,7 @@
 
 ## Jupyter Notebook 
 
+- [natolambert/job-search-viz](https://github.com/natolambert/job-search-viz) - A tool for visualization of complex job searches.
 - [deephyper/anl-22-summer-workshop](https://github.com/deephyper/anl-22-summer-workshop) - 
 - [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition) - This project aims to classify human activities using data obtained from accelerometer and gyroscope sensors from phone and watch.
 - [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
@@ -1540,7 +1541,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-486-Stars](https://github.com/iBug/This-Repo-Has-486-Stars) - Yes, it's true :heartbeat: This repository has 486 stars.
+- [iBug/This-Repo-Has-487-Stars](https://github.com/iBug/This-Repo-Has-487-Stars) - Yes, it's true :heartbeat: This repository has 487 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
