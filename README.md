@@ -471,7 +471,7 @@
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
-- [blinksh/themes](https://github.com/blinksh/themes) - 
+- [blinksh/themes](https://github.com/blinksh/themes) - blink themes collection
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [WillKoehrsen/jupyter-notebook-extensions](https://github.com/WillKoehrsen/jupyter-notebook-extensions) - Developing new jupyter notebook extensions
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -1541,7 +1541,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-487-Stars](https://github.com/iBug/This-Repo-Has-487-Stars) - Yes, it's true :heartbeat: This repository has 487 stars.
+- [iBug/This-Repo-Has-488-Stars](https://github.com/iBug/This-Repo-Has-488-Stars) - Yes, it's true :two_hearts: This repository has 488 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
