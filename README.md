@@ -691,7 +691,7 @@
 - [jo-mab/TruncatedMC](https://github.com/jo-mab/TruncatedMC) - Supplementary Material for "Proposing new configurations in Monte Carlo simulations using truncated Markov Chains"
 - [andreas128/SRFlow](https://github.com/andreas128/SRFlow) - Official SRFlow training code: Super-Resolution using Normalizing Flow in PyTorch
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan
-- [weijie-chen/Linear_Algebra_With_Python](https://github.com/weijie-chen/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skills
+- [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skills
 - [henryiii/level-up-your-python](https://github.com/henryiii/level-up-your-python) - Course over intermediate Python
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [danielalcalde/MCMC_CRBM](https://github.com/danielalcalde/MCMC_CRBM) - 
@@ -1973,7 +1973,6 @@
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [flipflop97/WebMan](https://github.com/flipflop97/WebMan) - A web interface for the Arch Linux package manager (pacman)
 - [general-ai-challenge/Round1](https://github.com/general-ai-challenge/Round1) - Environment and tasks for the first round of the General AI Challenge.
-- [Ekultek/Pybelt](https://github.com/Ekultek/Pybelt) - The hackers tool belt
 - [neomoha/python-lsi-similarity](https://github.com/neomoha/python-lsi-similarity) - A small code in python to compute semantic similarity between documents (or items) using Latent Semantic Indexing
 - [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) - Web interface for browsing, search and filtering recent arxiv submissions
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
