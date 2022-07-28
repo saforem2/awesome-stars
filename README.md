@@ -1541,7 +1541,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-488-Stars](https://github.com/iBug/This-Repo-Has-488-Stars) - Yes, it's true :two_hearts: This repository has 488 stars.
+- [iBug/This-Repo-Has-489-Stars](https://github.com/iBug/This-Repo-Has-489-Stars) - Yes, it's true :two_hearts: This repository has 489 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1809,7 +1809,7 @@
 - [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
 - [MelkoCollective/ICTP-SAIFR-MLPhysics](https://github.com/MelkoCollective/ICTP-SAIFR-MLPhysics) - Minicourse on Machine Learning for Many-Body Physics, Sept 25 – 29, 2017  São Paulo, Brazil
 - [ellendmk/DL_and_RG](https://github.com/ellendmk/DL_and_RG) - This repo contains code used to run experiments for the paper titled "Is Deep Learning a Renormalization Group Flow?" arXiv:1906.05212.
-- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperp
+- [ray-project/ray](https://github.com/ray-project/ray) - A unified framework for scalable computing. Ray is packaged with scalable libraries for data processing (Ray Datasets), training (Ray Train), hyperparameter tuning (Ray Tune), reinforcement learning (
 - [bayesiains/nflows](https://github.com/bayesiains/nflows) - Normalizing flows in PyTorch
 - [IntelPython/scikit-learn_bench](https://github.com/IntelPython/scikit-learn_bench) - scikit-learn_bench benchmarks various implementations of machine learning algorithms across data analytics frameworks. It currently support the scikit-learn, DAAL4PY, cuML, and XGBoost frameworks for 
 - [gcarleo/mydocstring](https://github.com/gcarleo/mydocstring) - A tool for extracting and converting Google-style docstrings to plain-text, Markdown, and JSON
