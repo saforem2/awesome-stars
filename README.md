@@ -290,6 +290,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
@@ -826,7 +827,7 @@
 
 ## LLVM 
 
-- [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - 
+- [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - Lecture and hands-on material for Track 8- Machine Learning of  Argonne Training Program on Extreme-Scale Computing
 
 ## Lua 
 
@@ -1565,7 +1566,6 @@
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [lucidrains/lie-transformer-pytorch](https://github.com/lucidrains/lie-transformer-pytorch) - Implementation of Lie Transformer, Equivariant Self-Attention, in Pytorch
 - [csqphy/Python](https://github.com/csqphy/Python) - All Algorithms implemented in Python
-- [Romit-Maulik/Neural_Operator](https://github.com/Romit-Maulik/Neural_Operator) - A neural solution operator for advection-dominated prolems
 - [wearepal/data-science-types](https://github.com/wearepal/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib
 - [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [agayonlombardo/pores4thought](https://github.com/agayonlombardo/pores4thought) - 
@@ -1973,6 +1973,7 @@
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [flipflop97/WebMan](https://github.com/flipflop97/WebMan) - A web interface for the Arch Linux package manager (pacman)
 - [general-ai-challenge/Round1](https://github.com/general-ai-challenge/Round1) - Environment and tasks for the first round of the General AI Challenge.
+- [Ekultek/Pybelt](https://github.com/Ekultek/Pybelt) - The hackers tool belt
 - [neomoha/python-lsi-similarity](https://github.com/neomoha/python-lsi-similarity) - A small code in python to compute semantic similarity between documents (or items) using Latent Semantic Indexing
 - [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) - Web interface for browsing, search and filtering recent arxiv submissions
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
