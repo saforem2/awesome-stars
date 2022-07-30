@@ -40,6 +40,7 @@
 - [Mathematica](#mathematica)
 - [Nextflow](#nextflow)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -269,7 +270,6 @@
 
 ## Emacs Lisp 
 
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [yangsheng6810/org-latex-impatient](https://github.com/yangsheng6810/org-latex-impatient) - Instant Previews LaTeX snippets in Org-mode
 
 ## Fennel 
@@ -680,7 +680,6 @@
 - [wri-dssg-omdena/policy-data-analyzer](https://github.com/wri-dssg-omdena/policy-data-analyzer) - Building a model to recognize incentives for landscape restoration in environmental policies from Latin America, the US and India. Bringing NLP to the world of policy analysis through an extensible fr
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [tacaswell/2021-03_APS](https://github.com/tacaswell/2021-03_APS) - 
-- [aimat-lab/gcnn_keras](https://github.com/aimat-lab/gcnn_keras) - Graph convolution with tf.keras
 - [geomstats/challenge-iclr-2021](https://github.com/geomstats/challenge-iclr-2021) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
 - [wandb/examples](https://github.com/wandb/examples) - Example deep learning projects that use wandb's features.
 - [bentrevett/pytorch-rl](https://github.com/bentrevett/pytorch-rl) - Tutorials for reinforcement learning in PyTorch and Gym by implementing a few of the popular algorithms. [IN PROGRESS]
@@ -915,6 +914,10 @@
 - [sinkingsugar/nimtorch](https://github.com/sinkingsugar/nimtorch) - PyTorch - Python + Nim
 - [paranim/paramidi](https://github.com/paranim/paramidi) - A Nim data -&gt; music library
 - [jcosborn/qex](https://github.com/jcosborn/qex) - Quantum EXpressions lattice field theory framework
+
+## Nix 
+
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## OCaml 
 
@@ -1500,6 +1503,7 @@
 - [tonywu95/eval_gen](https://github.com/tonywu95/eval_gen) - Evaluation code with models for the paper "On the Quantitative Analysis of Decoder-Based Generative Models"
 - [mariaref/rfvs2lnn_GMM_online](https://github.com/mariaref/rfvs2lnn_GMM_online) - Implementation of numerical simulation and analytical computations for the training, via online SGD, of two layer neural networks and random features on a mixture of Gaussian.
 - [makepath/xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analytics for Python
+- [aimat-lab/gcnn_keras](https://github.com/aimat-lab/gcnn_keras) - Graph convolution with tf.keras
 - [juliagusak/neural-ode-norm](https://github.com/juliagusak/neural-ode-norm) - Models and code for the ICLR 2020 workshop paper "Towards Understanding Normalization in Neural ODEs"
 - [priyankjaini/discFlowMH](https://github.com/priyankjaini/discFlowMH) - Pytorch code for Sampling in Combinatorial Spaces with SurVAE Flow Augmented MCMC
 - [yukimasano/linear-probes](https://github.com/yukimasano/linear-probes) - Evaluating AlexNet features at various depths
