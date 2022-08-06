@@ -1198,7 +1198,7 @@
 - [cgarciae/treex](https://github.com/cgarciae/treex) - A Pytree Module system for Deep Learning in JAX
 - [wesselb/lab](https://github.com/wesselb/lab) - A generic interface for linear algebra backends
 - [GilesStrong/lumin](https://github.com/GilesStrong/lumin) - LUMIN - a deep learning and data science ecosystem for high-energy physics.
-- [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font) - Nerd Fonts with Cursive Italic Styles
+- [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font) - Nerd Fonts with Cursive Italic Styles -- Read-only Mirror of https://git.sainnhe.dev/sainnhe/icursive-nerd-font
 - [OATML/non-parametric-transformers](https://github.com/OATML/non-parametric-transformers) - Code for "Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning"
 - [rw435/wreathProdNet](https://github.com/rw435/wreathProdNet) - 
 - [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
