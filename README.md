@@ -32,7 +32,6 @@
 - [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
-- [LLVM](#llvm)
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
@@ -632,6 +631,7 @@
 - [noegroup/stochastic_normalizing_flows](https://github.com/noegroup/stochastic_normalizing_flows) - Stochastic Normalizing Flows
 - [noegroup/paper_boltzmann_generators](https://github.com/noegroup/paper_boltzmann_generators) - 
 - [noegroup/bgflow](https://github.com/noegroup/bgflow) - Boltzmann Generators and Normalizing Flows in PyTorch
+- [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - Lecture and hands-on material for Track 8- Machine Learning of  Argonne Training Program on Extreme-Scale Computing
 - [twitter-research/graph-neural-pde](https://github.com/twitter-research/graph-neural-pde) - Graph Neural PDEs
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - A project-based course on the foundations of MLOps with a focus on intuition and application.
@@ -828,10 +828,6 @@
 - [lightaime/cs231n](https://github.com/lightaime/cs231n) - cs231n assignments sovled by https://ghli.org
 - [ipython-books/cookbook-code](https://github.com/ipython-books/cookbook-code) - [DEPRECATED] See the new edition:
 
-## LLVM 
-
-- [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - Lecture and hands-on material for Track 8- Machine Learning of  Argonne Training Program on Extreme-Scale Computing
-
 ## Lua 
 
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
@@ -847,7 +843,7 @@
 - [shift-d/nv](https://github.com/shift-d/nv) - 
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - 🗺 A better way to create key mappings in Neovim.
-- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Symbol analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Take control like a boss 🦍.
+- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Source code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Take control like a boss 🦍.
 - [rafamadriz/NeoCode](https://github.com/rafamadriz/NeoCode) - 
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
@@ -945,6 +941,7 @@
 
 ## Others 
 
+- [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers
 - [vdutor/neural-diffusion-processes](https://github.com/vdutor/neural-diffusion-processes) - Neural Diffusion Processes
@@ -1076,6 +1073,9 @@
 
 ## Python 
 
+- [carpentries-incubator/hpc-workflows](https://github.com/carpentries-incubator/hpc-workflows) - Scaling studies on high-performance clusters using Snakemake workflows
+- [michaelfaulkner/super-aLby](https://github.com/michaelfaulkner/super-aLby) - 
+- [michaelfaulkner/xy-type-models](https://github.com/michaelfaulkner/xy-type-models) - 
 - [huggingface/optimum-intel](https://github.com/huggingface/optimum-intel) - Accelerate inference of 🤗 Transformers with Intel optimization tools
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
