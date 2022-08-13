@@ -835,6 +835,7 @@
 
 ## Lua 
 
+- [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
@@ -946,6 +947,7 @@
 
 ## Others 
 
+- [Jack000/fontjoy](https://github.com/Jack000/fontjoy) - font vectors used for fontjoy.com
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers
@@ -1078,6 +1080,7 @@
 
 ## Python 
 
+- [Nuclear-Physics-with-Machine-Learning/MLQM](https://github.com/Nuclear-Physics-with-Machine-Learning/MLQM) - Testing using AI and ML techniques to solve quantum systems
 - [gimbo/iterm2-tabs.zsh](https://github.com/gimbo/iterm2-tabs.zsh) - Andy's zsh plugin for setting iTerm2 titles and colors
 - [carpentries-incubator/hpc-workflows](https://github.com/carpentries-incubator/hpc-workflows) - Scaling studies on high-performance clusters using Snakemake workflows
 - [michaelfaulkner/super-aLby](https://github.com/michaelfaulkner/super-aLby) - 
@@ -1118,7 +1121,6 @@
 - [cedricwangyu/NoFAS](https://github.com/cedricwangyu/NoFAS) - Variational Inference with NoFAS: Normalizing Flow with Adaptive Surrogate for Computationally Expensive Models
 - [matplotlib/pytest-mpl](https://github.com/matplotlib/pytest-mpl) - A pytest plugin to facilitate image comparison for Matplotlib figures
 - [suneeta-mall/hydra_pydantic_config_management](https://github.com/suneeta-mall/hydra_pydantic_config_management) - 
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [BorgwardtLab/TOGL](https://github.com/BorgwardtLab/TOGL) - Topological Graph Neural Networks (ICLR 2022)
@@ -1556,7 +1558,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-492-Stars](https://github.com/iBug/This-Repo-Has-492-Stars) - Yes, it's true :heartpulse: This repository has 492 stars.
+- [iBug/This-Repo-Has-492-Stars](https://github.com/iBug/This-Repo-Has-492-Stars) - Yes, it's true :yellow_heart: This repository has 492 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2225,6 +2227,7 @@
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
 - [xldenis/obsidian-latex](https://github.com/xldenis/obsidian-latex) - 
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
