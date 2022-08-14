@@ -1212,7 +1212,7 @@
 - [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
 - [lewoudar/httpcli](https://github.com/lewoudar/httpcli) - A Proof of concept of a modern python CLI with click, pydantic, rich and anyio
 - [ebekkers/gsplinets](https://github.com/ebekkers/gsplinets) - B-Spline CNNs on Lie groups
-- [pytorch/torcharrow](https://github.com/pytorch/torcharrow) - A machine learning preprocessing library over batch data, providing performant and Pandas-style easy-to-use API for model development
+- [pytorch/torcharrow](https://github.com/pytorch/torcharrow) - A torch.Tensor-like DataFrame library supporting multiple execution runtimes and Arrow as a common memory format
 - [meshpro/pygmsh](https://github.com/meshpro/pygmsh) - :spider_web: Gmsh for Python
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
@@ -1558,7 +1558,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-492-Stars](https://github.com/iBug/This-Repo-Has-492-Stars) - Yes, it's true :yellow_heart: This repository has 492 stars.
+- [iBug/This-Repo-Has-493-Stars](https://github.com/iBug/This-Repo-Has-493-Stars) - Yes, it's true :sparkling_heart: This repository has 493 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
