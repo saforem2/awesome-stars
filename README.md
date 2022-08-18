@@ -1212,7 +1212,7 @@
 - [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
 - [lewoudar/httpcli](https://github.com/lewoudar/httpcli) - A Proof of concept of a modern python CLI with click, pydantic, rich and anyio
 - [ebekkers/gsplinets](https://github.com/ebekkers/gsplinets) - B-Spline CNNs on Lie groups
-- [pytorch/torcharrow](https://github.com/pytorch/torcharrow) - A torch.Tensor-like DataFrame library supporting multiple execution runtimes and Arrow as a common memory format
+- [pytorch/torcharrow](https://github.com/pytorch/torcharrow) - A torch.Tensor-like DataFrame library for data preprocessing in PyTorch models
 - [meshpro/pygmsh](https://github.com/meshpro/pygmsh) - :spider_web: Gmsh for Python
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
@@ -2015,6 +2015,7 @@
 
 ## Ruby 
 
+- [srobbin/sweeparoundus](https://github.com/srobbin/sweeparoundus) - A Chicago street sweeping alert system and searchable calendar
 - [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast and smart citation reference parsing
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [Chris911/iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats
