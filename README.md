@@ -503,6 +503,7 @@
 
 ## Julia 
 
+- [AtelierArith/GomalizingFlow.jl](https://github.com/AtelierArith/GomalizingFlow.jl) - A Julia package for Flow-based sampling algorithm
 - [JuliaImages/ImageInTerminal.jl](https://github.com/JuliaImages/ImageInTerminal.jl) - Julia package for displaying images in the terminal using ANSI colors and Unicode characters
 - [JuliaDynamics/DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) - The perfect sidekick to your scientific inquiries
 - [mahaa2/EmbeddedLMC](https://github.com/mahaa2/EmbeddedLMC) - 
@@ -862,7 +863,7 @@
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [nvim-telescope/telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim) - 
 - [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim) - FZY style sorter that is compiled
-- [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite/LuaJIT binding for lua and neovim
+- [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
@@ -1332,7 +1333,7 @@
 - [matplotlib/mpl-gui](https://github.com/matplotlib/mpl-gui) - Prototype for mpl-gui module
 - [mschwager/cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
 - [facebookresearch/pplbench](https://github.com/facebookresearch/pplbench) - Evaluation Framework for Probabilistic Programming Languages
 - [stefanwebb/flowtorch-old](https://github.com/stefanwebb/flowtorch-old) - Separating Normalizing Flows code from Pyro and improving API
