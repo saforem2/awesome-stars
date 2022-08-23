@@ -1081,6 +1081,7 @@
 
 ## Python 
 
+- [volodia99/cblind](https://github.com/volodia99/cblind) - A colorblind-friendly python module that allows optimal color choice for plotting multiple curves
 - [Nuclear-Physics-with-Machine-Learning/MLQM](https://github.com/Nuclear-Physics-with-Machine-Learning/MLQM) - Testing using AI and ML techniques to solve quantum systems
 - [gimbo/iterm2-tabs.zsh](https://github.com/gimbo/iterm2-tabs.zsh) - Andy's zsh plugin for setting iTerm2 titles and colors
 - [carpentries-incubator/hpc-workflows](https://github.com/carpentries-incubator/hpc-workflows) - Scaling studies on high-performance clusters using Snakemake workflows
