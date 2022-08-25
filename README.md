@@ -62,8 +62,8 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
-- [Vim script](#vim-script)
 - [Vue](#vue)
 
 ## Brainfuck 
@@ -503,6 +503,7 @@
 
 ## Julia 
 
+- [KristofferC/Crayons.jl](https://github.com/KristofferC/Crayons.jl) - Colored and styled strings for terminals.
 - [AtelierArith/GomalizingFlow.jl](https://github.com/AtelierArith/GomalizingFlow.jl) - A Julia package for Flow-based sampling algorithm
 - [JuliaImages/ImageInTerminal.jl](https://github.com/JuliaImages/ImageInTerminal.jl) - Julia package for displaying images in the terminal using ANSI colors and Unicode characters
 - [JuliaDynamics/DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) - The perfect sidekick to your scientific inquiries
@@ -1096,7 +1097,7 @@
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
 - [bjing2016/subspace-diffusion](https://github.com/bjing2016/subspace-diffusion) - Improved diffusion generative models with subspaces
-- [online-ml/beaver](https://github.com/online-ml/beaver) - 🦫 MLOps for online machine learning
+- [online-ml/beaver](https://github.com/online-ml/beaver) - 🦫 MLOps for (online) machine learning
 - [MLMI2-CSSI/foundry](https://github.com/MLMI2-CSSI/foundry) - Simplifying the discovery and usage of machine-learning ready datasets in materials science and chemistry
 - [landerlini/hopaas_client](https://github.com/landerlini/hopaas_client) - Hyperparameter Optimization as a Service (Client)
 - [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
@@ -2312,11 +2313,7 @@
 
 - [Philip-Scott/Spice-up](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop
 
-## Vim Snippet 
-
-- [gillescastel/latex-snippets](https://github.com/gillescastel/latex-snippets) - Vim + LaTeX snippets setup
-
-## Vim script 
+## Vim Script 
 
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
@@ -2355,6 +2352,10 @@
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [edkolev/tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration
+
+## Vim Snippet 
+
+- [gillescastel/latex-snippets](https://github.com/gillescastel/latex-snippets) - Vim + LaTeX snippets setup
 
 ## Vue 
 
