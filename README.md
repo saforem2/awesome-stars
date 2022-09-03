@@ -1786,7 +1786,7 @@
 - [albertomontesg/keras-model-zoo](https://github.com/albertomontesg/keras-model-zoo) - Keras Model Zoo
 - [pybuilder/pybuilder](https://github.com/pybuilder/pybuilder) - Software build automation tool for Python.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
 - [Palashio/libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
