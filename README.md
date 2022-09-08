@@ -687,7 +687,6 @@
 - [wri-dssg-omdena/policy-data-analyzer](https://github.com/wri-dssg-omdena/policy-data-analyzer) - Building a model to recognize incentives for landscape restoration in environmental policies from Latin America, the US and India. Bringing NLP to the world of policy analysis through an extensible fr
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [tacaswell/2021-03_APS](https://github.com/tacaswell/2021-03_APS) - 
-- [aimat-lab/gcnn_keras](https://github.com/aimat-lab/gcnn_keras) - Graph convolution with tf.keras
 - [geomstats/challenge-iclr-2021](https://github.com/geomstats/challenge-iclr-2021) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
 - [wandb/examples](https://github.com/wandb/examples) - Example deep learning projects that use wandb's features.
 - [bentrevett/pytorch-rl](https://github.com/bentrevett/pytorch-rl) - Tutorials for reinforcement learning in PyTorch and Gym by implementing a few of the popular algorithms. [IN PROGRESS]
@@ -779,7 +778,7 @@
 - [li012589/neuralCT](https://github.com/li012589/neuralCT) - Pytorch implement of the paper Neural Canonical Transformation with Symplectic Flows
 - [johannbrehmer/manifold-flow](https://github.com/johannbrehmer/manifold-flow) - Manifold-learning flows (ℳ-flows)
 - [tensorfieldnetworks/tensorfieldnetworks](https://github.com/tensorfieldnetworks/tensorfieldnetworks) - 
-- [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
+- [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
 - [facebookresearch/dagger](https://github.com/facebookresearch/dagger) - Experiment orchestration
 - [arogozhnikov/hep_ml](https://github.com/arogozhnikov/hep_ml) - Machine Learning for High Energy Physics.
 - [UTA-HEP-Computing/DSatHEP-Tutorial](https://github.com/UTA-HEP-Computing/DSatHEP-Tutorial) - 
@@ -1521,6 +1520,7 @@
 - [tonywu95/eval_gen](https://github.com/tonywu95/eval_gen) - Evaluation code with models for the paper "On the Quantitative Analysis of Decoder-Based Generative Models"
 - [mariaref/rfvs2lnn_GMM_online](https://github.com/mariaref/rfvs2lnn_GMM_online) - Implementation of numerical simulation and analytical computations for the training, via online SGD, of two layer neural networks and random features on a mixture of Gaussian.
 - [makepath/xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analytics for Python
+- [aimat-lab/gcnn_keras](https://github.com/aimat-lab/gcnn_keras) - Graph convolution with tf.keras
 - [juliagusak/neural-ode-norm](https://github.com/juliagusak/neural-ode-norm) - Models and code for the ICLR 2020 workshop paper "Towards Understanding Normalization in Neural ODEs"
 - [priyankjaini/discFlowMH](https://github.com/priyankjaini/discFlowMH) - Pytorch code for Sampling in Combinatorial Spaces with SurVAE Flow Augmented MCMC
 - [yukimasano/linear-probes](https://github.com/yukimasano/linear-probes) - Evaluating AlexNet features at various depths
@@ -1563,7 +1563,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-498-Stars](https://github.com/iBug/This-Repo-Has-498-Stars) - Yes, it's true :sparkling_heart: This repository has 498 stars.
+- [iBug/This-Repo-Has-498-Stars](https://github.com/iBug/This-Repo-Has-498-Stars) - Yes, it's true :gift_heart: This repository has 498 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
