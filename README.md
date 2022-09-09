@@ -165,7 +165,6 @@
 - [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - NumPy drop-in replacement for Intel(R) XPUs
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [jeffhammond/dpcpp-tutorial](https://github.com/jeffhammond/dpcpp-tutorial) - Intel Data Parallel C++ (and SYCL 2020) Tutorial.
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
 - [facebookincubator/gloo](https://github.com/facebookincubator/gloo) - Collective communications library with various primitives for multi-machine training.
 - [tizian/specular-manifold-sampling](https://github.com/tizian/specular-manifold-sampling) - Code for "Specular Manifold Sampling for Rendering High-Frequency Caustics and Glints" (SIGGRAPH 2020) by Tizian Zeltner, Iliyan Georgiev, and Wenzel Jakob
@@ -687,6 +686,7 @@
 - [wri-dssg-omdena/policy-data-analyzer](https://github.com/wri-dssg-omdena/policy-data-analyzer) - Building a model to recognize incentives for landscape restoration in environmental policies from Latin America, the US and India. Bringing NLP to the world of policy analysis through an extensible fr
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [tacaswell/2021-03_APS](https://github.com/tacaswell/2021-03_APS) - 
+- [aimat-lab/gcnn_keras](https://github.com/aimat-lab/gcnn_keras) - Graph convolution with tf.keras
 - [geomstats/challenge-iclr-2021](https://github.com/geomstats/challenge-iclr-2021) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
 - [wandb/examples](https://github.com/wandb/examples) - Example deep learning projects that use wandb's features.
 - [bentrevett/pytorch-rl](https://github.com/bentrevett/pytorch-rl) - Tutorials for reinforcement learning in PyTorch and Gym by implementing a few of the popular algorithms. [IN PROGRESS]
@@ -1520,7 +1520,6 @@
 - [tonywu95/eval_gen](https://github.com/tonywu95/eval_gen) - Evaluation code with models for the paper "On the Quantitative Analysis of Decoder-Based Generative Models"
 - [mariaref/rfvs2lnn_GMM_online](https://github.com/mariaref/rfvs2lnn_GMM_online) - Implementation of numerical simulation and analytical computations for the training, via online SGD, of two layer neural networks and random features on a mixture of Gaussian.
 - [makepath/xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analytics for Python
-- [aimat-lab/gcnn_keras](https://github.com/aimat-lab/gcnn_keras) - Graph convolution with tf.keras
 - [juliagusak/neural-ode-norm](https://github.com/juliagusak/neural-ode-norm) - Models and code for the ICLR 2020 workshop paper "Towards Understanding Normalization in Neural ODEs"
 - [priyankjaini/discFlowMH](https://github.com/priyankjaini/discFlowMH) - Pytorch code for Sampling in Combinatorial Spaces with SurVAE Flow Augmented MCMC
 - [yukimasano/linear-probes](https://github.com/yukimasano/linear-probes) - Evaluating AlexNet features at various depths
@@ -1765,6 +1764,7 @@
 - [xitorch/xitorch](https://github.com/xitorch/xitorch) - Differentiable scientific computing library
 - [asteroidhouse/INN-exploding-inverses](https://github.com/asteroidhouse/INN-exploding-inverses) - Code for Understanding and Mitigating Exploding Inverses in Invertible Neural Networks http://arxiv.org/abs/2006.09347
 - [probprog/pyprob](https://github.com/probprog/pyprob) - A probabilistic programming system for simulators and high-performance computing (HPC), based on PyTorch
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [didriknielsen/survae_flows](https://github.com/didriknielsen/survae_flows) - Code for paper "SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows"
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [rgflowopen/rg-flow](https://github.com/rgflowopen/rg-flow) - Code for RG-Flow: A hierarchical and explainable flow model based on renormalization group and sparse prior.
