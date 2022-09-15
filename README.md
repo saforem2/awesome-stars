@@ -214,6 +214,7 @@
 
 ## CSS 
 
+- [Evelf/obsidian-recipes](https://github.com/Evelf/obsidian-recipes) - Tips and tricks for obsidian.md configuration
 - [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [Lithou/Sandbox](https://github.com/Lithou/Sandbox) - Testing and Experimentation for Obsidian and CSS
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
@@ -371,6 +372,7 @@
 
 ## Haskell 
 
+- [EmaApps/emanote](https://github.com/EmaApps/emanote) - Spiritual successor to neuron, based on Ema.
 - [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [facebook/duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
@@ -1082,6 +1084,7 @@
 
 ## Python 
 
+- [hanschen/vim-ipython-cell](https://github.com/hanschen/vim-ipython-cell) - Seamlessly run Python code in IPython from Vim
 - [ramanathanlab/gene_transformer](https://github.com/ramanathanlab/gene_transformer) - Transformer models to generate synthetic proteins.
 - [jeffminlin/vmcnet](https://github.com/jeffminlin/vmcnet) - Flexible, general-purpose VMC framework, built on JAX.
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping) - Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
@@ -2106,7 +2109,7 @@
 - [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc) - Rick Astley invades your terminal.
 - [pyhf/cuda-images](https://github.com/pyhf/cuda-images) - pyhf Docker images built on Nvidia Container Toolkit enabled base images
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [coreyjadams/ThetaGPU-Containers](https://github.com/coreyjadams/ThetaGPU-Containers) - Singularity recipes for ThetaGPU
 - [izmailovpavel/flowgmm](https://github.com/izmailovpavel/flowgmm) - 
