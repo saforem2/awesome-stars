@@ -952,6 +952,7 @@
 
 ## Others 
 
+- [paperswithcode/releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
 - [saforem2/saforem2](https://github.com/saforem2/saforem2) - Profile README
 - [Jack000/fontjoy](https://github.com/Jack000/fontjoy) - font vectors used for fontjoy.com
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
@@ -1274,7 +1275,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Web-UI testing framework that lets you move fast at scale with Selenium, Python, and pytest. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Get more web automation coverage with SeleniumBase, a Python framework that lets you build reliable tests quickly. 🎖️
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1624,7 +1625,7 @@
 - [danielalcalde/encap](https://github.com/danielalcalde/encap) - A simple tool to keep track of computational experiments.
 - [leegao/readme2tex](https://github.com/leegao/readme2tex) - Renders TeXy Math for Github Readmes
 - [daft-dev/daft](https://github.com/daft-dev/daft) - Render probabilistic graphical models using matplotlib
-- [ku2482/rljax](https://github.com/ku2482/rljax) - A collection of RL algorithms written in JAX.
+- [toshikwa/rljax](https://github.com/toshikwa/rljax) - A collection of RL algorithms written in JAX.
 - [mariogeiger/se3cnn](https://github.com/mariogeiger/se3cnn) - Euclidean Neural Networks
 - [deepmind/optax](https://github.com/deepmind/optax) - Optax is a gradient processing and optimization library for JAX.
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :)
