@@ -165,6 +165,7 @@
 - [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - NumPy drop-in replacement for Intel(R) XPUs
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [jeffhammond/dpcpp-tutorial](https://github.com/jeffhammond/dpcpp-tutorial) - Intel Data Parallel C++ (and SYCL 2020) Tutorial.
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
 - [facebookincubator/gloo](https://github.com/facebookincubator/gloo) - Collective communications library with various primitives for multi-machine training.
 - [tizian/specular-manifold-sampling](https://github.com/tizian/specular-manifold-sampling) - Code for "Specular Manifold Sampling for Rendering High-Frequency Caustics and Glints" (SIGGRAPH 2020) by Tizian Zeltner, Iliyan Georgiev, and Wenzel Jakob
@@ -1275,7 +1276,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Get more web automation coverage with SeleniumBase, a Python framework that lets you build reliable tests quickly. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework for modern web testing with Selenium, Python, and pytest. ✔️
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1671,7 +1672,7 @@
 - [deepchem/jaxchem](https://github.com/deepchem/jaxchem) - JAXChem is a JAX-based deep learning library for complex and versatile chemical modeling
 - [aquaULB/solving_pde_mooc](https://github.com/aquaULB/solving_pde_mooc) - 
 - [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) - Model summary in PyTorch similar to `model.summary()` in Keras
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [tjburch/latex-progress-tracker](https://github.com/tjburch/latex-progress-tracker) - Progress tracking plots for LaTeX documents
 - [Urinx/alphafold_pytorch](https://github.com/Urinx/alphafold_pytorch) - An implementation of the DeepMind's AlphaFold based on PyTorch for research
 - [StannisZhou/mixed_hmc](https://github.com/StannisZhou/mixed_hmc) - 
@@ -1772,7 +1773,6 @@
 - [xitorch/xitorch](https://github.com/xitorch/xitorch) - Differentiable scientific computing library
 - [asteroidhouse/INN-exploding-inverses](https://github.com/asteroidhouse/INN-exploding-inverses) - Code for Understanding and Mitigating Exploding Inverses in Invertible Neural Networks http://arxiv.org/abs/2006.09347
 - [probprog/pyprob](https://github.com/probprog/pyprob) - A probabilistic programming system for simulators and high-performance computing (HPC), based on PyTorch
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [didriknielsen/survae_flows](https://github.com/didriknielsen/survae_flows) - Code for paper "SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows"
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [rgflowopen/rg-flow](https://github.com/rgflowopen/rg-flow) - Code for RG-Flow: A hierarchical and explainable flow model based on renormalization group and sparse prior.
@@ -2308,7 +2308,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jupyterlab-contrib/jupyterlab-vim](https://github.com/jupyterlab-contrib/jupyterlab-vim) - :neckbeard: Vim notebook cell bindings for JupyterLab
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [vv-vim/vv](https://github.com/vv-vim/vv) - Neovim client for macOS
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
