@@ -73,6 +73,7 @@
 
 ## C 
 
+- [aws/aws-ofi-nccl](https://github.com/aws/aws-ofi-nccl) - This is a plugin which lets EC2 developers use libfabric as network provider while running NCCL applications.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [XProger/OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
@@ -584,6 +585,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/whisper](https://github.com/openai/whisper) - 
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [natolambert/job-search-viz](https://github.com/natolambert/job-search-viz) - A tool for visualization of complex job searches.
 - [deephyper/anl-22-summer-workshop](https://github.com/deephyper/anl-22-summer-workshop) - 
@@ -1092,6 +1094,8 @@
 
 ## Python 
 
+- [ying531/MCMC-SymReg](https://github.com/ying531/MCMC-SymReg) - Symbolic Regression using MCMC sampling
+- [jw9730/tokengt](https://github.com/jw9730/tokengt) - [NeurIPS'22] Tokenized Graph Transformer (TokenGT), in PyTorch
 - [drorlab/gvp-pytorch](https://github.com/drorlab/gvp-pytorch) - Geometric Vector Perceptrons --- a rotation-equivariant GNN for learning from biomolecular structure
 - [JacobARose/thisnotthat](https://github.com/JacobARose/thisnotthat) - A visual labeling system implemented in Jupyter widgets.
 - [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua Speeds up PyTorch
@@ -1603,7 +1607,7 @@
 - [lucidrains/lie-transformer-pytorch](https://github.com/lucidrains/lie-transformer-pytorch) - Implementation of Lie Transformer, Equivariant Self-Attention, in Pytorch
 - [csqphy/Python](https://github.com/csqphy/Python) - All Algorithms implemented in Python
 - [wearepal/data-science-types](https://github.com/wearepal/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [agayonlombardo/pores4thought](https://github.com/agayonlombardo/pores4thought) - 
 - [drorlab/gvp](https://github.com/drorlab/gvp) - Geometric Vector Perceptron --- a rotation-equivariant GNN for learning from biomolecular structure
 - [timothygebhard/pytorch-conv4d](https://github.com/timothygebhard/pytorch-conv4d) - Rudimentary Conv4D Layer Implementation for PyTorch
@@ -2035,6 +2039,7 @@
 
 ## Ruby 
 
+- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [srobbin/sweeparoundus](https://github.com/srobbin/sweeparoundus) - A Chicago street sweeping alert system and searchable calendar
 - [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast and smart citation reference parsing
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
