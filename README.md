@@ -827,7 +827,7 @@
 - [crgagne/pymc3-tensorflow-and-theano-backends](https://github.com/crgagne/pymc3-tensorflow-and-theano-backends) - Within this repo, I altered some of the PyMC3 source code so that it can run on either Theano or TensorFlow backends
 - [brain-research/l2hmc](https://github.com/brain-research/l2hmc) - TensorFlow implementation for training MCMC samplers from the paper: Generalizing Hamiltonian Monte Carlo with Neural Network
 - [rasbt/deep-learning-book](https://github.com/rasbt/deep-learning-book) - Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python"
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED See ageron/handson-ml3 instead. This project contains a series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Le
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [SebastianBocquet/pygtc](https://github.com/SebastianBocquet/pygtc) - Make a sweet giant triangle confusogram (GTC) plot
 - [hep-lbdl/adversarial-jets](https://github.com/hep-lbdl/adversarial-jets) - Training, generation, and analysis code for Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics
@@ -1607,7 +1607,7 @@
 - [lucidrains/lie-transformer-pytorch](https://github.com/lucidrains/lie-transformer-pytorch) - Implementation of Lie Transformer, Equivariant Self-Attention, in Pytorch
 - [csqphy/Python](https://github.com/csqphy/Python) - All Algorithms implemented in Python
 - [wearepal/data-science-types](https://github.com/wearepal/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Data Lake for Deep Learning. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Data Lake for Deep Learning. Build, manage, query, version, & visualize datasets. Stream data real-time to PyTorch/TensorFlow. https://activeloop.ai
 - [agayonlombardo/pores4thought](https://github.com/agayonlombardo/pores4thought) - 
 - [drorlab/gvp](https://github.com/drorlab/gvp) - Geometric Vector Perceptron --- a rotation-equivariant GNN for learning from biomolecular structure
 - [timothygebhard/pytorch-conv4d](https://github.com/timothygebhard/pytorch-conv4d) - Rudimentary Conv4D Layer Implementation for PyTorch
