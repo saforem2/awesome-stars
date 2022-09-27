@@ -1656,7 +1656,7 @@
 - [JelteF/PyLaTeX](https://github.com/JelteF/PyLaTeX) - A Python library for creating LaTeX files
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
 - [choderalab/gimlet](https://github.com/choderalab/gimlet) - Graph Inference on MoLEcular Topology
-- [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about ML, DL, PyTorch and TensorFlow. Feedback always appreciated :)
+- [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning
 - [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [sliem/ScientificColorschemez](https://github.com/sliem/ScientificColorschemez) - Use the fantastic colorschemes invented by @colorschemez in your matplotlib plots!
 - [cfangmeier/vitex](https://github.com/cfangmeier/vitex) - An unholy conglomeration of vim, evince, and friends for writing LaTeX
