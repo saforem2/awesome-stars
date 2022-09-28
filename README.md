@@ -1657,7 +1657,7 @@
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
 - [choderalab/gimlet](https://github.com/choderalab/gimlet) - Graph Inference on MoLEcular Topology
 - [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning
-- [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+- [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 - [sliem/ScientificColorschemez](https://github.com/sliem/ScientificColorschemez) - Use the fantastic colorschemes invented by @colorschemez in your matplotlib plots!
 - [cfangmeier/vitex](https://github.com/cfangmeier/vitex) - An unholy conglomeration of vim, evince, and friends for writing LaTeX
 - [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
@@ -2322,7 +2322,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jupyterlab-contrib/jupyterlab-vim](https://github.com/jupyterlab-contrib/jupyterlab-vim) - :neckbeard: Vim notebook cell bindings for JupyterLab
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [vv-vim/vv](https://github.com/vv-vim/vv) - Neovim client for macOS
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
