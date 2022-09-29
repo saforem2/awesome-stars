@@ -73,6 +73,7 @@
 
 ## C 
 
+- [argonne-lcf/GettingStarted](https://github.com/argonne-lcf/GettingStarted) - Collection of small examples for running on ALCF resources
 - [aws/aws-ofi-nccl](https://github.com/aws/aws-ofi-nccl) - This is a plugin which lets EC2 developers use libfabric as network provider while running NCCL applications.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
@@ -585,7 +586,7 @@
 
 ## Jupyter Notebook 
 
-- [openai/whisper](https://github.com/openai/whisper) - 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [natolambert/job-search-viz](https://github.com/natolambert/job-search-viz) - A tool for visualization of complex job searches.
 - [deephyper/anl-22-summer-workshop](https://github.com/deephyper/anl-22-summer-workshop) - 
@@ -827,7 +828,7 @@
 - [crgagne/pymc3-tensorflow-and-theano-backends](https://github.com/crgagne/pymc3-tensorflow-and-theano-backends) - Within this repo, I altered some of the PyMC3 source code so that it can run on either Theano or TensorFlow backends
 - [brain-research/l2hmc](https://github.com/brain-research/l2hmc) - TensorFlow implementation for training MCMC samplers from the paper: Generalizing Hamiltonian Monte Carlo with Neural Network
 - [rasbt/deep-learning-book](https://github.com/rasbt/deep-learning-book) - Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python"
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED See ageron/handson-ml3 instead. This project contains a series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Le
+- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [SebastianBocquet/pygtc](https://github.com/SebastianBocquet/pygtc) - Make a sweet giant triangle confusogram (GTC) plot
 - [hep-lbdl/adversarial-jets](https://github.com/hep-lbdl/adversarial-jets) - Training, generation, and analysis code for Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics
