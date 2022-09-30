@@ -128,6 +128,7 @@
 
 ## C++ 
 
+- [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
 - [jmduarte/iaifi-summer-school](https://github.com/jmduarte/iaifi-summer-school) - IAIFI Summer School Lectures and Tutorials for ML in Particle Physics
 - [ECP-WarpX/impactx](https://github.com/ECP-WarpX/impactx) - ImpactX: the next generation of the IMPACT-Z beam dynamics code
 - [svalinn/DAGMC](https://github.com/svalinn/DAGMC) - Direct Accelerated Geometry Monte Carlo Toolkit
@@ -1095,6 +1096,7 @@
 
 ## Python 
 
+- [google/latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
 - [ying531/MCMC-SymReg](https://github.com/ying531/MCMC-SymReg) - Symbolic Regression using MCMC sampling
 - [jw9730/tokengt](https://github.com/jw9730/tokengt) - [NeurIPS'22] Tokenized Graph Transformer (TokenGT), in PyTorch
 - [drorlab/gvp-pytorch](https://github.com/drorlab/gvp-pytorch) - Geometric Vector Perceptrons --- a rotation-equivariant GNN for learning from biomolecular structure
@@ -2199,6 +2201,7 @@
 
 ## TeX 
 
+- [scipp-atlas/mapyde-paper](https://github.com/scipp-atlas/mapyde-paper) - 
 - [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [showyourwork/showyourwork](https://github.com/showyourwork/showyourwork) - Fully reproducible, open source scientific articles in LaTeX.
