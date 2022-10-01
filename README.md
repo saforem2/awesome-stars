@@ -850,6 +850,7 @@
 
 ## Lua 
 
+- [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.5 and higher) experience with minimal effort
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
@@ -962,6 +963,7 @@
 
 ## Others 
 
+- [tummfm/relative-entropy](https://github.com/tummfm/relative-entropy) - Training Neural Network Potentials via Relative Entropy Minimization
 - [paperswithcode/releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
 - [saforem2/saforem2](https://github.com/saforem2/saforem2) - Profile README
 - [Jack000/fontjoy](https://github.com/Jack000/fontjoy) - font vectors used for fontjoy.com
@@ -1096,6 +1098,7 @@
 
 ## Python 
 
+- [pyamg/pyamg](https://github.com/pyamg/pyamg) - Algebraic Multigrid Solvers in Python
 - [google/latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
 - [ying531/MCMC-SymReg](https://github.com/ying531/MCMC-SymReg) - Symbolic Regression using MCMC sampling
 - [jw9730/tokengt](https://github.com/jw9730/tokengt) - [NeurIPS'22] Tokenized Graph Transformer (TokenGT), in PyTorch
