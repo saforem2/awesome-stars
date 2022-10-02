@@ -1841,7 +1841,7 @@
 - [danielegrattarola/spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
 - [jacobjinkelly/easy-neural-ode](https://github.com/jacobjinkelly/easy-neural-ode) - Code for the paper "Learning Differential Equations that are Easy to Solve"
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
-- [KAUST-CTL/horovod-gpu-data-science-project](https://github.com/KAUST-CTL/horovod-gpu-data-science-project) - Template repository for a Python 3-based data science project that uses Horovod.
+- [KAUST-Academy/horovod-gpu-data-science-project](https://github.com/KAUST-Academy/horovod-gpu-data-science-project) - Template repository for a Python 3-based data science project that uses Horovod.
 - [CUAI/Neural-Manifold-Ordinary-Differential-Equations](https://github.com/CUAI/Neural-Manifold-Ordinary-Differential-Equations) - [NeurIPS 2020] Neural Manifold Ordinary Differential Equations (https://arxiv.org/abs/2006.10254)
 - [necludov/iMCMC](https://github.com/necludov/iMCMC) - 
 - [bayesiains/nsf](https://github.com/bayesiains/nsf) - Code for Neural Spline Flows paper
