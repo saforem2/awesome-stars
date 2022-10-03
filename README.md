@@ -587,6 +587,7 @@
 
 ## Jupyter Notebook 
 
+- [mit-ll-responsible-ai/hydra-zen-examples](https://github.com/mit-ll-responsible-ai/hydra-zen-examples) - hydra-zen used in realistic settings
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [natolambert/job-search-viz](https://github.com/natolambert/job-search-viz) - A tool for visualization of complex job searches.
@@ -779,6 +780,7 @@
 - [NERSC/dl4sci-tf-tutorials](https://github.com/NERSC/dl4sci-tf-tutorials) - Official TensorFlow 2.0 tutorial notebooks for the Deep Learning for Science School at LBNL
 - [rsln-s/ANL_tutorial_June_15](https://github.com/rsln-s/ANL_tutorial_June_15) - 
 - [aseyboldt/sunode](https://github.com/aseyboldt/sunode) - Solve ODEs fast, with support for PyMC3
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 - [ketch/DEML](https://github.com/ketch/DEML) - Material for a course on differential equations in machine learning
 - [DLHub-Argonne/dlhub_examples](https://github.com/DLHub-Argonne/dlhub_examples) - 
 - [fengdu78/Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes) - 数据科学的笔记以及资料搜集
@@ -919,6 +921,7 @@
 
 ## Markdown 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mathematica 
@@ -1030,7 +1033,6 @@
 - [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax) - JAX - A curated list of resources https://github.com/google/jax
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [davidenunes/tensorflow-wheels](https://github.com/davidenunes/tensorflow-wheels) - Tensorflow Wheels
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [jjayaram7/learn-by-calibrating](https://github.com/jjayaram7/learn-by-calibrating) - Codes for implementing the learn-by-calibrating approach to build emulators for scientific simulations
@@ -2236,7 +2238,6 @@
 - [mcnees/LaTeX-Graph-Paper](https://github.com/mcnees/LaTeX-Graph-Paper) - Make your own quadrille, graph, hex, etc paper! Uses the pgf/TikZ package for LaTeX, which should be part of any modern TeX installation.
 - [dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates) - A collection of LaTeX templates used for research, courses, and miscellanea.
 - [MilesCranmer/python_citations](https://github.com/MilesCranmer/python_citations) - Bibtex for various Python science and machine learning software
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 - [sagemath/sagetex](https://github.com/sagemath/sagetex) - embed code, results of computations, and plots from the Sage mathematics software suite (https://www.sagemath.org) into LaTeX documents
 - [jxy/hmc_test](https://github.com/jxy/hmc_test) - 
 - [mhjensen/MLFRIB](https://github.com/mhjensen/MLFRIB) - Files for Machine Learning and Artificial Intelligence in Nuclear Physics
