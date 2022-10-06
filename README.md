@@ -1062,7 +1062,7 @@
 - [manjunath5496/AI-Lecture-Notes](https://github.com/manjunath5496/AI-Lecture-Notes) - "Look at you, hacker: a pathetic creature of meat and bone, panting and sweating as you run through my corridors. How can you challenge a perfect, immortal machine?" ― Ken Levine
 - [jaintj95/Math_by_Richard_Feynman](https://github.com/jaintj95/Math_by_Richard_Feynman) - A repo of curated links to Math lectures by Prof. Richard Feynman
 - [gabrielpierobon/cnnshapes](https://github.com/gabrielpierobon/cnnshapes) - Visualizing intermediate activation in Convolutional Neural Networks with Keras
-- [brylevkirill/notes](https://github.com/brylevkirill/notes) - Resources to learn more about Machine Learning and Artificial Intelligence
+- [brylevkirill/notes](https://github.com/brylevkirill/notes) - Learn about Machine Learning and Artificial Intelligence
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [aicodes/tf-bestpractice](https://github.com/aicodes/tf-bestpractice) - Tensorflow Best Practices
@@ -1325,7 +1325,7 @@
 - [poets-ai/elegy](https://github.com/poets-ai/elegy) - A High Level API for Deep Learning in JAX
 - [chrisculver/WickContractions](https://github.com/chrisculver/WickContractions) - 
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
-- [percevalw/rich_logger](https://github.com/percevalw/rich_logger) - Table logger using Rich, aimed at Pytorch Lightning logging
+- [percevalw/rich-logger](https://github.com/percevalw/rich-logger) - Table logger using Rich, aimed at Pytorch Lightning logging
 - [facebookresearch/NeuralCompression](https://github.com/facebookresearch/NeuralCompression) - A collection of tools for neural compression enthusiasts.
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
