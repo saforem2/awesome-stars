@@ -592,6 +592,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [natolambert/job-search-viz](https://github.com/natolambert/job-search-viz) - A tool for visualization of complex job searches.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [deephyper/anl-22-summer-workshop](https://github.com/deephyper/anl-22-summer-workshop) - 
 - [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition) - This project aims to classify human activities using data obtained from accelerometer and gyroscope sensors from phone and watch.
 - [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
@@ -1121,7 +1122,6 @@
 - [michaelfaulkner/super-aLby](https://github.com/michaelfaulkner/super-aLby) - 
 - [michaelfaulkner/xy-type-models](https://github.com/michaelfaulkner/xy-type-models) - 
 - [huggingface/optimum-intel](https://github.com/huggingface/optimum-intel) - Accelerate inference of 🤗 Transformers with Intel optimization tools
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
 - [executablebooks/github-activity](https://github.com/executablebooks/github-activity) - Simple markdown changelogs for GitHub repositories
 - [asperti/We_love_latent_space](https://github.com/asperti/We_love_latent_space) - Repository relative to the article "Comparing the latent space of generative models", joint work with Valerio Tonelli
@@ -2072,6 +2072,7 @@
 - [dginev/ar5iv](https://github.com/dginev/ar5iv) - A web service offering HTML5 articles from arXiv.org as converted with latexml
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
@@ -2264,7 +2265,6 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [excalidraw/svg-to-excalidraw](https://github.com/excalidraw/svg-to-excalidraw) - Convert SVGs into Excalidraw data
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github using a frontmatter state entry
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
