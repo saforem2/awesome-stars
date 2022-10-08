@@ -305,7 +305,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services with a single command.
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -592,7 +592,6 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [natolambert/job-search-viz](https://github.com/natolambert/job-search-viz) - A tool for visualization of complex job searches.
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [deephyper/anl-22-summer-workshop](https://github.com/deephyper/anl-22-summer-workshop) - 
 - [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition) - This project aims to classify human activities using data obtained from accelerometer and gyroscope sensors from phone and watch.
 - [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
@@ -1122,6 +1121,7 @@
 - [michaelfaulkner/super-aLby](https://github.com/michaelfaulkner/super-aLby) - 
 - [michaelfaulkner/xy-type-models](https://github.com/michaelfaulkner/xy-type-models) - 
 - [huggingface/optimum-intel](https://github.com/huggingface/optimum-intel) - Accelerate inference of 🤗 Transformers with Intel optimization tools
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
 - [executablebooks/github-activity](https://github.com/executablebooks/github-activity) - Simple markdown changelogs for GitHub repositories
 - [asperti/We_love_latent_space](https://github.com/asperti/We_love_latent_space) - Repository relative to the article "Comparing the latent space of generative models", joint work with Valerio Tonelli
@@ -1590,7 +1590,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-498-Stars](https://github.com/iBug/This-Repo-Has-498-Stars) - Yes, it's true :revolving_hearts: This repository has 498 stars.
+- [iBug/This-Repo-Has-498-Stars](https://github.com/iBug/This-Repo-Has-498-Stars) - Yes, it's true :gift_heart: This repository has 498 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
