@@ -227,7 +227,7 @@
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native across platforms. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
 - [gitobsidiantutorial/obsidian-tabs](https://github.com/gitobsidiantutorial/obsidian-tabs) - Plugin for tabbed obsidian browsing
-- [drewpotter/resume](https://github.com/drewpotter/resume) - My CV/resume using a free Hugo theme
+- [drewpotter/resume](https://github.com/drewpotter/resume) - My previous CV/resume using a free Hugo theme. This is not updated from Oct 2022.
 - [chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets) - A repo full of my snippets for Obsidian.md. Use them to customize your workspace and/or add to a theme! 🪄
 - [ddnexus/equilux-theme](https://github.com/ddnexus/equilux-theme) - A Material Design-like theme for GNOME/GTK+ based desktop environments.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -589,6 +589,7 @@
 
 ## Jupyter Notebook 
 
+- [sophiamyang/hvplot_interactive](https://github.com/sophiamyang/hvplot_interactive) - 
 - [mit-ll-responsible-ai/hydra-zen-examples](https://github.com/mit-ll-responsible-ai/hydra-zen-examples) - hydra-zen used in realistic settings
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
@@ -856,7 +857,7 @@
 
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.5 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
@@ -1102,6 +1103,7 @@
 
 ## Python 
 
+- [awesome-panel/examples](https://github.com/awesome-panel/examples) - A repository of awesome panel examples. The apps are running entirely in the browser as webassembly apps. NO SERVER REQUIRED.
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor) - 
 - [pyamg/pyamg](https://github.com/pyamg/pyamg) - Algebraic Multigrid Solvers in Python
 - [google/latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
