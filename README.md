@@ -545,7 +545,7 @@
 - [ZvonimirBandic/IsingGauge](https://github.com/ZvonimirBandic/IsingGauge) - Monte Carlo simulator of d-dimensional Ising Gauge hamiltonian
 - [KristofferC/OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) - Syntax highlighting and other enhancements for the Julia REPL
 - [JuliaPhysics/Lattices.jl](https://github.com/JuliaPhysics/Lattices.jl) - A Lattice Library for Julia
-- [JuliaManifolds/Manifolds.jl](https://github.com/JuliaManifolds/Manifolds.jl) - Manifolds.jl aims to provide both a unified interface to define and use manifolds as well as a library of manifolds to use for your projects.
+- [JuliaManifolds/Manifolds.jl](https://github.com/JuliaManifolds/Manifolds.jl) - Manifolds.jl provides a library of manifolds aiming for an easy-to-use and fast implementation.
 - [SciML/SciMLBase.jl](https://github.com/SciML/SciMLBase.jl) - The Base interface of the SciML ecosystem
 - [JuliaDiff/ChainRulesTestUtils.jl](https://github.com/JuliaDiff/ChainRulesTestUtils.jl) - Utilities for testing custom AD primitives.
 - [JuliaGaussianProcesses/TemporalGPs.jl](https://github.com/JuliaGaussianProcesses/TemporalGPs.jl) - Fast inference for Gaussian processes in problems involving time
@@ -869,7 +869,7 @@
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [shift-d/nv](https://github.com/shift-d/nv) - 
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
-- [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - 🗺 A better way to create key mappings in Neovim.
+- [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - 🗺 A better way to create key mappings in Neovim
 - [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Source code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Take control like a boss 🦍.
 - [rafamadriz/NeoCode](https://github.com/rafamadriz/NeoCode) - 
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
@@ -893,7 +893,7 @@
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
-- [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. https://sr.ht/~p00f/nvim-ts-rainbow preferred
+- [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead
 - [ibhagwan/nvim-lua](https://github.com/ibhagwan/nvim-lua) - 
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [NVIDIA/ngc-container-environment-modules](https://github.com/NVIDIA/ngc-container-environment-modules) - Environment modules for NGC containers
@@ -2075,6 +2075,7 @@
 
 ## Rust 
 
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [dginev/ar5iv](https://github.com/dginev/ar5iv) - A web service offering HTML5 articles from arXiv.org as converted with latexml
