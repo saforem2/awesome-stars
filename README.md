@@ -168,7 +168,6 @@
 - [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - NumPy drop-in replacement for Intel(R) XPUs
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [jeffhammond/dpcpp-tutorial](https://github.com/jeffhammond/dpcpp-tutorial) - Intel Data Parallel C++ (and SYCL 2020) Tutorial.
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
 - [facebookincubator/gloo](https://github.com/facebookincubator/gloo) - Collective communications library with various primitives for multi-machine training.
 - [tizian/specular-manifold-sampling](https://github.com/tizian/specular-manifold-sampling) - Code for "Specular Manifold Sampling for Rendering High-Frequency Caustics and Glints" (SIGGRAPH 2020) by Tizian Zeltner, Iliyan Georgiev, and Wenzel Jakob
@@ -1358,7 +1357,7 @@
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [kevinzakka/pytorch-goodies](https://github.com/kevinzakka/pytorch-goodies) - PyTorch Boilerplate For Research
 - [dgilland/pydash](https://github.com/dgilland/pydash) - The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library.
-- [VLL-HD/FrEIA](https://github.com/VLL-HD/FrEIA) - Framework for Easily Invertible Architectures
+- [vislearn/FrEIA](https://github.com/vislearn/FrEIA) - Framework for Easily Invertible Architectures
 - [deepqmc/deepqmc](https://github.com/deepqmc/deepqmc) - Deep learning quantum Monte Carlo for electrons in real space
 - [facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
@@ -1799,6 +1798,7 @@
 - [xitorch/xitorch](https://github.com/xitorch/xitorch) - Differentiable scientific computing library
 - [asteroidhouse/INN-exploding-inverses](https://github.com/asteroidhouse/INN-exploding-inverses) - Code for Understanding and Mitigating Exploding Inverses in Invertible Neural Networks http://arxiv.org/abs/2006.09347
 - [probprog/pyprob](https://github.com/probprog/pyprob) - A probabilistic programming system for simulators and high-performance computing (HPC), based on PyTorch
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [didriknielsen/survae_flows](https://github.com/didriknielsen/survae_flows) - Code for paper "SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows"
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [rgflowopen/rg-flow](https://github.com/rgflowopen/rg-flow) - Code for RG-Flow: A hierarchical and explainable flow model based on renormalization group and sparse prior.
