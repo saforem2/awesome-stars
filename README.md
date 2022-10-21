@@ -168,6 +168,7 @@
 - [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - NumPy drop-in replacement for Intel(R) XPUs
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [jeffhammond/dpcpp-tutorial](https://github.com/jeffhammond/dpcpp-tutorial) - Intel Data Parallel C++ (and SYCL 2020) Tutorial.
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
 - [facebookincubator/gloo](https://github.com/facebookincubator/gloo) - Collective communications library with various primitives for multi-machine training.
 - [tizian/specular-manifold-sampling](https://github.com/tizian/specular-manifold-sampling) - Code for "Specular Manifold Sampling for Rendering High-Frequency Caustics and Glints" (SIGGRAPH 2020) by Tizian Zeltner, Iliyan Georgiev, and Wenzel Jakob
@@ -513,6 +514,8 @@
 
 ## Julia 
 
+- [JuliaAI/MLJModels.jl](https://github.com/JuliaAI/MLJModels.jl) - Home of the MLJ model registry and tools for model queries and mode code loading
+- [JuliaPlots/UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl) - Unicode-based scientific plotting for working in the terminal
 - [KristofferC/Crayons.jl](https://github.com/KristofferC/Crayons.jl) - Colored and styled strings for terminals.
 - [AtelierArith/GomalizingFlow.jl](https://github.com/AtelierArith/GomalizingFlow.jl) - A Julia package for Flow-based sampling algorithm
 - [JuliaImages/ImageInTerminal.jl](https://github.com/JuliaImages/ImageInTerminal.jl) - Julia package for displaying images in the terminal using ANSI colors and Unicode characters
@@ -1102,6 +1105,8 @@
 
 ## Python 
 
+- [slimgroup/dfno](https://github.com/slimgroup/dfno) - Distributed Fourier Neural Operators
+- [sid-the-coder/QuickDA](https://github.com/sid-the-coder/QuickDA) - Simple & Easy-to-use python modules to perform Quick Exploratory Data Analysis for any structured dataset!
 - [gcant/DistVAE](https://github.com/gcant/DistVAE) - VAE for approximating distributions and estimating partition functions
 - [1202kbs/DMCMC](https://github.com/1202kbs/DMCMC) - Official PyTorch implementation of "Denoising MCMC for Accelerating Diffusion-Based Generative Models"
 - [fjosw/pyerrors](https://github.com/fjosw/pyerrors) - Statistical error analysis for Monte Carlo simulations
@@ -1596,7 +1601,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-499-Stars](https://github.com/iBug/This-Repo-Has-499-Stars) - Yes, it's true :two_hearts: This repository has 499 stars.
+- [iBug/This-Repo-Has-499-Stars](https://github.com/iBug/This-Repo-Has-499-Stars) - Yes, it's true :heart: This repository has 499 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1779,7 +1784,7 @@
 - [AlexanderMath/fasth](https://github.com/AlexanderMath/fasth) - Code for the article "What if Neural Networks had SVDs?", to be presented as a spotlight paper at NeurIPS 2020.
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [exoplanet-dev/pymc-ext](https://github.com/exoplanet-dev/pymc-ext) - PyMC3 Extras extracted from the "exoplanet" library
+- [exoplanet-dev/pymc-ext](https://github.com/exoplanet-dev/pymc-ext) - PyMC Extras extracted from the "exoplanet" library
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [adamerose/PandasGUI](https://github.com/adamerose/PandasGUI) - A GUI for Pandas DataFrames
 - [wookayin/gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
@@ -1798,7 +1803,6 @@
 - [xitorch/xitorch](https://github.com/xitorch/xitorch) - Differentiable scientific computing library
 - [asteroidhouse/INN-exploding-inverses](https://github.com/asteroidhouse/INN-exploding-inverses) - Code for Understanding and Mitigating Exploding Inverses in Invertible Neural Networks http://arxiv.org/abs/2006.09347
 - [probprog/pyprob](https://github.com/probprog/pyprob) - A probabilistic programming system for simulators and high-performance computing (HPC), based on PyTorch
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [didriknielsen/survae_flows](https://github.com/didriknielsen/survae_flows) - Code for paper "SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows"
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [rgflowopen/rg-flow](https://github.com/rgflowopen/rg-flow) - Code for RG-Flow: A hierarchical and explainable flow model based on renormalization group and sparse prior.
