@@ -402,6 +402,7 @@
 
 ## JavaScript 
 
+- [EliWimmer/Obsmd-Life-Manager](https://github.com/EliWimmer/Obsmd-Life-Manager) - 
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [Quorafind/Obsidian-Big-Calendar](https://github.com/Quorafind/Obsidian-Big-Calendar) - Big Calendar in Obsidian, for manage your events in a day/week/month and see agenda too!
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
@@ -1109,7 +1110,7 @@
 - [sid-the-coder/QuickDA](https://github.com/sid-the-coder/QuickDA) - Simple & Easy-to-use python modules to perform Quick Exploratory Data Analysis for any structured dataset!
 - [gcant/DistVAE](https://github.com/gcant/DistVAE) - VAE for approximating distributions and estimating partition functions
 - [1202kbs/DMCMC](https://github.com/1202kbs/DMCMC) - Official PyTorch implementation of "Denoising MCMC for Accelerating Diffusion-Based Generative Models"
-- [fjosw/pyerrors](https://github.com/fjosw/pyerrors) - Statistical error analysis for Monte Carlo simulations
+- [fjosw/pyerrors](https://github.com/fjosw/pyerrors) - Error propagation and statistical analysis for Monte Carlo simulations
 - [awesome-panel/examples](https://github.com/awesome-panel/examples) - A repository of awesome panel examples. The apps are running entirely in the browser as webassembly apps. NO SERVER REQUIRED.
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor) - 
 - [pyamg/pyamg](https://github.com/pyamg/pyamg) - Algebraic Multigrid Solvers in Python
