@@ -402,6 +402,7 @@
 
 ## JavaScript 
 
+- [sblask/webextension-open-tabs-next-to-current](https://github.com/sblask/webextension-open-tabs-next-to-current) - Open new tabs to the right of the current one.
 - [EliWimmer/Obsmd-Life-Manager](https://github.com/EliWimmer/Obsmd-Life-Manager) - 
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [Quorafind/Obsidian-Big-Calendar](https://github.com/Quorafind/Obsidian-Big-Calendar) - Big Calendar in Obsidian, for manage your events in a day/week/month and see agenda too!
