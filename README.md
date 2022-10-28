@@ -143,7 +143,6 @@
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [tuplex/tuplex](https://github.com/tuplex/tuplex) - Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather 
-- [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) - A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [google/ml-metadata](https://github.com/google/ml-metadata) - For recording and retrieving metadata associated with ML developer and data scientist workflows.
 - [ComputationalRadiationPhysics/picongpu](https://github.com/ComputationalRadiationPhysics/picongpu) - Particle-in-Cell Simulations for the Exascale Era :sparkles:
 - [jeffhammond/HPCInfo](https://github.com/jeffhammond/HPCInfo) - Information about many aspects of high-performance computing.  Wiki content moved to ~/docs.
@@ -299,6 +298,7 @@
 
 ## Go 
 
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -483,7 +483,7 @@
 - [eleurent/phd-defense](https://github.com/eleurent/phd-defense) - 
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -646,7 +646,7 @@
 - [ndeutschmann/zunis](https://github.com/ndeutschmann/zunis) - Normalizing flows for neural importance sampling
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - An Introduction to Deep Generative Modeling: Examples
-- [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP. Documentation:
+- [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 - [Nuclear-Physics-with-Machine-Learning/AI4NP_School](https://github.com/Nuclear-Physics-with-Machine-Learning/AI4NP_School) - Notebooks and saved models for the AI4NP School
 - [agoose77/literary](https://github.com/agoose77/literary) - Literate Python package development with Jupyter
 - [coreyjadams/CosmicTagger](https://github.com/coreyjadams/CosmicTagger) - Cosmic Tagging Network for Neutrino Physics
@@ -880,7 +880,7 @@
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [nvim-lua/neovim-ui](https://github.com/nvim-lua/neovim-ui) - Vaporware -- nothing to see here
-- [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) - A Neovim configuration for the advanced martian hacker
+- [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) - Icon set using nonicons for neovim plugins and settings
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
@@ -1391,6 +1391,7 @@
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
 - [wowchemy/hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli) - 📚 Import academic publications from Bibtex to your Markdown website. 将Bibtex转换为Markdown网站
 - [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
+- [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) - A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [fernandobrito/travel_log](https://github.com/fernandobrito/travel_log) - A static website generator for your trip and its records (pictures, tracks, journal, etc).
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
