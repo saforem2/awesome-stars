@@ -566,7 +566,7 @@
 - [TensorBFS/SimpleTensorNetworks.jl](https://github.com/TensorBFS/SimpleTensorNetworks.jl) - Naive generic implementation of tensor networks (WIP)
 - [JuliaLinearAlgebra/LinearMaps.jl](https://github.com/JuliaLinearAlgebra/LinearMaps.jl) - A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vect
 - [USCqserver/OpenQuantumTools.jl](https://github.com/USCqserver/OpenQuantumTools.jl) - Julia toolkit for open quantum system simulation.
-- [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated
+- [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and 
 - [JuliaGPU/oneAPI.jl](https://github.com/JuliaGPU/oneAPI.jl) - Julia support for the oneAPI programming toolkit.
 - [akio-tomiya/LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl) - A native Julia code for lattice QCD with dynamical fermions in 4 dimension.
 - [JuliaDiff/FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) - High accuracy derivatives, estimated via numerical finite differences (formerly FDM.jl)
@@ -917,7 +917,7 @@
 - [maestro-project/maestro](https://github.com/maestro-project/maestro) - An analytical cost model evaluating DNN mappings (dataflows and tiling).
 - [wilson-ye-chen/sp-mcmc](https://github.com/wilson-ye-chen/sp-mcmc) - MATLAB code for Stein Point Markov Chain Monte Carlo.
 - [lanzithinking/BayesCOV](https://github.com/lanzithinking/BayesCOV) - Flexible Bayesian Dynamic Modeling of Covariance and Correlation Matrices
-- [lacerbi/vbmc](https://github.com/lacerbi/vbmc) - Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB
+- [acerbilab/vbmc](https://github.com/acerbilab/vbmc) - Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB
 - [Sohl-Dickstein/LAHMC](https://github.com/Sohl-Dickstein/LAHMC) - Look Ahead Hamiltonian Monte Carlo
 
 ## Makefile 
@@ -2296,7 +2296,7 @@
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
-- [usememos/memos](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub for knowledge management and collaboration.
 - [jupyterlab-contrib/jupyter-ui-toolkit](https://github.com/jupyterlab-contrib/jupyter-ui-toolkit) - UI Toolkit for Jupyter
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
