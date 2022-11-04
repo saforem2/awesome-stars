@@ -2120,7 +2120,6 @@
 ## SWIG 
 
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - Python bindings for MuPDF's rendering library.
-- [JorjMcKie/py-mupdf](https://github.com/JorjMcKie/py-mupdf) - Python bindings for MuPDF's rendering library.
 
 ## Sass 
 
@@ -2354,7 +2353,7 @@
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird & others.
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [DonJayamanne/pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - This extension is now maintained in the Microsoft fork.
