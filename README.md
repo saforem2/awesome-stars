@@ -343,6 +343,7 @@
 - [neelindresh/pymlpipe](https://github.com/neelindresh/pymlpipe) - 
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - A package for installing Python packages
 - [outerbounds/full-stack-ML-metaflow-tutorial](https://github.com/outerbounds/full-stack-ML-metaflow-tutorial) - It's all in the name
+- [iterative/example-get-started](https://github.com/iterative/example-get-started) - Get started DVC project
 - [argonne-lcf/user-guides](https://github.com/argonne-lcf/user-guides) - ALCF Systems User Documentation
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -1151,7 +1152,6 @@
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [gradhep/relaxed](https://github.com/gradhep/relaxed) - Provides differentiable versions of common HEP operations and objectives.
 - [glotzerlab/signac](https://github.com/glotzerlab/signac) - Manage large and heterogeneous data spaces on the file system.
-- [iterative/example-get-started](https://github.com/iterative/example-get-started) - Get started DVC project
 - [statbiophys/MINIMALIST](https://github.com/statbiophys/MINIMALIST) - Companion Github of the MINIMALIST preprint.
 - [gcorso/torsional-diffusion](https://github.com/gcorso/torsional-diffusion) - Implementation of Torsional Diffusion for Molecular Conformer Generation (NeurIPS 2022)
 - [wesselb/plum](https://github.com/wesselb/plum) - Multiple dispatch in Python
