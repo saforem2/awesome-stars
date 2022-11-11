@@ -1111,6 +1111,7 @@
 
 ## Python 
 
+- [bishwarup307/async-ml-medium](https://github.com/bishwarup307/async-ml-medium) - Collection of python scripts to demonstrate asynchronous programming in python
 - [slimgroup/dfno](https://github.com/slimgroup/dfno) - Distributed Fourier Neural Operators
 - [sid-the-coder/QuickDA](https://github.com/sid-the-coder/QuickDA) - Simple & Easy-to-use python modules to perform Quick Exploratory Data Analysis for any structured dataset!
 - [gcant/DistVAE](https://github.com/gcant/DistVAE) - VAE for approximating distributions and estimating partition functions
@@ -1341,7 +1342,7 @@
 - [poets-ai/elegy](https://github.com/poets-ai/elegy) - A High Level API for Deep Learning in JAX
 - [chrisculver/WickContractions](https://github.com/chrisculver/WickContractions) - 
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
-- [percevalw/rich-logger](https://github.com/percevalw/rich-logger) - Table logger using Rich, aimed at Pytorch Lightning logging
+- [percevalw/rich-logger](https://github.com/percevalw/rich-logger) - Table logger using Rich
 - [facebookresearch/NeuralCompression](https://github.com/facebookresearch/NeuralCompression) - A collection of tools for neural compression enthusiasts.
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
@@ -1607,7 +1608,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-503-Stars](https://github.com/iBug/This-Repo-Has-503-Stars) - Yes, it's true :purple_heart: This repository has 503 stars.
+- [iBug/This-Repo-Has-503-Stars](https://github.com/iBug/This-Repo-Has-503-Stars) - Yes, it's true :gift_heart: This repository has 503 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
