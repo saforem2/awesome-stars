@@ -243,7 +243,7 @@
 
 ## Clojure 
 
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 - [camspiers/dotfiles](https://github.com/camspiers/dotfiles) - Dotfiles (macOS, stow, brew, yabai, nvim, kitty, tmux)
 
 ## CoffeeScript 
@@ -298,6 +298,7 @@
 
 ## Go 
 
+- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
@@ -842,7 +843,6 @@
 - [brain-research/l2hmc](https://github.com/brain-research/l2hmc) - TensorFlow implementation for training MCMC samplers from the paper: Generalizing Hamiltonian Monte Carlo with Neural Network
 - [rasbt/deep-learning-book](https://github.com/rasbt/deep-learning-book) - Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python"
 - [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [SebastianBocquet/pygtc](https://github.com/SebastianBocquet/pygtc) - Make a sweet giant triangle confusogram (GTC) plot
 - [hep-lbdl/adversarial-jets](https://github.com/hep-lbdl/adversarial-jets) - Training, generation, and analysis code for Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics
 - [hep-lbdl/CaloGAN](https://github.com/hep-lbdl/CaloGAN) - Generative Adversarial Networks for High Energy Physics extended to a multi-layer calorimeter simulation
@@ -1111,6 +1111,7 @@
 
 ## Python 
 
+- [zphang/minimal-gpt-neox-20b](https://github.com/zphang/minimal-gpt-neox-20b) - 
 - [bishwarup307/async-ml-medium](https://github.com/bishwarup307/async-ml-medium) - Collection of python scripts to demonstrate asynchronous programming in python
 - [slimgroup/dfno](https://github.com/slimgroup/dfno) - Distributed Fourier Neural Operators
 - [sid-the-coder/QuickDA](https://github.com/sid-the-coder/QuickDA) - Simple & Easy-to-use python modules to perform Quick Exploratory Data Analysis for any structured dataset!
@@ -1128,7 +1129,7 @@
 - [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua Speeds up PyTorch
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [hanschen/vim-ipython-cell](https://github.com/hanschen/vim-ipython-cell) - Seamlessly run Python code in IPython from Vim
-- [ramanathanlab/gene_transformer](https://github.com/ramanathanlab/gene_transformer) - Transformer models to generate synthetic proteins.
+- [ramanathanlab/genslm](https://github.com/ramanathanlab/genslm) - GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics
 - [jeffminlin/vmcnet](https://github.com/jeffminlin/vmcnet) - Flexible, general-purpose VMC framework, built on JAX.
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping) - Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [olcf/olcf-user-docs](https://github.com/olcf/olcf-user-docs) - Sources for the Oak Ridge Leadership Computing Facility User Documentation
@@ -1608,7 +1609,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-503-Stars](https://github.com/iBug/This-Repo-Has-503-Stars) - Yes, it's true :gift_heart: This repository has 503 stars.
+- [iBug/This-Repo-Has-504-Stars](https://github.com/iBug/This-Repo-Has-504-Stars) - Yes, it's true :yellow_heart: This repository has 504 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1996,6 +1997,7 @@
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [PacktPublishing/Deep-Learning-with-TensorFlow](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow) - Deep Learning with TensorFlow by Packt
 - [achimala/itunes-cli](https://github.com/achimala/itunes-cli) - Command line querying interface to control iTunes on Mac OS X
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [nryoung/algorithms](https://github.com/nryoung/algorithms) - This repository is not maintained
 - [shagunsodhani/pregel](https://github.com/shagunsodhani/pregel) - Tensorflow implementation of Graph Convolutional Network
 - [MelkoCollective/2D_NLCE_DMRG](https://github.com/MelkoCollective/2D_NLCE_DMRG) - Codes, scripts, and files needed for the 2D linked cluster expansion with DMRG cluster solver
