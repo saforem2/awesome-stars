@@ -1111,6 +1111,9 @@
 
 ## Python 
 
+- [kazewong/flowMC](https://github.com/kazewong/flowMC) - Normalizing-flow enhanced sampling package for probabilistic inference in Jax
+- [jonkhler/s2cnn](https://github.com/jonkhler/s2cnn) - Spherical CNNs
+- [lazeroffmichael/ticktick-py](https://github.com/lazeroffmichael/ticktick-py) - Unofficial TickTick API
 - [zphang/minimal-gpt-neox-20b](https://github.com/zphang/minimal-gpt-neox-20b) - 
 - [bishwarup307/async-ml-medium](https://github.com/bishwarup307/async-ml-medium) - Collection of python scripts to demonstrate asynchronous programming in python
 - [slimgroup/dfno](https://github.com/slimgroup/dfno) - Distributed Fourier Neural Operators
@@ -1609,7 +1612,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-504-Stars](https://github.com/iBug/This-Repo-Has-504-Stars) - Yes, it's true :yellow_heart: This repository has 504 stars.
+- [iBug/This-Repo-Has-506-Stars](https://github.com/iBug/This-Repo-Has-506-Stars) - Yes, it's true :yellow_heart: This repository has 506 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
