@@ -144,7 +144,7 @@
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [tuplex/tuplex](https://github.com/tuplex/tuplex) - Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather 
 - [google/ml-metadata](https://github.com/google/ml-metadata) - For recording and retrieving metadata associated with ML developer and data scientist workflows.
-- [ComputationalRadiationPhysics/picongpu](https://github.com/ComputationalRadiationPhysics/picongpu) - Particle-in-Cell Simulations for the Exascale Era :sparkles:
+- [ComputationalRadiationPhysics/picongpu](https://github.com/ComputationalRadiationPhysics/picongpu) - Performance-Portable Particle-in-Cell Simulations for the Exascale Era :sparkles:
 - [jeffhammond/HPCInfo](https://github.com/jeffhammond/HPCInfo) - Information about many aspects of high-performance computing.  Wiki content moved to ~/docs.
 - [nv-legate/legate.pandas](https://github.com/nv-legate/legate.pandas) - An Aspiring Drop-In Replacement for Pandas at Scale
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
