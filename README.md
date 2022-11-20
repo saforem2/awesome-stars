@@ -1030,6 +1030,7 @@
 - [iclr2020-fsai/FSAI](https://github.com/iclr2020-fsai/FSAI) - Fundamental Science in the era of AI: This ICLR 2020 workshop will address a number of pressing topics: What is good fundamental science  in an era when AI is becoming core to the way scientists inter
 - [nikosarcevic/HEP-ASTRO-COSMO](https://github.com/nikosarcevic/HEP-ASTRO-COSMO) - HEP/Astroparticle/Astrophysics/Cosmology open source packages. Community effort. Physics people, unite!
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) - Paper list for equivariant neural network
 - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
@@ -1123,7 +1124,7 @@
 - [awesome-panel/examples](https://github.com/awesome-panel/examples) - A repository of awesome panel examples. The apps are running entirely in the browser as webassembly apps. NO SERVER REQUIRED.
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor) - 
 - [pyamg/pyamg](https://github.com/pyamg/pyamg) - Algebraic Multigrid Solvers in Python
-- [google/latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
+- [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
 - [ying531/MCMC-SymReg](https://github.com/ying531/MCMC-SymReg) - Symbolic Regression using MCMC sampling
 - [jw9730/tokengt](https://github.com/jw9730/tokengt) - [NeurIPS'22] Tokenized Graph Transformer (TokenGT), in PyTorch
 - [drorlab/gvp-pytorch](https://github.com/drorlab/gvp-pytorch) - Geometric Vector Perceptrons --- a rotation-equivariant GNN for learning from biomolecular structure
@@ -1597,7 +1598,6 @@
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [lucidrains/egnn-pytorch](https://github.com/lucidrains/egnn-pytorch) - Implementation of E(n)-Equivariant Graph Neural Networks, in Pytorch
-- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [pimdh/relie](https://github.com/pimdh/relie) - Experiments for the AISTATS publication on Reparameterizing Distributions over Lie Groups
 - [Romit-Maulik/PyParSVD](https://github.com/Romit-Maulik/PyParSVD) - An implementation of the 1. Parallel, 2. Streaming, 3. Randomized SVD using MPI4Py
@@ -2333,7 +2333,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [IgorSzyporyn/badger-ui](https://github.com/IgorSzyporyn/badger-ui) - Badger UI is a theming tool for creating theme design systems
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — easy-to-use and performant open-source ML experiment tracker.
-- [functionland/fotos](https://github.com/functionland/fotos) - This is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box", "Dfi
+- [functionland/fx-fotos](https://github.com/functionland/fx-fotos) - "Fx Fotos" is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box"
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
