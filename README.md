@@ -16,6 +16,7 @@
 - [Cuda](#cuda)
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
@@ -267,6 +268,10 @@
 - [goerz-docker/docs-build-env](https://github.com/goerz-docker/docs-build-env) - Docker image for building Sphinx documentation.
 - [matthewfeickert/pyenv-virtualenv-conda-example](https://github.com/matthewfeickert/pyenv-virtualenv-conda-example) - Example Docker image with pyenv controlling virtualenv and miniconda Python virtual environments
 
+## EJS 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
 ## Elixir 
 
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
@@ -457,7 +462,6 @@
 - [henrikingo/impressionist](https://github.com/henrikingo/impressionist) - A Visual 3D editor for creating stunning impress.js presentations
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS
 - [dcrousso/GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App
 - [hanayik/CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg
@@ -624,7 +628,6 @@
 - [webdataset/webdataset](https://github.com/webdataset/webdataset) - A high-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch.
 - [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX
 - [sscardapane/hydra-tutorial](https://github.com/sscardapane/hydra-tutorial) - Companion code for a tutorial on using Hydra.
-- [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [khanhnamle1994/cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
 - [LukasRinder/normalizing-flows](https://github.com/LukasRinder/normalizing-flows) - Implementation of normalizing flows in TensorFlow 2 including a small tutorial.
 - [nimadehmamy/L-conv-code](https://github.com/nimadehmamy/L-conv-code) - Lie Algebra Convolutional Network implementation
@@ -1228,6 +1231,7 @@
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [delestro/outputformat](https://github.com/delestro/outputformat) - Python library to decorate and beautify strings
 - [facebookresearch/beanmachine](https://github.com/facebookresearch/beanmachine) - A library that allows for inference on probabilistic models
+- [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [VincentStimper/normalizing-flows](https://github.com/VincentStimper/normalizing-flows) - PyTorch implementation of normalizing flow models
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [NVIDIA/PyProf](https://github.com/NVIDIA/PyProf) - A GPU performance profiling tool for PyTorch models
