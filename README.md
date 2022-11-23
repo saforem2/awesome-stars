@@ -16,7 +16,6 @@
 - [Cuda](#cuda)
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
@@ -268,10 +267,6 @@
 - [goerz-docker/docs-build-env](https://github.com/goerz-docker/docs-build-env) - Docker image for building Sphinx documentation.
 - [matthewfeickert/pyenv-virtualenv-conda-example](https://github.com/matthewfeickert/pyenv-virtualenv-conda-example) - Example Docker image with pyenv controlling virtualenv and miniconda Python virtual environments
 
-## EJS 
-
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
 ## Elixir 
 
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
@@ -462,6 +457,7 @@
 - [henrikingo/impressionist](https://github.com/henrikingo/impressionist) - A Visual 3D editor for creating stunning impress.js presentations
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS
 - [dcrousso/GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App
 - [hanayik/CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg
