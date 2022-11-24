@@ -599,6 +599,7 @@
 - [sophiamyang/hvplot_interactive](https://github.com/sophiamyang/hvplot_interactive) - 
 - [mit-ll-responsible-ai/hydra-zen-examples](https://github.com/mit-ll-responsible-ai/hydra-zen-examples) - hydra-zen used in realistic settings
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+- [jw9730/tokengt](https://github.com/jw9730/tokengt) - [NeurIPS'22] Tokenized Graph Transformer (TokenGT), in PyTorch
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [natolambert/job-search-viz](https://github.com/natolambert/job-search-viz) - A tool for visualization of complex job searches.
 - [deephyper/anl-22-summer-workshop](https://github.com/deephyper/anl-22-summer-workshop) - 
@@ -619,7 +620,7 @@
 - [labmlai/labml](https://github.com/labmlai/labml) - 🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
 - [HPCL/ideas-uo](https://github.com/HPCL/ideas-uo) - IDEAS project work
-- [undark-lab/swyft](https://github.com/undark-lab/swyft) - Truncated marginal neural ratio estimation estimation with PyTorch. A simulation-based inference  / likelihood-free inference algorithm for high-dimensional posteriors.
+- [undark-lab/swyft](https://github.com/undark-lab/swyft) - Scalable simulation-based inference.
 - [geomstats/challenge-iclr-2022](https://github.com/geomstats/challenge-iclr-2022) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
 - [webdataset/webdataset](https://github.com/webdataset/webdataset) - A high-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch.
 - [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX
@@ -1125,7 +1126,6 @@
 - [pyamg/pyamg](https://github.com/pyamg/pyamg) - Algebraic Multigrid Solvers in Python
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
 - [ying531/MCMC-SymReg](https://github.com/ying531/MCMC-SymReg) - Symbolic Regression using MCMC sampling
-- [jw9730/tokengt](https://github.com/jw9730/tokengt) - [NeurIPS'22] Tokenized Graph Transformer (TokenGT), in PyTorch
 - [drorlab/gvp-pytorch](https://github.com/drorlab/gvp-pytorch) - Geometric Vector Perceptrons --- a rotation-equivariant GNN for learning from biomolecular structure
 - [JacobARose/thisnotthat](https://github.com/JacobARose/thisnotthat) - A visual labeling system implemented in Jupyter widgets.
 - [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua Speeds up PyTorch
