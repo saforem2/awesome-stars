@@ -403,6 +403,7 @@
 
 ## JavaScript 
 
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [sblask/webextension-open-tabs-next-to-current](https://github.com/sblask/webextension-open-tabs-next-to-current) - Open new tabs to the right of the current one.
 - [EliWimmer/Obsmd-Life-Manager](https://github.com/EliWimmer/Obsmd-Life-Manager) - 
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
@@ -594,6 +595,7 @@
 
 ## Jupyter Notebook 
 
+- [NREL/HPC](https://github.com/NREL/HPC) - A collection of various resources, examples, and executables for the general NREL HPC user community's benefit.
 - [pierreglaser/unle](https://github.com/pierreglaser/unle) - 
 - [srshtiputcha/sgmcmc_preferential_subsampling](https://github.com/srshtiputcha/sgmcmc_preferential_subsampling) - Code for Preferential Subsampling for Stochastic Gradient Langevin Dynamics
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
@@ -621,7 +623,7 @@
 - [labmlai/labml](https://github.com/labmlai/labml) - 🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
 - [HPCL/ideas-uo](https://github.com/HPCL/ideas-uo) - IDEAS project work
-- [undark-lab/swyft](https://github.com/undark-lab/swyft) - A framework for scalable simulation-based inference.
+- [undark-lab/swyft](https://github.com/undark-lab/swyft) - An opinionated system for scientific simulation-based inference at scale.
 - [geomstats/challenge-iclr-2022](https://github.com/geomstats/challenge-iclr-2022) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
 - [webdataset/webdataset](https://github.com/webdataset/webdataset) - A high-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch.
 - [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX
@@ -1112,6 +1114,7 @@
 
 ## Python 
 
+- [Anguswlx/CAN2XY](https://github.com/Anguswlx/CAN2XY) - Code for recognizing the KT phase transition in classical 2D XY model by the Variational Autoregressive Networks
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [kazewong/flowMC](https://github.com/kazewong/flowMC) - Normalizing-flow enhanced sampling package for probabilistic inference in Jax
 - [jonkhler/s2cnn](https://github.com/jonkhler/s2cnn) - Spherical CNNs
