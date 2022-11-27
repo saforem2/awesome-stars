@@ -623,7 +623,7 @@
 - [labmlai/labml](https://github.com/labmlai/labml) - 🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
 - [HPCL/ideas-uo](https://github.com/HPCL/ideas-uo) - IDEAS project work
-- [undark-lab/swyft](https://github.com/undark-lab/swyft) - An opinionated system for scientific simulation-based inference at scale.
+- [undark-lab/swyft](https://github.com/undark-lab/swyft) - A (minimal, opinionated, composable, testable, efficient) system for scientific simulation-based inference at scale.
 - [geomstats/challenge-iclr-2022](https://github.com/geomstats/challenge-iclr-2022) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
 - [webdataset/webdataset](https://github.com/webdataset/webdataset) - A high-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch.
 - [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX
@@ -1616,7 +1616,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-507-Stars](https://github.com/iBug/This-Repo-Has-507-Stars) - Yes, it's true :heartpulse: This repository has 507 stars.
+- [iBug/This-Repo-Has-508-Stars](https://github.com/iBug/This-Repo-Has-508-Stars) - Yes, it's true :gift_heart: This repository has 508 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
