@@ -342,7 +342,7 @@
 ## HTML 
 
 - [neelindresh/pymlpipe](https://github.com/neelindresh/pymlpipe) - 
-- [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - A package for installing Python packages
+- [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
 - [outerbounds/full-stack-ML-metaflow-tutorial](https://github.com/outerbounds/full-stack-ML-metaflow-tutorial) - It's all in the name
 - [iterative/example-get-started](https://github.com/iterative/example-get-started) - Get started DVC project
 - [argonne-lcf/user-guides](https://github.com/argonne-lcf/user-guides) - ALCF Systems User Documentation
@@ -1114,6 +1114,10 @@
 
 ## Python 
 
+- [reframe-hpc/reframe](https://github.com/reframe-hpc/reframe) - A powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems.
+- [noajshu/learning_irreps](https://github.com/noajshu/learning_irreps) - Learning irreducible representations of noncommutative Lie groups, applied to constructing equivariant neural networks
+- [oxcsml/lie-transformer](https://github.com/oxcsml/lie-transformer) - LieTransformer: Equivariant Self-Attention for Lie Groups
+- [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state
 - [Anguswlx/CAN2XY](https://github.com/Anguswlx/CAN2XY) - Code for recognizing the KT phase transition in classical 2D XY model by the Variational Autoregressive Networks
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [kazewong/flowMC](https://github.com/kazewong/flowMC) - Normalizing-flow enhanced sampling package for probabilistic inference in Jax
