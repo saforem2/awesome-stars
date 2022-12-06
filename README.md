@@ -1177,7 +1177,7 @@
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [untitled-ai/jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending) - Ascend your Jupyter Notebook usage
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
-- [mit-ll-responsible-ai/hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Configurable, reproducible, and scalable Python programs, via Hydra
+- [mit-ll-responsible-ai/hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Pythonic functions for creating and enhancing Hydra applications
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a sampling library designed for ease of use, speed and modularity.
 - [rikab/GaussianAnsatz](https://github.com/rikab/GaussianAnsatz) - 
 - [fidelity/spock](https://github.com/fidelity/spock) - spock is a framework that helps manage complex parameter configurations during research and development of Python applications
@@ -2016,7 +2016,7 @@
 - [nshettell/SimuViz](https://github.com/nshettell/SimuViz) - A repository with the necessary tools to Visualize different Physical Simulations.
 - [MelkoCollective/perimeter-qmc](https://github.com/MelkoCollective/perimeter-qmc) - My Master Thesis at Perimeter Institute
 - [sylvialee12/SelfLearning-MonteCarlo](https://github.com/sylvialee12/SelfLearning-MonteCarlo) - 
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with PyTensor
 - [Samreay/ChainConsumer](https://github.com/Samreay/ChainConsumer) - Corner plots, LaTeX tables and plotting walks.
 - [dgerosa/filltex](https://github.com/dgerosa/filltex) - Automatic queries to ADS and INSPIRE databases to fill LaTex bibliography
 - [bjmorgan/bsym](https://github.com/bjmorgan/bsym) - A Basic Symmetry Module (Python)
@@ -2283,6 +2283,7 @@
 
 ## TypeScript 
 
+- [ibdafna/webdash](https://github.com/ibdafna/webdash) - WebAssembly powered Plotly Dash running in the browser
 - [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
