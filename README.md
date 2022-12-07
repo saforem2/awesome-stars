@@ -404,6 +404,7 @@
 
 ## JavaScript 
 
+- [absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy:
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [sblask/webextension-open-tabs-next-to-current](https://github.com/sblask/webextension-open-tabs-next-to-current) - Open new tabs to the right of the current one.
 - [EliWimmer/Obsmd-Life-Manager](https://github.com/EliWimmer/Obsmd-Life-Manager) - 
@@ -1114,6 +1115,8 @@
 
 ## Python 
 
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+- [NERSC/sc22-dl-tutorial](https://github.com/NERSC/sc22-dl-tutorial) - Material for the SC22 Deep Learning at Scale Tutorial
 - [reframe-hpc/reframe](https://github.com/reframe-hpc/reframe) - A powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems.
 - [noajshu/learning_irreps](https://github.com/noajshu/learning_irreps) - Learning irreducible representations of noncommutative Lie groups, applied to constructing equivariant neural networks
 - [oxcsml/lie-transformer](https://github.com/oxcsml/lie-transformer) - LieTransformer: Equivariant Self-Attention for Lie Groups
@@ -2240,6 +2243,7 @@
 
 ## TeX 
 
+- [mvoelk/nn_graphics](https://github.com/mvoelk/nn_graphics) - Artificial Neural Network related TikZ Graphics
 - [scipp-atlas/mapyde-paper](https://github.com/scipp-atlas/mapyde-paper) - 
 - [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
@@ -2283,6 +2287,8 @@
 
 ## TypeScript 
 
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
+- [Quorafind/Obsidian-Surfing](https://github.com/Quorafind/Obsidian-Surfing) - An Obsidian plugin that lets you browse the web within Obsidian.
 - [ibdafna/webdash](https://github.com/ibdafna/webdash) - WebAssembly powered Plotly Dash running in the browser
 - [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
