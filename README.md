@@ -90,7 +90,7 @@
 - [hpc-io/h5bench](https://github.com/hpc-io/h5bench) - A benchmark suite for measuring HDF5 performance.
 - [hpc-io/vol-async](https://github.com/hpc-io/vol-async) - Asynchronous I/O for HDF5
 - [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
-- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
@@ -1489,7 +1489,7 @@
 - [intake/intake](https://github.com/intake/intake) - Intake is a lightweight package for finding, investigating, loading and disseminating data.
 - [jingli9111/EUNN-tensorflow](https://github.com/jingli9111/EUNN-tensorflow) - Efficient Unitary Neural Network(EUNN) implementation in Tensorflow
 - [Yelp/gprof2dot](https://github.com/Yelp/gprof2dot) - Converts profiling output to a dot graph.
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [wdphy16/neural-cluster-update](https://github.com/wdphy16/neural-cluster-update) - Code for 'Unbiased Monte Carlo Cluster Updates with Autoregressive Neural Networks'.
 - [true3dco/splashgen](https://github.com/true3dco/splashgen) - Rapidly build landing pages in &lt;20 lines of python
