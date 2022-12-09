@@ -1115,6 +1115,8 @@
 
 ## Python 
 
+- [jw9730/hot](https://github.com/jw9730/hot) - [NeurIPS'21] Higher-order Transformers for sets, graphs, and hypergraphs, in PyTorch
+- [ameya98/ActionAngleNetworks](https://github.com/ameya98/ActionAngleNetworks) - The official JAX implementation of Action-Angle Networks!
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [NERSC/sc22-dl-tutorial](https://github.com/NERSC/sc22-dl-tutorial) - Material for the SC22 Deep Learning at Scale Tutorial
 - [reframe-hpc/reframe](https://github.com/reframe-hpc/reframe) - A powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems.
