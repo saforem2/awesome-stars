@@ -466,7 +466,6 @@
 - [hanayik/CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [asford/notebook_input_mode](https://github.com/asford/notebook_input_mode) - Jupyter nbextension supporting alternate input modes.
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [chi-feng/mcmc-demo](https://github.com/chi-feng/mcmc-demo) - Interactive Markov-chain Monte Carlo Javascript demos
 - [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits.
@@ -1626,7 +1625,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-509-Stars](https://github.com/iBug/This-Repo-Has-509-Stars) - Yes, it's true :heart: This repository has 509 stars.
+- [iBug/This-Repo-Has-510-Stars](https://github.com/iBug/This-Repo-Has-510-Stars) - Yes, it's true :yellow_heart: This repository has 510 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2361,6 +2360,7 @@
 - [github/github-artifact-exporter](https://github.com/github/github-artifact-exporter) - A set of packages to make exporting artifacts from GitHub easier
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [egoist/flowkit](https://github.com/egoist/flowkit) - A simple online flow chart editor.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
