@@ -1113,6 +1113,7 @@
 
 ## Python 
 
+- [pytorch/tnt](https://github.com/pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
 - [jw9730/hot](https://github.com/jw9730/hot) - [NeurIPS'21] Higher-order Transformers for sets, graphs, and hypergraphs, in PyTorch
 - [ameya98/ActionAngleNetworks](https://github.com/ameya98/ActionAngleNetworks) - The official JAX implementation of Action-Angle Networks!
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
@@ -1624,7 +1625,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-510-Stars](https://github.com/iBug/This-Repo-Has-510-Stars) - Yes, it's true :yellow_heart: This repository has 510 stars.
+- [iBug/This-Repo-Has-511-Stars](https://github.com/iBug/This-Repo-Has-511-Stars) - Yes, it's true :heartpulse: This repository has 511 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
