@@ -874,6 +874,7 @@
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
+- [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [n-shift/nv](https://github.com/n-shift/nv) - 
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
@@ -1113,6 +1114,7 @@
 
 ## Python 
 
+- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [pytorch/tnt](https://github.com/pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
 - [jw9730/hot](https://github.com/jw9730/hot) - [NeurIPS'21] Higher-order Transformers for sets, graphs, and hypergraphs, in PyTorch
@@ -2161,7 +2163,6 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [theshteves/commit-bot](https://github.com/theshteves/commit-bot) - Automatically generates GitHub activity
 - [jtpio/replite](https://github.com/jtpio/replite) - An embeddable REPL powered by JupyterLite
-- [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
