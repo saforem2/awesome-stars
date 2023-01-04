@@ -518,6 +518,7 @@
 
 ## Julia 
 
+- [caleb-allen/VimBindings.jl](https://github.com/caleb-allen/VimBindings.jl) - Vim emulation in the Julia REPL
 - [HighDimensionalEconLab/HMCExamples.jl](https://github.com/HighDimensionalEconLab/HMCExamples.jl) - 
 - [JuliaAI/MLJModels.jl](https://github.com/JuliaAI/MLJModels.jl) - Home of the MLJ model registry and tools for model queries and mode code loading
 - [JuliaPlots/UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl) - Unicode-based scientific plotting for working in the terminal
@@ -595,6 +596,7 @@
 
 ## Jupyter Notebook 
 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [NREL/HPC](https://github.com/NREL/HPC) - A collection of various resources, examples, and executables for the general NREL HPC user community's benefit. Use the following website for accessing documentation.
 - [pierreglaser/unle](https://github.com/pierreglaser/unle) - 
 - [srshtiputcha/sgmcmc_preferential_subsampling](https://github.com/srshtiputcha/sgmcmc_preferential_subsampling) - Code for Preferential Subsampling for Stochastic Gradient Langevin Dynamics
@@ -670,7 +672,7 @@
 - [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [CRC183-summer-school/school_2021](https://github.com/CRC183-summer-school/school_2021) - This is the repository for the CRC 183 summer school "Machine Learning in Condensed Matter Physics".
 - [khuyentran1401/Task-scheduler-problem](https://github.com/khuyentran1401/Task-scheduler-problem) - 
-- [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with code and articles
+- [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with articles, videos, and code
 - [lukasheinrich/pyhep2020-autodiff-tutorial](https://github.com/lukasheinrich/pyhep2020-autodiff-tutorial) - 
 - [PacktPublishing/Matplotlib-3.0-Cookbook](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) - Matplotlib 3.0 Cookbook, published by Packt
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
@@ -1114,6 +1116,8 @@
 
 ## Python 
 
+- [probml/probml-utils](https://github.com/probml/probml-utils) - Utilities for probabilistic ML
+- [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [pytorch/tnt](https://github.com/pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
