@@ -747,7 +747,7 @@
 - [AIScienceTutorial/Material_Science](https://github.com/AIScienceTutorial/Material_Science) - 
 - [henryiii/compclass](https://github.com/henryiii/compclass) - A class over Computational Physics in Jupyter
 - [tjburch/twitter-studies](https://github.com/tjburch/twitter-studies) - Quick study into my engagements on  twitter
-- [greydanus/mnist1d](https://github.com/greydanus/mnist1d) - A 1D analogue of the MNIST dataset for measuring spatial biases and answering "science of deep learning" questions.
+- [greydanus/mnist1d](https://github.com/greydanus/mnist1d) - A 1D analogue of the MNIST dataset for measuring spatial biases and answering Science of Deep Learning questions.
 - [QMagen/PyQMagen](https://github.com/QMagen/PyQMagen) - A method which combines quantum many-body calculation and unbiased optimizers to automatically learn effective Hamiltonians for quantum magnets
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
@@ -1121,6 +1121,8 @@
 
 ## Python 
 
+- [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
+- [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 - [probml/probml-utils](https://github.com/probml/probml-utils) - Utilities for probabilistic ML
 - [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
