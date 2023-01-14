@@ -364,6 +364,7 @@
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints](https://github.com/Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints) - Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (Octob
 - [trikita/slide-html](https://github.com/trikita/slide-html) - Text presentation maker for a simplified markup language
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [a-nau/markdownslides](https://github.com/a-nau/markdownslides) - A "markdown-first" approach for generating beautiful browser-based slides easily. Based on Reveal.js and Reveal-Jekyll.
 - [datitran/jupyter2slides](https://github.com/datitran/jupyter2slides) - Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js
@@ -453,7 +454,6 @@
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks that all of the hyperlinks in a markdown text to determine if they are alive or dead
 - [CindyJS/CindyJS](https://github.com/CindyJS/CindyJS) - A JavaScript framework for interactive (mathematical) content.
 - [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [benborgers/driver](https://github.com/benborgers/driver) - 🏎 A quick and simple API for reading Google Drive and Google Docs.
 - [benborgers/potion](https://github.com/benborgers/potion) - 🧪 Reverse-engineered Notion API.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -2324,7 +2324,7 @@
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github using a frontmatter state entry
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
-- [xldenis/obsidian-latex](https://github.com/xldenis/obsidian-latex) - 
+- [wei2912/obsidian-latex](https://github.com/wei2912/obsidian-latex) - 
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [replit/Codemirror-CSS-color-picker](https://github.com/replit/Codemirror-CSS-color-picker) - A codemirror extension that adds a color picker input next to CSS color values. Development happens on Replit, just fork and hit run! https://replit.com/@util/Codemirror-CSS-color-picker
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
