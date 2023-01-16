@@ -480,7 +480,7 @@
 - [bgromov/wiki-mathjax](https://github.com/bgromov/wiki-mathjax) - Chrome extension that renders Wikipedia equations with MathJax
 - [orsharir/github-mathjax](https://github.com/orsharir/github-mathjax) - Chrome extension for rendering LaTeX equations in GitHub with MathJax
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
-- [janosh/blog](https://github.com/janosh/blog) - My blog. Powered by Gatsby.
+- [janosh/blog](https://github.com/janosh/blog) - My blog.
 - [eduardolima93/playlist-manager](https://github.com/eduardolima93/playlist-manager) - Playlist manager for Spotify
 - [JMPerez/c](https://github.com/JMPerez/c) - A collaborative listening room using Spotify
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
