@@ -602,6 +602,7 @@
 
 ## Jupyter Notebook 
 
+- [nobuyukimatsumoto68/2d_u1](https://github.com/nobuyukimatsumoto68/2d_u1) - 
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [NREL/HPC](https://github.com/NREL/HPC) - A collection of various resources, examples, and executables for the general NREL HPC user community's benefit. Use the following website for accessing documentation.
 - [pierreglaser/unle](https://github.com/pierreglaser/unle) - 
@@ -1122,6 +1123,8 @@
 
 ## Python 
 
+- [francois-rozet/lampe](https://github.com/francois-rozet/lampe) - Likelihood-free AMortized Posterior Estimation with PyTorch
+- [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
 - [pytorch-labs/tensordict](https://github.com/pytorch-labs/tensordict) - TensorDict is a pytorch dedicated tensor container.
 - [mshakerinava/Equivariant-Networks-for-Pixelized-Spheres](https://github.com/mshakerinava/Equivariant-Networks-for-Pixelized-Spheres) - Authors' implementation of the paper "Equivariant Networks for Pixelized Spheres" published at ICML 2021.
 - [mshakerinava/AutoEquiv](https://github.com/mshakerinava/AutoEquiv) - Group Equivariant Linear Maps
@@ -2308,7 +2311,7 @@
 
 ## TypeScript 
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the next generation, cross‐platform package manager
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [Quorafind/Obsidian-Surfing](https://github.com/Quorafind/Obsidian-Surfing) - An Obsidian plugin that lets you browse the web within Obsidian.
 - [ibdafna/webdash](https://github.com/ibdafna/webdash) - WebAssembly powered Plotly Dash running in the browser
 - [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
