@@ -1187,7 +1187,7 @@
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
 - [bjing2016/subspace-diffusion](https://github.com/bjing2016/subspace-diffusion) - Improved diffusion generative models with subspaces
-- [online-ml/beaver](https://github.com/online-ml/beaver) - 🦫 MLOps for (online) machine learning
+- [OracLabs/beaver](https://github.com/OracLabs/beaver) - 🦫 MLOps for (online) machine learning
 - [MLMI2-CSSI/foundry](https://github.com/MLMI2-CSSI/foundry) - Simplifying the discovery and usage of machine-learning ready datasets in materials science and chemistry
 - [landerlini/hopaas_client](https://github.com/landerlini/hopaas_client) - Hyperparameter Optimization as a Service (Client)
 - [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
@@ -1649,7 +1649,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-514-Stars](https://github.com/iBug/This-Repo-Has-514-Stars) - Yes, it's true :gift_heart: This repository has 514 stars.
+- [iBug/This-Repo-Has-515-Stars](https://github.com/iBug/This-Repo-Has-515-Stars) - Yes, it's true :gift_heart: This repository has 515 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
