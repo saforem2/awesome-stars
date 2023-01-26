@@ -1125,6 +1125,8 @@
 
 ## Python 
 
+- [qsh-zh/pis](https://github.com/qsh-zh/pis) - [ICLR 2022] Path integral sampler
+- [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [francois-rozet/lampe](https://github.com/francois-rozet/lampe) - Likelihood-free AMortized Posterior Estimation with PyTorch
 - [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
 - [pytorch-labs/tensordict](https://github.com/pytorch-labs/tensordict) - TensorDict is a pytorch dedicated tensor container.
@@ -1187,7 +1189,7 @@
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
 - [bjing2016/subspace-diffusion](https://github.com/bjing2016/subspace-diffusion) - Improved diffusion generative models with subspaces
-- [OracLabs/beaver](https://github.com/OracLabs/beaver) - 🦫 MLOps for (online) machine learning
+- [OracLabs/orac](https://github.com/OracLabs/orac) - 🦫 MLOps for (online) machine learning
 - [MLMI2-CSSI/foundry](https://github.com/MLMI2-CSSI/foundry) - Simplifying the discovery and usage of machine-learning ready datasets in materials science and chemistry
 - [landerlini/hopaas_client](https://github.com/landerlini/hopaas_client) - Hyperparameter Optimization as a Service (Client)
 - [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
