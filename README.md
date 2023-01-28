@@ -98,6 +98,7 @@
 - [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
+- [jeffhammond/HPCInfo](https://github.com/jeffhammond/HPCInfo) - Information about many aspects of high-performance computing.  Wiki content moved to ~/docs.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
@@ -152,7 +153,6 @@
 - [tuplex/tuplex](https://github.com/tuplex/tuplex) - Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather 
 - [google/ml-metadata](https://github.com/google/ml-metadata) - For recording and retrieving metadata associated with ML developer and data scientist workflows.
 - [ComputationalRadiationPhysics/picongpu](https://github.com/ComputationalRadiationPhysics/picongpu) - Performance-Portable Particle-in-Cell Simulations for the Exascale Era :sparkles:
-- [jeffhammond/HPCInfo](https://github.com/jeffhammond/HPCInfo) - Information about many aspects of high-performance computing.  Wiki content moved to ~/docs.
 - [nv-legate/legate.pandas](https://github.com/nv-legate/legate.pandas) - An Aspiring Drop-In Replacement for Pandas at Scale
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 - [twesterhout/lattice-symmetries](https://github.com/twesterhout/lattice-symmetries) - A package to simplify working with symmetry-adapted quantum many-body bases. Provides a good foundation for writing custom exact diagonalization and variational Monte Carlo software
@@ -859,6 +859,7 @@
 - [hep-lbdl/adversarial-jets](https://github.com/hep-lbdl/adversarial-jets) - Training, generation, and analysis code for Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics
 - [hep-lbdl/CaloGAN](https://github.com/hep-lbdl/CaloGAN) - Generative Adversarial Networks for High Energy Physics extended to a multi-layer calorimeter simulation
 - [numerical-mooc/numerical-mooc](https://github.com/numerical-mooc/numerical-mooc) - A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments.
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of Tensorflow
 - [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using Google's TensorFlow Framework
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
@@ -2071,7 +2072,6 @@
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [qmlcode/qml](https://github.com/qmlcode/qml) - QML: Quantum Machine Learning
 - [lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [tkipf/gcn](https://github.com/tkipf/gcn) - Implementation of Graph Convolutional Networks in TensorFlow
 - [shantnu/PyEng](https://github.com/shantnu/PyEng) - Python for engineers
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
