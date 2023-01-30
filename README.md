@@ -391,7 +391,7 @@
 
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/EmaApps/emanote)
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [facebook/duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [callum-oakley/gotta-go-fast](https://github.com/callum-oakley/gotta-go-fast) - A command line utility for practicing typing and measuring your WPM and accuracy.
@@ -596,7 +596,7 @@
 - [JuliaCollections/DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) - Julia implementation of Data structures
 - [TuringLang/AdvancedHMC.jl](https://github.com/TuringLang/AdvancedHMC.jl) - Robust, modular and efficient implementation of advanced Hamiltonian Monte Carlo algorithms
 - [JuliaApproximation/ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) - Julia package for function approximation
-- [JuliaManifolds/Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl) - Optimization on Manifolds in Julia
+- [JuliaManifolds/Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl) - 🏔️Manopt. jl – Optimization on Manifolds in Julia
 - [carstenbauer/MonteCarlo.jl](https://github.com/carstenbauer/MonteCarlo.jl) - Classical and quantum Monte Carlo simulations in Julia
 - [JunoLab/Juno.jl](https://github.com/JunoLab/Juno.jl) - 
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
