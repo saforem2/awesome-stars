@@ -1772,7 +1772,7 @@
 - [moritzgloeckl/overleaf-sync](https://github.com/moritzgloeckl/overleaf-sync) - Overleaf Two-Way Synchronization
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
 - [rail-berkeley/softlearning](https://github.com/rail-berkeley/softlearning) - Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm.
-- [neural-operator/fourier_neural_operator](https://github.com/neural-operator/fourier_neural_operator) - Use Fourier transform to learn operators in differential equations.
+- [NeuralOperator/fourier_neural_operator](https://github.com/NeuralOperator/fourier_neural_operator) - Use Fourier transform to learn operators in differential equations.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ekbanasolutions/numpy-using-socket](https://github.com/ekbanasolutions/numpy-using-socket) - Send Python Numpy Array over TCP/IP socket with simple codes.
 - [k2sebeom/mlsocket](https://github.com/k2sebeom/mlsocket) - python socket that can send numpy arrays and ml models
