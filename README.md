@@ -635,7 +635,6 @@
 - [HPCL/ideas-uo](https://github.com/HPCL/ideas-uo) - IDEAS project work
 - [undark-lab/swyft](https://github.com/undark-lab/swyft) - A system for scientific simulation-based inference at scale.
 - [geomstats/challenge-iclr-2022](https://github.com/geomstats/challenge-iclr-2022) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
-- [webdataset/webdataset](https://github.com/webdataset/webdataset) - A high-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch.
 - [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX
 - [sscardapane/hydra-tutorial](https://github.com/sscardapane/hydra-tutorial) - Companion code for a tutorial on using Hydra.
 - [khanhnamle1994/cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
@@ -1266,6 +1265,7 @@
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [mbilos/neural-flows-experiments](https://github.com/mbilos/neural-flows-experiments) - Experiments for Neural Flows paper
+- [webdataset/webdataset](https://github.com/webdataset/webdataset) - A high-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch.
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
 - [gregversteeg/esh_dynamics](https://github.com/gregversteeg/esh_dynamics) - Hamiltonian Dynamics with Non-Newtonian Momentum for Rapid Sampling
 - [kelvins/steganography](https://github.com/kelvins/steganography) - :see_no_evil: Steganography: Hiding an image inside another
