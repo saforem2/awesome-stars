@@ -609,6 +609,7 @@
 ## Jupyter Notebook 
 
 - [nobuyukimatsumoto68/2d_u1](https://github.com/nobuyukimatsumoto68/2d_u1) - 
+- [ameya98/ActionAngleNetworks](https://github.com/ameya98/ActionAngleNetworks) - The official JAX implementation of Action-Angle Networks!
 - [NREL/HPC](https://github.com/NREL/HPC) - A collection of various resources, examples, and executables for the general NREL HPC user community's benefit. Use the following website for accessing documentation.
 - [pierreglaser/unle](https://github.com/pierreglaser/unle) - 
 - [srshtiputcha/sgmcmc_preferential_subsampling](https://github.com/srshtiputcha/sgmcmc_preferential_subsampling) - Code for Preferential Subsampling for Stochastic Gradient Langevin Dynamics
@@ -894,7 +895,7 @@
 - [n-shift/nv](https://github.com/n-shift/nv) - 
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - 🗺 A better way to create key mappings in Neovim
-- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Source code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
+- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
 - [rafamadriz/NeoCode](https://github.com/rafamadriz/NeoCode) - 
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
@@ -1048,7 +1049,7 @@
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) - Paper list for equivariant neural network
-- [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
+- [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - A repository of data on coronavirus cases and deaths in the U.S.
 - [pittcsc/NewGrad-2021](https://github.com/pittcsc/NewGrad-2021) - A collection of New Grad full time roles in SWE, Quant, and PM.
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [alvinyu33/sars-cov-2-public](https://github.com/alvinyu33/sars-cov-2-public) - 
@@ -1144,7 +1145,6 @@
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [pytorch/tnt](https://github.com/pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
 - [jw9730/hot](https://github.com/jw9730/hot) - [NeurIPS'21] Higher-order Transformers for sets, graphs, and hypergraphs, in PyTorch
-- [ameya98/ActionAngleNetworks](https://github.com/ameya98/ActionAngleNetworks) - The official JAX implementation of Action-Angle Networks!
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [NERSC/sc22-dl-tutorial](https://github.com/NERSC/sc22-dl-tutorial) - Material for the SC22 Deep Learning at Scale Tutorial
 - [reframe-hpc/reframe](https://github.com/reframe-hpc/reframe) - A powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems.
@@ -1205,7 +1205,7 @@
 - [statbiophys/MINIMALIST](https://github.com/statbiophys/MINIMALIST) - Companion Github of the MINIMALIST preprint.
 - [gcorso/torsional-diffusion](https://github.com/gcorso/torsional-diffusion) - Implementation of Torsional Diffusion for Molecular Conformer Generation (NeurIPS 2022)
 - [wesselb/plum](https://github.com/wesselb/plum) - Multiple dispatch in Python
-- [conda-incubator/grayskull](https://github.com/conda-incubator/grayskull) - Grayskull :skull: - Recipe generator for Conda
+- [conda/grayskull](https://github.com/conda/grayskull) - Grayskull :skull: - Recipe generator for Conda
 - [edbennett/high-performance-python](https://github.com/edbennett/high-performance-python) - Carpentries-style lesson on Python for High Performance Computing
 - [layer6ai-labs/CEF](https://github.com/layer6ai-labs/CEF) - Code for the NeurIPS'21 paper "Tractable Density Estimation on Learned Manifolds with Conformal Embedding Flows"
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
@@ -2133,6 +2133,7 @@
 
 ## Rust 
 
+- [eto-ai/lance](https://github.com/eto-ai/lance) - Alternative to Parquet. 100x faster for random access, automatic versioning, optimized for computer vision, bioinformatics, spatial and ML data. Apache Arrow and DuckDB compatible.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
