@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [Astro](#astro)
 - [Brainfuck](#brainfuck)
 - [C](#c)
@@ -67,6 +68,10 @@
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
+
+## Assembly 
+
+- [HazyResearch/H3](https://github.com/HazyResearch/H3) - Language Modeling with the H3 State Space Model
 
 ## Astro 
 
@@ -608,6 +613,7 @@
 
 ## Jupyter Notebook 
 
+- [lukasheinrich/generative_models_examples](https://github.com/lukasheinrich/generative_models_examples) - playground for generative models
 - [nobuyukimatsumoto68/2d_u1](https://github.com/nobuyukimatsumoto68/2d_u1) - 
 - [ameya98/ActionAngleNetworks](https://github.com/ameya98/ActionAngleNetworks) - The official JAX implementation of Action-Angle Networks!
 - [NREL/HPC](https://github.com/NREL/HPC) - A collection of various resources, examples, and executables for the general NREL HPC user community's benefit. Use the following website for accessing documentation.
@@ -1127,6 +1133,7 @@
 
 ## Python 
 
+- [vividitytech/diffusion-mcmc](https://github.com/vividitytech/diffusion-mcmc) - 
 - [Technion-Kishony-lab/quibbler](https://github.com/Technion-Kishony-lab/quibbler) - Your data - interactive!
 - [teng10/ml_toric_code](https://github.com/teng10/ml_toric_code) - 
 - [qsh-zh/pis](https://github.com/qsh-zh/pis) - [ICLR 2022] Path integral sampler
