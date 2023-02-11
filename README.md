@@ -1133,6 +1133,7 @@
 
 ## Python 
 
+- [microsoft/Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [vividitytech/diffusion-mcmc](https://github.com/vividitytech/diffusion-mcmc) - 
 - [Technion-Kishony-lab/quibbler](https://github.com/Technion-Kishony-lab/quibbler) - Your data - interactive!
 - [teng10/ml_toric_code](https://github.com/teng10/ml_toric_code) - 
@@ -1662,7 +1663,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-517-Stars](https://github.com/iBug/This-Repo-Has-517-Stars) - Yes, it's true :revolving_hearts: This repository has 517 stars.
+- [iBug/This-Repo-Has-518-Stars](https://github.com/iBug/This-Repo-Has-518-Stars) - Yes, it's true :two_hearts: This repository has 518 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2140,7 +2141,7 @@
 
 ## Rust 
 
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Alternative to Parquet. 100x faster for random access, automatic versioning, optimized for computer vision, bioinformatics, spatial and ML data. Apache Arrow and DuckDB compatible.
+- [eto-ai/lance](https://github.com/eto-ai/lance) - Alternative to Parquet. 100x faster for random access, includes a vector index and automatic versioning. Apache Arrow and DuckDB compatible.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -2327,7 +2328,7 @@
 ## TypeScript 
 
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
-- [Quorafind/Obsidian-Surfing](https://github.com/Quorafind/Obsidian-Surfing) - An Obsidian plugin that lets you browse the web within Obsidian.
+- [PKM-er/Obsidian-Surfing](https://github.com/PKM-er/Obsidian-Surfing) - An Obsidian plugin that lets you browse the web within Obsidian.
 - [ibdafna/webdash](https://github.com/ibdafna/webdash) - WebAssembly powered Plotly Dash running in the browser
 - [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
