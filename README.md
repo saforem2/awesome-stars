@@ -356,7 +356,6 @@
 
 ## HTML 
 
-- [neelindresh/pymlpipe](https://github.com/neelindresh/pymlpipe) - 
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
 - [outerbounds/full-stack-ML-metaflow-tutorial](https://github.com/outerbounds/full-stack-ML-metaflow-tutorial) - It's all in the name
 - [argonne-lcf/user-guides](https://github.com/argonne-lcf/user-guides) - ALCF Systems User Documentation
@@ -1192,6 +1191,7 @@
 - [carpentries-incubator/hpc-workflows](https://github.com/carpentries-incubator/hpc-workflows) - Scaling studies on high-performance clusters using Snakemake workflows
 - [michaelfaulkner/super-aLby](https://github.com/michaelfaulkner/super-aLby) - 
 - [michaelfaulkner/xy-type-models](https://github.com/michaelfaulkner/xy-type-models) - 
+- [neelindresh/pymlpipe](https://github.com/neelindresh/pymlpipe) - 
 - [huggingface/optimum-intel](https://github.com/huggingface/optimum-intel) - Accelerate inference of 🤗 Transformers with Intel optimization tools
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
