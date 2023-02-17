@@ -1133,6 +1133,8 @@
 
 ## Python 
 
+- [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
+- [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨
 - [fudan-zvg/PDS](https://github.com/fudan-zvg/PDS) - [ECCV 2022] Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling
 - [aqlaboratory/openfold](https://github.com/aqlaboratory/openfold) - Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2
 - [microsoft/Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
@@ -1295,7 +1297,7 @@
 - [AnweshGangula/PKMigrator](https://github.com/AnweshGangula/PKMigrator) - Tools to migrate between various Personal Knowledge Management Utilities
 - [michael-c-brennan/lazymaps](https://github.com/michael-c-brennan/lazymaps) - Numerical examples from 'Greedy inference with structure-exploiting lazy maps'
 - [nschloe/matplotx](https://github.com/nschloe/matplotx) - :bar_chart: More styles and useful extensions for Matplotlib
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and scalable
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 - [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
 - [microsoft/Graphormer](https://github.com/microsoft/Graphormer) - Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule s
@@ -2061,7 +2063,7 @@
 - [nshettell/SimuViz](https://github.com/nshettell/SimuViz) - A repository with the necessary tools to Visualize different Physical Simulations.
 - [MelkoCollective/perimeter-qmc](https://github.com/MelkoCollective/perimeter-qmc) - My Master Thesis at Perimeter Institute
 - [sylvialee12/SelfLearning-MonteCarlo](https://github.com/sylvialee12/SelfLearning-MonteCarlo) - 
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with PyTensor
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling in Python
 - [Samreay/ChainConsumer](https://github.com/Samreay/ChainConsumer) - Corner plots, LaTeX tables and plotting walks.
 - [dgerosa/filltex](https://github.com/dgerosa/filltex) - Automatic queries to ADS and INSPIRE databases to fill LaTex bibliography
 - [bjmorgan/bsym](https://github.com/bjmorgan/bsym) - A Basic Symmetry Module (Python)
