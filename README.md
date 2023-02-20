@@ -2292,7 +2292,7 @@
 - [scipp-atlas/mapyde-paper](https://github.com/scipp-atlas/mapyde-paper) - 
 - [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
-- [showyourwork/showyourwork](https://github.com/showyourwork/showyourwork) - Fully reproducible, open source scientific articles in LaTeX.
+- [showyourwork/showyourwork](https://github.com/showyourwork/showyourwork) - A workflow for reproducible and open scientific articles
 - [lukeolson/parxiv](https://github.com/lukeolson/parxiv) - a simple script to assist in making a clean directory to upload to arxiv
 - [anishathalye/auriga](https://github.com/anishathalye/auriga) - Auriga is a minimalist LaTeX beamer presentation theme 📽
 - [mazhengcn/suggested-notation-for-machine-learning](https://github.com/mazhengcn/suggested-notation-for-machine-learning) - This introduces a suggestion of mathematical notation protocol for machine learning.
