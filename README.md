@@ -14,7 +14,6 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
-- [Common Lisp](#common-lisp)
 - [Component Pascal](#component-pascal)
 - [Cuda](#cuda)
 - [Cython](#cython)
@@ -44,6 +43,7 @@
 - [Mathematica](#mathematica)
 - [Nextflow](#nextflow)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -263,10 +263,6 @@
 
 - [apierz/nerdbar.widget](https://github.com/apierz/nerdbar.widget) - Customizable bar(s) for OSX.
 - [stayradiated/okeanos](https://github.com/stayradiated/okeanos) - Node.js adapter for Zephyros.
-
-## Common Lisp 
-
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## Component Pascal 
 
@@ -974,6 +970,10 @@
 - [paranim/paramidi](https://github.com/paranim/paramidi) - A Nim data -&gt; music library
 - [jcosborn/qex](https://github.com/jcosborn/qex) - Quantum EXpressions lattice field theory framework
 
+## Nix 
+
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
+
 ## OCaml 
 
 - [SHoltzen/dice](https://github.com/SHoltzen/dice) - Exact inference for discrete probabilistic programs. (Research code, more documentation and ergonomics to come)
@@ -1421,7 +1421,7 @@
 - [Lyncs-API/lyncs](https://github.com/Lyncs-API/lyncs) - A python API for Lattice QCD applications
 - [nschloe/fontman](https://github.com/nschloe/fontman) - Manage and update your installed fonts.
 - [nschloe/dufte](https://github.com/nschloe/dufte) - :chart_with_upwards_trend: Minimalistic Matplotlib style
-- [datapane/datapane](https://github.com/datapane/datapane) - Datapane is the easiest way to create data science reports from Python.
+- [datapane/datapane](https://github.com/datapane/datapane) - Build full-stack data analytics apps in Python
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
 - [intake/xrviz](https://github.com/intake/xrviz) - Interactive visualisation interface for Xarrays
 - [gbup-group/EAN-efficient-attention-network](https://github.com/gbup-group/EAN-efficient-attention-network) - The implementation of paper ''Efficient Attention Network: Accelerate Attention by Searching Where to Plug''.
@@ -2152,7 +2152,7 @@
 
 ## Rust 
 
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Alternative to Parquet. 100x faster for random access, includes a vector index and automatic versioning. Apache Arrow and DuckDB compatible.
+- [eto-ai/lance](https://github.com/eto-ai/lance) - Modern columnar data format for ML implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
