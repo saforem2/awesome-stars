@@ -1864,7 +1864,7 @@
 - [mackelab/sbi](https://github.com/mackelab/sbi) - Simulation-based inference toolkit
 - [deepmind/ferminet](https://github.com/deepmind/ferminet) - An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
 - [pmocz/nbody-performance-comparison](https://github.com/pmocz/nbody-performance-comparison) - Directly compare performance of vectorized and for-loop implementations of the N-body problem in Matlab, Julia, and Python
-- [texworld/tikzplotlib](https://github.com/texworld/tikzplotlib) - :bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.
+- [nschloe/tikzplotlib](https://github.com/nschloe/tikzplotlib) - :bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.
 - [unixtomato/nmcrg](https://github.com/unixtomato/nmcrg) - Neural Monte Carlo Renormalization Group
 - [tizian/manifold-visualizer](https://github.com/tizian/manifold-visualizer) - 2D visualizer for specular path manifolds
 - [crazybigcat/TSGO](https://github.com/crazybigcat/TSGO) - This is the python code for "Tangent-Space Gradient Optimization of Tensor Network for Machine Learning" at https://arxiv.org/abs/2001.04029.
