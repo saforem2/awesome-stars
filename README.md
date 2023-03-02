@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Common Lisp](#common-lisp)
 - [Component Pascal](#component-pascal)
 - [Cuda](#cuda)
 - [Cython](#cython)
@@ -43,7 +44,6 @@
 - [Mathematica](#mathematica)
 - [Nextflow](#nextflow)
 - [Nim](#nim)
-- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -263,6 +263,10 @@
 
 - [apierz/nerdbar.widget](https://github.com/apierz/nerdbar.widget) - Customizable bar(s) for OSX.
 - [stayradiated/okeanos](https://github.com/stayradiated/okeanos) - Node.js adapter for Zephyros.
+
+## Common Lisp 
+
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## Component Pascal 
 
@@ -969,10 +973,6 @@
 - [sinkingsugar/nimtorch](https://github.com/sinkingsugar/nimtorch) - PyTorch - Python + Nim
 - [paranim/paramidi](https://github.com/paranim/paramidi) - A Nim data -&gt; music library
 - [jcosborn/qex](https://github.com/jcosborn/qex) - Quantum EXpressions lattice field theory framework
-
-## Nix 
-
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## OCaml 
 
