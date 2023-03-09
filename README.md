@@ -569,7 +569,7 @@
 - [JuliaManifolds/Manifolds.jl](https://github.com/JuliaManifolds/Manifolds.jl) - Manifolds.jl provides a library of manifolds aiming for an easy-to-use and fast implementation.
 - [SciML/SciMLBase.jl](https://github.com/SciML/SciMLBase.jl) - The Base interface of the SciML ecosystem
 - [JuliaDiff/ChainRulesTestUtils.jl](https://github.com/JuliaDiff/ChainRulesTestUtils.jl) - Utilities for testing custom AD primitives.
-- [JuliaGaussianProcesses/TemporalGPs.jl](https://github.com/JuliaGaussianProcesses/TemporalGPs.jl) - Fast inference for Gaussian processes in problems involving time
+- [JuliaGaussianProcesses/TemporalGPs.jl](https://github.com/JuliaGaussianProcesses/TemporalGPs.jl) - Fast inference for Gaussian processes in problems involving time. Partly built on results from https://proceedings.mlr.press/v161/tebbutt21a.html
 - [JuliaDynamics/ChaosTools.jl](https://github.com/JuliaDynamics/ChaosTools.jl) - Tools for the exploration of chaos and nonlinear dynamics
 - [JuliaGaussianProcesses/KernelFunctions.jl](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl) - Julia package for kernel functions for machine learning
 - [tuerda/JTwalk](https://github.com/tuerda/JTwalk) - Twalk for julia
@@ -615,7 +615,6 @@
 - [nobuyukimatsumoto68/2d_u1](https://github.com/nobuyukimatsumoto68/2d_u1) - 
 - [ameya98/ActionAngleNetworks](https://github.com/ameya98/ActionAngleNetworks) - The official JAX implementation of Action-Angle Networks!
 - [NREL/HPC](https://github.com/NREL/HPC) - A collection of various resources, examples, and executables for the general NREL HPC user community's benefit. Use the following website for accessing documentation.
-- [pierreglaser/unle](https://github.com/pierreglaser/unle) - 
 - [srshtiputcha/sgmcmc_preferential_subsampling](https://github.com/srshtiputcha/sgmcmc_preferential_subsampling) - Code for Preferential Subsampling for Stochastic Gradient Langevin Dynamics
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
 - [sophiamyang/hvplot_interactive](https://github.com/sophiamyang/hvplot_interactive) - 
@@ -1678,7 +1677,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-518-Stars](https://github.com/iBug/This-Repo-Has-518-Stars) - Yes, it's true :orange_heart: This repository has 518 stars.
+- [iBug/This-Repo-Has-518-Stars](https://github.com/iBug/This-Repo-Has-518-Stars) - Yes, it's true :purple_heart: This repository has 518 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
