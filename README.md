@@ -72,6 +72,7 @@
 
 ## Assembly 
 
+- [HazyResearch/safari](https://github.com/HazyResearch/safari) - Convolutions for Sequence Modeling
 - [HazyResearch/H3](https://github.com/HazyResearch/H3) - Language Modeling with the H3 State Space Model
 
 ## Astro 
@@ -141,6 +142,7 @@
 
 ## C++ 
 
+- [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
 - [jmduarte/iaifi-summer-school](https://github.com/jmduarte/iaifi-summer-school) - IAIFI Summer School Lectures and Tutorials for ML in Particle Physics
 - [ECP-WarpX/impactx](https://github.com/ECP-WarpX/impactx) - ImpactX: an s-based beam dynamics code including space charge effects
@@ -312,6 +314,7 @@
 
 ## Go 
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -996,6 +999,7 @@
 
 ## Others 
 
+- [openxla/community](https://github.com/openxla/community) - Stores documents and resources used by the OpenXLA developer community
 - [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto) - A curated list of Quarto talks, tools, examples & articles! Contributions welcome!
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [paperswithcode/releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
@@ -1133,6 +1137,7 @@
 
 ## Python 
 
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Programmable 🐍 remote compute 🔋 and data 📂 across environments 💻 and users 👩‍💻
 - [TheRenegadeCoder/SnakeMD](https://github.com/TheRenegadeCoder/SnakeMD) - A markdown generation library for Python.
 - [didix21/mdutils](https://github.com/didix21/mdutils) - Python package contains a set of basic tools that can help to create a markdown file.
 - [muellerzr/timing_experiments](https://github.com/muellerzr/timing_experiments) - 
@@ -1227,7 +1232,7 @@
 - [iterative/example-get-started](https://github.com/iterative/example-get-started) - Get started DVC project
 - [statbiophys/MINIMALIST](https://github.com/statbiophys/MINIMALIST) - Companion Github of the MINIMALIST preprint.
 - [gcorso/torsional-diffusion](https://github.com/gcorso/torsional-diffusion) - Implementation of Torsional Diffusion for Molecular Conformer Generation (NeurIPS 2022)
-- [wesselb/plum](https://github.com/wesselb/plum) - Multiple dispatch in Python
+- [beartype/plum](https://github.com/beartype/plum) - Multiple dispatch in Python
 - [conda/grayskull](https://github.com/conda/grayskull) - Grayskull :skull: - Recipe generator for Conda
 - [edbennett/high-performance-python](https://github.com/edbennett/high-performance-python) - Carpentries-style lesson on Python for High Performance Computing
 - [layer6ai-labs/CEF](https://github.com/layer6ai-labs/CEF) - Code for the NeurIPS'21 paper "Tractable Density Estimation on Learned Manifolds with Conformal Embedding Flows"
@@ -1677,7 +1682,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-518-Stars](https://github.com/iBug/This-Repo-Has-518-Stars) - Yes, it's true :purple_heart: This repository has 518 stars.
+- [iBug/This-Repo-Has-521-Stars](https://github.com/iBug/This-Repo-Has-521-Stars) - Yes, it's true :two_hearts: This repository has 521 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2346,6 +2351,7 @@
 
 ## TypeScript 
 
+- [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
 - [coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web) - Connect your web browser with your notes in Obsidian.
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
