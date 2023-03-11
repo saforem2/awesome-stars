@@ -1137,6 +1137,7 @@
 
 ## Python 
 
+- [WassimTenachi/PhySO](https://github.com/WassimTenachi/PhySO) - Physical Symbolic Optimization
 - [run-house/runhouse](https://github.com/run-house/runhouse) - Programmable 🐍 remote compute 🔋 and data 📂 across environments 💻 and users 👩‍💻
 - [TheRenegadeCoder/SnakeMD](https://github.com/TheRenegadeCoder/SnakeMD) - A markdown generation library for Python.
 - [didix21/mdutils](https://github.com/didix21/mdutils) - Python package contains a set of basic tools that can help to create a markdown file.
