@@ -420,6 +420,7 @@
 
 ## JavaScript 
 
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy:
