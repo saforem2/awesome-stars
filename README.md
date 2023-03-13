@@ -1241,7 +1241,7 @@
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [untitled-ai/jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending) - Ascend your Jupyter Notebook usage
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
-- [mit-ll-responsible-ai/hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Pythonic functions for creating and enhancing Hydra applications
+- [mit-ll-responsible-ai/hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Create powerful Hydra applications without the yaml files and boilerplate code.
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a sampling library designed for ease of use, speed and modularity.
 - [rikab/GaussianAnsatz](https://github.com/rikab/GaussianAnsatz) - 
 - [fidelity/spock](https://github.com/fidelity/spock) - spock is a framework that helps manage complex parameter configurations during research and development of Python applications
@@ -2361,7 +2361,7 @@
 - [ibdafna/webdash](https://github.com/ibdafna/webdash) - WebAssembly powered Plotly Dash running in the browser
 - [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [siefkenj/unified-latex](https://github.com/siefkenj/unified-latex) - Utilities for parsing and manipulating LaTeX ASTs with the Unified.js framework
 - [kometenstaub/customizable-page-header-buttons](https://github.com/kometenstaub/customizable-page-header-buttons) - Add command buttons left to the standard buttons in Obsidian mobile (and desktop, if enabled).
 - [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
