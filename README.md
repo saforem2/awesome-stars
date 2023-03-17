@@ -190,7 +190,6 @@
 - [argonne-lcf/TensorFlowFoam](https://github.com/argonne-lcf/TensorFlowFoam) - Integrating the TensorFlow 1.15 C-API into OpenFOAM 5.0 for data-driven CFD algorithm development
 - [serizba/cppflow](https://github.com/serizba/cppflow) - Run TensorFlow models in C++ without installation and without Bazel
 - [zenorogue/l2u](https://github.com/zenorogue/l2u) - commandline Latex to Unicode converter
-- [kaskr/tmbstan](https://github.com/kaskr/tmbstan) - 
 - [lammps/lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
 - [oneapi-src/oneCCL](https://github.com/oneapi-src/oneCCL) - oneAPI Collective Communications Library (oneCCL)
@@ -2132,6 +2131,7 @@
 - [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objectiv
 - [yao-yl/path-tempering](https://github.com/yao-yl/path-tempering) - continuous tempering by path sampling
 - [wxwx1993/PM_COVID](https://github.com/wxwx1993/PM_COVID) - Public Available Code and Data to Reproduce Analyses in "Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis."
+- [kaskr/tmbstan](https://github.com/kaskr/tmbstan) - 
 
 ## Roff 
 
