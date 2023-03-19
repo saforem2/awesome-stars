@@ -596,7 +596,7 @@
 - [SciML/NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations for Scientific Machine Learning (SciML) accelerated simulation
 - [ITensor/NDTensors.jl](https://github.com/ITensor/NDTensors.jl) - A Julia package for n-dimensional sparse tensors.
 - [SciML/DiffEqBase.jl](https://github.com/SciML/DiffEqBase.jl) - The lightweight Base library for shared types and functionality for defining differential equation and scientific machine learning (SciML) problems
-- [JuliaTPU/XLA.jl](https://github.com/JuliaTPU/XLA.jl) - Julia on TPUs
+- [JuliaGPU/XLA.jl](https://github.com/JuliaGPU/XLA.jl) - Julia on TPUs
 - [tpapp/PushVectors.jl](https://github.com/tpapp/PushVectors.jl) - workaround for julia#24909
 - [baggepinnen/MonteCarloMeasurements.jl](https://github.com/baggepinnen/MonteCarloMeasurements.jl) - Propagation of distributions by Monte-Carlo sampling: Real number types with uncertainty represented by samples.
 - [ho-oto/TensorRules.jl](https://github.com/ho-oto/TensorRules.jl) - Macros to define custom adjoints for TensorOperations.jl
