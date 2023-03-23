@@ -1135,6 +1135,7 @@
 
 ## Python 
 
+- [Bras-P/langevin-for-stochastic-control](https://github.com/Bras-P/langevin-for-stochastic-control) - 
 - [pacman100/accelerate-megatron-test](https://github.com/pacman100/accelerate-megatron-test) - Testing the accelerate megatron integration
 - [WassimTenachi/PhySO](https://github.com/WassimTenachi/PhySO) - Physical Symbolic Optimization
 - [run-house/runhouse](https://github.com/run-house/runhouse) - Programmable 🐍 remote compute 🔋 and data 📂 across environments 💻 and users 👩‍💻
@@ -2003,7 +2004,7 @@
 - [PyTables/PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [phobson/paramnormal](https://github.com/phobson/paramnormal) - Conventionally parameterized probability distributions
 - [rlouf/mcx](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference on CPU & GPU. Powered by JAX.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [stevenygd/PointFlow](https://github.com/stevenygd/PointFlow) - PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows
 - [team-approx-bayes/dl-with-bayes](https://github.com/team-approx-bayes/dl-with-bayes) - Contains code for the NeurIPS 2019 paper "Practical Deep Learning with Bayesian Principles"
 - [NVIDIA/framework-reproducibility](https://github.com/NVIDIA/framework-reproducibility) - Providing reproducibility in deep learning frameworks
@@ -2376,7 +2377,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [excalidraw/svg-to-excalidraw](https://github.com/excalidraw/svg-to-excalidraw) - Convert SVGs into Excalidraw data
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
-- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github using a frontmatter state entry
+- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
 - [wei2912/obsidian-latex](https://github.com/wei2912/obsidian-latex) - 
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
