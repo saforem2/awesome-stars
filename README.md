@@ -147,7 +147,7 @@
 - [jmduarte/iaifi-summer-school](https://github.com/jmduarte/iaifi-summer-school) - IAIFI Summer School Lectures and Tutorials for ML in Particle Physics
 - [ECP-WarpX/impactx](https://github.com/ECP-WarpX/impactx) - ImpactX: an s-based beam dynamics code including space charge effects
 - [svalinn/DAGMC](https://github.com/svalinn/DAGMC) - Direct Accelerated Geometry Monte Carlo Toolkit
-- [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind — Seamless operability between C++17 and Python
+- [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 - [HyTruongSon/GraphFlow](https://github.com/HyTruongSon/GraphFlow) - Deep Learning framework in C++/CUDA that supports symbolic/automatic differentiation, dynamic computation graphs, tensor/matrix operations accelerated by GPU and implementations of various state-of-th
 - [microsoft/Microsoft-MPI](https://github.com/microsoft/Microsoft-MPI) - Microsoft MPI
 - [JeremyBYU/FastGaussianAccumulator](https://github.com/JeremyBYU/FastGaussianAccumulator) - Performs Gaussian Integration
@@ -2230,6 +2230,7 @@
 
 ## Shell 
 
+- [hpc-uk/build-instructions](https://github.com/hpc-uk/build-instructions) - Contains build scripts and instructions for software on a variety of UK HPC resources
 - [hpc/charliecloud](https://github.com/hpc/charliecloud) - Lightweight user-defined software stacks for high-performance computing.
 - [minamarkham/yonce](https://github.com/minamarkham/yonce) - 👑 Queen Bey-inspired themes for all your favs.
 - [minamarkham/formation](https://github.com/minamarkham/formation) - 💻 macOS setup script for front-end development
