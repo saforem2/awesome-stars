@@ -614,6 +614,7 @@
 
 ## Jupyter Notebook 
 
+- [anoops-ai/CosmicTagger](https://github.com/anoops-ai/CosmicTagger) - Cosmic Tagging Network for Neutrino Physics
 - [greydanus/hamiltonian-nn](https://github.com/greydanus/hamiltonian-nn) - Code for our paper "Hamiltonian Neural Networks"
 - [LSSTC-DSFP/LSSTC-DSFP-Sessions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions) - Lecture slides, Jupyter notebooks, and other material from the  LSSTC Data Science Fellowship Program
 - [mli/transformers-benchmarks](https://github.com/mli/transformers-benchmarks) - real Transformer TeraFLOPS on various GPUs
@@ -1141,6 +1142,7 @@
 
 ## Python 
 
+- [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
 - [IdahoLabResearch/BIhNNs](https://github.com/IdahoLabResearch/BIhNNs) - The code enables to perform Bayesian inference in an efficient manner through the use of Hamiltonian Neural Networks (HNNs), Deep Neural Networks (DNNs), Neural ODEs, and Symplectic Neural Networks (S
 - [antoinecollas/Entropic_Wasserstein_Component_Analysis](https://github.com/antoinecollas/Entropic_Wasserstein_Component_Analysis) - Python of "Entropic Wasserstein Component Analysis" paper
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
@@ -1228,7 +1230,7 @@
 - [michaelfaulkner/super-aLby](https://github.com/michaelfaulkner/super-aLby) - 
 - [michaelfaulkner/xy-type-models](https://github.com/michaelfaulkner/xy-type-models) - 
 - [neelindresh/pymlpipe](https://github.com/neelindresh/pymlpipe) - 
-- [huggingface/optimum-intel](https://github.com/huggingface/optimum-intel) - Accelerate inference of 🤗 Transformers with Intel optimization tools
+- [huggingface/optimum-intel](https://github.com/huggingface/optimum-intel) - 🤗 Optimum Intel: Accelerate inference with Intel optimization tools
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
 - [executablebooks/github-activity](https://github.com/executablebooks/github-activity) - Simple markdown changelogs for GitHub repositories
@@ -1446,7 +1448,7 @@
 - [Lyncs-API/lyncs](https://github.com/Lyncs-API/lyncs) - A python API for Lattice QCD applications
 - [nschloe/fontman](https://github.com/nschloe/fontman) - Manage and update your installed fonts.
 - [nschloe/dufte](https://github.com/nschloe/dufte) - :chart_with_upwards_trend: Minimalistic Matplotlib style
-- [datapane/datapane](https://github.com/datapane/datapane) - Build full-stack data analytics apps in Python
+- [datapane/datapane](https://github.com/datapane/datapane) - Build internal analytics products in minutes using Python
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
 - [intake/xrviz](https://github.com/intake/xrviz) - Interactive visualisation interface for Xarrays
 - [gbup-group/EAN-efficient-attention-network](https://github.com/gbup-group/EAN-efficient-attention-network) - The implementation of paper ''Efficient Attention Network: Accelerate Attention by Searching Where to Plug''.
