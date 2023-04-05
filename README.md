@@ -23,7 +23,6 @@
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
 - [Fortran](#fortran)
-- [Gnuplot](#gnuplot)
 - [Go](#go)
 - [Groff](#groff)
 - [HCL](#hcl)
@@ -49,6 +48,7 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [Perl](#perl)
+- [Prolog](#prolog)
 - [Pug](#pug)
 - [Python](#python)
 - [R](#r)
@@ -307,10 +307,6 @@
 - [mhoffman/kmos](https://github.com/mhoffman/kmos) - kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier
 - [sdliuyuzhi/HOTRG](https://github.com/sdliuyuzhi/HOTRG) - HOTRG
 
-## Gnuplot 
-
-- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
-
 ## Go 
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -318,6 +314,7 @@
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
@@ -617,6 +614,7 @@
 
 - [anoops-ai/CosmicTagger](https://github.com/anoops-ai/CosmicTagger) - Cosmic Tagging Network for Neutrino Physics
 - [greydanus/hamiltonian-nn](https://github.com/greydanus/hamiltonian-nn) - Code for our paper "Hamiltonian Neural Networks"
+- [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python.
 - [LSSTC-DSFP/LSSTC-DSFP-Sessions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions) - Lecture slides, Jupyter notebooks, and other material from the  LSSTC Data Science Fellowship Program
 - [mli/transformers-benchmarks](https://github.com/mli/transformers-benchmarks) - real Transformer TeraFLOPS on various GPUs
 - [lukasheinrich/generative_models_examples](https://github.com/lukasheinrich/generative_models_examples) - playground for generative models
@@ -1136,6 +1134,10 @@
 - [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) - LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
 - [latex2html/latex2html](https://github.com/latex2html/latex2html) - Converts LaTeX documents to HTML
 
+## Prolog 
+
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
+
 ## Pug 
 
 - [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
@@ -1151,7 +1153,6 @@
 - [antoinecollas/Entropic_Wasserstein_Component_Analysis](https://github.com/antoinecollas/Entropic_Wasserstein_Component_Analysis) - Python of "Entropic Wasserstein Component Analysis" paper
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [Blealtan/RWKV-LM-LoRA](https://github.com/Blealtan/RWKV-LM-LoRA) - RWKV is a RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sav
-- [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python.
 - [lollcat/fab-torch](https://github.com/lollcat/fab-torch) - Flow Annealed Importance Sampling Bootstrap (FAB). ICLR 2023.
 - [jxpress/lightning-hydra-template-vertex-ai](https://github.com/jxpress/lightning-hydra-template-vertex-ai) - 
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
@@ -1270,7 +1271,6 @@
 - [cedricwangyu/NoFAS](https://github.com/cedricwangyu/NoFAS) - Variational Inference with NoFAS: Normalizing Flow with Adaptive Surrogate for Computationally Expensive Models
 - [matplotlib/pytest-mpl](https://github.com/matplotlib/pytest-mpl) - A pytest plugin to facilitate image comparison for Matplotlib figures
 - [suneeta-mall/hydra_pydantic_config_management](https://github.com/suneeta-mall/hydra_pydantic_config_management) - 
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [BorgwardtLab/TOGL](https://github.com/BorgwardtLab/TOGL) - Topological Graph Neural Networks (ICLR 2022)
@@ -1669,7 +1669,7 @@
 - [priyankjaini/discFlowMH](https://github.com/priyankjaini/discFlowMH) - Pytorch code for Sampling in Combinatorial Spaces with SurVAE Flow Augmented MCMC
 - [yukimasano/linear-probes](https://github.com/yukimasano/linear-probes) - Evaluating AlexNet features at various depths
 - [clarken92/DisentanglementMetrics](https://github.com/clarken92/DisentanglementMetrics) - This repository contains the full code for our paper "Theory and evaluation metrics for learning disentangled representations"
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, a
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [distdl/distdl](https://github.com/distdl/distdl) - 
 - [maxjiang93/ugscnn](https://github.com/maxjiang93/ugscnn) - Spherical CNNs on Unstructured Grids Using Parameterized Differential Operators
 - [hackingmaterials/rocketsled](https://github.com/hackingmaterials/rocketsled) - plug-n-play black box optimizer for high-throughput computing
@@ -1706,7 +1706,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-524-Stars](https://github.com/iBug/This-Repo-Has-524-Stars) - Yes, it's true :orange_heart: This repository has 524 stars.
+- [iBug/This-Repo-Has-525-Stars](https://github.com/iBug/This-Repo-Has-525-Stars) - Yes, it's true :sparkling_heart: This repository has 525 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2025,7 +2025,7 @@
 - [PyTables/PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [phobson/paramnormal](https://github.com/phobson/paramnormal) - Conventionally parameterized probability distributions
 - [rlouf/mcx](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference on CPU & GPU. Powered by JAX.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python, capable of rapidly producing large volumes of synthetic data for various use cases.
 - [stevenygd/PointFlow](https://github.com/stevenygd/PointFlow) - PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows
 - [team-approx-bayes/dl-with-bayes](https://github.com/team-approx-bayes/dl-with-bayes) - Contains code for the NeurIPS 2019 paper "Practical Deep Learning with Bayesian Principles"
 - [NVIDIA/framework-reproducibility](https://github.com/NVIDIA/framework-reproducibility) - Providing reproducibility in deep learning frameworks
