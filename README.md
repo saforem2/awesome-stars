@@ -1144,6 +1144,7 @@
 
 ## Python 
 
+- [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [sjmikler/progress-table](https://github.com/sjmikler/progress-table) - Display progress as a pretty table in the command line.
 - [chalk-diagrams/chalk](https://github.com/chalk-diagrams/chalk) - A declarative drawing API in Python
@@ -1515,7 +1516,7 @@
 - [tensorflow/tfx](https://github.com/tensorflow/tfx) - TFX is an end-to-end platform for deploying production ML pipelines
 - [intake/intake-xarray](https://github.com/intake/intake-xarray) - Intake plugin for xarray
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — easy-to-use and performant open-source ML experiment tracker.
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, prompt engineering)
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [f-dangel/backpack](https://github.com/f-dangel/backpack) - BackPACK - a backpropagation package built on top of PyTorch which efficiently computes quantities other than the gradient.
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
