@@ -684,7 +684,7 @@
 - [noegroup/bgflow](https://github.com/noegroup/bgflow) - Boltzmann Generators and Normalizing Flows in PyTorch
 - [twitter-research/graph-neural-pde](https://github.com/twitter-research/graph-neural-pde) - Graph Neural PDEs
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
-- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - A project-based course on the foundations of MLOps to responsibly develop, deploy and maintain ML.
+- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and maintain an end-to-end ML application at scale.
 - [thjashin/mirror-stein-samplers](https://github.com/thjashin/mirror-stein-samplers) - Sampling with Mirrored Stein Operators
 - [learningmatter-mit/Segal](https://github.com/learningmatter-mit/Segal) - 
 - [scottire/fastpages](https://github.com/scottire/fastpages) - 
