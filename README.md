@@ -1845,7 +1845,7 @@
 - [akandykeller/SelfNormalizingFlows](https://github.com/akandykeller/SelfNormalizingFlows) - 
 - [omry/omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [NVlabs/NVAE](https://github.com/NVlabs/NVAE) - The Official PyTorch Implementation of "NVAE: A Deep Hierarchical Variational Autoencoder" (NeurIPS 2020 spotlight paper)
-- [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
+- [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [deepmind/jax_verify](https://github.com/deepmind/jax_verify) - Neural network verification in JAX
 - [google/active-learning](https://github.com/google/active-learning) - 
 - [ermongroup/markov-chain-gan](https://github.com/ermongroup/markov-chain-gan) - Code for "Generative Adversarial Training for Markov Chains" (ICLR 2017 Workshop)
@@ -2398,7 +2398,7 @@
 - [shabegom/buttons](https://github.com/shabegom/buttons) - Buttons in Obsidian
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
-- [mauriciopoppe/function-plot](https://github.com/mauriciopoppe/function-plot) - A 2d function plotter powered by d3 and interval arithmetic
+- [mauriciopoppe/function-plot](https://github.com/mauriciopoppe/function-plot) - A 2d function plotter for the web
 - [leonhma/obsidian-functionplot](https://github.com/leonhma/obsidian-functionplot) - A obsidian.md plugin for rendering maths graphs.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [excalidraw/svg-to-excalidraw](https://github.com/excalidraw/svg-to-excalidraw) - Convert SVGs into Excalidraw data
