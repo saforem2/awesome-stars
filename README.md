@@ -1540,7 +1540,7 @@
 - [jktr/matplotlib-backend-kitty](https://github.com/jktr/matplotlib-backend-kitty) - show matplotlib plots directly in your kitty terminal
 - [daleroberts/itermplot](https://github.com/daleroberts/itermplot) - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.
 - [matplotlib/cycler](https://github.com/matplotlib/cycler) - cycler: composable cycles
-- [altosaar/variational-autoencoder](https://github.com/altosaar/variational-autoencoder) - Variational autoencoder implemented in tensorflow and pytorch (including inverse autoregressive flow)
+- [jaanli/variational-autoencoder](https://github.com/jaanli/variational-autoencoder) - Variational autoencoder implemented in tensorflow and pytorch (including inverse autoregressive flow)
 - [sysuin/pycolordetector](https://github.com/sysuin/pycolordetector) - A simple Python package for detecting colors in images
 - [nv-legate/cunumeric](https://github.com/nv-legate/cunumeric) - An Aspiring Drop-In Replacement for NumPy at Scale
 - [lspvic/jupyter_tensorboard](https://github.com/lspvic/jupyter_tensorboard) - Start Tensorboard in Jupyter Notebook
