@@ -603,7 +603,6 @@
 - [ho-oto/TensorRules.jl](https://github.com/ho-oto/TensorRules.jl) - Macros to define custom adjoints for TensorOperations.jl
 - [TuringLang/MCMCChains.jl](https://github.com/TuringLang/MCMCChains.jl) - Types and utility functions for summarizing Markov chain Monte Carlo simulations
 - [JuliaCollections/DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) - Julia implementation of Data structures
-- [TuringLang/AdvancedHMC.jl](https://github.com/TuringLang/AdvancedHMC.jl) - Robust, modular and efficient implementation of advanced Hamiltonian Monte Carlo algorithms
 - [JuliaApproximation/ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) - Julia package for function approximation
 - [JuliaManifolds/Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl) - 🏔️Manopt. jl – Optimization on Manifolds in Julia
 - [carstenbauer/MonteCarlo.jl](https://github.com/carstenbauer/MonteCarlo.jl) - Classical and quantum Monte Carlo simulations in Julia
@@ -790,6 +789,7 @@
 - [google/neural-tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python
 - [fastmachinelearning/hls4ml-tutorial](https://github.com/fastmachinelearning/hls4ml-tutorial) - Tutorial notebooks for hls4ml
 - [NEM-MC/Entropy-NeuralMC](https://github.com/NEM-MC/Entropy-NeuralMC) - A Neural Network MCMC sampler that maximizes Proposal Entropy
+- [TuringLang/AdvancedHMC.jl](https://github.com/TuringLang/AdvancedHMC.jl) - Robust, modular and efficient implementation of advanced Hamiltonian Monte Carlo algorithms
 - [thiery-lab/manifold_lifting](https://github.com/thiery-lab/manifold_lifting) - Accompanying code for 'Manifold lifting: scaling MCMC to the vanishing noise regime'
 - [BethanyL/DeepKoopman](https://github.com/BethanyL/DeepKoopman) - neural networks to learn Koopman eigenfunctions
 - [PredictiveIntelligenceLab/USNCCM15-Short-Course-Recent-Advances-in-Physics-Informed-Deep-Learning](https://github.com/PredictiveIntelligenceLab/USNCCM15-Short-Course-Recent-Advances-in-Physics-Informed-Deep-Learning) - 
@@ -916,7 +916,7 @@
 - [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim) - FZY style sorter that is compiled
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
-- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
+- [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
