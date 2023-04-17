@@ -1016,6 +1016,7 @@
 - [jtleek/talkguide](https://github.com/jtleek/talkguide) - The Leek Group Guide to Giving Talks
 - [githubtraining/hello-github-actions](https://github.com/githubtraining/hello-github-actions) - Course repo for GitHub Actions: Hello World on Learning Lab
 - [vsitzmann/awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [Dmytro-Shulha/obsidian-css-snippets](https://github.com/Dmytro-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
 - [jeremysanders/awesome-dataviz](https://github.com/jeremysanders/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
@@ -1245,7 +1246,7 @@
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
 - [bjing2016/subspace-diffusion](https://github.com/bjing2016/subspace-diffusion) - Improved diffusion generative models with subspaces
-- [online-ml/orac](https://github.com/online-ml/orac) - 🦫 MLOps for (online) machine learning
+- [online-ml/beaver](https://github.com/online-ml/beaver) - 🦫 MLOps for (online) machine learning
 - [MLMI2-CSSI/foundry](https://github.com/MLMI2-CSSI/foundry) - Simplifying the discovery and usage of machine-learning ready datasets in materials science and chemistry
 - [landerlini/hopaas_client](https://github.com/landerlini/hopaas_client) - Hyperparameter Optimization as a Service (Client)
 - [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
@@ -2414,7 +2415,6 @@
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
