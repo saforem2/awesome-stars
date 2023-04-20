@@ -17,6 +17,7 @@
 - [Component Pascal](#component-pascal)
 - [Cuda](#cuda)
 - [Cython](#cython)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
@@ -142,6 +143,7 @@
 
 ## C++ 
 
+- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
 - [jmduarte/iaifi-summer-school](https://github.com/jmduarte/iaifi-summer-school) - IAIFI Summer School Lectures and Tutorials for ML in Particle Physics
@@ -232,6 +234,7 @@
 
 ## CSS 
 
+- [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [Evelf/obsidian-recipes](https://github.com/Evelf/obsidian-recipes) - Tips and tricks for obsidian.md configuration
 - [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [Lithou/Sandbox](https://github.com/Lithou/Sandbox) - Testing and Experimentation for Obsidian and CSS
@@ -277,6 +280,10 @@
 ## Cython 
 
 - [IntelPython/mkl-service](https://github.com/IntelPython/mkl-service) - Python hooks for Intel(R) Math Kernel Library runtime control settings.
+
+## Dart 
+
+- [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Infinitely take notes, sketch and learn. Xournal++ Mobile is a port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
 
 ## Dockerfile 
 
@@ -611,6 +618,7 @@
 
 ## Jupyter Notebook 
 
+- [CrossFacilityWorkflows/DOE-HPC-workflow-training](https://github.com/CrossFacilityWorkflows/DOE-HPC-workflow-training) - Repo for a DOE HPC workflow training event
 - [anoops-ai/CosmicTagger](https://github.com/anoops-ai/CosmicTagger) - Cosmic Tagging Network for Neutrino Physics
 - [greydanus/hamiltonian-nn](https://github.com/greydanus/hamiltonian-nn) - Code for our paper "Hamiltonian Neural Networks"
 - [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python.
