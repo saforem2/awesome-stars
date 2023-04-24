@@ -241,6 +241,7 @@
 - [1-2-3/remark-it](https://github.com/1-2-3/remark-it) - markdown -&gt; slideshow ——Write PPT like a programmer
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - A responsive One-Line CSS Theme for Firefox.
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [gitobsidiantutorial/obsidian-tabs](https://github.com/gitobsidiantutorial/obsidian-tabs) - Plugin for tabbed obsidian browsing
 - [chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets) - A repo full of my snippets for Obsidian.md. Use them to customize your workspace and/or add to a theme! 🪄
 - [ddnexus/equilux-theme](https://github.com/ddnexus/equilux-theme) - A Material Design-like theme for GNOME/GTK+ based desktop environments.
@@ -630,7 +631,6 @@
 - [srshtiputcha/sgmcmc_preferential_subsampling](https://github.com/srshtiputcha/sgmcmc_preferential_subsampling) - Code for Preferential Subsampling for Stochastic Gradient Langevin Dynamics
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
 - [sophiamyang/hvplot_interactive](https://github.com/sophiamyang/hvplot_interactive) - 
-- [mit-ll-responsible-ai/hydra-zen-examples](https://github.com/mit-ll-responsible-ai/hydra-zen-examples) - hydra-zen used in realistic settings
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [natolambert/job-search-viz](https://github.com/natolambert/job-search-viz) - A tool for visualization of complex job searches.
 - [deephyper/anl-22-summer-workshop](https://github.com/deephyper/anl-22-summer-workshop) - 
@@ -1023,7 +1023,6 @@
 - [jtleek/talkguide](https://github.com/jtleek/talkguide) - The Leek Group Guide to Giving Talks
 - [githubtraining/hello-github-actions](https://github.com/githubtraining/hello-github-actions) - Course repo for GitHub Actions: Hello World on Learning Lab
 - [vsitzmann/awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
-- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [Dmytro-Shulha/obsidian-css-snippets](https://github.com/Dmytro-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
 - [jeremysanders/awesome-dataviz](https://github.com/jeremysanders/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
@@ -2229,7 +2228,7 @@
 - [l-lin/font-awesome-animation](https://github.com/l-lin/font-awesome-animation) - Simple animations using FontAwesome and some CSS3.
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [iris-hep/iris-hep.github.io](https://github.com/iris-hep/iris-hep.github.io) - Institute for Research and Innovation in Software for High Energy Physics
 
