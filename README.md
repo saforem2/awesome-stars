@@ -376,6 +376,7 @@
 - [zhengying/hungrymark](https://github.com/zhengying/hungrymark) - hungrymark website
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints](https://github.com/Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints) - Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (Octob
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [trikita/slide-html](https://github.com/trikita/slide-html) - Text presentation maker for a simplified markup language
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
@@ -987,6 +988,7 @@
 
 ## OCaml 
 
+- [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [SHoltzen/dice](https://github.com/SHoltzen/dice) - Exact inference for discrete probabilistic programs. (Research code, more documentation and ergonomics to come)
 
 ## Objective-C 
@@ -1150,6 +1152,8 @@
 
 ## Python 
 
+- [dwierichs/Here-comes-the-SUN](https://github.com/dwierichs/Here-comes-the-SUN) - Numerics for the paper "Here comes the SU(N): multivariate quantum gates and gradients
+- [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
 - [openai/consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
@@ -2389,6 +2393,7 @@
 
 ## TypeScript 
 
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [jgchristopher/obsidian-clipper](https://github.com/jgchristopher/obsidian-clipper) - Obsidian plugin that allows users to clip parts of a website into their obsidian daily note (or new note)
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
 - [coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web) - Connect your web browser with your notes in Obsidian.
@@ -2449,7 +2454,6 @@
 - [bqplot/bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 - [jupyterlab/lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
 - [valentjn/vscode-ltex](https://github.com/valentjn/vscode-ltex) - LTeX: Grammar/spell checker :mag::heavy_check_mark: for VS Code using LanguageTool with support for LaTeX :mortar_board:, Markdown :pencil:, and others
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [voldikss/coc-floaterm](https://github.com/voldikss/coc-floaterm) - See https://github.com/voldikss/coc-extensions
