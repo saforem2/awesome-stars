@@ -197,7 +197,6 @@
 - [xtensor-stack/xtensor-python](https://github.com/xtensor-stack/xtensor-python) - Python bindings for xtensor
 - [hfinkel/llvm-project-cxxjit](https://github.com/hfinkel/llvm-project-cxxjit) - Clang with JIT extensions
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere.
 - [MelkoCollective/SourKRAUT](https://github.com/MelkoCollective/SourKRAUT) - Quantum Simulator using Unitary Tensor Networks
 - [JeffersonLab/chroma](https://github.com/JeffersonLab/chroma) - The Chroma Software System for Lattice QCD
@@ -696,6 +695,7 @@
 - [learningmatter-mit/Segal](https://github.com/learningmatter-mit/Segal) - 
 - [scottire/fastpages](https://github.com/scottire/fastpages) - 
 - [ro-jefferson/entropy_dnn](https://github.com/ro-jefferson/entropy_dnn) - Code for project on relative entropy in deep neural networks
+- [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [CRC183-summer-school/school_2021](https://github.com/CRC183-summer-school/school_2021) - This is the repository for the CRC 183 summer school "Machine Learning in Condensed Matter Physics".
 - [khuyentran1401/Task-scheduler-problem](https://github.com/khuyentran1401/Task-scheduler-problem) - 
 - [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with articles, videos, and code
@@ -1471,7 +1471,6 @@
 - [lehner/gpt](https://github.com/lehner/gpt) - A Python toolkit for lattice field theory, quantum computing, and machine learning
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
-- [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [deshaw/pyflyby](https://github.com/deshaw/pyflyby) - A set of productivity tools for Python
 - [yt-project/cmyt](https://github.com/yt-project/cmyt) - yt-native colormaps
@@ -2073,6 +2072,7 @@
 - [saforem2/tensor-networks](https://github.com/saforem2/tensor-networks) - O(3) tensor network
 - [poulter7/ipynb-tex](https://github.com/poulter7/ipynb-tex) - Include Jupyter notebook cells in TeX documents
 - [MrGemy95/Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template) - A best practice for tensorflow project template architecture.
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [mcleonard/sampyl](https://github.com/mcleonard/sampyl) - MCMC samplers for Bayesian estimation in Python, including Metropolis-Hastings, NUTS, and Slice
 - [saforem2/lattice_gauge_theory](https://github.com/saforem2/lattice_gauge_theory) - Monte Carlo simulation of Z(N) models in lattice gauge theory.
 - [bendichter/brokenaxes](https://github.com/bendichter/brokenaxes) - Create matplotlib plots with broken axes
