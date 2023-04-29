@@ -303,6 +303,7 @@
 
 ## Fennel 
 
+- [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
 
 ## Fortran 
@@ -1152,6 +1153,7 @@
 
 ## Python 
 
+- [parmoo/parmoo](https://github.com/parmoo/parmoo) - Python library for parallel multiobjective simulation optimization
 - [chr5tphr/zennit](https://github.com/chr5tphr/zennit) - Zennit is a high-level framework in Python using PyTorch for explaining/exploring neural networks using attribution methods like LRP.
 - [dwierichs/Here-comes-the-SUN](https://github.com/dwierichs/Here-comes-the-SUN) - Numerics for the paper "Here comes the SU(N): multivariate quantum gates and gradients
 - [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
