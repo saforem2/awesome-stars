@@ -424,6 +424,7 @@
 
 ## JavaScript 
 
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [michalbe/md-file-tree](https://github.com/michalbe/md-file-tree) - Generate markdown list of all the files in a directory. Now also with emoji 📂 📄
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [primer/presentations](https://github.com/primer/presentations) - Primer Presentations is the presentation design system for GitHub. It's intended to be used only by GitHub staff for presentations that represent GitHub.
@@ -1538,7 +1539,7 @@
 - [tensorflow/tfx](https://github.com/tensorflow/tfx) - TFX is an end-to-end platform for deploying production ML pipelines
 - [intake/intake-xarray](https://github.com/intake/intake-xarray) - Intake plugin for xarray
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, prompt engineering)
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [f-dangel/backpack](https://github.com/f-dangel/backpack) - BackPACK - a backpropagation package built on top of PyTorch which efficiently computes quantities other than the gradient.
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
@@ -2409,6 +2410,8 @@
 
 ## TypeScript 
 
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
+- [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [jgchristopher/obsidian-clipper](https://github.com/jgchristopher/obsidian-clipper) - Obsidian plugin that allows users to clip parts of a website into their obsidian daily note (or new note)
