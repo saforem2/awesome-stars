@@ -361,6 +361,7 @@
 
 ## HTML 
 
+- [CliMA/ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl) - CliMA model dycore
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
 - [outerbounds/full-stack-ML-metaflow-tutorial](https://github.com/outerbounds/full-stack-ML-metaflow-tutorial) - It's all in the name
 - [argonne-lcf/user-guides](https://github.com/argonne-lcf/user-guides) - ALCF Systems User Documentation
@@ -541,7 +542,6 @@
 
 ## Julia 
 
-- [CliMA/ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl) - CliMA model dycore
 - [tpapp/LogDensityProblems.jl](https://github.com/tpapp/LogDensityProblems.jl) - A common framework for implementing and using log densities for inference.
 - [CliMA/ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl) - ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!
 - [caleb-allen/VimBindings.jl](https://github.com/caleb-allen/VimBindings.jl) - Vim bindings for the Julia REPL
@@ -898,6 +898,7 @@
 
 ## Lua 
 
+- [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
 - [jmbuhr/quarto-nvim-kickstarter](https://github.com/jmbuhr/quarto-nvim-kickstarter) - A neovim configuration to get you up to speed
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
 - [AstroNvim/user_example](https://github.com/AstroNvim/user_example) - An example user configuration with a split up structure
@@ -2427,7 +2428,7 @@
 - [ibdafna/webdash](https://github.com/ibdafna/webdash) - WebAssembly powered Plotly Dash running in the browser
 - [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 - [siefkenj/unified-latex](https://github.com/siefkenj/unified-latex) - Utilities for parsing and manipulating LaTeX ASTs with the Unified.js framework
 - [kometenstaub/customizable-page-header-buttons](https://github.com/kometenstaub/customizable-page-header-buttons) - Add command buttons left to the standard buttons in Obsidian mobile (and desktop, if enabled).
 - [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
