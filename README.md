@@ -49,6 +49,7 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Prolog](#prolog)
 - [Pug](#pug)
 - [Python](#python)
@@ -542,6 +543,7 @@
 
 ## Julia 
 
+- [vtjnash/Glob.jl](https://github.com/vtjnash/Glob.jl) - Posix-compliant file name pattern matching
 - [tpapp/LogDensityProblems.jl](https://github.com/tpapp/LogDensityProblems.jl) - A common framework for implementing and using log densities for inference.
 - [CliMA/ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl) - ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!
 - [caleb-allen/VimBindings.jl](https://github.com/caleb-allen/VimBindings.jl) - Vim bindings for the Julia REPL
@@ -1152,6 +1154,10 @@
 - [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) - LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
 - [latex2html/latex2html](https://github.com/latex2html/latex2html) - Converts LaTeX documents to HTML
 
+## PowerShell 
+
+- [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
+
 ## Prolog 
 
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
@@ -1162,6 +1168,9 @@
 
 ## Python 
 
+- [lucidrains/rotary-embedding-torch](https://github.com/lucidrains/rotary-embedding-torch) - Implementation of Rotary Embeddings, from the Roformer paper, in Pytorch
+- [bfredl/nvim-ipy](https://github.com/bfredl/nvim-ipy) - IPython/Jupyter plugin for Neovim
+- [microsoft/ClimaX](https://github.com/microsoft/ClimaX) - Foundation model for weather & climate
 - [davidbrochart/jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the terminal
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [FrancescoSaverioZuppichini/pytorch-2.0-benchmark](https://github.com/FrancescoSaverioZuppichini/pytorch-2.0-benchmark) - Benchmarking PyTorch 2.0 different models
@@ -2415,6 +2424,7 @@
 
 ## TypeScript 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
