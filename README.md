@@ -233,6 +233,7 @@
 
 ## CSS 
 
+- [Comfy-Themes/Spicetify](https://github.com/Comfy-Themes/Spicetify) - Stay comfy while listening to music
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [Evelf/obsidian-recipes](https://github.com/Evelf/obsidian-recipes) - Tips and tricks for obsidian.md configuration
 - [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
@@ -543,6 +544,8 @@
 
 ## Julia 
 
+- [stevengj/LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) - convenient input and display of LaTeX equation strings for the Julia language
+- [fbuessen/SpinMC.jl](https://github.com/fbuessen/SpinMC.jl) - Classical Monte Carlo simulations for lattice spin systems
 - [vtjnash/Glob.jl](https://github.com/vtjnash/Glob.jl) - Posix-compliant file name pattern matching
 - [tpapp/LogDensityProblems.jl](https://github.com/tpapp/LogDensityProblems.jl) - A common framework for implementing and using log densities for inference.
 - [CliMA/ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl) - ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!
@@ -623,6 +626,7 @@
 
 ## Jupyter Notebook 
 
+- [htjb/margarine](https://github.com/htjb/margarine) - Code to replicate posterior probability distributions with bijectors/KDEs and perform marginal KL/bayesian dimensionality calculations.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [FrancescoSaverioZuppichini/glasses](https://github.com/FrancescoSaverioZuppichini/glasses) - High-quality Neural Networks for Computer Vision 😎
 - [wangleiphy/ml4p](https://github.com/wangleiphy/ml4p) - Machine learning for physicists
@@ -1168,6 +1172,13 @@
 
 ## Python 
 
+- [pytorch/torchx](https://github.com/pytorch/torchx) - TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
+- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
+- [PythonOT/POT](https://github.com/PythonOT/POT) - POT : Python Optimal Transport
+- [pretalx/pretalx](https://github.com/pretalx/pretalx) - Conference planning tool: CfP, scheduling, speaker management
+- [pydata/pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
+- [jax-ml/jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton contains integrations between JAX and OpenAI Triton
+- [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [lucidrains/rotary-embedding-torch](https://github.com/lucidrains/rotary-embedding-torch) - Implementation of Rotary Embeddings, from the Roformer paper, in Pytorch
 - [bfredl/nvim-ipy](https://github.com/bfredl/nvim-ipy) - IPython/Jupyter plugin for Neovim
 - [microsoft/ClimaX](https://github.com/microsoft/ClimaX) - Foundation model for weather & climate
@@ -1450,7 +1461,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python browser automation framework for creating reliable end-to-end tests.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python browser automation framework for creating reliable end-to-end tests.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -2224,6 +2235,8 @@
 
 ## Rust 
 
+- [noahgift/rust-mlops-template](https://github.com/noahgift/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
