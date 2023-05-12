@@ -364,7 +364,6 @@
 
 ## HTML 
 
-- [CliMA/ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl) - CliMA model dycore
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
 - [outerbounds/full-stack-ML-metaflow-tutorial](https://github.com/outerbounds/full-stack-ML-metaflow-tutorial) - It's all in the name
 - [argonne-lcf/user-guides](https://github.com/argonne-lcf/user-guides) - ALCF Systems User Documentation
@@ -548,6 +547,7 @@
 - [stevengj/LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) - convenient input and display of LaTeX equation strings for the Julia language
 - [fbuessen/SpinMC.jl](https://github.com/fbuessen/SpinMC.jl) - Classical Monte Carlo simulations for lattice spin systems
 - [vtjnash/Glob.jl](https://github.com/vtjnash/Glob.jl) - Posix-compliant file name pattern matching
+- [CliMA/ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl) - CliMA model dycore
 - [tpapp/LogDensityProblems.jl](https://github.com/tpapp/LogDensityProblems.jl) - A common framework for implementing and using log densities for inference.
 - [CliMA/ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl) - ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!
 - [caleb-allen/VimBindings.jl](https://github.com/caleb-allen/VimBindings.jl) - Vim bindings for the Julia REPL
@@ -754,6 +754,7 @@
 - [wri-dssg-omdena/policy-data-analyzer](https://github.com/wri-dssg-omdena/policy-data-analyzer) - Building a model to recognize incentives for landscape restoration in environmental policies from Latin America, the US and India. Bringing NLP to the world of policy analysis through an extensible fr
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [tacaswell/2021-03_APS](https://github.com/tacaswell/2021-03_APS) - 
+- [aimat-lab/gcnn_keras](https://github.com/aimat-lab/gcnn_keras) - Graph convolution with tf.keras
 - [geomstats/challenge-iclr-2021](https://github.com/geomstats/challenge-iclr-2021) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
 - [wandb/examples](https://github.com/wandb/examples) - Example deep learning projects that use wandb's features.
 - [bentrevett/pytorch-rl](https://github.com/bentrevett/pytorch-rl) - Tutorials for reinforcement learning in PyTorch and Gym by implementing a few of the popular algorithms. [IN PROGRESS]
@@ -974,6 +975,7 @@
 
 ## Makefile 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [LatticeQCD/AnalysisToolbox](https://github.com/LatticeQCD/AnalysisToolbox) - A set of Python tools for analyzing physics data, in particular targeting lattice QCD.
 - [jceb/mdshow](https://github.com/jceb/mdshow) - Turn markdown files into beautiful presentations quickly
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
@@ -1174,6 +1176,11 @@
 
 ## Python 
 
+- [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - Next-generation IPython kernel with reactivity, execution suggestions, syntax extensions, and more.
+- [mosquito/aiofile](https://github.com/mosquito/aiofile) - Real asynchronous file operations with asyncio support.
+- [jupyterlite/repo2jupyterlite](https://github.com/jupyterlite/repo2jupyterlite) - Build jupyterlite apps out of repositories
+- [mpmath/mpmath](https://github.com/mpmath/mpmath) - Python library for arbitrary-precision floating-point arithmetic
+- [Miyazaki-Yu/ecnn4klm](https://github.com/Miyazaki-Yu/ecnn4klm) - 
 - [pytorch/torchx](https://github.com/pytorch/torchx) - TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [PythonOT/POT](https://github.com/PythonOT/POT) - POT : Python Optimal Transport
@@ -1715,7 +1722,6 @@
 - [tonywu95/eval_gen](https://github.com/tonywu95/eval_gen) - Evaluation code with models for the paper "On the Quantitative Analysis of Decoder-Based Generative Models"
 - [mariaref/rfvs2lnn_GMM_online](https://github.com/mariaref/rfvs2lnn_GMM_online) - Implementation of numerical simulation and analytical computations for the training, via online SGD, of two layer neural networks and random features on a mixture of Gaussian.
 - [makepath/xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analytics for Python
-- [aimat-lab/gcnn_keras](https://github.com/aimat-lab/gcnn_keras) - Graph convolution with tf.keras
 - [juliagusak/neural-ode-norm](https://github.com/juliagusak/neural-ode-norm) - Models and code for the ICLR 2020 workshop paper "Towards Understanding Normalization in Neural ODEs"
 - [priyankjaini/discFlowMH](https://github.com/priyankjaini/discFlowMH) - Pytorch code for Sampling in Combinatorial Spaces with SurVAE Flow Augmented MCMC
 - [yukimasano/linear-probes](https://github.com/yukimasano/linear-probes) - Evaluating AlexNet features at various depths
@@ -2201,6 +2207,7 @@
 
 ## R 
 
+- [walmes/Tikz](https://github.com/walmes/Tikz) - Galley of Tikz drawings.
 - [joonhap/THT_source](https://github.com/joonhap/THT_source) - source files for tempered Hamiltonian transitions
 - [bonStats/smcdar](https://github.com/bonStats/smcdar) - Data and code to accompany paper "Accelerating sequential Monte Carlo with surrogate likelihoods"
 - [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objectiv
@@ -2439,6 +2446,7 @@
 
 ## TypeScript 
 
+- [fabiospampinato/shosho](https://github.com/fabiospampinato/shosho) - A modern and powerful shortcuts management library.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
