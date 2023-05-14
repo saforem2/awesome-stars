@@ -144,6 +144,7 @@
 
 ## C++ 
 
+- [jinluchang/Qlattice](https://github.com/jinluchang/Qlattice) - A lattice QCD library.
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
@@ -214,7 +215,6 @@
 - [rgmelko/Ising_Hypercube](https://github.com/rgmelko/Ising_Hypercube) - A Monte Carlo implementation of the Ising Hamiltonian on a hypercube of arbitrary dimension
 - [benoitsteiner/tensorflow-opencl](https://github.com/benoitsteiner/tensorflow-opencl) - OpenCL support for TensorFlow
 - [hughperkins/tf-coriander](https://github.com/hughperkins/tf-coriander) - OpenCL 1.2 implementation for Tensorflow
-- [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [wistaria/worms](https://github.com/wistaria/worms) - 
 - [kwrobert/ResearchCode](https://github.com/kwrobert/ResearchCode) - A collection of files and scripts I have collected, created, or contributed to during my undergraduate research as a member of the Del Maestro Condensed Matter Research Group.
 - [ALPSCore/ALPSCore](https://github.com/ALPSCore/ALPSCore) - Core ALPS libraries
