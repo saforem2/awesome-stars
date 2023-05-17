@@ -547,7 +547,7 @@
 
 ## Julia 
 
-- [stevengj/LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) - convenient input and display of LaTeX equation strings for the Julia language
+- [JuliaStrings/LaTeXStrings.jl](https://github.com/JuliaStrings/LaTeXStrings.jl) - convenient input and display of LaTeX equation strings for the Julia language
 - [fbuessen/SpinMC.jl](https://github.com/fbuessen/SpinMC.jl) - Classical Monte Carlo simulations for lattice spin systems
 - [vtjnash/Glob.jl](https://github.com/vtjnash/Glob.jl) - Posix-compliant file name pattern matching
 - [CliMA/ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl) - CliMA model dycore
@@ -630,7 +630,6 @@
 
 ## Jupyter Notebook 
 
-- [htjb/margarine](https://github.com/htjb/margarine) - Code to replicate posterior probability distributions with bijectors/KDEs and perform marginal KL/bayesian dimensionality calculations.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [FrancescoSaverioZuppichini/glasses](https://github.com/FrancescoSaverioZuppichini/glasses) - High-quality Neural Networks for Computer Vision 😎
 - [wangleiphy/ml4p](https://github.com/wangleiphy/ml4p) - Machine learning for physicists
@@ -1181,6 +1180,7 @@
 
 ## Python 
 
+- [HPPSS/SC23](https://github.com/HPPSS/SC23) - SC23 Workshop Website
 - [argonne-lcf/mlprof](https://github.com/argonne-lcf/mlprof) - Profiling tools for performance studies of competing ML frameworks on HPC systems
 - [openai/sparse_attention](https://github.com/openai/sparse_attention) - Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
 - [ofirpress/attention_with_linear_biases](https://github.com/ofirpress/attention_with_linear_biases) - Code for the ALiBi method for transformer language models (ICLR 2022)
@@ -1189,6 +1189,7 @@
 - [jupyterlite/repo2jupyterlite](https://github.com/jupyterlite/repo2jupyterlite) - Build jupyterlite apps out of repositories
 - [mpmath/mpmath](https://github.com/mpmath/mpmath) - Python library for arbitrary-precision floating-point arithmetic
 - [Miyazaki-Yu/ecnn4klm](https://github.com/Miyazaki-Yu/ecnn4klm) - 
+- [htjb/margarine](https://github.com/htjb/margarine) - Code to replicate posterior probability distributions with bijectors/KDEs and perform marginal KL/bayesian dimensionality calculations.
 - [pytorch/torchx](https://github.com/pytorch/torchx) - TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [PythonOT/POT](https://github.com/PythonOT/POT) - POT : Python Optimal Transport
@@ -2259,7 +2260,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Modern columnar data format for ML implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars
+- [eto-ai/lance](https://github.com/eto-ai/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
