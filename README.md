@@ -376,6 +376,7 @@
 - [haptork/csaransh](https://github.com/haptork/csaransh) - Study, Explore and Visualize Collision Cascades
 - [rajgoel/reveal.js-demos](https://github.com/rajgoel/reveal.js-demos) - Demo presentations for reveal.js
 - [mavroudisv/plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
+- [LibraryCarpentry/lc-overview](https://github.com/LibraryCarpentry/lc-overview) - Library Carpentry Workshop Overview
 - [zhengying/hungrymark](https://github.com/zhengying/hungrymark) - hungrymark website
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints](https://github.com/Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints) - Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (Octob
@@ -1180,6 +1181,8 @@
 
 ## Python 
 
+- [microsoft/NPKit](https://github.com/microsoft/NPKit) - NCCL Profiling Kit
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
 - [HPPSS/SC23](https://github.com/HPPSS/SC23) - SC23 Workshop Website
 - [argonne-lcf/mlprof](https://github.com/argonne-lcf/mlprof) - Profiling tools for performance studies of competing ML frameworks on HPC systems
 - [openai/sparse_attention](https://github.com/openai/sparse_attention) - Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
@@ -1461,7 +1464,6 @@
 - [muammar/ml4chem](https://github.com/muammar/ml4chem) - ML4Chem:  Machine Learning for Chemistry and Materials
 - [astropy/astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library
 - [data-apis/array-api-tests](https://github.com/data-apis/array-api-tests) - Test suite for the PyData Array APIs standard
-- [LibraryCarpentry/lc-overview](https://github.com/LibraryCarpentry/lc-overview) - Library Carpentry Workshop Overview
 - [1313e/CMasher](https://github.com/1313e/CMasher) - Scientific colormaps for making accessible, informative and 'cmashing' plots
 - [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
 - [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
