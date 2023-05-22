@@ -1188,7 +1188,7 @@
 - [argonne-lcf/mlprof](https://github.com/argonne-lcf/mlprof) - Profiling tools for performance studies of competing ML frameworks on HPC systems
 - [openai/sparse_attention](https://github.com/openai/sparse_attention) - Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
 - [ofirpress/attention_with_linear_biases](https://github.com/ofirpress/attention_with_linear_biases) - Code for the ALiBi method for transformer language models (ICLR 2022)
-- [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - Next-generation IPython kernel with reactivity, execution suggestions, syntax extensions, and more.
+- [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - A reactive Python kernel for Jupyter notebooks
 - [mosquito/aiofile](https://github.com/mosquito/aiofile) - Real asynchronous file operations with asyncio support.
 - [jupyterlite/repo2jupyterlite](https://github.com/jupyterlite/repo2jupyterlite) - Build jupyterlite apps out of repositories
 - [mpmath/mpmath](https://github.com/mpmath/mpmath) - Python library for arbitrary-precision floating-point arithmetic
@@ -1313,7 +1313,7 @@
 - [asperti/We_love_latent_space](https://github.com/asperti/We_love_latent_space) - Repository relative to the article "Comparing the latent space of generative models", joint work with Valerio Tonelli
 - [jimporter/mike](https://github.com/jimporter/mike) - Manage multiple versions of your MkDocs-powered documentation via Git
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
-- [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
+- [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays.
 - [bjing2016/subspace-diffusion](https://github.com/bjing2016/subspace-diffusion) - Improved diffusion generative models with subspaces
 - [online-ml/beaver](https://github.com/online-ml/beaver) - 🦫 MLOps for (online) machine learning
 - [MLMI2-CSSI/foundry](https://github.com/MLMI2-CSSI/foundry) - Simplifying the discovery and usage of machine-learning ready datasets in materials science and chemistry
@@ -1721,7 +1721,7 @@
 - [samuelmurail/gromacs_py](https://github.com/samuelmurail/gromacs_py) - Gromacs_py is a python library allowing a simplified use of the gromacs MD simulation software. Gromacs_py can build topologie based on a pdb file, create the simulation system (box, add water and ion
 - [wellecks/naturalproofs](https://github.com/wellecks/naturalproofs) - NaturalProofs: Mathematical Theorem Proving in Natural Language (NeurIPS 2021 Datasets & Benchmarks)
 - [google-research/pegasus](https://github.com/google-research/pegasus) - 
-- [lzzcd001/ade-code](https://github.com/lzzcd001/ade-code) - 
+- [lzzcd001/ade-code](https://github.com/lzzcd001/ade-code) - Code for "Exponential Family Estimation via Adversarial Dynamics Embedding" (NeurIPS 2019)
 - [Alibaba-MIIL/STAM](https://github.com/Alibaba-MIIL/STAM) - Official implementation of "An Image is Worth 16x16 Words, What is a Video Worth?"  (2021 paper)
 - [AllanYangZhou/metalearning-symmetries](https://github.com/AllanYangZhou/metalearning-symmetries) - Experiments for Meta-Learning Symmetries by Reparameterization
 - [olgabot/prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
