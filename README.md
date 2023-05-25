@@ -1011,6 +1011,7 @@
 
 ## OCaml 
 
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [SHoltzen/dice](https://github.com/SHoltzen/dice) - Exact inference for discrete probabilistic programs. (Research code, more documentation and ergonomics to come)
 
@@ -1033,6 +1034,7 @@
 
 ## Others 
 
+- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
 - [saforem2/quarto-examples](https://github.com/saforem2/quarto-examples) - Simple `quarto` examples
 - [smsharma/awesome-neural-sbi](https://github.com/smsharma/awesome-neural-sbi) - Community-sourced list of papers and resources on neural simulation-based inference.
 - [openxla/community](https://github.com/openxla/community) - Stores documents and resources used by the OpenXLA developer community
@@ -1181,6 +1183,9 @@
 
 ## Python 
 
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+- [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [yixuan/temperflow](https://github.com/yixuan/temperflow) - Efficient Multimodal Sampling via Tempered Distribution Flow
 - [microsoft/NPKit](https://github.com/microsoft/NPKit) - NCCL Profiling Kit
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
@@ -1188,7 +1193,7 @@
 - [argonne-lcf/mlprof](https://github.com/argonne-lcf/mlprof) - Profiling tools for performance studies of competing ML frameworks on HPC systems
 - [openai/sparse_attention](https://github.com/openai/sparse_attention) - Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
 - [ofirpress/attention_with_linear_biases](https://github.com/ofirpress/attention_with_linear_biases) - Code for the ALiBi method for transformer language models (ICLR 2022)
-- [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - Reactive Python kernel for Jupyter notebooks.
+- [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - A reactive Python kernel for Jupyter notebooks.
 - [mosquito/aiofile](https://github.com/mosquito/aiofile) - Real asynchronous file operations with asyncio support.
 - [jupyterlite/repo2jupyterlite](https://github.com/jupyterlite/repo2jupyterlite) - Build jupyterlite apps out of repositories
 - [mpmath/mpmath](https://github.com/mpmath/mpmath) - Python library for arbitrary-precision floating-point arithmetic
@@ -2263,7 +2268,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
+- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -2460,6 +2465,8 @@
 
 ## TypeScript 
 
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
 - [liamcain/obsidian-daily-notes-interface](https://github.com/liamcain/obsidian-daily-notes-interface) - Package to create, open, and find daily notes from your Obsidian plugin
 - [harbassan/spicetify-stats](https://github.com/harbassan/spicetify-stats) - A spicetify custom app that shows you your top artists, tracks, genres and an an analysis of your music library.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
