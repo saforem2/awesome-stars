@@ -430,7 +430,7 @@
 
 ## JavaScript 
 
-- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World's smallest reactive UI framework
+- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World's smallest reactive UI framework - Everyone can build a useful UI app in an hour
 - [ActiveCampaign/mailbrush](https://github.com/ActiveCampaign/mailbrush) - Node.js library for generating email friendly snippets with syntax highlighting
 - [EmilHvitfeldt/quarto-iframe-examples](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - 
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
@@ -551,6 +551,7 @@
 
 ## Julia 
 
+- [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for various mathematical libraries (including flint2)
 - [CliMA/ClimaLSM.jl](https://github.com/CliMA/ClimaLSM.jl) - an in-progress prototype interface for the land model
 - [JuliaStrings/LaTeXStrings.jl](https://github.com/JuliaStrings/LaTeXStrings.jl) - convenient input and display of LaTeX equation strings for the Julia language
 - [fbuessen/SpinMC.jl](https://github.com/fbuessen/SpinMC.jl) - Classical Monte Carlo simulations for lattice spin systems
@@ -1191,6 +1192,9 @@
 
 ## Python 
 
+- [AnonymouX47/termvisage](https://github.com/AnonymouX47/termvisage) - Browse and view images in the terminal (mostly a front-end to https://github.com/AnonymouX47/term-image)
+- [rougier/gsp-matplotlib](https://github.com/rougier/gsp-matplotlib) - Graphic Server Protocol (GSP) : Matplotlib implementation
+- [platisd/duplicate-code-detection-tool](https://github.com/platisd/duplicate-code-detection-tool) - A simple Python3 tool to detect similarities between files within a repository
 - [bluesky/tiled](https://github.com/bluesky/tiled) - This is an experimental prototype.
 - [radical-cybertools/radical.pilot](https://github.com/radical-cybertools/radical.pilot) - RADICAL-Pilot
 - [groq/mlagility](https://github.com/groq/mlagility) - Machine Learning Agility (MLAgility) benchmark and benchmarking tools
@@ -1793,7 +1797,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-528-Stars](https://github.com/iBug/This-Repo-Has-528-Stars) - Yes, it's true :heartpulse: This repository has 528 stars.
+- [iBug/This-Repo-Has-529-Stars](https://github.com/iBug/This-Repo-Has-529-Stars) - Yes, it's true :heart: This repository has 529 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
