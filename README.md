@@ -82,6 +82,7 @@
 
 ## C 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [pmodels/mpich](https://github.com/pmodels/mpich) - Official MPICH Repository
 - [argonne-lcf/GettingStarted](https://github.com/argonne-lcf/GettingStarted) - Collection of small examples for running on ALCF resources
 - [aws/aws-ofi-nccl](https://github.com/aws/aws-ofi-nccl) - This is a plugin which lets EC2 developers use libfabric as network provider while running NCCL applications.
@@ -429,6 +430,7 @@
 
 ## JavaScript 
 
+- [github-20k/awesome-opensource](https://github.com/github-20k/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World's smallest reactive UI framework - Everyone can build a useful UI app in an hour
 - [ActiveCampaign/mailbrush](https://github.com/ActiveCampaign/mailbrush) - Node.js library for generating email friendly snippets with syntax highlighting
 - [EmilHvitfeldt/quarto-iframe-examples](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - 
@@ -1006,6 +1008,7 @@
 
 ## Nim 
 
+- [jesvedberg/tpix](https://github.com/jesvedberg/tpix) - Simple terminal image viewer using the Kitty graphics protocol
 - [SciNim/flambeau](https://github.com/SciNim/flambeau) - Nim bindings to libtorch
 - [sinkingsugar/nimtorch](https://github.com/sinkingsugar/nimtorch) - PyTorch - Python + Nim
 - [paranim/paramidi](https://github.com/paranim/paramidi) - A Nim data -&gt; music library
@@ -1192,6 +1195,11 @@
 
 ## Python 
 
+- [lucidrains/jax2torch](https://github.com/lucidrains/jax2torch) - Use Jax functions in Pytorch
+- [kovidgoyal/iv](https://github.com/kovidgoyal/iv) - A simple image browser
+- [mirukana/pixcat](https://github.com/mirukana/pixcat) - CLI and Python 3.6+ API to display images on a kitty terminal with optional resizing.
+- [yurikhan/kitty_grab](https://github.com/yurikhan/kitty_grab) - Keyboard-driven screen grabber for Kitty
+- [khuyentran1401/rich-dataframe](https://github.com/khuyentran1401/rich-dataframe) - Create animated and pretty Pandas Dataframe
 - [pycontribs/enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
 - [AnonymouX47/termvisage](https://github.com/AnonymouX47/termvisage) - Browse and view images in the terminal (mostly a front-end to https://github.com/AnonymouX47/term-image)
 - [rougier/gsp-matplotlib](https://github.com/rougier/gsp-matplotlib) - Graphic Server Protocol (GSP) : Matplotlib implementation
@@ -1799,7 +1807,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-529-Stars](https://github.com/iBug/This-Repo-Has-529-Stars) - Yes, it's true :heart: This repository has 529 stars.
+- [iBug/This-Repo-Has-529-Stars](https://github.com/iBug/This-Repo-Has-529-Stars) - Yes, it's true :revolving_hearts: This repository has 529 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2411,6 +2419,7 @@
 
 ## Swift 
 
+- [seeM/Jim](https://github.com/seeM/Jim) - Jim is a simple, beautiful Jupyter notebook editor for macOS
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [tuxu/nbviewer-app](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS
