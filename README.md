@@ -1407,7 +1407,7 @@
 - [bcbernardo/aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) - An ActivityWatch watcher to pose questions to the user and record her answers.
 - [CharlesPikachu/pydrawing](https://github.com/CharlesPikachu/pydrawing) - Pydrawing: Beautify your image or video.
 - [adautobraz/ergo](https://github.com/adautobraz/ergo) - 
-- [gisalgs/geom](https://github.com/gisalgs/geom) - Algorithms for geometric operations
+- [gisalgs/geom](https://github.com/gisalgs/geom) - :zap: Algorithms for geometric operations
 - [deepmind/annealed_flow_transport](https://github.com/deepmind/annealed_flow_transport) - 
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
