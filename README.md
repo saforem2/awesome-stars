@@ -140,6 +140,7 @@
 
 ## C++ 
 
+- [jax-ml/ml_dtypes](https://github.com/jax-ml/ml_dtypes) - A stand-alone implementation of several NumPy dtype extensions used in machine learning.
 - [jinluchang/Qlattice](https://github.com/jinluchang/Qlattice) - A lattice QCD library.
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
@@ -228,6 +229,7 @@
 
 ## CSS 
 
+- [shafayetShafee/code-fullscreen](https://github.com/shafayetShafee/code-fullscreen) - Quarto Extension filter that adds a full screen button in the code blocks in RevealJs slides and html documents.
 - [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
 - [schochastics/quarto-blackboard-theme](https://github.com/schochastics/quarto-blackboard-theme) - A quarto reveal js theme
 - [Comfy-Themes/Spicetify](https://github.com/Comfy-Themes/Spicetify) - Stay comfy while listening to music
@@ -431,6 +433,7 @@
 
 ## JavaScript 
 
+- [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [github-20k/awesome-opensource](https://github.com/github-20k/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World's smallest reactive UI framework - Everyone can build a useful UI app in an hour
 - [ActiveCampaign/mailbrush](https://github.com/ActiveCampaign/mailbrush) - Node.js library for generating email friendly snippets with syntax highlighting
@@ -639,6 +642,7 @@
 
 ## Jupyter Notebook 
 
+- [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption
 - [gradient-ai/stable-diffusion](https://github.com/gradient-ai/stable-diffusion) - 
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [FrancescoSaverioZuppichini/glasses](https://github.com/FrancescoSaverioZuppichini/glasses) - High-quality Neural Networks for Computer Vision 😎
@@ -1061,7 +1065,6 @@
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers
-- [vdutor/neural-diffusion-processes](https://github.com/vdutor/neural-diffusion-processes) - Neural Diffusion Processes
 - [mayankchaudhary26/Cool-Readme-ideas](https://github.com/mayankchaudhary26/Cool-Readme-ideas) - :tada::tada::tada: Some cool ideas for your readme profile, enjoy :)
 - [emitanaka/ninja-theme](https://github.com/emitanaka/ninja-theme) - A xaringan / remark js ninja theme
 - [jtleek/talkguide](https://github.com/jtleek/talkguide) - The Leek Group Guide to Giving Talks
@@ -1198,6 +1201,13 @@
 
 ## Python 
 
+- [yuyang-shi/dsbm-pytorch](https://github.com/yuyang-shi/dsbm-pytorch) - PyTorch Implementation of Diffusion Schrodinger Bridge Matching
+- [microsoft/DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
+- [zedr/clean-code-python](https://github.com/zedr/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
+- [lie-nn/lie-nn](https://github.com/lie-nn/lie-nn) - Tools for building equivariant neural networks with reductive Lie groups symmetry
+- [muellerzr/nbquarto](https://github.com/muellerzr/nbquarto) - Small python library solely for quick Quarto extensions
 - [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [zhangsmallshark/Megatron-DS](https://github.com/zhangsmallshark/Megatron-DS) - 
 - [lucidrains/jax2torch](https://github.com/lucidrains/jax2torch) - Use Jax functions in Pytorch
@@ -1359,6 +1369,7 @@
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [gradhep/relaxed](https://github.com/gradhep/relaxed) - Provides differentiable versions of common HEP operations and objectives.
 - [glotzerlab/signac](https://github.com/glotzerlab/signac) - Manage large and heterogeneous data spaces on the file system.
+- [vdutor/neural-diffusion-processes](https://github.com/vdutor/neural-diffusion-processes) - Neural Diffusion Processes
 - [iterative/example-get-started](https://github.com/iterative/example-get-started) - Get started DVC project
 - [statbiophys/MINIMALIST](https://github.com/statbiophys/MINIMALIST) - Companion Github of the MINIMALIST preprint.
 - [gcorso/torsional-diffusion](https://github.com/gcorso/torsional-diffusion) - Implementation of Torsional Diffusion for Molecular Conformer Generation (NeurIPS 2022)
@@ -1812,7 +1823,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-530-Stars](https://github.com/iBug/This-Repo-Has-530-Stars) - Yes, it's true :purple_heart: This repository has 530 stars.
+- [iBug/This-Repo-Has-531-Stars](https://github.com/iBug/This-Repo-Has-531-Stars) - Yes, it's true :yellow_heart: This repository has 531 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -1924,7 +1935,7 @@
 - [e3nn/e3nn](https://github.com/e3nn/e3nn) - A modular framework for neural networks with Euclidean symmetry
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [gecrooks/gecrooks-python-template](https://github.com/gecrooks/gecrooks-python-template) - Minimal Viable Product for an open source, github hosted, python package
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating maintainable and modular data science code.
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [moritzgloeckl/overleaf-sync](https://github.com/moritzgloeckl/overleaf-sync) - Overleaf Two-Way Synchronization
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
@@ -2273,6 +2284,7 @@
 
 ## Ruby 
 
+- [apple/homebrew-apple](https://github.com/apple/homebrew-apple) - 
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [srobbin/sweeparoundus](https://github.com/srobbin/sweeparoundus) - A Chicago street sweeping alert system and searchable calendar
 - [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast and smart citation reference parsing
@@ -2329,6 +2341,7 @@
 
 ## SCSS 
 
+- [saforem2/quarto-reveal](https://github.com/saforem2/quarto-reveal) - Markdown slides using Quarto + reveal.js
 - [hrbrmstr/quarto-organization-template](https://github.com/hrbrmstr/quarto-organization-template) - A Quarto RevealJS Organization Boilerplate Template You Can Clone And Modify Quickly
 - [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF
 - [planetoftheweb/rayveal](https://github.com/planetoftheweb/rayveal) - A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
@@ -2590,7 +2603,7 @@
 - [egoist/flowkit](https://github.com/egoist/flowkit) - A simple online flow chart editor.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
-- [thecodingmachine/workadventure](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [sadn1ck/draw-and-code](https://github.com/sadn1ck/draw-and-code) - Draw your explanation and write your code without pointlessly switching tabs!
