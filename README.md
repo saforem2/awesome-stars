@@ -1201,6 +1201,8 @@
 
 ## Python 
 
+- [vra/flopth](https://github.com/vra/flopth) - A simple program to calculate and visualize the FLOPs and Parameters of Pytorch models, with handy CLI and easy-to-use Python API.
+- [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [yuyang-shi/dsbm-pytorch](https://github.com/yuyang-shi/dsbm-pytorch) - PyTorch Implementation of Diffusion Schrodinger Bridge Matching
 - [microsoft/DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
@@ -2633,6 +2635,7 @@
 
 ## Vim Script 
 
+- [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
