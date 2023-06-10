@@ -140,6 +140,8 @@
 
 ## C++ 
 
+- [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension that brings Intel GPU (XPU) support to DeepSpeed.
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [jax-ml/ml_dtypes](https://github.com/jax-ml/ml_dtypes) - A stand-alone implementation of several NumPy dtype extensions used in machine learning.
 - [jinluchang/Qlattice](https://github.com/jinluchang/Qlattice) - A lattice QCD library.
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
@@ -642,6 +644,7 @@
 
 ## Jupyter Notebook 
 
+- [jiwidi/time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) - A use-case focused tutorial for time series forecasting with python
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption
 - [gradient-ai/stable-diffusion](https://github.com/gradient-ai/stable-diffusion) - 
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
@@ -1201,6 +1204,12 @@
 
 ## Python 
 
+- [stas00/toolbox](https://github.com/stas00/toolbox) - Essential guides and programming tools in my toolbox (with focus on ML Training)
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar gives open source maintainers a better and funded backlog based on what drives the most impact within their community.
+- [microsoft/admin-torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers
+- [meltano/meltano](https://github.com/meltano/meltano) - Extract & Load with joy — CLI & version control for ELT without limitations. No more black box. Let your creativity flow.
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - The Python DataFrame for Complex Data
+- [gmongaras/Diffusion_models_from_scratch](https://github.com/gmongaras/Diffusion_models_from_scratch) - Creating a diffusion model from scratch in PyTorch to learn exactly how they work.
 - [vra/flopth](https://github.com/vra/flopth) - A simple program to calculate and visualize the FLOPs and Parameters of Pytorch models, with handy CLI and easy-to-use Python API.
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [yuyang-shi/dsbm-pytorch](https://github.com/yuyang-shi/dsbm-pytorch) - PyTorch Implementation of Diffusion Schrodinger Bridge Matching
@@ -1211,7 +1220,6 @@
 - [lie-nn/lie-nn](https://github.com/lie-nn/lie-nn) - Tools for building equivariant neural networks with reductive Lie groups symmetry
 - [muellerzr/nbquarto](https://github.com/muellerzr/nbquarto) - Small python library solely for quick Quarto extensions
 - [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
-- [zhangsmallshark/Megatron-DS](https://github.com/zhangsmallshark/Megatron-DS) - 
 - [lucidrains/jax2torch](https://github.com/lucidrains/jax2torch) - Use Jax functions in Pytorch
 - [kovidgoyal/iv](https://github.com/kovidgoyal/iv) - A simple image browser
 - [mirukana/pixcat](https://github.com/mirukana/pixcat) - CLI and Python 3.6+ API to display images on a kitty terminal with optional resizing.
@@ -1573,7 +1581,7 @@
 - [nschloe/fontman](https://github.com/nschloe/fontman) - Manage and update your installed fonts.
 - [nschloe/dufte](https://github.com/nschloe/dufte) - :chart_with_upwards_trend: Minimalistic Matplotlib style
 - [datapane/datapane](https://github.com/datapane/datapane) - Build full-stack data apps in 100% Python
-- [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
+- [holoviz/panel](https://github.com/holoviz/panel) - Panel: The powerful data exploration & web app framework for Python
 - [intake/xrviz](https://github.com/intake/xrviz) - Interactive visualisation interface for Xarrays
 - [gbup-group/EAN-efficient-attention-network](https://github.com/gbup-group/EAN-efficient-attention-network) - The implementation of paper ''Efficient Attention Network: Accelerate Attention by Searching Where to Plug''.
 - [lehner/gpt](https://github.com/lehner/gpt) - A Python toolkit for lattice field theory, quantum computing, and machine learning
@@ -1825,7 +1833,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-531-Stars](https://github.com/iBug/This-Repo-Has-531-Stars) - Yes, it's true :yellow_heart: This repository has 531 stars.
+- [iBug/This-Repo-Has-533-Stars](https://github.com/iBug/This-Repo-Has-533-Stars) - Yes, it's true :revolving_hearts: This repository has 533 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2234,7 +2242,6 @@
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [Gilt-TNR/Gilt-TNR](https://github.com/Gilt-TNR/Gilt-TNR) - An implementation of the Gilt-TNR tensor network renormalization algorithm for square and cubical lattices.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
-- [ploggingdev/ploghub](https://github.com/ploggingdev/ploghub) - 
 - [mathics/IMathics](https://github.com/mathics/IMathics) - Jupyter Kernel for Mathics
 - [scikit-hep/iminuit](https://github.com/scikit-hep/iminuit) - Jupyter-friendly Python interface for C++ MINUIT2
 - [rkern/line_profiler](https://github.com/rkern/line_profiler) - (OLD REPO) Line-by-line profiling for Python - Current repo -&gt;
