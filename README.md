@@ -925,6 +925,7 @@
 
 ## Lua 
 
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [alpha2phi/modern-neovim](https://github.com/alpha2phi/modern-neovim) - Crafting a modernized development environment with Neovim.
 - [Cassin01/wf.nvim](https://github.com/Cassin01/wf.nvim) - A modern which-key for neovim
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
@@ -1833,7 +1834,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-533-Stars](https://github.com/iBug/This-Repo-Has-533-Stars) - Yes, it's true :revolving_hearts: This repository has 533 stars.
+- [iBug/This-Repo-Has-535-Stars](https://github.com/iBug/This-Repo-Has-535-Stars) - Yes, it's true :heartbeat: This repository has 535 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
