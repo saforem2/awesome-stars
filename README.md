@@ -559,6 +559,7 @@
 
 ## Julia 
 
+- [slimgroup/InvertibleNetworks.jl](https://github.com/slimgroup/InvertibleNetworks.jl) - A Julia framework for invertible neural networks
 - [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for various mathematical libraries (including flint2)
 - [CliMA/ClimaLSM.jl](https://github.com/CliMA/ClimaLSM.jl) - an in-progress prototype interface for the land model
 - [JuliaStrings/LaTeXStrings.jl](https://github.com/JuliaStrings/LaTeXStrings.jl) - convenient input and display of LaTeX equation strings for the Julia language
@@ -1053,6 +1054,7 @@
 
 ## Others 
 
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [ecomfe/awesome-echarts](https://github.com/ecomfe/awesome-echarts) - Awesome list of  Apache ECharts
@@ -1205,6 +1207,7 @@
 
 ## Python 
 
+- [zhangsmallshark/Megatron-DS](https://github.com/zhangsmallshark/Megatron-DS) - 
 - [stas00/toolbox](https://github.com/stas00/toolbox) - Essential guides and programming tools in my toolbox (with focus on ML Training)
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar gives open source maintainers a better and funded backlog based on what drives the most impact within their community.
 - [microsoft/admin-torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers
@@ -1834,7 +1837,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-535-Stars](https://github.com/iBug/This-Repo-Has-535-Stars) - Yes, it's true :heartbeat: This repository has 535 stars.
+- [iBug/This-Repo-Has-536-Stars](https://github.com/iBug/This-Repo-Has-536-Stars) - Yes, it's true :revolving_hearts: This repository has 536 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2598,7 +2601,6 @@
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [voldikss/coc-floaterm](https://github.com/voldikss/coc-floaterm) - See https://github.com/voldikss/coc-extensions
-- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [IgorSzyporyn/badger-ui](https://github.com/IgorSzyporyn/badger-ui) - Badger UI is a theming tool for creating theme design systems
 - [functionland/fx-fotos](https://github.com/functionland/fx-fotos) - "Fx Fotos" is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box"
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
