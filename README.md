@@ -559,6 +559,7 @@
 
 ## Julia 
 
+- [CliMA/ClimaTimeSteppers.jl](https://github.com/CliMA/ClimaTimeSteppers.jl) - A CPU- and GPU-friendly package for solving ordinary differential equations
 - [slimgroup/InvertibleNetworks.jl](https://github.com/slimgroup/InvertibleNetworks.jl) - A Julia framework for invertible neural networks
 - [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for various mathematical libraries (including flint2)
 - [CliMA/ClimaLSM.jl](https://github.com/CliMA/ClimaLSM.jl) - an in-progress prototype interface for the land model
@@ -728,7 +729,6 @@
 - [learningmatter-mit/Segal](https://github.com/learningmatter-mit/Segal) - 
 - [scottire/fastpages](https://github.com/scottire/fastpages) - 
 - [ro-jefferson/entropy_dnn](https://github.com/ro-jefferson/entropy_dnn) - Code for project on relative entropy in deep neural networks
-- [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [CRC183-summer-school/school_2021](https://github.com/CRC183-summer-school/school_2021) - This is the repository for the CRC 183 summer school "Machine Learning in Condensed Matter Physics".
 - [khuyentran1401/Task-scheduler-problem](https://github.com/khuyentran1401/Task-scheduler-problem) - 
 - [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with articles, videos, and code
@@ -1054,6 +1054,7 @@
 
 ## Others 
 
+- [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
@@ -1591,6 +1592,7 @@
 - [lehner/gpt](https://github.com/lehner/gpt) - A Python toolkit for lattice field theory, quantum computing, and machine learning
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
+- [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [deshaw/pyflyby](https://github.com/deshaw/pyflyby) - A set of productivity tools for Python
 - [yt-project/cmyt](https://github.com/yt-project/cmyt) - yt-native colormaps
@@ -1837,7 +1839,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-536-Stars](https://github.com/iBug/This-Repo-Has-536-Stars) - Yes, it's true :revolving_hearts: This repository has 536 stars.
+- [iBug/This-Repo-Has-537-Stars](https://github.com/iBug/This-Repo-Has-537-Stars) - Yes, it's true :sparkling_heart: This repository has 537 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2156,7 +2158,7 @@
 - [PyTables/PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [phobson/paramnormal](https://github.com/phobson/paramnormal) - Conventionally parameterized probability distributions
 - [rlouf/mcx](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference on CPU & GPU. Powered by JAX.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python, capable of rapidly producing large volumes of synthetic data for various use cases.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
 - [stevenygd/PointFlow](https://github.com/stevenygd/PointFlow) - PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows
 - [team-approx-bayes/dl-with-bayes](https://github.com/team-approx-bayes/dl-with-bayes) - Contains code for the NeurIPS 2019 paper "Practical Deep Learning with Bayesian Principles"
 - [NVIDIA/framework-reproducibility](https://github.com/NVIDIA/framework-reproducibility) - Providing reproducibility in deep learning frameworks
