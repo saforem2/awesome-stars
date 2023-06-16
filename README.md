@@ -436,6 +436,7 @@
 
 ## JavaScript 
 
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [github-20k/awesome-opensource](https://github.com/github-20k/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World's smallest reactive UI framework - Everyone can build a useful UI app in an hour
@@ -560,6 +561,7 @@
 
 ## Julia 
 
+- [gaurav-arya/differentiable_mh](https://github.com/gaurav-arya/differentiable_mh) - Code for paper https://arxiv.org/abs/2306.07961
 - [CliMA/ClimaTimeSteppers.jl](https://github.com/CliMA/ClimaTimeSteppers.jl) - A CPU- and GPU-friendly package for solving ordinary differential equations
 - [slimgroup/InvertibleNetworks.jl](https://github.com/slimgroup/InvertibleNetworks.jl) - A Julia framework for invertible neural networks
 - [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for various mathematical libraries (including flint2)
@@ -1223,7 +1225,7 @@
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [zedr/clean-code-python](https://github.com/zedr/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
-- [lie-nn/lie-nn](https://github.com/lie-nn/lie-nn) - Tools for building equivariant neural networks with reductive Lie groups symmetry
+- [lie-nn/lie-nn](https://github.com/lie-nn/lie-nn) - Tools for building equivariant polynomials on reductive Lie groups.
 - [muellerzr/nbquarto](https://github.com/muellerzr/nbquarto) - Small python library solely for quick Quarto extensions
 - [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [lucidrains/jax2torch](https://github.com/lucidrains/jax2torch) - Use Jax functions in Pytorch
