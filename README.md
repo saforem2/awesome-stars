@@ -11,6 +11,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Chapel](#chapel)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Component Pascal](#component-pascal)
@@ -260,6 +261,10 @@
 - [nsonnad/base16-ipython-notebook](https://github.com/nsonnad/base16-ipython-notebook) - Themes for your IPython Notebook
 - [thejmazz/bars](https://github.com/thejmazz/bars) - 
 
+## Chapel 
+
+- [twesterhout/lattice-symmetries](https://github.com/twesterhout/lattice-symmetries) - A package to simplify working with symmetry-adapted quantum many-body bases. Provides a good foundation for writing custom exact diagonalization and variational Monte Carlo software
+
 ## Clojure 
 
 - [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
@@ -418,7 +423,6 @@
 - [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [facebook/duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
-- [twesterhout/lattice-symmetries](https://github.com/twesterhout/lattice-symmetries) - A package to simplify working with symmetry-adapted quantum many-body bases. Provides a good foundation for writing custom exact diagonalization and variational Monte Carlo software
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [callum-oakley/gotta-go-fast](https://github.com/callum-oakley/gotta-go-fast) - A command line utility for practicing typing and measuring your WPM and accuracy.
 
@@ -436,6 +440,7 @@
 
 ## JavaScript 
 
+- [rajgoel/reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins) - Plugins for reveal.js
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [github-20k/awesome-opensource](https://github.com/github-20k/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
@@ -1854,7 +1859,7 @@
 - [deepmind/chex](https://github.com/deepmind/chex) - 
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [SiggiGue/hdfdict](https://github.com/SiggiGue/hdfdict) - Helps h5py to dump and load dictionaries.
-- [nucypher/nucypher](https://github.com/nucypher/nucypher) - A decentralized threshold cryptography network focused on proxy reencryption.
+- [nucypher/nucypher](https://github.com/nucypher/nucypher) - Threshold Access Control (TACo) runtimes for the Threshold Network
 - [MathInspector/MathInspector](https://github.com/MathInspector/MathInspector) - A visual programing environment for scientific computing with python
 - [CarloGraziani/BayesVaccineEfficacy](https://github.com/CarloGraziani/BayesVaccineEfficacy) - 
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
@@ -2454,6 +2459,7 @@
 
 ## Swift 
 
+- [rurza/NepTunesKit](https://github.com/rurza/NepTunesKit) - 
 - [seeM/Jim](https://github.com/seeM/Jim) - Jim is a simple, beautiful Jupyter notebook editor for macOS
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
