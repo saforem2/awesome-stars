@@ -667,7 +667,6 @@
 - [LSSTC-DSFP/LSSTC-DSFP-Sessions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions) - Lecture slides, Jupyter notebooks, and other material from the  LSSTC Data Science Fellowship Program
 - [mli/transformers-benchmarks](https://github.com/mli/transformers-benchmarks) - real Transformer TeraFLOPS on various GPUs
 - [lukasheinrich/generative_models_examples](https://github.com/lukasheinrich/generative_models_examples) - playground for generative models
-- [nobuyukimatsumoto68/2d_u1](https://github.com/nobuyukimatsumoto68/2d_u1) - 
 - [ameya98/ActionAngleNetworks](https://github.com/ameya98/ActionAngleNetworks) - The official JAX implementation of Action-Angle Networks!
 - [NREL/HPC](https://github.com/NREL/HPC) - A collection of various resources, examples, and executables for the general NREL HPC user community's benefit. Use the following website for accessing documentation.
 - [srshtiputcha/sgmcmc_preferential_subsampling](https://github.com/srshtiputcha/sgmcmc_preferential_subsampling) - Code for Preferential Subsampling for Stochastic Gradient Langevin Dynamics
