@@ -65,6 +65,7 @@
 - [Standard ML](#standard-ml)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -662,7 +663,6 @@
 - [CrossFacilityWorkflows/DOE-HPC-workflow-training](https://github.com/CrossFacilityWorkflows/DOE-HPC-workflow-training) - Repo for a DOE HPC workflow training event
 - [anoops-ai/CosmicTagger](https://github.com/anoops-ai/CosmicTagger) - Cosmic Tagging Network for Neutrino Physics
 - [greydanus/hamiltonian-nn](https://github.com/greydanus/hamiltonian-nn) - Code for our paper "Hamiltonian Neural Networks"
-- [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python.
 - [LSSTC-DSFP/LSSTC-DSFP-Sessions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions) - Lecture slides, Jupyter notebooks, and other material from the  LSSTC Data Science Fellowship Program
 - [mli/transformers-benchmarks](https://github.com/mli/transformers-benchmarks) - real Transformer TeraFLOPS on various GPUs
 - [lukasheinrich/generative_models_examples](https://github.com/lukasheinrich/generative_models_examples) - playground for generative models
@@ -932,6 +932,7 @@
 
 ## Lua 
 
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [alpha2phi/modern-neovim](https://github.com/alpha2phi/modern-neovim) - Crafting a modernized development environment with Neovim.
 - [Cassin01/wf.nvim](https://github.com/Cassin01/wf.nvim) - A modern which-key for neovim
@@ -1060,6 +1061,7 @@
 
 ## Others 
 
+- [petykowski/London-Underground-Dot-Matrix-Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) - A set of dot matrix fonts in the style of TfL's Underground arrivals board.
 - [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
@@ -1214,6 +1216,8 @@
 
 ## Python 
 
+- [qitianwu/DIFFormer](https://github.com/qitianwu/DIFFormer) - The official implementation for ICLR23 spotlight paper "DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion"
+- [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
 - [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch
 - [zengyi-li/MDSM](https://github.com/zengyi-li/MDSM) - Multiscale de-noising score matching
 - [WenboGong/Sliced_Kernelized_Stein_Discrepancy](https://github.com/WenboGong/Sliced_Kernelized_Stein_Discrepancy) - This repo implements the main experiments for sliced kernelized Stein discrepancy and active slices method.
@@ -1294,6 +1298,7 @@
 - [antoinecollas/Entropic_Wasserstein_Component_Analysis](https://github.com/antoinecollas/Entropic_Wasserstein_Component_Analysis) - Python of "Entropic Wasserstein Component Analysis" paper
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [Blealtan/RWKV-LM-LoRA](https://github.com/Blealtan/RWKV-LM-LoRA) - RWKV is a RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sav
+- [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python.
 - [lollcat/fab-torch](https://github.com/lollcat/fab-torch) - Flow Annealed Importance Sampling Bootstrap (FAB). ICLR 2023.
 - [jxpress/lightning-hydra-template-vertex-ai](https://github.com/jxpress/lightning-hydra-template-vertex-ai) - 
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
@@ -2330,6 +2335,7 @@
 
 ## Rust 
 
+- [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [noahgift/rust-mlops-template](https://github.com/noahgift/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
@@ -2490,6 +2496,10 @@
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
 - [hungtruong/TouchFart](https://github.com/hungtruong/TouchFart) - A fart app for the new Macbook Pro's Touch Bar
 - [avatsaev/touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat) - Stupid nyancat animation on your +$2k MacBook Pro's Touchbar
+
+## Tcl 
+
+- [blobject/agave](https://github.com/blobject/agave) - succulent monospace programming font
 
 ## TeX 
 
