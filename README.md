@@ -143,6 +143,7 @@
 
 ## C++ 
 
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch. Comes with an in-game Editor!
 - [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension that brings Intel GPU (XPU) support to DeepSpeed.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [jax-ml/ml_dtypes](https://github.com/jax-ml/ml_dtypes) - A stand-alone implementation of several NumPy dtype extensions used in machine learning.
@@ -179,7 +180,6 @@
 - [QMCPACK/qmcpack](https://github.com/QMCPACK/qmcpack) - Main repository for QMCPACK, an open-source production level many-body ab initio Quantum Monte Carlo code for computing the electronic structure of atoms, molecules, and solids with full performance p
 - [xiaoh/DAFI](https://github.com/xiaoh/DAFI) - DAFI: Ensemble based data assimilation and field inversion, repository for internal development
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [danieljsharpe/DISCOTRESS](https://github.com/danieljsharpe/DISCOTRESS) - 🦜 DISCOTRESS 🦜 is a software package to simulate and analyse the dynamics on arbitrary Markov chains
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [lawmurray/Birch](https://github.com/lawmurray/Birch) - A probabilistic programming language that combines automatic differentiation, automatic marginalization, and automatic conditioning within Monte Carlo methods.
@@ -234,6 +234,7 @@
 
 ## CSS 
 
+- [saforem2/lqcd-pasc23](https://github.com/saforem2/lqcd-pasc23) - Slides for talk @ PASC 23
 - [shafayetShafee/code-fullscreen](https://github.com/shafayetShafee/code-fullscreen) - Quarto Extension filter that adds a full screen button in the code blocks in RevealJs slides and html documents.
 - [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
 - [schochastics/quarto-blackboard-theme](https://github.com/schochastics/quarto-blackboard-theme) - A quarto reveal js theme
@@ -373,6 +374,7 @@
 
 ## HTML 
 
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [EmilHvitfeldt/quarto-revealjs-letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto reveal.js theme based on xaringan letterbox
 - [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
@@ -381,7 +383,6 @@
 - [outerbounds/full-stack-ML-metaflow-tutorial](https://github.com/outerbounds/full-stack-ML-metaflow-tutorial) - It's all in the name
 - [argonne-lcf/user-guides](https://github.com/argonne-lcf/user-guides) - ALCF Systems User Documentation
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
-- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [titaniumnetwork-dev/Incognito-old](https://github.com/titaniumnetwork-dev/Incognito-old) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) - 
@@ -479,6 +480,7 @@
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
 - [ActivityWatch/aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) - Browser watcher for ActivityWatch
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
+- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [xriley/Orbit-Theme](https://github.com/xriley/Orbit-Theme) - FREE Bootstrap 5 Resume/CV Template for Developers
@@ -1219,6 +1221,10 @@
 
 ## Python 
 
+- [ewdurbin/clandestined-python](https://github.com/ewdurbin/clandestined-python) - python rendezvous hashing implementation based on murmur3 hash
+- [stared/livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook for Keras, PyTorch and others
+- [beresandras/clear-diffusion-keras](https://github.com/beresandras/clear-diffusion-keras) - Implementation of denoising diffusion models with schedules, improved sampling, and other extensions using Keras.
+- [python-poetry/cleo](https://github.com/python-poetry/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
 - [qitianwu/DIFFormer](https://github.com/qitianwu/DIFFormer) - The official implementation for ICLR23 spotlight paper "DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion"
 - [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
 - [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch
@@ -2338,6 +2344,7 @@
 
 ## Rust 
 
+- [ofek/pyapp](https://github.com/ofek/pyapp) - Build self-bootstrapped Python applications
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [noahgift/rust-mlops-template](https://github.com/noahgift/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
@@ -2401,6 +2408,7 @@
 
 ## Shell 
 
+- [binpash/try](https://github.com/binpash/try) - "Do, or do not. There is no try."  We're setting out to change that: `try cmd` and commit---or not.
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [bigscience-workshop/bigscience](https://github.com/bigscience-workshop/bigscience) - Central place for the engineering/scaling WG: documentation, SLURM scripts and logs, compute environment and data.
 - [hpc-uk/build-instructions](https://github.com/hpc-uk/build-instructions) - Contains build scripts and instructions for software on a variety of UK HPC resources
