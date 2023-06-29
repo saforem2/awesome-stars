@@ -1221,6 +1221,7 @@
 
 ## Python 
 
+- [atomicarchitects/equiformer_v2](https://github.com/atomicarchitects/equiformer_v2) - [arXiv'23] EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations
 - [ewdurbin/clandestined-python](https://github.com/ewdurbin/clandestined-python) - python rendezvous hashing implementation based on murmur3 hash
 - [stared/livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook for Keras, PyTorch and others
 - [beresandras/clear-diffusion-keras](https://github.com/beresandras/clear-diffusion-keras) - Implementation of denoising diffusion models with schedules, improved sampling, and other extensions using Keras.
@@ -2408,7 +2409,7 @@
 
 ## Shell 
 
-- [binpash/try](https://github.com/binpash/try) - "Do, or do not. There is no try."  We're setting out to change that: `try cmd` and commit---or not.
+- [binpash/try](https://github.com/binpash/try) - try lets you run a command and inspect its effects before modifying your live system
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [bigscience-workshop/bigscience](https://github.com/bigscience-workshop/bigscience) - Central place for the engineering/scaling WG: documentation, SLURM scripts and logs, compute environment and data.
 - [hpc-uk/build-instructions](https://github.com/hpc-uk/build-instructions) - Contains build scripts and instructions for software on a variety of UK HPC resources
