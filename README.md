@@ -144,6 +144,7 @@
 
 ## C++ 
 
+- [hmvege/GLAC](https://github.com/hmvege/GLAC) - A code for generating SU(3) Yang-Mills gauge configurations and applying gradient flow.
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch. Comes with an in-game Editor!
 - [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension that brings Intel GPU (XPU) support to DeepSpeed.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
@@ -328,6 +329,7 @@
 
 ## Go 
 
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -362,7 +364,6 @@
 - [zachlatta/pyre](https://github.com/zachlatta/pyre) - tinder cli built at stupid hackathon san francisco 2015
 - [google/grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [kalbhor/MusicRepair](https://github.com/kalbhor/MusicRepair) - Fixes music metadata and adds album art.
-- [golang/go](https://github.com/golang/go) - The Go programming language
 - [kbrgl/fu](https://github.com/kbrgl/fu) - Unix's Find, Unleashed.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
@@ -444,6 +445,7 @@
 
 ## JavaScript 
 
+- [yaronn/wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
 - [mine-cetinkaya-rundel/quarto-tip-a-day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day) - 
 - [rajgoel/reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins) - Plugins for reveal.js
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
@@ -1225,6 +1227,10 @@
 
 ## Python 
 
+- [saforem2/Megatron-DeepSpeed](https://github.com/saforem2/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
+- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+- [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits) - Scalable Python DS & ML, in an API compatible & lightning fast way.
+- [francois-rozet/sda](https://github.com/francois-rozet/sda) - Official implementation of Score-based Data Assimilation
 - [ehoogeboom/multinomial_diffusion](https://github.com/ehoogeboom/multinomial_diffusion) - 
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [atomicarchitects/equiformer_v2](https://github.com/atomicarchitects/equiformer_v2) - [arXiv'23] EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations
@@ -2350,6 +2356,7 @@
 
 ## Rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Build self-bootstrapped Python applications
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
