@@ -448,6 +448,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [dcartertod/zotero-plugins](https://github.com/dcartertod/zotero-plugins) - Terrifically small pieces of functionality
 - [yaronn/wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
 - [mine-cetinkaya-rundel/quarto-tip-a-day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day) - 
@@ -666,6 +667,7 @@
 
 ## Jupyter Notebook 
 
+- [mjbrodzik/ExploringCETB](https://github.com/mjbrodzik/ExploringCETB) - Examples for reading and understanding Calibrated Enhanced-Resolution Brightness Temperature (CETB) files
 - [wandb/droughtwatch](https://github.com/wandb/droughtwatch) - Weights & Biases benchmark for drought prediction
 - [tcapelle/Diffusion-Models-pytorch](https://github.com/tcapelle/Diffusion-Models-pytorch) - Pytorch implementation of Diffusion Models (https://arxiv.org/pdf/2006.11239.pdf)
 - [tcapelle/torch_moving_mnist](https://github.com/tcapelle/torch_moving_mnist) - A simple Dataset generator for Moving Mnist
@@ -1236,6 +1238,7 @@
 
 ## Python 
 
+- [AutoGIS-2017/Exercise-2](https://github.com/AutoGIS-2017/Exercise-2) - Exercise 2 for the 2017 version of the Automating GIS-processes course https://automating-gis-processes.github.io/2017/
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [alan-turing-institute/distinctipy](https://github.com/alan-turing-institute/distinctipy) - A lightweight package for generating visually distinct colours.
@@ -1594,7 +1597,7 @@
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for browser automation and testing with Selenium, Python, and pytest. Includes: Dashboards, Reports, a Recorder, GUI tools, and lots of documentation.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
