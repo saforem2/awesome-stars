@@ -237,6 +237,7 @@
 ## CSS 
 
 - [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
+- [saforem2/climate-analysis](https://github.com/saforem2/climate-analysis) - Climate Analysis project using ClimRR data
 - [saforem2/lqcd-pasc23](https://github.com/saforem2/lqcd-pasc23) - Slides for talk @ PASC 23
 - [shafayetShafee/code-fullscreen](https://github.com/shafayetShafee/code-fullscreen) - Quarto Extension filter that adds a full screen button in the code blocks in RevealJs slides and html documents.
 - [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
@@ -671,7 +672,6 @@
 - [wandb/droughtwatch](https://github.com/wandb/droughtwatch) - Weights & Biases benchmark for drought prediction
 - [tcapelle/Diffusion-Models-pytorch](https://github.com/tcapelle/Diffusion-Models-pytorch) - Pytorch implementation of Diffusion Models (https://arxiv.org/pdf/2006.11239.pdf)
 - [tcapelle/torch_moving_mnist](https://github.com/tcapelle/torch_moving_mnist) - A simple Dataset generator for Moving Mnist
-- [saforem2/climate-analysis](https://github.com/saforem2/climate-analysis) - Climate Analysis project using ClimRR data
 - [empathy87/storytelling-with-data](https://github.com/empathy87/storytelling-with-data) - Plots from the book "Storytelling with data" implementation using Python and matplotlib
 - [jiwidi/time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) - A use-case focused tutorial for time series forecasting with python
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption
@@ -2618,7 +2618,7 @@
 - [ibdafna/webdash](https://github.com/ibdafna/webdash) - WebAssembly powered Plotly Dash running in the browser
 - [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [siefkenj/unified-latex](https://github.com/siefkenj/unified-latex) - Utilities for parsing and manipulating LaTeX ASTs with the Unified.js framework
 - [kometenstaub/customizable-page-header-buttons](https://github.com/kometenstaub/customizable-page-header-buttons) - Add command buttons left to the standard buttons in Obsidian mobile (and desktop, if enabled).
 - [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
