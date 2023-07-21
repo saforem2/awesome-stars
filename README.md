@@ -85,6 +85,7 @@
 
 ## C 
 
+- [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [fletcher/MultiMarkdown-6](https://github.com/fletcher/MultiMarkdown-6) - Lightweight markup processor to produce HTML, LaTeX, and more.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [pmodels/mpich](https://github.com/pmodels/mpich) - Official MPICH Repository
@@ -96,7 +97,6 @@
 - [suliveevil/Capslock](https://github.com/suliveevil/Capslock) - ultimate macOS keyboard re-mapping
 - [mkietzm4n/really-fast-dijkstra](https://github.com/mkietzm4n/really-fast-dijkstra) - "wow, that is really fast." - Kyle Gerard Felker
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
-- [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [urbach/schwinger](https://github.com/urbach/schwinger) - Hybrid-Monte Carlo for the Schwinger model
 - [claudiopica/HiRep](https://github.com/claudiopica/HiRep) - HiRep repository
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -159,6 +159,7 @@
 - [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 - [HyTruongSon/GraphFlow](https://github.com/HyTruongSon/GraphFlow) - Deep Learning framework in C++/CUDA that supports symbolic/automatic differentiation, dynamic computation graphs, tensor/matrix operations accelerated by GPU and implementations of various state-of-th
 - [microsoft/Microsoft-MPI](https://github.com/microsoft/Microsoft-MPI) - Microsoft MPI
+- [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [JeremyBYU/FastGaussianAccumulator](https://github.com/JeremyBYU/FastGaussianAccumulator) - Performs Gaussian Integration
 - [intel/opencl-intercept-layer](https://github.com/intel/opencl-intercept-layer) - Intercept Layer for Debugging and Analyzing OpenCL Applications
 - [khrykin/StrategrDesktop](https://github.com/khrykin/StrategrDesktop) - No-Fuss Time Management App
@@ -581,6 +582,7 @@
 
 ## Julia 
 
+- [Nemocas/AbstractAlgebra.jl](https://github.com/Nemocas/AbstractAlgebra.jl) - Generic abstract algebra functionality in pure Julia (no C dependencies)
 - [MakieOrg/GeoMakie.jl](https://github.com/MakieOrg/GeoMakie.jl) - Geographical plotting utilities for Makie.jl
 - [TuringLang/AdvancedMH.jl](https://github.com/TuringLang/AdvancedMH.jl) - Robust implementation for random-walk Metropolis-Hastings algorithms
 - [gaurav-arya/differentiable_mh](https://github.com/gaurav-arya/differentiable_mh) - Code for paper https://arxiv.org/abs/2306.07961
@@ -671,6 +673,7 @@
 
 ## Jupyter Notebook 
 
+- [NERSC/pytorch-examples](https://github.com/NERSC/pytorch-examples) - PyTorch examples for NERSC systems
 - [mjbrodzik/ExploringCETB](https://github.com/mjbrodzik/ExploringCETB) - Examples for reading and understanding Calibrated Enhanced-Resolution Brightness Temperature (CETB) files
 - [wandb/droughtwatch](https://github.com/wandb/droughtwatch) - Weights & Biases benchmark for drought prediction
 - [tcapelle/Diffusion-Models-pytorch](https://github.com/tcapelle/Diffusion-Models-pytorch) - Pytorch implementation of Diffusion Models (https://arxiv.org/pdf/2006.11239.pdf)
@@ -1242,6 +1245,8 @@
 
 ## Python 
 
+- [altermo/vim-plugin-list](https://github.com/altermo/vim-plugin-list) - A list of vim/neovim plugins(/extensions for plugins)
+- [kiyoon/jupynium.nvim](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with NeoVim in real-time.
 - [jupyter-vim/jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
 - [Joshuaalbert/jaxns](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX
 - [bazingagin/npc_lv](https://github.com/bazingagin/npc_lv) - 
@@ -1605,7 +1610,7 @@
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's most advanced framework for browser automation and testing. 🐉
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's best framework for browser automation and testing.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -1991,7 +1996,7 @@
 - [asperti/BalancingVAE](https://github.com/asperti/BalancingVAE) - An implementation of Variational Autoencoders with a constant balance between reconstruction error and Kullback-leibler divergence
 - [rist-ro/argo](https://github.com/rist-ro/argo) - 
 - [JavierOrjuela/BayesianNeuralNets_CMB](https://github.com/JavierOrjuela/BayesianNeuralNets_CMB) - 
-- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows) - Awesome resources on normalizing flows.
@@ -2010,7 +2015,7 @@
 - [sciann/sciann](https://github.com/sciann/sciann) - Deep learning for Engineers - Physics Informed Deep Learning
 - [e3nn/e3nn](https://github.com/e3nn/e3nn) - A modular framework for neural networks with Euclidean symmetry
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
-- [gecrooks/gecrooks-python-template](https://github.com/gecrooks/gecrooks-python-template) - Minimal Viable Product for an open source, github hosted, python package
+- [gecrooks/modern-python-template](https://github.com/gecrooks/modern-python-template) - Minimal Viable Product for an open source, github hosted, python package
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [moritzgloeckl/overleaf-sync](https://github.com/moritzgloeckl/overleaf-sync) - Overleaf Two-Way Synchronization
@@ -2724,6 +2729,8 @@
 
 ## Vim Script 
 
+- [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
+- [luk400/vim-jukit](https://github.com/luk400/vim-jukit) - Jupyter-Notebook inspired Neovim/Vim Plugin
 - [goerz/jupytext.vim](https://github.com/goerz/jupytext.vim) - Vim plugin for editing Jupyter ipynb files via jupytext
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
