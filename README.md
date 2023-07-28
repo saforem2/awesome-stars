@@ -721,6 +721,7 @@
 - [geomstats/challenge-iclr-2022](https://github.com/geomstats/challenge-iclr-2022) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
 - [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX
 - [sscardapane/hydra-tutorial](https://github.com/sscardapane/hydra-tutorial) - Companion code for a tutorial on using Hydra.
+- [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [khanhnamle1994/cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
 - [LukasRinder/normalizing-flows](https://github.com/LukasRinder/normalizing-flows) - Implementation of normalizing flows in TensorFlow 2 including a small tutorial.
 - [nimadehmamy/L-conv-code](https://github.com/nimadehmamy/L-conv-code) - Lie Algebra Convolutional Network implementation
@@ -756,7 +757,7 @@
 - [noegroup/bgflow](https://github.com/noegroup/bgflow) - Boltzmann Generators and Normalizing Flows in PyTorch
 - [twitter-research/graph-neural-pde](https://github.com/twitter-research/graph-neural-pde) - Graph Neural PDEs
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
-- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and maintain an end-to-end ML application at scale.
+- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [thjashin/mirror-stein-samplers](https://github.com/thjashin/mirror-stein-samplers) - Sampling with Mirrored Stein Operators
 - [learningmatter-mit/Segal](https://github.com/learningmatter-mit/Segal) - 
 - [scottire/fastpages](https://github.com/scottire/fastpages) - 
@@ -1280,7 +1281,7 @@
 - [stas00/toolbox](https://github.com/stas00/toolbox) - Essential guides and programming tools in my toolbox (with focus on ML Training)
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is a platform for open source maintainers to get better funding
 - [microsoft/admin-torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers
-- [meltano/meltano](https://github.com/meltano/meltano) - Extract & Load with joy — CLI & version control for ELT without limitations. No more black box. Let your creativity flow.
+- [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - The Python DataFrame for Complex Data
 - [gmongaras/Diffusion_models_from_scratch](https://github.com/gmongaras/Diffusion_models_from_scratch) - Creating a diffusion model from scratch in PyTorch to learn exactly how they work.
 - [vra/flopth](https://github.com/vra/flopth) - A simple program to calculate and visualize the FLOPs and Parameters of Pytorch models, with handy CLI and easy-to-use Python API.
@@ -1312,7 +1313,7 @@
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [yixuan/temperflow](https://github.com/yixuan/temperflow) - Efficient Multimodal Sampling via Tempered Distribution Flow
 - [microsoft/NPKit](https://github.com/microsoft/NPKit) - NCCL Profiling Kit
-- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [HPPSS/SC23](https://github.com/HPPSS/SC23) - SC23 Workshop Website
 - [argonne-lcf/mlprof](https://github.com/argonne-lcf/mlprof) - Profiling tools for performance studies of competing ML frameworks on HPC systems
 - [openai/sparse_attention](https://github.com/openai/sparse_attention) - Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
@@ -1526,7 +1527,6 @@
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [delestro/outputformat](https://github.com/delestro/outputformat) - Python library to decorate and beautify strings
 - [facebookresearch/beanmachine](https://github.com/facebookresearch/beanmachine) - A library that allows for inference on probabilistic models
-- [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [VincentStimper/normalizing-flows](https://github.com/VincentStimper/normalizing-flows) - PyTorch implementation of normalizing flow models
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [NVIDIA/PyProf](https://github.com/NVIDIA/PyProf) - A GPU performance profiling tool for PyTorch models
