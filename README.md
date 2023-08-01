@@ -1908,7 +1908,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-539-Stars](https://github.com/iBug/This-Repo-Has-539-Stars) - Yes, it's true :heartpulse: This repository has 539 stars.
+- [iBug/This-Repo-Has-540-Stars](https://github.com/iBug/This-Repo-Has-540-Stars) - Yes, it's true :sparkling_heart: This repository has 540 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2708,7 +2708,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [jupyterlab-contrib/jupyterlab-vim](https://github.com/jupyterlab-contrib/jupyterlab-vim) - :neckbeard: Vim notebook cell bindings for JupyterLab
+- [jupyterlab-contrib/jupyterlab-vim](https://github.com/jupyterlab-contrib/jupyterlab-vim) - Vim notebook cell bindings for JupyterLab
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
