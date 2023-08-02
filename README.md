@@ -198,7 +198,7 @@
 - [serizba/cppflow](https://github.com/serizba/cppflow) - Run TensorFlow models in C++ without installation and without Bazel
 - [zenorogue/l2u](https://github.com/zenorogue/l2u) - commandline Latex to Unicode converter
 - [lammps/lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
-- [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
+- [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 - [oneapi-src/oneCCL](https://github.com/oneapi-src/oneCCL) - oneAPI Collective Communications Library (oneCCL)
 - [xtensor-stack/xtensor-python](https://github.com/xtensor-stack/xtensor-python) - Python bindings for xtensor
 - [hfinkel/llvm-project-cxxjit](https://github.com/hfinkel/llvm-project-cxxjit) - Clang with JIT extensions
@@ -1248,6 +1248,7 @@
 
 ## Python 
 
+- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [deephyper/benchmark](https://github.com/deephyper/benchmark) - Repository to benchmark DeepHyper on different systems.
 - [ltworf/typedload](https://github.com/ltworf/typedload) - Python library to load dynamically typed data into statically typed data structures
 - [altermo/vim-plugin-list](https://github.com/altermo/vim-plugin-list) - A list of vim/neovim plugins(/extensions for plugins)
@@ -2455,6 +2456,8 @@
 
 ## Shell 
 
+- [zap-zsh/zap](https://github.com/zap-zsh/zap) - :zap: Zap is a minimal zsh plugin manager
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [argonne-lcf/pbs_utils](https://github.com/argonne-lcf/pbs_utils) - scripts for working with PBS
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
