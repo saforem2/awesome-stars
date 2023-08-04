@@ -12,7 +12,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Chapel](#chapel)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Component Pascal](#component-pascal)
@@ -150,7 +149,7 @@
 ## C++ 
 
 - [hmvege/GLAC](https://github.com/hmvege/GLAC) - A code for generating SU(3) Yang-Mills gauge configurations and applying gradient flow.
-- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch. Comes with an in-game Editor!
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Comes with an in-game Editor!
 - [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension that brings Intel GPU (XPU) support to DeepSpeed.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [jax-ml/ml_dtypes](https://github.com/jax-ml/ml_dtypes) - A stand-alone implementation of several NumPy dtype extensions used in machine learning.
@@ -244,6 +243,7 @@
 ## CSS 
 
 - [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
+- [saforem2/climate-analysis](https://github.com/saforem2/climate-analysis) - Climate Analysis project using ClimRR data
 - [saforem2/lqcd-pasc23](https://github.com/saforem2/lqcd-pasc23) - Slides for talk @ PASC 23
 - [shafayetShafee/code-fullscreen](https://github.com/shafayetShafee/code-fullscreen) - Quarto Extension filter that adds a full screen button in the code blocks in RevealJs slides and html documents.
 - [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
@@ -273,10 +273,6 @@
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [nsonnad/base16-ipython-notebook](https://github.com/nsonnad/base16-ipython-notebook) - Themes for your IPython Notebook
 - [thejmazz/bars](https://github.com/thejmazz/bars) - 
-
-## Chapel 
-
-- [twesterhout/lattice-symmetries](https://github.com/twesterhout/lattice-symmetries) - A package to simplify working with symmetry-adapted quantum many-body bases. Provides a good foundation for writing custom exact diagonalization and variational Monte Carlo software
 
 ## Clojure 
 
@@ -439,6 +435,7 @@
 - [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [facebook/duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
+- [twesterhout/lattice-symmetries](https://github.com/twesterhout/lattice-symmetries) - A package to simplify working with symmetry-adapted quantum many-body bases. Provides a good foundation for writing custom exact diagonalization and variational Monte Carlo software
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [callum-oakley/gotta-go-fast](https://github.com/callum-oakley/gotta-go-fast) - A command line utility for practicing typing and measuring your WPM and accuracy.
 
@@ -685,7 +682,6 @@
 - [wandb/droughtwatch](https://github.com/wandb/droughtwatch) - Weights & Biases benchmark for drought prediction
 - [tcapelle/Diffusion-Models-pytorch](https://github.com/tcapelle/Diffusion-Models-pytorch) - Pytorch implementation of Diffusion Models (https://arxiv.org/pdf/2006.11239.pdf)
 - [tcapelle/torch_moving_mnist](https://github.com/tcapelle/torch_moving_mnist) - A simple Dataset generator for Moving Mnist
-- [saforem2/climate-analysis](https://github.com/saforem2/climate-analysis) - Climate Analysis project using ClimRR data
 - [empathy87/storytelling-with-data](https://github.com/empathy87/storytelling-with-data) - Plots from the book "Storytelling with data" implementation using Python and matplotlib
 - [jiwidi/time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) - A use-case focused tutorial for time series forecasting with python
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption
@@ -1915,7 +1911,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :revolving_hearts: This repository has 542 stars.
+- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :heartbeat: This repository has 542 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
