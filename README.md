@@ -1250,6 +1250,7 @@
 
 ## Python 
 
+- [zhangsmallshark/Megatron-DS-Benchmarking](https://github.com/zhangsmallshark/Megatron-DS-Benchmarking) - 
 - [WaylonWalker/hatch-action](https://github.com/WaylonWalker/hatch-action) - Automatically version bump hatch projects.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [deephyper/benchmark](https://github.com/deephyper/benchmark) - Repository to benchmark DeepHyper on different systems.
