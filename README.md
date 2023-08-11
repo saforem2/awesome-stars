@@ -58,7 +58,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
-- [SWIG](#swig)
 - [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
@@ -241,6 +240,7 @@
 
 ## CSS 
 
+- [gapmiss/badges](https://github.com/gapmiss/badges) - A light-weight plugin for displaying inline "badges" in Obsidian.md
 - [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
 - [saforem2/climate-analysis](https://github.com/saforem2/climate-analysis) - Climate Analysis project using ClimRR data
 - [saforem2/lqcd-pasc23](https://github.com/saforem2/lqcd-pasc23) - Slides for talk @ PASC 23
@@ -1878,6 +1878,7 @@
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [distdl/distdl](https://github.com/distdl/distdl) - 
 - [maxjiang93/ugscnn](https://github.com/maxjiang93/ugscnn) - Spherical CNNs on Unstructured Grids Using Parameterized Differential Operators
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
 - [hackingmaterials/rocketsled](https://github.com/hackingmaterials/rocketsled) - plug-n-play black box optimizer for high-throughput computing
 - [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 - [bnmnetp/pythonds](https://github.com/bnmnetp/pythonds) - Data Structures package for Problem Solving with Algorithms and Data Structures using Python
@@ -2443,10 +2444,6 @@
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [iris-hep/iris-hep.github.io](https://github.com/iris-hep/iris-hep.github.io) - Institute for Research and Innovation in Software for High Energy Physics
-
-## SWIG 
-
-- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
 
 ## Sass 
 
