@@ -1489,7 +1489,7 @@
 - [adambielski/siamese-triplet](https://github.com/adambielski/siamese-triplet) - Siamese and triplet networks with online pair/triplet mining in PyTorch
 - [CUAI/Equivariant-Manifold-Flows](https://github.com/CUAI/Equivariant-Manifold-Flows) - [NeurIPS 2021] Equivariant Manifold Flows (https://arxiv.org/abs/2107.08596)
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [streamlet-dev/tributary](https://github.com/streamlet-dev/tributary) - Streaming reactive and dataflow graphs in Python
 - [ObsidianPublisher/obsidian-mkdocs-publisher-python](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
