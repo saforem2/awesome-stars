@@ -621,7 +621,7 @@
 - [JuliaSymbolics/SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl) - Expression rewriting and simplification
 - [JuliaDocs/Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) - A documentation generator for Julia.
 - [jgorham/SteinDiscrepancy.jl](https://github.com/jgorham/SteinDiscrepancy.jl) - Practical tools for quantifying how well a sample approximates a target distribution
-- [MakieOrg/Makie.jl](https://github.com/MakieOrg/Makie.jl) - Visualizations and plotting in Julia
+- [MakieOrg/Makie.jl](https://github.com/MakieOrg/Makie.jl) - Interactive data visualizations and plotting in Julia
 - [JuliaAI/ScientificTypes.jl](https://github.com/JuliaAI/ScientificTypes.jl) - An API for dispatching on the "scientific" type of data instead of the machine type
 - [JuliaImages/juliaimages.github.io](https://github.com/JuliaImages/juliaimages.github.io) - Documentation For JuliaImages
 - [jakobnissen/hardware_introduction](https://github.com/jakobnissen/hardware_introduction) - What scientific programmers must know about CPUs and RAM to write fast code.
@@ -1249,6 +1249,7 @@
 
 ## Python 
 
+- [Parsl/parsl](https://github.com/Parsl/parsl) - Parsl - a Python parallel scripting library
 - [zhangsmallshark/Megatron-DS-Benchmarking](https://github.com/zhangsmallshark/Megatron-DS-Benchmarking) - 
 - [WaylonWalker/hatch-action](https://github.com/WaylonWalker/hatch-action) - Automatically version bump hatch projects.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
@@ -1912,7 +1913,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :gift_heart: This repository has 542 stars.
+- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :heart: This repository has 542 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
