@@ -462,6 +462,7 @@
 - [rajgoel/reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins) - Plugins for reveal.js
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
+- [github-20k/awesome-opensource](https://github.com/github-20k/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour
 - [ActiveCampaign/mailbrush](https://github.com/ActiveCampaign/mailbrush) - Node.js library for generating email friendly snippets with syntax highlighting
 - [EmilHvitfeldt/quarto-iframe-examples](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - 
@@ -1249,6 +1250,7 @@
 
 ## Python 
 
+- [qsh-zh/DiffFlow](https://github.com/qsh-zh/DiffFlow) - [Neurips 2021]Diffusion Normalizing Flow (DiffFlow)
 - [Parsl/parsl](https://github.com/Parsl/parsl) - Parsl - a Python parallel scripting library
 - [zhangsmallshark/Megatron-DS-Benchmarking](https://github.com/zhangsmallshark/Megatron-DS-Benchmarking) - 
 - [WaylonWalker/hatch-action](https://github.com/WaylonWalker/hatch-action) - Automatically version bump hatch projects.
