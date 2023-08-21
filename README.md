@@ -1037,7 +1037,6 @@
 ## Makefile 
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [LatticeQCD/LatticeToolbox](https://github.com/LatticeQCD/LatticeToolbox) - A set of Python tools for analyzing physics data, in particular targeting lattice QCD.
 - [jceb/mdshow](https://github.com/jceb/mdshow) - Turn markdown files into beautiful presentations quickly
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 - [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
@@ -1361,6 +1360,7 @@
 - [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
 - [IdahoLabResearch/BIhNNs](https://github.com/IdahoLabResearch/BIhNNs) - The code enables to perform Bayesian inference in an efficient manner through the use of Hamiltonian Neural Networks (HNNs), Deep Neural Networks (DNNs), Neural ODEs, and Symplectic Neural Networks (S
 - [antoinecollas/Entropic_Wasserstein_Component_Analysis](https://github.com/antoinecollas/Entropic_Wasserstein_Component_Analysis) - Python of "Entropic Wasserstein Component Analysis" paper
+- [LatticeQCD/LatticeToolbox](https://github.com/LatticeQCD/LatticeToolbox) - A set of Python tools for analyzing physics data, in particular targeting lattice QCD.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [Blealtan/RWKV-LM-LoRA](https://github.com/Blealtan/RWKV-LM-LoRA) - RWKV is a RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sav
 - [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python.
@@ -1903,7 +1903,7 @@
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [lucidrains/egnn-pytorch](https://github.com/lucidrains/egnn-pytorch) - Implementation of E(n)-Equivariant Graph Neural Networks, in Pytorch
-- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ tmux session manager. built on libtmux
 - [pimdh/relie](https://github.com/pimdh/relie) - Experiments for the AISTATS publication on Reparameterizing Distributions over Lie Groups
 - [Romit-Maulik/PyParSVD](https://github.com/Romit-Maulik/PyParSVD) - An implementation of the 1. Parallel, 2. Streaming, 3. Randomized SVD using MPI4Py
 - [patrick-kidger/sympytorch](https://github.com/patrick-kidger/sympytorch) - Turning SymPy expressions into PyTorch modules.
