@@ -345,7 +345,7 @@
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and Tensorflow.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
@@ -2294,7 +2294,7 @@
 - [rigetti/pyquil](https://github.com/rigetti/pyquil) - A Python library for quantum programming using Quil.
 - [yingjerkao/LearningIsing](https://github.com/yingjerkao/LearningIsing) - Learning Ising Model
 - [5agado/fitbit-analyzer](https://github.com/5agado/fitbit-analyzer) - Analyzer and statistics generator for fitbit data like sleep, steps count and heart rate
-- [Qiskit/qiskit-terra](https://github.com/Qiskit/qiskit-terra) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and algorithms.
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and algorithms.
 - [roxma/nvim-completion-manager](https://github.com/roxma/nvim-completion-manager) - :warning: PLEASE USE https://github.com/ncm2/ncm2 INSTEAD
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
