@@ -421,7 +421,6 @@
 - [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged websit
 - [keceli/ezHPC](https://github.com/keceli/ezHPC) - Interactive and simplified high-performance computing with Jupyter notebook
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-- [avehtari/BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) - Bayesian Data Analysis course at Aalto
 - [RealOrangeOne/hugo-theme-revealjs](https://github.com/RealOrangeOne/hugo-theme-revealjs) - Use Hugo to build a presentation, powered by RevealJS
 - [machine19/machine19.github.io](https://github.com/machine19/machine19.github.io) - 
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
@@ -1036,7 +1035,6 @@
 
 ## Makefile 
 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jceb/mdshow](https://github.com/jceb/mdshow) - Turn markdown files into beautiful presentations quickly
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 - [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
@@ -1105,6 +1103,7 @@
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
 - [saforem2/quarto-examples](https://github.com/saforem2/quarto-examples) - Simple `quarto` examples
 - [smsharma/awesome-neural-sbi](https://github.com/smsharma/awesome-neural-sbi) - Community-sourced list of papers and resources on neural simulation-based inference.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [openxla/community](https://github.com/openxla/community) - Stores documents and resources used by the OpenXLA developer community
 - [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto) - A curated list of Quarto talks, tools, examples & articles! Contributions welcome!
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
@@ -1250,6 +1249,7 @@
 
 ## Python 
 
+- [NVlabs/edm](https://github.com/NVlabs/edm) - Elucidating the Design Space of Diffusion-Based Generative Models (EDM)
 - [qsh-zh/DiffFlow](https://github.com/qsh-zh/DiffFlow) - [Neurips 2021]Diffusion Normalizing Flow (DiffFlow)
 - [Parsl/parsl](https://github.com/Parsl/parsl) - Parsl - a Python parallel scripting library
 - [zhangsmallshark/Megatron-DS-Benchmarking](https://github.com/zhangsmallshark/Megatron-DS-Benchmarking) - 
@@ -2605,6 +2605,7 @@
 - [dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates) - A collection of LaTeX templates used for research, courses, and miscellanea.
 - [MilesCranmer/python_citations](https://github.com/MilesCranmer/python_citations) - Bibtex for various Python science and machine learning software
 - [sagemath/sagetex](https://github.com/sagemath/sagetex) - embed code, results of computations, and plots from the Sage mathematics software suite (https://www.sagemath.org) into LaTeX documents
+- [avehtari/BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) - Bayesian Data Analysis course at Aalto
 - [jxy/hmc_test](https://github.com/jxy/hmc_test) - 
 - [mhjensen/MLFRIB](https://github.com/mhjensen/MLFRIB) - Files for Machine Learning and Artificial Intelligence in Nuclear Physics
 - [saforem2/RESUME](https://github.com/saforem2/RESUME) - My resume
