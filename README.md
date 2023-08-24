@@ -1249,6 +1249,7 @@
 
 ## Python 
 
+- [li-js/gpu_memory_profiling](https://github.com/li-js/gpu_memory_profiling) - Profile the GPU memory usage of every line in a Pytorch code
 - [NVlabs/edm](https://github.com/NVlabs/edm) - Elucidating the Design Space of Diffusion-Based Generative Models (EDM)
 - [qsh-zh/DiffFlow](https://github.com/qsh-zh/DiffFlow) - [Neurips 2021]Diffusion Normalizing Flow (DiffFlow)
 - [Parsl/parsl](https://github.com/Parsl/parsl) - Parsl - a Python parallel scripting library
@@ -2182,7 +2183,7 @@
 - [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
 - [MelkoCollective/ICTP-SAIFR-MLPhysics](https://github.com/MelkoCollective/ICTP-SAIFR-MLPhysics) - Minicourse on Machine Learning for Many-Body Physics, Sept 25 – 29, 2017  São Paulo, Brazil
 - [ellendmk/DL_and_RG](https://github.com/ellendmk/DL_and_RG) - This repo contains code used to run experiments for the paper titled "Is Deep Learning a Renormalization Group Flow?" arXiv:1906.05212.
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [bayesiains/nflows](https://github.com/bayesiains/nflows) - Normalizing flows in PyTorch
 - [IntelPython/scikit-learn_bench](https://github.com/IntelPython/scikit-learn_bench) - scikit-learn_bench benchmarks various implementations of machine learning algorithms across data analytics frameworks. It currently support the scikit-learn, DAAL4PY, cuML, and XGBoost frameworks for 
 - [gcarleo/mydocstring](https://github.com/gcarleo/mydocstring) - A tool for extracting and converting Google-style docstrings to plain-text, Markdown, and JSON
