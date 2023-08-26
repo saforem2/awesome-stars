@@ -1134,6 +1134,7 @@
 - [saforem2/awesome-stars](https://github.com/saforem2/awesome-stars) - A curated list of my GitHub stars!
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [gabeclass/introlinux](https://github.com/gabeclass/introlinux) - Intro to the Linux Command Line (PICSciE)
+- [facebookresearch/pplbench](https://github.com/facebookresearch/pplbench) - Evaluation Framework for Probabilistic Programming Languages
 - [degregat/awesome-research](https://github.com/degregat/awesome-research) - A curated list of resources to help with computational research.
 - [interactivetech/awesome-matplotlib](https://github.com/interactivetech/awesome-matplotlib) - A curated list of awesome repos and tutorials to develop great matplotlib graphs and diagrams
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
@@ -1696,7 +1697,6 @@
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
-- [facebookresearch/pplbench](https://github.com/facebookresearch/pplbench) - Evaluation Framework for Probabilistic Programming Languages
 - [stefanwebb/flowtorch-old](https://github.com/stefanwebb/flowtorch-old) - Separating Normalizing Flows code from Pyro and improving API
 - [facebookarchive/ml_sampler](https://github.com/facebookarchive/ml_sampler) - Model assisted random sampling.
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
@@ -1885,7 +1885,7 @@
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [distdl/distdl](https://github.com/distdl/distdl) - 
 - [maxjiang93/ugscnn](https://github.com/maxjiang93/ugscnn) - Spherical CNNs on Unstructured Grids Using Parameterized Differential Operators
-- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [hackingmaterials/rocketsled](https://github.com/hackingmaterials/rocketsled) - plug-n-play black box optimizer for high-throughput computing
 - [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 - [bnmnetp/pythonds](https://github.com/bnmnetp/pythonds) - Data Structures package for Problem Solving with Algorithms and Data Structures using Python
@@ -1920,7 +1920,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :heart: This repository has 542 stars.
+- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :yellow_heart: This repository has 542 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2298,7 +2298,7 @@
 - [rigetti/pyquil](https://github.com/rigetti/pyquil) - A Python library for quantum programming using Quil.
 - [yingjerkao/LearningIsing](https://github.com/yingjerkao/LearningIsing) - Learning Ising Model
 - [5agado/fitbit-analyzer](https://github.com/5agado/fitbit-analyzer) - Analyzer and statistics generator for fitbit data like sleep, steps count and heart rate
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and algorithms.
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
 - [roxma/nvim-completion-manager](https://github.com/roxma/nvim-completion-manager) - :warning: PLEASE USE https://github.com/ncm2/ncm2 INSTEAD
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
