@@ -395,7 +395,6 @@
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
 - [outerbounds/full-stack-ML-metaflow-tutorial](https://github.com/outerbounds/full-stack-ML-metaflow-tutorial) - It's all in the name
 - [argonne-lcf/user-guides](https://github.com/argonne-lcf/user-guides) - ALCF Systems User Documentation
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [titaniumnetwork-dev/Incognito-old](https://github.com/titaniumnetwork-dev/Incognito-old) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) - 
@@ -464,7 +463,7 @@
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [github-20k/awesome-opensource](https://github.com/github-20k/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
-- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour
+- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [ActiveCampaign/mailbrush](https://github.com/ActiveCampaign/mailbrush) - Node.js library for generating email friendly snippets with syntax highlighting
 - [EmilHvitfeldt/quarto-iframe-examples](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - 
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
@@ -1501,6 +1500,7 @@
 - [streamlet-dev/tributary](https://github.com/streamlet-dev/tributary) - Streaming reactive and dataflow graphs in Python
 - [ObsidianPublisher/obsidian-mkdocs-publisher-python](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [man-group/notebooker](https://github.com/man-group/notebooker) - Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
@@ -1920,7 +1920,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :yellow_heart: This repository has 542 stars.
+- [iBug/This-Repo-Has-543-Stars](https://github.com/iBug/This-Repo-Has-543-Stars) - Yes, it's true :orange_heart: This repository has 543 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
