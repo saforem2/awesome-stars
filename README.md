@@ -1251,6 +1251,7 @@
 
 ## Python 
 
+- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [li-js/gpu_memory_profiling](https://github.com/li-js/gpu_memory_profiling) - Profile the GPU memory usage of every line in a Pytorch code
 - [NVlabs/edm](https://github.com/NVlabs/edm) - Elucidating the Design Space of Diffusion-Based Generative Models (EDM)
 - [qsh-zh/DiffFlow](https://github.com/qsh-zh/DiffFlow) - [Neurips 2021]Diffusion Normalizing Flow (DiffFlow)
@@ -1274,7 +1275,7 @@
 - [frankie567/httpx-ws](https://github.com/frankie567/httpx-ws) - WebSocket support for HTTPX
 - [tcapelle/cloud_diffusion](https://github.com/tcapelle/cloud_diffusion) - Diffusion on the Clouds: Short-term solar energy forecasting with Diffusion Models
 - [saforem2/Megatron-DeepSpeed](https://github.com/saforem2/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
-- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+- [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits) - Scalable Python DS & ML, in an API compatible & lightning fast way.
 - [francois-rozet/sda](https://github.com/francois-rozet/sda) - Official implementation of Score-based Data Assimilation
 - [ehoogeboom/multinomial_diffusion](https://github.com/ehoogeboom/multinomial_diffusion) - 
