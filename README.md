@@ -138,6 +138,7 @@
 
 ## C# # 
 
+- [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
@@ -147,6 +148,8 @@
 
 ## C++ 
 
+- [LatticeQCD/SIMULATeQCD](https://github.com/LatticeQCD/SIMULATeQCD) - SIMULATeQCD is a multi-GPU Lattice QCD framework that makes it easy for physicists to implement lattice QCD formulas while still providing competitive performance.
+- [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [hmvege/GLAC](https://github.com/hmvege/GLAC) - A code for generating SU(3) Yang-Mills gauge configurations and applying gradient flow.
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Comes with an in-game Editor!
 - [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension that brings Intel GPU (XPU) support to DeepSpeed.
@@ -676,6 +679,8 @@
 
 ## Jupyter Notebook 
 
+- [autosome-ru/LegNet](https://github.com/autosome-ru/LegNet) - accurate prediction of promoter activity and variant effects from massive parallel reporter assays
+- [aditya-grover/climate-learn](https://github.com/aditya-grover/climate-learn) - Source code for ClimateLearn
 - [NERSC/pytorch-examples](https://github.com/NERSC/pytorch-examples) - PyTorch examples for NERSC systems
 - [NERSC/intro-HPC-bootcamp-2023](https://github.com/NERSC/intro-HPC-bootcamp-2023) - 
 - [mjbrodzik/ExploringCETB](https://github.com/mjbrodzik/ExploringCETB) - Examples for reading and understanding Calibrated Enhanced-Resolution Brightness Temperature (CETB) files
@@ -959,6 +964,7 @@
 
 ## LLVM 
 
+- [meifeng/GridMini](https://github.com/meifeng/GridMini) - This is a mini-app based on the Grid C++ lattice QCD library (https://github.com/paboyle/Grid)
 - [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - Lecture and hands-on material for Track 8- Machine Learning of  Argonne Training Program on Extreme-Scale Computing
 
 ## Lua 
@@ -1092,6 +1098,7 @@
 
 ## Others 
 
+- [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim) - 🚀 A great starting point for your LunarVim journey!
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
@@ -1251,6 +1258,7 @@
 
 ## Python 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [li-js/gpu_memory_profiling](https://github.com/li-js/gpu_memory_profiling) - Profile the GPU memory usage of every line in a Pytorch code
 - [NVlabs/edm](https://github.com/NVlabs/edm) - Elucidating the Design Space of Diffusion-Based Generative Models (EDM)
@@ -1290,7 +1298,7 @@
 - [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch
 - [zengyi-li/MDSM](https://github.com/zengyi-li/MDSM) - Multiscale de-noising score matching
 - [WenboGong/Sliced_Kernelized_Stein_Discrepancy](https://github.com/WenboGong/Sliced_Kernelized_Stein_Discrepancy) - This repo implements the main experiments for sliced kernelized Stein discrepancy and active slices method.
-- [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Essential guides and programming tools in my toolbox (with focus on ML Training)
+- [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Guides and Tools
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is a platform for open source maintainers to get better funding
 - [microsoft/admin-torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
@@ -2402,6 +2410,7 @@
 
 ## Rust 
 
+- [caphindsight/ergothic](https://github.com/caphindsight/ergothic) - Rust library for setting up and running distributed Monte-Carlo statistical simulations. Designed primarily for lattice QCD.
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Build self-bootstrapped Python applications
@@ -2621,6 +2630,8 @@
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
