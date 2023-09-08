@@ -165,7 +165,7 @@
 - [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 - [HyTruongSon/GraphFlow](https://github.com/HyTruongSon/GraphFlow) - Deep Learning framework in C++/CUDA that supports symbolic/automatic differentiation, dynamic computation graphs, tensor/matrix operations accelerated by GPU and implementations of various state-of-th
 - [microsoft/Microsoft-MPI](https://github.com/microsoft/Microsoft-MPI) - Microsoft MPI
-- [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
+- [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [JeremyBYU/FastGaussianAccumulator](https://github.com/JeremyBYU/FastGaussianAccumulator) - Performs Gaussian Integration
 - [intel/opencl-intercept-layer](https://github.com/intel/opencl-intercept-layer) - Intercept Layer for Debugging and Analyzing OpenCL Applications
 - [khrykin/StrategrDesktop](https://github.com/khrykin/StrategrDesktop) - No-Fuss Time Management App
@@ -339,6 +339,7 @@
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
@@ -456,6 +457,7 @@
 
 ## JavaScript 
 
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
 - [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories
 - [lucienimmink/RevealLiveCode](https://github.com/lucienimmink/RevealLiveCode) - Live coding plugin for reveal.js
 - [peterdoherty01/reveal.js-typed](https://github.com/peterdoherty01/reveal.js-typed) - Implement a typewriter effect using Type.js as a plugin for Reveal.js, the HTML Presentation Framework.
@@ -591,6 +593,7 @@
 
 ## Julia 
 
+- [FluxML/model-zoo](https://github.com/FluxML/model-zoo) - Please do not feed the models
 - [Nemocas/AbstractAlgebra.jl](https://github.com/Nemocas/AbstractAlgebra.jl) - Generic abstract algebra functionality in pure Julia (no C dependencies)
 - [MakieOrg/GeoMakie.jl](https://github.com/MakieOrg/GeoMakie.jl) - Geographical plotting utilities for Makie.jl
 - [TuringLang/AdvancedMH.jl](https://github.com/TuringLang/AdvancedMH.jl) - Robust implementation for random-walk Metropolis-Hastings algorithms
@@ -773,6 +776,7 @@
 - [learningmatter-mit/Segal](https://github.com/learningmatter-mit/Segal) - 
 - [scottire/fastpages](https://github.com/scottire/fastpages) - 
 - [ro-jefferson/entropy_dnn](https://github.com/ro-jefferson/entropy_dnn) - Code for project on relative entropy in deep neural networks
+- [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [CRC183-summer-school/school_2021](https://github.com/CRC183-summer-school/school_2021) - This is the repository for the CRC 183 summer school "Machine Learning in Condensed Matter Physics".
 - [khuyentran1401/Task-scheduler-problem](https://github.com/khuyentran1401/Task-scheduler-problem) - 
 - [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with articles, videos, and code
@@ -853,7 +857,7 @@
 - [Krastanov/hamiltonian_estimation](https://github.com/Krastanov/hamiltonian_estimation) - A stochastic estimator for dynamical variables as described in arxiv 1812.05120
 - [dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments) - Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.
 - [eth-cscs/tensorflow-training](https://github.com/eth-cscs/tensorflow-training) - Multi-GPU training with TensorFlow on Piz Daint
-- [deepmind/mc_gradients](https://github.com/deepmind/mc_gradients) - 
+- [google-deepmind/mc_gradients](https://github.com/google-deepmind/mc_gradients) - 
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) - A clean book theme for scientific explanations and documentation with Sphinx
 - [lch/dqmc_notebook](https://github.com/lch/dqmc_notebook) - 
 - [Princeton-Election-Consortium/data-backend](https://github.com/Princeton-Election-Consortium/data-backend) - All code related to scraping, parsing, cleaning, and processing data used by PEC
@@ -891,7 +895,7 @@
 - [nkotelevskii/l2hmc_pytorch](https://github.com/nkotelevskii/l2hmc_pytorch) - PyTorch l2hmc realization
 - [kmkolasinski/deep-learning-notes](https://github.com/kmkolasinski/deep-learning-notes) - Experiments with Deep Learning
 - [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
-- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
+- [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [theevann/dl4sci-pytorch-webinar](https://github.com/theevann/dl4sci-pytorch-webinar) - 
 - [parrt/lolviz](https://github.com/parrt/lolviz) - A simple Python data-structure visualization tool for lists of lists, lists, dictionaries; primarily for use in Jupyter notebooks / presentations
 - [jupyter4hpc/ganymede](https://github.com/jupyter4hpc/ganymede) - A collection of Jupyter notebooks
@@ -1261,6 +1265,7 @@
 
 ## Python 
 
+- [kramea/aibedo](https://github.com/kramea/aibedo) - DARPA AIE (AI-Assisted Climate Tipping Point): AIBEDO (A hybrid AI framework to capture the effects of cloud properties on global circulation and regional climate patterns)
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [li-js/gpu_memory_profiling](https://github.com/li-js/gpu_memory_profiling) - Profile the GPU memory usage of every line in a Pytorch code
@@ -1332,7 +1337,6 @@
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [cybertronai/gradient-checkpointing](https://github.com/cybertronai/gradient-checkpointing) - Make huge neural nets fit in memory
 - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools) - Intel PMU profiling tools
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [yixuan/temperflow](https://github.com/yixuan/temperflow) - Efficient Multimodal Sampling via Tempered Distribution Flow
 - [microsoft/NPKit](https://github.com/microsoft/NPKit) - NCCL Profiling Kit
@@ -1390,7 +1394,7 @@
 - [didix21/mdutils](https://github.com/didix21/mdutils) - Python package contains a set of basic tools that can help to create a markdown file.
 - [muellerzr/timing_experiments](https://github.com/muellerzr/timing_experiments) - 
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
-- [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
+- [google-deepmind/mctx](https://github.com/google-deepmind/mctx) - Monte Carlo tree search in JAX
 - [francois-rozet/zuko](https://github.com/francois-rozet/zuko) - Normalizing flows in PyTorch
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
@@ -1438,7 +1442,7 @@
 - [1202kbs/DMCMC](https://github.com/1202kbs/DMCMC) - Official PyTorch implementation of "Denoising MCMC for Accelerating Diffusion-Based Generative Models"
 - [fjosw/pyerrors](https://github.com/fjosw/pyerrors) - Error propagation and statistical analysis for Markov chain Monte Carlo simulations in lattice QCD and statistical mechanics
 - [awesome-panel/examples](https://github.com/awesome-panel/examples) - A repository of awesome panel examples. The apps are running entirely in the browser as webassembly apps. NO SERVER REQUIRED.
-- [deepmind/alphatensor](https://github.com/deepmind/alphatensor) - 
+- [google-deepmind/alphatensor](https://github.com/google-deepmind/alphatensor) - 
 - [pyamg/pyamg](https://github.com/pyamg/pyamg) - Algebraic Multigrid Solvers in Python
 - [tummfm/relative-entropy](https://github.com/tummfm/relative-entropy) - Deep Coarse-grained Potentials via Relative Entropy Minimization
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
@@ -1501,7 +1505,7 @@
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [BorgwardtLab/TOGL](https://github.com/BorgwardtLab/TOGL) - Topological Graph Neural Networks (ICLR 2022)
-- [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) - Annotating tensor shapes using Python types
+- [google-deepmind/tensor_annotations](https://github.com/google-deepmind/tensor_annotations) - Annotating tensor shapes using Python types
 - [allenai/python-package-template](https://github.com/allenai/python-package-template) - A template repo for Python packages
 - [qkaren/COLD_decoding](https://github.com/qkaren/COLD_decoding) - 
 - [adambielski/siamese-triplet](https://github.com/adambielski/siamese-triplet) - Siamese and triplet networks with online pair/triplet mining in PyTorch
@@ -1525,7 +1529,7 @@
 - [captain-pool/hydra-wandb-sweeper](https://github.com/captain-pool/hydra-wandb-sweeper) - WandB sweeps integration with Hydra sweeper
 - [samuelcolvin/dirty-equals](https://github.com/samuelcolvin/dirty-equals) - Doing dirty (but extremely useful) things with equals.
 - [lettucecfd/lettuce](https://github.com/lettucecfd/lettuce) - Computational Fluid Dynamics based on PyTorch and the Lattice Boltzmann Method
-- [deepmind/dm_hamiltonian_dynamics_suite](https://github.com/deepmind/dm_hamiltonian_dynamics_suite) - 
+- [google-deepmind/dm_hamiltonian_dynamics_suite](https://github.com/google-deepmind/dm_hamiltonian_dynamics_suite) - 
 - [captain-pool/hydra-example](https://github.com/captain-pool/hydra-example) - 
 - [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
 - [Alwinator/aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) - An Activity Watch watcher that monitors CPU, RAM, disk, network, and sensor usage.
@@ -1533,7 +1537,7 @@
 - [CharlesPikachu/pydrawing](https://github.com/CharlesPikachu/pydrawing) - Pydrawing: Beautify your image or video.
 - [adautobraz/ergo](https://github.com/adautobraz/ergo) - 
 - [gisalgs/geom](https://github.com/gisalgs/geom) - :zap: Algorithms for geometric operations
-- [deepmind/annealed_flow_transport](https://github.com/deepmind/annealed_flow_transport) - 
+- [google-deepmind/annealed_flow_transport](https://github.com/google-deepmind/annealed_flow_transport) - 
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
@@ -1595,7 +1599,7 @@
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
 - [Orkis-Research/Pytorch-Quaternion-Neural-Networks](https://github.com/Orkis-Research/Pytorch-Quaternion-Neural-Networks) - This repository is an update to all previous repositories with implementations of various Quaternion-valued Neural Networks in PyTorch
 - [pymc-devs/pymc-examples](https://github.com/pymc-devs/pymc-examples) - Examples of PyMC models, including a library of Jupyter notebooks.
-- [deepmind/xmanager](https://github.com/deepmind/xmanager) - A platform for managing machine learning experiments
+- [google-deepmind/xmanager](https://github.com/google-deepmind/xmanager) - A platform for managing machine learning experiments
 - [amorehead/Equivariant-GNNs](https://github.com/amorehead/Equivariant-GNNs) - An environment for running experiments with equivariant GNN architectures
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [kevinzakka/densenet](https://github.com/kevinzakka/densenet) - A PyTorch Implementation of "Densely Connected Convolutional Networks"
@@ -1607,7 +1611,7 @@
 - [mlcommons/training_policies](https://github.com/mlcommons/training_policies) - Issues related to MLPerf™ training policies, including rules and suggested changes
 - [deeptime-ml/deeptime](https://github.com/deeptime-ml/deeptime) - Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
-- [deepmind/tree](https://github.com/deepmind/tree) - tree is a library for working with nested data structures
+- [google-deepmind/tree](https://github.com/google-deepmind/tree) - tree is a library for working with nested data structures
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [ldeecke/gmm-torch](https://github.com/ldeecke/gmm-torch) - Gaussian mixture models in PyTorch.
@@ -1684,13 +1688,12 @@
 - [lehner/gpt](https://github.com/lehner/gpt) - A Python toolkit for lattice field theory, quantum computing, and machine learning
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
-- [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [deshaw/pyflyby](https://github.com/deshaw/pyflyby) - A set of productivity tools for Python
 - [yt-project/cmyt](https://github.com/yt-project/cmyt) - yt-native colormaps
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [PatrickHua/SimSiam](https://github.com/PatrickHua/SimSiam) - A pytorch implementation for paper 'Exploring Simple Siamese Representation Learning'
-- [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
+- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
 - [kevinzakka/pytorch-goodies](https://github.com/kevinzakka/pytorch-goodies) - PyTorch Boilerplate For Research
 - [dgilland/pydash](https://github.com/dgilland/pydash) - The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library.
 - [vislearn/FrEIA](https://github.com/vislearn/FrEIA) - Framework for Easily Invertible Architectures
@@ -1857,7 +1860,7 @@
 - [libeanim/contact-symplectic-integrator-network](https://github.com/libeanim/contact-symplectic-integrator-network) - Contact-Aware Symplectic Integrator Network
 - [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [DavideBuffelli/SAME](https://github.com/DavideBuffelli/SAME) - Code for the papers: "Graph Representation Learning for Multi-Task Settings: a Meta-Learning Approach", "A Meta-Learning Approach for Graph Representation Learning in Multi-Task Settings"
-- [deepmind/distrax](https://github.com/deepmind/distrax) - 
+- [google-deepmind/distrax](https://github.com/google-deepmind/distrax) - 
 - [katiebreivik/cosmic-cat-creator](https://github.com/katiebreivik/cosmic-cat-creator) - a tool to produce astrophysical catalogs from cosmic data
 - [nw2190/ConvPDE](https://github.com/nw2190/ConvPDE) - Convolutional Solvers for Partial Differential Equations
 - [scikit-hep/vector](https://github.com/scikit-hep/vector) - Vector classes and utilities
@@ -1942,7 +1945,7 @@
 - [cyoon1729/distributedRL](https://github.com/cyoon1729/distributedRL) - A framework for easy prototyping of distributed reinforcement learning algorithms
 - [ahuang11/ahlive](https://github.com/ahuang11/ahlive) - animate your data to life
 - [alteryx/evalml](https://github.com/alteryx/evalml) - EvalML is an AutoML library written in python.
-- [deepmind/chex](https://github.com/deepmind/chex) - 
+- [google-deepmind/chex](https://github.com/google-deepmind/chex) - 
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [SiggiGue/hdfdict](https://github.com/SiggiGue/hdfdict) - Helps h5py to dump and load dictionaries.
 - [nucypher/nucypher](https://github.com/nucypher/nucypher) - Threshold Access Control (TACo) runtimes for the Threshold Network
@@ -1989,7 +1992,7 @@
 - [daft-dev/daft](https://github.com/daft-dev/daft) - Render probabilistic graphical models using matplotlib
 - [toshikwa/rljax](https://github.com/toshikwa/rljax) - A collection of RL algorithms written in JAX.
 - [mariogeiger/se3cnn](https://github.com/mariogeiger/se3cnn) - Euclidean Neural Networks
-- [deepmind/optax](https://github.com/deepmind/optax) - Optax is a gradient processing and optimization library for JAX.
+- [google-deepmind/optax](https://github.com/google-deepmind/optax) - Optax is a gradient processing and optimization library for JAX.
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :)
 - [jmoy/plotdf](https://github.com/jmoy/plotdf) - Python package to plot phase portraits of 2D differential equations.
 - [cuemacro/chartpy](https://github.com/cuemacro/chartpy) - Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more
@@ -2070,7 +2073,7 @@
 - [omry/omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [NVlabs/NVAE](https://github.com/NVlabs/NVAE) - The Official PyTorch Implementation of "NVAE: A Deep Hierarchical Variational Autoencoder" (NeurIPS 2020 spotlight paper)
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
-- [deepmind/jax_verify](https://github.com/deepmind/jax_verify) - Neural network verification in JAX
+- [google-deepmind/jax_verify](https://github.com/google-deepmind/jax_verify) - Neural network verification in JAX
 - [google/active-learning](https://github.com/google/active-learning) - 
 - [ermongroup/markov-chain-gan](https://github.com/ermongroup/markov-chain-gan) - Code for "Generative Adversarial Training for Markov Chains" (ICLR 2017 Workshop)
 - [microsoft/MT-DNN](https://github.com/microsoft/MT-DNN) - Multi-Task Deep Neural Networks for Natural Language Understanding
@@ -2119,7 +2122,7 @@
 - [adamerose/PandasGUI](https://github.com/adamerose/PandasGUI) - A GUI for Pandas DataFrames
 - [wookayin/gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
 - [mackelab/sbi](https://github.com/mackelab/sbi) - Simulation-based inference toolkit
-- [deepmind/ferminet](https://github.com/deepmind/ferminet) - An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
+- [google-deepmind/ferminet](https://github.com/google-deepmind/ferminet) - An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
 - [pmocz/nbody-performance-comparison](https://github.com/pmocz/nbody-performance-comparison) - Directly compare performance of vectorized and for-loop implementations of the N-body problem in Matlab, Julia, and Python
 - [nschloe/tikzplotlib](https://github.com/nschloe/tikzplotlib) - :bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.
 - [unixtomato/nmcrg](https://github.com/unixtomato/nmcrg) - Neural Monte Carlo Renormalization Group
@@ -2140,7 +2143,7 @@
 - [alpha-davidson/TensorBNN](https://github.com/alpha-davidson/TensorBNN) - Full Bayesian inference for neural networks using TensorFlow
 - [hongyehu/RG-Flow](https://github.com/hongyehu/RG-Flow) - This is project page for the paper "RG-Flow: a hierarchical and explainable flow model based on renormalization group and sparse prior". Paper link: https://arxiv.org/abs/2010.00029
 - [ealcobaca/pymfe](https://github.com/ealcobaca/pymfe) - Python Meta-Feature Extractor package.
-- [deepmind/rlax](https://github.com/deepmind/rlax) - 
+- [google-deepmind/rlax](https://github.com/google-deepmind/rlax) - 
 - [MarkDaoust/models](https://github.com/MarkDaoust/models) - Models built with TensorFlow
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [jpzxshi/sympnets](https://github.com/jpzxshi/sympnets) - 
@@ -2158,7 +2161,7 @@
 - [Palashio/libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
-- [deepmind/sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library
+- [google-deepmind/sonnet](https://github.com/google-deepmind/sonnet) - TensorFlow-based neural network library
 - [probtorch/probtorch](https://github.com/probtorch/probtorch) - Probabilistic Torch is library for deep generative models that extends PyTorch
 - [kunalb/panopticon](https://github.com/kunalb/panopticon) - Python tracing module to visualize code execution.
 - [mnicnc404/CartoonGan-tensorflow](https://github.com/mnicnc404/CartoonGan-tensorflow) - Generate your own cartoon-style images with CartoonGAN (CVPR 2018), powered by TensorFlow 2.0 Alpha.
@@ -2203,7 +2206,7 @@
 - [IntelPython/scikit-learn_bench](https://github.com/IntelPython/scikit-learn_bench) - scikit-learn_bench benchmarks various implementations of machine learning algorithms across data analytics frameworks. It currently support the scikit-learn, DAAL4PY, cuML, and XGBoost frameworks for 
 - [gcarleo/mydocstring](https://github.com/gcarleo/mydocstring) - A tool for extracting and converting Google-style docstrings to plain-text, Markdown, and JSON
 - [autonomousvision/occupancy_flow](https://github.com/autonomousvision/occupancy_flow) - This repository contains the code for the ICCV 2019 paper "Occupancy Flow - 4D Reconstruction by Learning Particle Dynamics"
-- [deepmind/acme](https://github.com/deepmind/acme) - A library of reinforcement learning components and agents
+- [google-deepmind/acme](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents
 - [google/TensorNetwork](https://github.com/google/TensorNetwork) - A library for easy and efficient manipulation of tensor networks.
 - [Himscipy/bnn_hvd](https://github.com/Himscipy/bnn_hvd) - Distributed Training of Bayesian Neural Networks at Scale
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
@@ -2634,6 +2637,7 @@
 
 ## TypeScript 
 
+- [joelseq/obsidian-linkshelf](https://github.com/joelseq/obsidian-linkshelf) - 
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
