@@ -175,6 +175,7 @@
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [tuplex/tuplex](https://github.com/tuplex/tuplex) - Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather 
+- [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) - A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [google/ml-metadata](https://github.com/google/ml-metadata) - For recording and retrieving metadata associated with ML developer and data scientist workflows.
 - [ComputationalRadiationPhysics/picongpu](https://github.com/ComputationalRadiationPhysics/picongpu) - Performance-Portable Particle-in-Cell Simulations for the Exascale Era :sparkles:
 - [nv-legate/legate.pandas](https://github.com/nv-legate/legate.pandas) - An Aspiring Drop-In Replacement for Pandas at Scale
@@ -685,6 +686,7 @@
 
 ## Jupyter Notebook 
 
+- [MNoichl/opinionated](https://github.com/MNoichl/opinionated) - Opinionated provides simple, clean stylesheets for plotting with matplotlib and seaborn.
 - [autosome-ru/LegNet](https://github.com/autosome-ru/LegNet) - accurate prediction of promoter activity and variant effects from massive parallel reporter assays
 - [aditya-grover/climate-learn](https://github.com/aditya-grover/climate-learn) - Source code for ClimateLearn
 - [NERSC/pytorch-examples](https://github.com/NERSC/pytorch-examples) - PyTorch examples for NERSC systems
@@ -1105,6 +1107,7 @@
 
 ## Others 
 
+- [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
 - [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim) - 🚀 A great starting point for your LunarVim journey!
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -1265,6 +1268,7 @@
 
 ## Python 
 
+- [NERSC/nersc-dl-wandb](https://github.com/NERSC/nersc-dl-wandb) - Guidelines on using Weights and Biases logging for deep learning applications on NERSC machines
 - [kramea/aibedo](https://github.com/kramea/aibedo) - DARPA AIE (AI-Assisted Climate Tipping Point): AIBEDO (A hybrid AI framework to capture the effects of cloud properties on global circulation and regional climate patterns)
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
@@ -1721,7 +1725,6 @@
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
 - [wowchemy/hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli) - 📚 Import academic publications from Bibtex to your Markdown website. 将Bibtex转换为Markdown网站
 - [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
-- [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) - A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [fernandobrito/travel_log](https://github.com/fernandobrito/travel_log) - A static website generator for your trip and its records (pictures, tracks, journal, etc).
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
@@ -1935,7 +1938,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :orange_heart: This repository has 542 stars.
+- [iBug/This-Repo-Has-543-Stars](https://github.com/iBug/This-Repo-Has-543-Stars) - Yes, it's true :revolving_hearts: This repository has 543 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2020,7 +2023,7 @@
 - [datawhalechina/fantastic-matplotlib](https://github.com/datawhalechina/fantastic-matplotlib) - Matplotlib中文教程，在线阅读地址：https://datawhalechina.github.io/fantastic-matplotlib/
 - [gcucurull/jax-gcn](https://github.com/gcucurull/jax-gcn) - Graph Convolutional Networks in JAX
 - [marcelbischoff/tinygrad](https://github.com/marcelbischoff/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [aws/amazon-braket-examples](https://github.com/aws/amazon-braket-examples) - Example notebooks that show how to apply quantum computing in Amazon Braket.
+- [amazon-braket/amazon-braket-examples](https://github.com/amazon-braket/amazon-braket-examples) - Example notebooks that show how to apply quantum computing in Amazon Braket.
 - [carrasqu/POVM_GENMODEL](https://github.com/carrasqu/POVM_GENMODEL) - Reconstructing quantum states with generative models
 - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - [asperti/BalancingVAE](https://github.com/asperti/BalancingVAE) - An implementation of Variational Autoencoders with a constant balance between reconstruction error and Kullback-leibler divergence
