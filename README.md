@@ -389,6 +389,7 @@
 
 ## HTML 
 
+- [cranmer/active_sciencing](https://github.com/cranmer/active_sciencing) - active learning + reusable workflows + likelihood free inference
 - [djnavarro/quarto-blog](https://github.com/djnavarro/quarto-blog) - 
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
@@ -1107,6 +1108,7 @@
 
 ## Others 
 
+- [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
 - [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim) - 🚀 A great starting point for your LunarVim journey!
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
@@ -1268,6 +1270,9 @@
 
 ## Python 
 
+- [NickHunt-Smith/MCMC-diffusion](https://github.com/NickHunt-Smith/MCMC-diffusion) - A Metropolis-Hastings MCMC sampler accelerated via diffusion models
+- [Sohl-Dickstein/Diffusion-Probabilistic-Models](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models) - Reference implementation for Deep Unsupervised Learning using Nonequilibrium Thermodynamics
+- [mackelab/gatsbi](https://github.com/mackelab/gatsbi) - GATSBI: Generative Adversarial Training for Simulation-Based Inference
 - [NERSC/nersc-dl-wandb](https://github.com/NERSC/nersc-dl-wandb) - Guidelines on using Weights and Biases logging for deep learning applications on NERSC machines
 - [kramea/aibedo](https://github.com/kramea/aibedo) - DARPA AIE (AI-Assisted Climate Tipping Point): AIBEDO (A hybrid AI framework to capture the effects of cloud properties on global circulation and regional climate patterns)
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
