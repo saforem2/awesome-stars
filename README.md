@@ -71,6 +71,7 @@
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -175,7 +176,6 @@
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [tuplex/tuplex](https://github.com/tuplex/tuplex) - Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather 
-- [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) - A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [google/ml-metadata](https://github.com/google/ml-metadata) - For recording and retrieving metadata associated with ML developer and data scientist workflows.
 - [ComputationalRadiationPhysics/picongpu](https://github.com/ComputationalRadiationPhysics/picongpu) - Performance-Portable Particle-in-Cell Simulations for the Exascale Era :sparkles:
 - [nv-legate/legate.pandas](https://github.com/nv-legate/legate.pandas) - An Aspiring Drop-In Replacement for Pandas at Scale
@@ -244,6 +244,7 @@
 
 ## CSS 
 
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [gapmiss/badges](https://github.com/gapmiss/badges) - A light-weight plugin for displaying inline "badges" in Obsidian.md
 - [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
 - [saforem2/climate-analysis](https://github.com/saforem2/climate-analysis) - Climate Analysis project using ClimRR data
@@ -389,6 +390,7 @@
 
 ## HTML 
 
+- [jurjoroa/hcc-website](https://github.com/jurjoroa/hcc-website) - Repository of the Hertie Coding Club website. Built with Quarto
 - [cranmer/active_sciencing](https://github.com/cranmer/active_sciencing) - active learning + reusable workflows + likelihood free inference
 - [djnavarro/quarto-blog](https://github.com/djnavarro/quarto-blog) - 
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
@@ -687,6 +689,8 @@
 
 ## Jupyter Notebook 
 
+- [hamelsmu/hamel](https://github.com/hamelsmu/hamel) - Repo for Hamel's Professional Website
+- [hamelsmu/wandb-cicd](https://github.com/hamelsmu/wandb-cicd) - 
 - [MNoichl/opinionated](https://github.com/MNoichl/opinionated) - Opinionated provides simple, clean stylesheets for plotting with matplotlib and seaborn.
 - [autosome-ru/LegNet](https://github.com/autosome-ru/LegNet) - accurate prediction of promoter activity and variant effects from massive parallel reporter assays
 - [aditya-grover/climate-learn](https://github.com/aditya-grover/climate-learn) - Source code for ClimateLearn
@@ -1108,6 +1112,7 @@
 
 ## Others 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
 - [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim) - 🚀 A great starting point for your LunarVim journey!
@@ -1270,6 +1275,7 @@
 
 ## Python 
 
+- [openml/automlbenchmark](https://github.com/openml/automlbenchmark) - OpenML AutoML Benchmarking Framework
 - [NickHunt-Smith/MCMC-diffusion](https://github.com/NickHunt-Smith/MCMC-diffusion) - A Metropolis-Hastings MCMC sampler accelerated via diffusion models
 - [Sohl-Dickstein/Diffusion-Probabilistic-Models](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models) - Reference implementation for Deep Unsupervised Learning using Nonequilibrium Thermodynamics
 - [mackelab/gatsbi](https://github.com/mackelab/gatsbi) - GATSBI: Generative Adversarial Training for Simulation-Based Inference
@@ -1730,6 +1736,7 @@
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
 - [wowchemy/hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli) - 📚 Import academic publications from Bibtex to your Markdown website. 将Bibtex转换为Markdown网站
 - [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
+- [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) - A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [fernandobrito/travel_log](https://github.com/fernandobrito/travel_log) - A static website generator for your trip and its records (pictures, tracks, journal, etc).
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
@@ -2829,6 +2836,10 @@
 - [ActivityWatch/aw-webui](https://github.com/ActivityWatch/aw-webui) - Webapp for visualizing and browsing ActivityWatch data, built with Vue.js.
 - [slidevjs/themes](https://github.com/slidevjs/themes) - Official themes for Slidev
 - [duerrsimon/bioicons](https://github.com/duerrsimon/bioicons) - A library of free open source icons for science illustrations in biology and chemistry
+
+## Zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
