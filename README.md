@@ -461,6 +461,7 @@
 
 ## JavaScript 
 
+- [linkpreview/linkpreview](https://github.com/linkpreview/linkpreview) - Open Graph, Twitter Card, Oembed preview. Shows visual cards that mimic link previews in Social Media like facebook, twitter, vk and other sites that support link preview.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
 - [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories
 - [lucienimmink/RevealLiveCode](https://github.com/lucienimmink/RevealLiveCode) - Live coding plugin for reveal.js
@@ -1275,6 +1276,8 @@
 
 ## Python 
 
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [DragonHPC/dragon](https://github.com/DragonHPC/dragon) - Dragon distributed runtime for HPC and AI applications and workflows
 - [openml/automlbenchmark](https://github.com/openml/automlbenchmark) - OpenML AutoML Benchmarking Framework
 - [NickHunt-Smith/MCMC-diffusion](https://github.com/NickHunt-Smith/MCMC-diffusion) - A Metropolis-Hastings MCMC sampler accelerated via diffusion models
 - [Sohl-Dickstein/Diffusion-Probabilistic-Models](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models) - Reference implementation for Deep Unsupervised Learning using Nonequilibrium Thermodynamics
@@ -2654,7 +2657,7 @@
 
 ## TypeScript 
 
-- [joelseq/obsidian-linkshelf](https://github.com/joelseq/obsidian-linkshelf) - 
+- [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
