@@ -985,6 +985,7 @@
 
 ## Lua 
 
+- [ginolhac/unilur](https://github.com/ginolhac/unilur) - A quarto extension for writing teaching practicals
 - [clearmatics/qreacto](https://github.com/clearmatics/qreacto) - Run standalone React components in your Quarto project!
 - [schochastics/quarto-nutshell](https://github.com/schochastics/quarto-nutshell) - Include expandable explanations in quarto documents
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
@@ -1278,6 +1279,7 @@
 
 ## Python 
 
+- [TPC-AI/data-general-text-code-web](https://github.com/TPC-AI/data-general-text-code-web) - Material relating to data-general-text-code-web
 - [ramanathanlab/genslm](https://github.com/ramanathanlab/genslm) - GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [DragonHPC/dragon](https://github.com/DragonHPC/dragon) - Dragon distributed runtime for HPC and AI applications and workflows
@@ -1400,7 +1402,7 @@
 - [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
 - [IdahoLabResearch/BIhNNs](https://github.com/IdahoLabResearch/BIhNNs) - The code enables to perform Bayesian inference in an efficient manner through the use of Hamiltonian Neural Networks (HNNs), Deep Neural Networks (DNNs), Neural ODEs, and Symplectic Neural Networks (S
 - [antoinecollas/Entropic_Wasserstein_Component_Analysis](https://github.com/antoinecollas/Entropic_Wasserstein_Component_Analysis) - Python of "Entropic Wasserstein Component Analysis" paper
-- [LatticeQCD/LatticeToolbox](https://github.com/LatticeQCD/LatticeToolbox) - A set of Python tools for analyzing physics data, in particular targeting lattice QCD.
+- [LatticeQCD/LatticeToolbox](https://github.com/LatticeQCD/LatticeToolbox) - A set of Python tools for statistically analyzing correlated data and probing aspects of QCD phenomenology, with an eye toward lattice applications.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [Blealtan/RWKV-LM-LoRA](https://github.com/Blealtan/RWKV-LM-LoRA) - RWKV is a RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sav
 - [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python.
@@ -1739,7 +1741,7 @@
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [iffsid/mmvae](https://github.com/iffsid/mmvae) - Multimodal Mixture-of-Experts VAE
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
-- [wowchemy/hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli) - 📚 Import academic publications from Bibtex to your Markdown website. 将Bibtex转换为Markdown网站
+- [wowchemy/bibtex-to-markdown](https://github.com/wowchemy/bibtex-to-markdown) - 📚 Import references from Bibtex to your Markdown website or book. 将Bibtex转换为Markdown网站
 - [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
 - [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) - A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [fernandobrito/travel_log](https://github.com/fernandobrito/travel_log) - A static website generator for your trip and its records (pictures, tracks, journal, etc).
@@ -2662,7 +2664,7 @@
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
-- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
