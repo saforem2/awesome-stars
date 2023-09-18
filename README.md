@@ -1279,6 +1279,7 @@
 
 ## Python 
 
+- [bjlittle/geovista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista
 - [TPC-AI/data-general-text-code-web](https://github.com/TPC-AI/data-general-text-code-web) - Material relating to data-general-text-code-web
 - [ramanathanlab/genslm](https://github.com/ramanathanlab/genslm) - GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
