@@ -253,7 +253,6 @@
 - [shafayetShafee/code-fullscreen](https://github.com/shafayetShafee/code-fullscreen) - Quarto Extension filter that adds a full screen button in the code blocks in RevealJs slides and html documents.
 - [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
 - [schochastics/quarto-blackboard-theme](https://github.com/schochastics/quarto-blackboard-theme) - A quarto reveal js theme
-- [Comfy-Themes/Spicetify](https://github.com/Comfy-Themes/Spicetify) - Stay comfy while listening to music
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [Evelf/obsidian-recipes](https://github.com/Evelf/obsidian-recipes) - Tips and tricks for obsidian.md configuration
 - [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
@@ -483,6 +482,7 @@
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [malcolmbarrett/kakashi-quarto-theme](https://github.com/malcolmbarrett/kakashi-quarto-theme) - 
 - [ekholme/demo_quarto_site](https://github.com/ekholme/demo_quarto_site) - A demo quarto site with a few tweaks
+- [Comfy-Themes/Spicetify](https://github.com/Comfy-Themes/Spicetify) - Stay comfy while listening to music
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [michalbe/md-file-tree](https://github.com/michalbe/md-file-tree) - Generate markdown list of all the files in a directory. Now also with emoji 📂 📄
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
@@ -692,6 +692,7 @@
 
 ## Jupyter Notebook 
 
+- [tanelp/tiny-diffusion](https://github.com/tanelp/tiny-diffusion) - A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.
 - [hamelsmu/hamel](https://github.com/hamelsmu/hamel) - Repo for Hamel's Professional Website
 - [hamelsmu/wandb-cicd](https://github.com/hamelsmu/wandb-cicd) - 
 - [MNoichl/opinionated](https://github.com/MNoichl/opinionated) - Opinionated provides simple, clean stylesheets for plotting with matplotlib and seaborn.
@@ -2016,7 +2017,7 @@
 - [toshikwa/rljax](https://github.com/toshikwa/rljax) - A collection of RL algorithms written in JAX.
 - [mariogeiger/se3cnn](https://github.com/mariogeiger/se3cnn) - Euclidean Neural Networks
 - [google-deepmind/optax](https://github.com/google-deepmind/optax) - Optax is a gradient processing and optimization library for JAX.
-- [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :)
+- [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
 - [jmoy/plotdf](https://github.com/jmoy/plotdf) - Python package to plot phase portraits of 2D differential equations.
 - [cuemacro/chartpy](https://github.com/cuemacro/chartpy) - Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more
 - [madisonmay/BlackWidow](https://github.com/madisonmay/BlackWidow) - Visualizing Python Project Import Graphs
@@ -2404,7 +2405,7 @@
 - [walmes/Tikz](https://github.com/walmes/Tikz) - Galley of Tikz drawings.
 - [joonhap/THT_source](https://github.com/joonhap/THT_source) - source files for tempered Hamiltonian transitions
 - [bonStats/smcdar](https://github.com/bonStats/smcdar) - Data and code to accompany paper "Accelerating sequential Monte Carlo with surrogate likelihoods"
-- [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objectiv
+- [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, AI/ML-powered and open sourced Marketing Mix Modeling (MMM) package from Meta Marketing Science. Our mission is to democratise modeling knowledge, inspire the industry throug
 - [yao-yl/path-tempering](https://github.com/yao-yl/path-tempering) - continuous tempering by path sampling
 - [wxwx1993/PM_COVID](https://github.com/wxwx1993/PM_COVID) - Public Available Code and Data to Reproduce Analyses in "Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis."
 - [kaskr/tmbstan](https://github.com/kaskr/tmbstan) - 
