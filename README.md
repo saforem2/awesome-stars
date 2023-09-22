@@ -1282,6 +1282,7 @@
 
 ## Python 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [google/grain](https://github.com/google/grain) - 
 - [bjlittle/geovista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista
@@ -1408,7 +1409,7 @@
 - [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
 - [IdahoLabResearch/BIhNNs](https://github.com/IdahoLabResearch/BIhNNs) - The code enables to perform Bayesian inference in an efficient manner through the use of Hamiltonian Neural Networks (HNNs), Deep Neural Networks (DNNs), Neural ODEs, and Symplectic Neural Networks (S
 - [antoinecollas/Entropic_Wasserstein_Component_Analysis](https://github.com/antoinecollas/Entropic_Wasserstein_Component_Analysis) - Python of "Entropic Wasserstein Component Analysis" paper
-- [LatticeQCD/LatticeToolbox](https://github.com/LatticeQCD/LatticeToolbox) - A set of Python tools for statistically analyzing correlated data. This includes aspects of lattice QCD applications related to QCD phenomenology.
+- [LatticeQCD/AnalysisToolbox](https://github.com/LatticeQCD/AnalysisToolbox) - A set of Python tools for statistically analyzing correlated data. This includes aspects of lattice QCD applications related to QCD phenomenology.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [Blealtan/RWKV-LM-LoRA](https://github.com/Blealtan/RWKV-LM-LoRA) - RWKV is a RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sav
 - [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python.
@@ -1522,7 +1523,7 @@
 - [untitled-ai/jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending) - Ascend your Jupyter Notebook usage
 - [aidos-lab/pytorch-topological](https://github.com/aidos-lab/pytorch-topological) - A topological machine learning framework based on PyTorch
 - [mit-ll-responsible-ai/hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Create powerful Hydra applications without the yaml files and boilerplate code.
-- [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a sampling library designed for ease of use, speed and modularity.
+- [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a Bayesian Inference library designed for ease of use, speed and modularity.
 - [rikab/GaussianAnsatz](https://github.com/rikab/GaussianAnsatz) - 
 - [fidelity/spock](https://github.com/fidelity/spock) - spock is a framework that helps manage complex parameter configurations during research and development of Python applications
 - [gao-lab/GLUE](https://github.com/gao-lab/GLUE) - Graph-linked unified embedding for single-cell multi-omics data integration
