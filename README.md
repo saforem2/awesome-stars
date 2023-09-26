@@ -710,6 +710,7 @@
 - [empathy87/storytelling-with-data](https://github.com/empathy87/storytelling-with-data) - Plots from the book "Storytelling with data" implementation using Python and matplotlib
 - [jiwidi/time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) - A use-case focused tutorial for time series forecasting with python
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption
+- [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [gradient-ai/stable-diffusion](https://github.com/gradient-ai/stable-diffusion) - 
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [FrancescoSaverioZuppichini/glasses](https://github.com/FrancescoSaverioZuppichini/glasses) - High-quality Neural Networks for Computer Vision 😎
@@ -1130,7 +1131,6 @@
 - [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
-- [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [ecomfe/awesome-echarts](https://github.com/ecomfe/awesome-echarts) - Awesome list of  Apache ECharts
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
@@ -1633,7 +1633,6 @@
 - [google-deepmind/xmanager](https://github.com/google-deepmind/xmanager) - A platform for managing machine learning experiments
 - [amorehead/Equivariant-GNNs](https://github.com/amorehead/Equivariant-GNNs) - An environment for running experiments with equivariant GNN architectures
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
-- [kevinzakka/densenet](https://github.com/kevinzakka/densenet) - A PyTorch Implementation of "Densely Connected Convolutional Networks"
 - [sparticlesteve/ocp](https://github.com/sparticlesteve/ocp) - https://opencatalystproject.org/
 - [azrael417/mlperf-deepcam](https://github.com/azrael417/mlperf-deepcam) - This is the public repo for the MLPerf DeepCAM climate data segmentation proposal.
 - [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - A terminal UI to inspect and explore Python objects
