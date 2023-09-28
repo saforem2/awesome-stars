@@ -1230,7 +1230,7 @@
 - [PurpleBooth/a-good-readme-template](https://github.com/PurpleBooth/a-good-readme-template) - A template to make good README.md
 - [hsf-training/PyHEP-resources](https://github.com/hsf-training/PyHEP-resources) - Python libraries of interest to particle physicists.  This is meant for educational purposes.
 - [ZhihangXu/Scientific-computing-paper](https://github.com/ZhihangXu/Scientific-computing-paper) - 
-- [Thenerdstation/TensorNetsForML](https://github.com/Thenerdstation/TensorNetsForML) - Code for the paper "Tensor Networks for Maching Learning"
+- [chaserileyroberts/TensorNetsForML](https://github.com/chaserileyroberts/TensorNetsForML) - Code for the paper "Tensor Networks for Maching Learning"
 - [refraction-ray/admc](https://github.com/refraction-ray/admc) - Infinite order automatic differentiation for Monte Carlo with unnormalized probability distribution
 - [manjunath5496/AI-Lecture-Notes](https://github.com/manjunath5496/AI-Lecture-Notes) - "Look at you, hacker: a pathetic creature of meat and bone, panting and sweating as you run through my corridors. How can you challenge a perfect, immortal machine?" ― Ken Levine
 - [jaintj95/Math_by_Richard_Feynman](https://github.com/jaintj95/Math_by_Richard_Feynman) - A repo of curated links to Math lectures by Prof. Richard Feynman
