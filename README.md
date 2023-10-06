@@ -694,6 +694,7 @@
 
 ## Jupyter Notebook 
 
+- [joelsewhere/quarto_django](https://github.com/joelsewhere/quarto_django) - 
 - [marylou-gabrie/flonaco](https://github.com/marylou-gabrie/flonaco) - 
 - [svsamsonov/ex2mcmc_new](https://github.com/svsamsonov/ex2mcmc_new) - 
 - [tanelp/tiny-diffusion](https://github.com/tanelp/tiny-diffusion) - A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.
@@ -1283,6 +1284,8 @@
 
 ## Python 
 
+- [machow/quartodoc](https://github.com/machow/quartodoc) - Generate API documentation with quarto
+- [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
