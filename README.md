@@ -2554,6 +2554,7 @@
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [richin13/dotfiles](https://github.com/richin13/dotfiles) - My dotfiles: (Neovim + Zsh + Tmux) optimized for Python & React development 🤑
+- [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action) - :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
 - [RescueTime/git-commits-to-rescuetime-daily-highlights](https://github.com/RescueTime/git-commits-to-rescuetime-daily-highlights) - An example script to show how to log code commits as Daily Highlights in RescueTime
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
 - [learex/macOS-eGPU](https://github.com/learex/macOS-eGPU) - Make your Mac compatible with NVIDIA and AMD eGPUs. (macOS High Sierra)
@@ -2651,7 +2652,6 @@
 - [TensorNetwork/tensornetwork.org](https://github.com/TensorNetwork/tensornetwork.org) - Source for The Tensor Network open-source review article
 - [saforem2/thesis](https://github.com/saforem2/thesis) - PhD Thesis
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
-- [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action) - :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
 - [namedtensor/notation](https://github.com/namedtensor/notation) - 
 - [wzpan/BeamerStyleSlides](https://github.com/wzpan/BeamerStyleSlides) - 🌈Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。
 - [mastwood/advancedquantum](https://github.com/mastwood/advancedquantum) - My notes from Advanced Quantum Theory (taught by Tobias Osborne). This course covers the mathematical formalism and physics of many-particle quantum mechanics (in the framework of manifolds and config
