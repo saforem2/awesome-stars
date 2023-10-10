@@ -89,6 +89,7 @@
 
 ## C 
 
+- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [fletcher/MultiMarkdown-6](https://github.com/fletcher/MultiMarkdown-6) - Lightweight markup processor to produce HTML, LaTeX, and more.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -215,7 +216,6 @@
 - [MelkoCollective/SourKRAUT](https://github.com/MelkoCollective/SourKRAUT) - Quantum Simulator using Unitary Tensor Networks
 - [JeffersonLab/chroma](https://github.com/JeffersonLab/chroma) - The Chroma Software System for Lattice QCD
 - [lattice/quda](https://github.com/lattice/quda) - QUDA is a library for performing calculations in lattice QCD on GPUs.
-- [ntclark/Graphic](https://github.com/ntclark/Graphic) - Powerful as a stand-alone plotting application - but ALSO a COM/ActiveX object - put it in YOUR system very easily !
 - [intel/MLSL](https://github.com/intel/MLSL) - Intel(R) Machine Learning Scaling Library is a library providing an efficient implementation of communication patterns used in deep learning.
 - [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
 - [paboyle/Grid](https://github.com/paboyle/Grid) - Data parallel C++ mathematical object library
@@ -331,7 +331,6 @@
 ## Fortran 
 
 - [nwchemgit/nwchem](https://github.com/nwchemgit/nwchem) - NWChem: Open Source High-Performance Computational Chemistry
-- [argonne-lcf/ALCF_Hands_on_HPC_Workshop](https://github.com/argonne-lcf/ALCF_Hands_on_HPC_Workshop) - The ALCF hosts a regular simulation, data, and learning workshop to help users scale their applications. This repository contains the examples used in the workshop.
 - [jeffhammond/blog](https://github.com/jeffhammond/blog) - My blog.
 - [madebr/pyOpt](https://github.com/madebr/pyOpt) - Fork of http://www.pyopt.org/ (python3 compatible)
 - [mhoffman/kmos](https://github.com/mhoffman/kmos) - kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier
@@ -1304,7 +1303,6 @@
 - [NERSC/nersc-dl-wandb](https://github.com/NERSC/nersc-dl-wandb) - Guidelines on using Weights and Biases logging for deep learning applications on NERSC machines
 - [kramea/aibedo](https://github.com/kramea/aibedo) - DARPA AIE (AI-Assisted Climate Tipping Point): AIBEDO (A hybrid AI framework to capture the effects of cloud properties on global circulation and regional climate patterns)
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [li-js/gpu_memory_profiling](https://github.com/li-js/gpu_memory_profiling) - Profile the GPU memory usage of every line in a Pytorch code
 - [NVlabs/edm](https://github.com/NVlabs/edm) - Elucidating the Design Space of Diffusion-Based Generative Models (EDM)
 - [qsh-zh/DiffFlow](https://github.com/qsh-zh/DiffFlow) - [Neurips 2021]Diffusion Normalizing Flow (DiffFlow)
@@ -1452,7 +1450,7 @@
 - [mshakerinava/Equivariant-Networks-for-Pixelized-Spheres](https://github.com/mshakerinava/Equivariant-Networks-for-Pixelized-Spheres) - Authors' implementation of the paper "Equivariant Networks for Pixelized Spheres" published at ICML 2021.
 - [mshakerinava/AutoEquiv](https://github.com/mshakerinava/AutoEquiv) - Group Equivariant Linear Maps
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
-- [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
 - [probml/probml-utils](https://github.com/probml/probml-utils) - Utilities for probabilistic ML
 - [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -2051,6 +2049,7 @@
 - [pymanopt/pymanopt](https://github.com/pymanopt/pymanopt) - Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
 - [MaginnGroup/PyLAT](https://github.com/MaginnGroup/PyLAT) - 
 - [federicobergamin/Variational-Inference-with-Normalizing-Flows](https://github.com/federicobergamin/Variational-Inference-with-Normalizing-Flows) - Personal implementation of "Variational Inference with Normalizing Flows" by [Rezende, et al., 2015] in PyTorch
+- [argonne-lcf/ALCF_Hands_on_HPC_Workshop](https://github.com/argonne-lcf/ALCF_Hands_on_HPC_Workshop) - The ALCF hosts a regular simulation, data, and learning workshop to help users scale their applications. This repository contains the examples used in the workshop.
 - [Romit-Maulik/PAR-RL](https://github.com/Romit-Maulik/PAR-RL) - Scaling RLLib for generic simulation environments on Theta
 - [datawhalechina/fantastic-matplotlib](https://github.com/datawhalechina/fantastic-matplotlib) - Matplotlib中文教程，在线阅读地址：https://datawhalechina.github.io/fantastic-matplotlib/
 - [gcucurull/jax-gcn](https://github.com/gcucurull/jax-gcn) - Graph Convolutional Networks in JAX
@@ -2562,7 +2561,7 @@
 - [BrandonRoehl/zsh-clean](https://github.com/BrandonRoehl/zsh-clean) - Minimal customizable ZSH theme
 - [mjrafferty/apollo-zsh-theme](https://github.com/mjrafferty/apollo-zsh-theme) - Heavily customizable, compatible, and fast ZSH theme framework.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [jjangsangy/MacOS-TensorflowBuilds](https://github.com/jjangsangy/MacOS-TensorflowBuilds) - Optimized tensorflow wheels binaries build for macos
 - [umurgdk/ddnotes](https://github.com/umurgdk/ddnotes) - drop down notes for linux window managers
