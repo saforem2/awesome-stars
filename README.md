@@ -48,6 +48,7 @@
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
+- [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Prolog](#prolog)
@@ -89,6 +90,7 @@
 
 ## C 
 
+- [LLNL/scr](https://github.com/LLNL/scr) - SCR caches checkpoint data in storage on the compute nodes of a Linux cluster to provide a fast, scalable checkpoint / restart capability for MPI codes.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [fletcher/MultiMarkdown-6](https://github.com/fletcher/MultiMarkdown-6) - Lightweight markup processor to produce HTML, LaTeX, and more.
@@ -410,7 +412,6 @@
 - [haptork/csaransh](https://github.com/haptork/csaransh) - Study, Explore and Visualize Collision Cascades
 - [rajgoel/reveal.js-demos](https://github.com/rajgoel/reveal.js-demos) - Demo presentations for reveal.js
 - [mavroudisv/plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
-- [LibraryCarpentry/lc-overview](https://github.com/LibraryCarpentry/lc-overview) - Library Carpentry Workshop Overview
 - [zhengying/hungrymark](https://github.com/zhengying/hungrymark) - hungrymark website
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints](https://github.com/Rahulkumarr2080/Comcast-Telecom-Consumer-Complaints) - Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (Octob
@@ -427,6 +428,7 @@
 - [Inventium/latexcolor.com](https://github.com/Inventium/latexcolor.com) - 
 - [MisaOgura/flashtorch](https://github.com/MisaOgura/flashtorch) - Visualization toolkit for neural networks in PyTorch! Demo --&gt;
 - [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged websit
+- [argonne-lcf/ALCF_Hands_on_HPC_Workshop](https://github.com/argonne-lcf/ALCF_Hands_on_HPC_Workshop) - The ALCF hosts a regular simulation, data, and learning workshop to help users scale their applications. This repository contains the examples used in the workshop.
 - [keceli/ezHPC](https://github.com/keceli/ezHPC) - Interactive and simplified high-performance computing with Jupyter notebook
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [RealOrangeOne/hugo-theme-revealjs](https://github.com/RealOrangeOne/hugo-theme-revealjs) - Use Hugo to build a presentation, powered by RevealJS
@@ -462,11 +464,11 @@
 
 ## JavaScript 
 
+- [shafayetShafee/reveal-header](https://github.com/shafayetShafee/reveal-header) - A Quarto filter extension that helps to add header text and header logo in all pages of RevealJs slide
 - [linkpreview/linkpreview](https://github.com/linkpreview/linkpreview) - Open Graph, Twitter Card, Oembed preview. Shows visual cards that mimic link previews in Social Media like facebook, twitter, vk and other sites that support link preview.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
 - [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories
 - [lucienimmink/RevealLiveCode](https://github.com/lucienimmink/RevealLiveCode) - Live coding plugin for reveal.js
-- [peterdoherty01/reveal.js-typed](https://github.com/peterdoherty01/reveal.js-typed) - Implement a typewriter effect using Type.js as a plugin for Reveal.js, the HTML Presentation Framework.
 - [denehyg/reveal.js-menu](https://github.com/denehyg/reveal.js-menu) - Slide out menu for reveal.js
 - [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker) - Read Medium content without limit!
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -600,6 +602,8 @@
 
 ## Julia 
 
+- [impICNF/ContinuousNormalizingFlows.jl](https://github.com/impICNF/ContinuousNormalizingFlows.jl) - Implementations of Infinitesimal Continuous Normalizing Flows Algorithms in Julia
+- [JuliaGraphics/ColorSchemes.jl](https://github.com/JuliaGraphics/ColorSchemes.jl) - colorschemes, colormaps, gradients, and palettes
 - [JuliaGNI/GeometricMachineLearning.jl](https://github.com/JuliaGNI/GeometricMachineLearning.jl) - Structure Preserving Machine Learning Models in Julia
 - [FluxML/model-zoo](https://github.com/FluxML/model-zoo) - Please do not feed the models
 - [Nemocas/AbstractAlgebra.jl](https://github.com/Nemocas/AbstractAlgebra.jl) - Generic abstract algebra functionality in pure Julia (no C dependencies)
@@ -693,6 +697,7 @@
 
 ## Jupyter Notebook 
 
+- [run-house/funhouse](https://github.com/run-house/funhouse) - Fun stuff to do with runhouse
 - [KislayaRavi/MuDaFuGP](https://github.com/KislayaRavi/MuDaFuGP) - 
 - [joelsewhere/quarto_django](https://github.com/joelsewhere/quarto_django) - 
 - [marylou-gabrie/flonaco](https://github.com/marylou-gabrie/flonaco) - 
@@ -991,6 +996,7 @@
 
 ## Lua 
 
+- [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [ginolhac/unilur](https://github.com/ginolhac/unilur) - A quarto extension for writing teaching practicals
 - [clearmatics/qreacto](https://github.com/clearmatics/qreacto) - Run standalone React components in your Quarto project!
 - [schochastics/quarto-nutshell](https://github.com/schochastics/quarto-nutshell) - Include expandable explanations in quarto documents
@@ -1121,6 +1127,7 @@
 
 ## Others 
 
+- [saforem2/diagrams](https://github.com/saforem2/diagrams) - Repo of various `draw.io` diagrams
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
@@ -1161,6 +1168,7 @@
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
 - [data-apis/consortium-feedback](https://github.com/data-apis/consortium-feedback) - A repository for discussions related and for giving feedback on the Consortium
+- [LibraryCarpentry/lc-overview](https://github.com/LibraryCarpentry/lc-overview) - Library Carpentry Workshop Overview
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [gwisk/gradguide](https://github.com/gwisk/gradguide) - A guide on STEM PhD admissions
 - [saforem2/awesome-stars](https://github.com/saforem2/awesome-stars) - A curated list of my GitHub stars!
@@ -1265,6 +1273,10 @@
 - [pjreddie/TopDeepLearning](https://github.com/pjreddie/TopDeepLearning) - A list of popular github projects related to deep learning
 - [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated)
 
+## PHP 
+
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+
 ## Perl 
 
 - [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) - LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
@@ -1284,6 +1296,8 @@
 
 ## Python 
 
+- [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks with auto parallelization.
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [zdhNarsil/Diffusion-Generative-Flow-Samplers](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers) - PyTorch implementation for our paper "Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization"
 - [machow/quartodoc](https://github.com/machow/quartodoc) - Generate API documentation with quarto
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
@@ -1342,6 +1356,7 @@
 - [zengyi-li/MDSM](https://github.com/zengyi-li/MDSM) - Multiscale de-noising score matching
 - [WenboGong/Sliced_Kernelized_Stein_Discrepancy](https://github.com/WenboGong/Sliced_Kernelized_Stein_Discrepancy) - This repo implements the main experiments for sliced kernelized Stein discrepancy and active slices method.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Guides and Tools
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is a platform for open source maintainers to get better funding
 - [microsoft/admin-torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - The Python DataFrame for Complex Data
@@ -1776,7 +1791,7 @@
 - [tensorflow/tfx](https://github.com/tensorflow/tfx) - TFX is an end-to-end platform for deploying production ML pipelines
 - [intake/intake-xarray](https://github.com/intake/intake-xarray) - Intake plugin for xarray
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use modular observability for AI Systems. Extensible, scalable and modular.
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [f-dangel/backpack](https://github.com/f-dangel/backpack) - BackPACK - a backpropagation package built on top of PyTorch which efficiently computes quantities other than the gradient.
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
@@ -2048,7 +2063,6 @@
 - [pymanopt/pymanopt](https://github.com/pymanopt/pymanopt) - Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
 - [MaginnGroup/PyLAT](https://github.com/MaginnGroup/PyLAT) - 
 - [federicobergamin/Variational-Inference-with-Normalizing-Flows](https://github.com/federicobergamin/Variational-Inference-with-Normalizing-Flows) - Personal implementation of "Variational Inference with Normalizing Flows" by [Rezende, et al., 2015] in PyTorch
-- [argonne-lcf/ALCF_Hands_on_HPC_Workshop](https://github.com/argonne-lcf/ALCF_Hands_on_HPC_Workshop) - The ALCF hosts a regular simulation, data, and learning workshop to help users scale their applications. This repository contains the examples used in the workshop.
 - [Romit-Maulik/PAR-RL](https://github.com/Romit-Maulik/PAR-RL) - Scaling RLLib for generic simulation environments on Theta
 - [datawhalechina/fantastic-matplotlib](https://github.com/datawhalechina/fantastic-matplotlib) - Matplotlib中文教程，在线阅读地址：https://datawhalechina.github.io/fantastic-matplotlib/
 - [gcucurull/jax-gcn](https://github.com/gcucurull/jax-gcn) - Graph Convolutional Networks in JAX
@@ -2450,6 +2464,8 @@
 
 ## Rust 
 
+- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
+- [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim) - :rocket: Blazingly fast colorscheme generator for Neovim written in Rust :crab:
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [caphindsight/ergothic](https://github.com/caphindsight/ergothic) - Rust library for setting up and running distributed Monte-Carlo statistical simulations. Designed primarily for lattice QCD.
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
@@ -2514,6 +2530,7 @@
 
 ## Shell 
 
+- [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [zap-zsh/zap](https://github.com/zap-zsh/zap) - :zap: Zap is a minimal zsh plugin manager
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
@@ -2672,6 +2689,7 @@
 
 ## TypeScript 
 
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
@@ -2682,7 +2700,6 @@
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [daksh2k/Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) - Some spicetify extensions!
 - [jupyterlab-contrib/jupyterlab-theme-editor](https://github.com/jupyterlab-contrib/jupyterlab-theme-editor) - Extension providing a theme editor where colors, font families and font sizes of the elements of the user interface can be varied
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is a platform for open source maintainers to get better funding
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
@@ -2803,6 +2820,7 @@
 
 ## Vim Script 
 
+- [felipec/vim-felipec](https://github.com/felipec/vim-felipec) - Vim color scheme: dark, bright, simple.
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
 - [luk400/vim-jukit](https://github.com/luk400/vim-jukit) - Jupyter-Notebook inspired Neovim/Vim Plugin
 - [goerz/jupytext.vim](https://github.com/goerz/jupytext.vim) - Vim plugin for editing Jupyter ipynb files via jupytext
