@@ -1296,6 +1296,7 @@
 
 ## Python 
 
+- [erikrose/blessings](https://github.com/erikrose/blessings) - A thin, practical wrapper around terminal capabilities in Python
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks with auto parallelization.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [zdhNarsil/Diffusion-Generative-Flow-Samplers](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers) - PyTorch implementation for our paper "Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization"
