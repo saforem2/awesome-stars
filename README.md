@@ -220,7 +220,7 @@
 - [JeffersonLab/chroma](https://github.com/JeffersonLab/chroma) - The Chroma Software System for Lattice QCD
 - [lattice/quda](https://github.com/lattice/quda) - QUDA is a library for performing calculations in lattice QCD on GPUs.
 - [intel/MLSL](https://github.com/intel/MLSL) - Intel(R) Machine Learning Scaling Library is a library providing an efficient implementation of communication patterns used in deep learning.
-- [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
+- [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction
 - [paboyle/Grid](https://github.com/paboyle/Grid) - Data parallel C++ mathematical object library
 - [mspraggs/pyQCD](https://github.com/mspraggs/pyQCD) - pyQCD provides a Python library for running small-scale lattice QCD simulations on desktop and workstation computers.
 - [mgendres/multilevel_su2](https://github.com/mgendres/multilevel_su2) - 
@@ -605,6 +605,7 @@
 
 ## Julia 
 
+- [ChifiSource/Olive.jl](https://github.com/ChifiSource/Olive.jl) - pure julia notebooks
 - [impICNF/ContinuousNormalizingFlows.jl](https://github.com/impICNF/ContinuousNormalizingFlows.jl) - Implementations of Infinitesimal Continuous Normalizing Flows Algorithms in Julia
 - [JuliaGraphics/ColorSchemes.jl](https://github.com/JuliaGraphics/ColorSchemes.jl) - colorschemes, colormaps, gradients, and palettes
 - [JuliaGNI/GeometricMachineLearning.jl](https://github.com/JuliaGNI/GeometricMachineLearning.jl) - Structure Preserving Machine Learning Models in Julia
@@ -999,6 +1000,7 @@
 
 ## Lua 
 
+- [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Neovim plugin for Obsidian, written in Lua
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [ginolhac/unilur](https://github.com/ginolhac/unilur) - A quarto extension for writing teaching practicals
 - [clearmatics/qreacto](https://github.com/clearmatics/qreacto) - Run standalone React components in your Quarto project!
@@ -1837,7 +1839,7 @@
 - [anyoptimization/pymoo](https://github.com/anyoptimization/pymoo) - NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO
 - [facebookresearch/taskmodularnets](https://github.com/facebookresearch/taskmodularnets) - A set of neural network modules, which are small fully connected layers operating in semantic concept space. These modules are configured through a gating function conditioned on the task to produce f
 - [uvipen/Lego-generator](https://github.com/uvipen/Lego-generator) - 
-- [IntelAI/models](https://github.com/IntelAI/models) - Model Zoo for Intel® Architecture: contains Intel optimizations for running deep learning workloads on Intel® Xeon® Scalable processors
+- [IntelAI/models](https://github.com/IntelAI/models) - Intel® AI Reference Models: contains Intel optimizations for running deep learning workloads on Intel® Xeon® Scalable processors and Intel® Data Center GPUs
 - [bayesian-optimization/BayesianOptimization](https://github.com/bayesian-optimization/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code.  Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
@@ -1988,7 +1990,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-543-Stars](https://github.com/iBug/This-Repo-Has-543-Stars) - Yes, it's true :yellow_heart: This repository has 543 stars.
+- [iBug/This-Repo-Has-554-Stars](https://github.com/iBug/This-Repo-Has-554-Stars) - Yes, it's true :orange_heart: This repository has 554 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
