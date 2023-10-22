@@ -35,6 +35,7 @@
 - [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [MATLAB](#matlab)
@@ -992,6 +993,10 @@
 - [floydhub/tensorflow-notebooks-examples](https://github.com/floydhub/tensorflow-notebooks-examples) - Tensorflow Notebook Examples and Tutorials
 - [lightaime/cs231n](https://github.com/lightaime/cs231n) - cs231n assignments sovled by https://ghli.org
 - [ipython-books/cookbook-code](https://github.com/ipython-books/cookbook-code) - [DEPRECATED] See the new edition:
+
+## Kotlin 
+
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## LLVM 
 
@@ -2537,7 +2542,6 @@
 
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [unibas-gravis/icp-proposal](https://github.com/unibas-gravis/icp-proposal) - Source code to the paper "A Closest Point Proposal for MCMC-based Probabilistic Surface Registration"
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## Shell 
 
