@@ -928,7 +928,7 @@
 - [NERSC/dl4sci-tf-tutorials](https://github.com/NERSC/dl4sci-tf-tutorials) - Official TensorFlow 2.0 tutorial notebooks for the Deep Learning for Science School at LBNL
 - [rsln-s/ANL_tutorial_June_15](https://github.com/rsln-s/ANL_tutorial_June_15) - 
 - [pymc-devs/sunode](https://github.com/pymc-devs/sunode) - Solve ODEs fast, with support for PyMC
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [ketch/DEML](https://github.com/ketch/DEML) - Material for a course on differential equations in machine learning
 - [DLHub-Argonne/dlhub_examples](https://github.com/DLHub-Argonne/dlhub_examples) - 
 - [fengdu78/Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes) - 数据科学的笔记以及资料搜集
@@ -1005,6 +1005,7 @@
 
 ## Lua 
 
+- [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing!
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Neovim plugin for Obsidian, written in Lua
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [ginolhac/unilur](https://github.com/ginolhac/unilur) - A quarto extension for writing teaching practicals
@@ -1306,6 +1307,9 @@
 
 ## Python 
 
+- [axonn-ai/axonn](https://github.com/axonn-ai/axonn) - A parallel framework for training deep neural networks
+- [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
+- [cutecharts/cutecharts.py](https://github.com/cutecharts/cutecharts.py) - 📉 Hand drawing style charts library for Python
 - [aio-libs/aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
 - [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
 - [Textualize/textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext
