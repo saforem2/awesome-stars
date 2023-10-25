@@ -154,6 +154,7 @@
 
 ## C++ 
 
+- [icl-utk-edu/slate](https://github.com/icl-utk-edu/slate) - SLATE is a distributed, GPU-accelerated, dense linear algebra library targetting current and upcoming high-performance computing (HPC) systems. It is developed as part of the U.S. Department of Energy
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for terminals with mouse and keyboard support
 - [LatticeQCD/SIMULATeQCD](https://github.com/LatticeQCD/SIMULATeQCD) - SIMULATeQCD is a multi-GPU Lattice QCD framework that makes it easy for physicists to implement lattice QCD formulas while still providing competitive performance.
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
@@ -438,6 +439,7 @@
 - [argonne-lcf/ALCF_Hands_on_HPC_Workshop](https://github.com/argonne-lcf/ALCF_Hands_on_HPC_Workshop) - The ALCF hosts a regular simulation, data, and learning workshop to help users scale their applications. This repository contains the examples used in the workshop.
 - [keceli/ezHPC](https://github.com/keceli/ezHPC) - Interactive and simplified high-performance computing with Jupyter notebook
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [RealOrangeOne/hugo-theme-revealjs](https://github.com/RealOrangeOne/hugo-theme-revealjs) - Use Hugo to build a presentation, powered by RevealJS
 - [machine19/machine19.github.io](https://github.com/machine19/machine19.github.io) - 
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
@@ -471,6 +473,8 @@
 
 ## JavaScript 
 
+- [McShelby/reveal-themeoverride](https://github.com/McShelby/reveal-themeoverride) - A reveal.js 3.x / 4.x plugin to easily change themes of reveal.js and its syntax highlightning.
+- [dzello/revealjs-themes](https://github.com/dzello/revealjs-themes) - 👨‍🎨 Free Reveal.js themes including robot-lung and sunblind
 - [pranavnt/umix](https://github.com/pranavnt/umix) - Let's make the web fun!
 - [shafayetShafee/reveal-header](https://github.com/shafayetShafee/reveal-header) - A Quarto filter extension that helps to add header text and header logo in all pages of RevealJs slide
 - [linkpreview/linkpreview](https://github.com/linkpreview/linkpreview) - Open Graph, Twitter Card, Oembed preview. Shows visual cards that mimic link previews in Social Media like facebook, twitter, vk and other sites that support link preview.
@@ -1010,6 +1014,8 @@
 
 ## Lua 
 
+- [Jezda1337/nvim-html-css](https://github.com/Jezda1337/nvim-html-css) - CSS Intellisense for HTML
+- [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Not UFO in the sky, but an ultra fold in Neovim.
 - [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing!
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Neovim plugin for Obsidian, written in Lua
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
@@ -1143,6 +1149,7 @@
 
 ## Others 
 
+- [ignatandrei/ppt2reveal](https://github.com/ignatandrei/ppt2reveal) - Powerpoint to reveal
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [saforem2/diagrams](https://github.com/saforem2/diagrams) - Repo of various `draw.io` diagrams
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -2006,7 +2013,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-553-Stars](https://github.com/iBug/This-Repo-Has-553-Stars) - Yes, it's true :two_hearts: This repository has 553 stars.
+- [iBug/This-Repo-Has-553-Stars](https://github.com/iBug/This-Repo-Has-553-Stars) - Yes, it's true :gift_heart: This repository has 553 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2541,7 +2548,6 @@
 - [l-lin/font-awesome-animation](https://github.com/l-lin/font-awesome-animation) - Simple animations using FontAwesome and some CSS3.
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [iris-hep/iris-hep.github.io](https://github.com/iris-hep/iris-hep.github.io) - Institute for Research and Innovation in Software for High Energy Physics
 
