@@ -2510,7 +2510,7 @@
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - The Python DataFrame for Complex Data
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [noahgift/rust-mlops-template](https://github.com/noahgift/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
