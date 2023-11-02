@@ -474,6 +474,7 @@
 
 ## JavaScript 
 
+- [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [McShelby/reveal-themeoverride](https://github.com/McShelby/reveal-themeoverride) - A reveal.js 3.x / 4.x plugin to easily change themes of reveal.js and its syntax highlightning.
 - [dzello/revealjs-themes](https://github.com/dzello/revealjs-themes) - 👨‍🎨 Free Reveal.js themes including robot-lung and sunblind
 - [pranavnt/umix](https://github.com/pranavnt/umix) - Let's make the web fun!
@@ -1307,6 +1308,7 @@
 
 ## PHP 
 
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 
 ## Perl 
@@ -1328,6 +1330,8 @@
 
 ## Python 
 
+- [YiMX/Bridging-the-gap-between-VI-and-WGF](https://github.com/YiMX/Bridging-the-gap-between-VI-and-WGF) - 
+- [ptmcg/logmerger](https://github.com/ptmcg/logmerger) - TUI utility to view multiple log files with merged timeline
 - [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
 - [mina-ghashami/transformer-in-pytorch](https://github.com/mina-ghashami/transformer-in-pytorch) - Contains from scratch code of implementing transformer in PyTorch
 - [orakaro/rainbowstream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
