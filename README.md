@@ -400,6 +400,7 @@
 
 ## HTML 
 
+- [pytorch/kineto](https://github.com/pytorch/kineto) - A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [jurjoroa/hcc-website](https://github.com/jurjoroa/hcc-website) - Repository of the Hertie Coding Club website. Built with Quarto
@@ -713,6 +714,7 @@
 
 ## Jupyter Notebook 
 
+- [atanikan/vllm_service](https://github.com/atanikan/vllm_service) - This repo hosts the different ways to run vllm on ANL HPC system
 - [YiMX/Bridging-the-gap-between-VI-and-WGF](https://github.com/YiMX/Bridging-the-gap-between-VI-and-WGF) - 
 - [run-house/funhouse](https://github.com/run-house/funhouse) - Fun stuff to do with runhouse
 - [KislayaRavi/MuDaFuGP](https://github.com/KislayaRavi/MuDaFuGP) - 
@@ -1103,6 +1105,7 @@
 
 ## Makefile 
 
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [jceb/mdshow](https://github.com/jceb/mdshow) - Turn markdown files into beautiful presentations quickly
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 - [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
@@ -1331,6 +1334,7 @@
 
 ## Python 
 
+- [argonne-lcf/dlio_benchmark](https://github.com/argonne-lcf/dlio_benchmark) - An I/O benchmark for deep Learning applications
 - [ptmcg/logmerger](https://github.com/ptmcg/logmerger) - TUI utility to view multiple log files with merged timeline
 - [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
 - [mina-ghashami/transformer-in-pytorch](https://github.com/mina-ghashami/transformer-in-pytorch) - Contains from scratch code of implementing transformer in PyTorch
@@ -2449,7 +2453,7 @@
 - [shantnu/PyEng](https://github.com/shantnu/PyEng) - Python for engineers
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [merantix/picasso](https://github.com/merantix/picasso) - :art: A CNN visualizer
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
 - [inforian/python-notifyAll](https://github.com/inforian/python-notifyAll) - A library which can be used for all types of notifications like SMS, Mail, Push.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
