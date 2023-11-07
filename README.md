@@ -154,6 +154,7 @@
 
 ## C++ 
 
+- [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
 - [icl-utk-edu/slate](https://github.com/icl-utk-edu/slate) - SLATE is a distributed, GPU-accelerated, dense linear algebra library targetting current and upcoming high-performance computing (HPC) systems. It is developed as part of the U.S. Department of Energy
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for terminals with mouse and keyboard support
 - [LatticeQCD/SIMULATeQCD](https://github.com/LatticeQCD/SIMULATeQCD) - SIMULATeQCD is a multi-GPU Lattice QCD framework that makes it easy for physicists to implement lattice QCD formulas while still providing competitive performance.
@@ -1817,7 +1818,7 @@
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [iffsid/mmvae](https://github.com/iffsid/mmvae) - Multimodal Mixture-of-Experts VAE
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
-- [wowchemy/bibtex-to-markdown](https://github.com/wowchemy/bibtex-to-markdown) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
+- [GetRD/academic-file-converter](https://github.com/GetRD/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
 - [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
 - [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) - A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [fernandobrito/travel_log](https://github.com/fernandobrito/travel_log) - A static website generator for your trip and its records (pictures, tracks, journal, etc).
@@ -2658,6 +2659,7 @@
 
 ## Swift 
 
+- [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [rurza/NepTunesKit](https://github.com/rurza/NepTunesKit) - 
 - [seeM/Jim](https://github.com/seeM/Jim) - Jim is a simple, beautiful Jupyter notebook editor for macOS
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
@@ -2741,6 +2743,7 @@
 
 ## TypeScript 
 
+- [Tatz884/RescueTime-Obsidian](https://github.com/Tatz884/RescueTime-Obsidian) - A RescueTime integration plugin to view your activity logs in Obsidian.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A next-generation Python notebook: explore data, build tools, deploy apps!
 - [TomNCatz/obsidian-gallery](https://github.com/TomNCatz/obsidian-gallery) - Main Gallery to tag / filter / add notes to images. Display blocks to embed images inside notes. Display block to an image information
 - [hdykokd/obsidian-vertical-tabs-view](https://github.com/hdykokd/obsidian-vertical-tabs-view) - A plugin for Obsidian that provides a vertical tabs view
@@ -2759,7 +2762,7 @@
 - [jupyterlab-contrib/jupyterlab-theme-editor](https://github.com/jupyterlab-contrib/jupyterlab-theme-editor) - Extension providing a theme editor where colors, font families and font sizes of the elements of the user interface can be varied
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - An Opensource alternative to OpenAI GPTs 🧠 Your Second Brain supercharged by Generative AI 🧠  Your personal assistant on your files & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs t
 - [liamcain/obsidian-daily-notes-interface](https://github.com/liamcain/obsidian-daily-notes-interface) - Package to create, open, and find daily notes from your Obsidian plugin
 - [harbassan/spicetify-stats](https://github.com/harbassan/spicetify-stats) - A spicetify custom app that shows you your top artists, tracks, genres and an an analysis of your music library.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
