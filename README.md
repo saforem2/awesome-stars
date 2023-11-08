@@ -154,6 +154,7 @@
 
 ## C++ 
 
+- [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
 - [icl-utk-edu/slate](https://github.com/icl-utk-edu/slate) - SLATE is a distributed, GPU-accelerated, dense linear algebra library targetting current and upcoming high-performance computing (HPC) systems. It is developed as part of the U.S. Department of Energy
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for terminals with mouse and keyboard support
@@ -442,7 +443,7 @@
 - [argonne-lcf/ALCF_Hands_on_HPC_Workshop](https://github.com/argonne-lcf/ALCF_Hands_on_HPC_Workshop) - The ALCF hosts a regular simulation, data, and learning workshop to help users scale their applications. This repository contains the examples used in the workshop.
 - [keceli/ezHPC](https://github.com/keceli/ezHPC) - Interactive and simplified high-performance computing with Jupyter notebook
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [RealOrangeOne/hugo-theme-revealjs](https://github.com/RealOrangeOne/hugo-theme-revealjs) - Use Hugo to build a presentation, powered by RevealJS
 - [machine19/machine19.github.io](https://github.com/machine19/machine19.github.io) - 
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
@@ -723,7 +724,7 @@
 - [marylou-gabrie/flonaco](https://github.com/marylou-gabrie/flonaco) - 
 - [svsamsonov/ex2mcmc_new](https://github.com/svsamsonov/ex2mcmc_new) - 
 - [tanelp/tiny-diffusion](https://github.com/tanelp/tiny-diffusion) - A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.
-- [hamelsmu/hamel](https://github.com/hamelsmu/hamel) - Repo for Hamel's Professional Website
+- [hamelsmu/hamel-site](https://github.com/hamelsmu/hamel-site) - Repo for Hamel's Professional Website
 - [hamelsmu/wandb-cicd](https://github.com/hamelsmu/wandb-cicd) - 
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [MNoichl/opinionated](https://github.com/MNoichl/opinionated) - Opinionated provides simple, clean stylesheets for plotting with matplotlib and seaborn.
@@ -944,7 +945,7 @@
 - [NERSC/dl4sci-tf-tutorials](https://github.com/NERSC/dl4sci-tf-tutorials) - Official TensorFlow 2.0 tutorial notebooks for the Deep Learning for Science School at LBNL
 - [rsln-s/ANL_tutorial_June_15](https://github.com/rsln-s/ANL_tutorial_June_15) - 
 - [pymc-devs/sunode](https://github.com/pymc-devs/sunode) - Solve ODEs fast, with support for PyMC
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
+- [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [ketch/DEML](https://github.com/ketch/DEML) - Material for a course on differential equations in machine learning
 - [DLHub-Argonne/dlhub_examples](https://github.com/DLHub-Argonne/dlhub_examples) - 
 - [fengdu78/Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes) - 数据科学的笔记以及资料搜集
@@ -2762,7 +2763,7 @@
 - [jupyterlab-contrib/jupyterlab-theme-editor](https://github.com/jupyterlab-contrib/jupyterlab-theme-editor) - Extension providing a theme editor where colors, font families and font sizes of the elements of the user interface can be varied
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - An Opensource alternative to OpenAI GPTs 🧠 Your Second Brain supercharged by Generative AI 🧠  Your personal assistant on your files & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs t
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
 - [liamcain/obsidian-daily-notes-interface](https://github.com/liamcain/obsidian-daily-notes-interface) - Package to create, open, and find daily notes from your Obsidian plugin
 - [harbassan/spicetify-stats](https://github.com/harbassan/spicetify-stats) - A spicetify custom app that shows you your top artists, tracks, genres and an an analysis of your music library.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
