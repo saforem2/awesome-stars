@@ -36,6 +36,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [LLVM](#llvm)
+- [Lean](#lean)
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
@@ -1015,6 +1016,10 @@
 - [meifeng/GridMini](https://github.com/meifeng/GridMini) - This is a mini-app based on the Grid C++ lattice QCD library (https://github.com/paboyle/Grid)
 - [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - Lecture and hands-on material for Track 8- Machine Learning of  Argonne Training Program on Extreme-Scale Computing
 
+## Lean 
+
+- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
+
 ## Lua 
 
 - [bamonroe/rnoweb-nvim](https://github.com/bamonroe/rnoweb-nvim) - A neovim plugin for rnoweb files
@@ -1738,7 +1743,7 @@
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's best framework for browser automation and testing.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework with the tools you need to succeed in web automation.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -2744,6 +2749,8 @@
 
 ## TypeScript 
 
+- [quarto-dev/quarto](https://github.com/quarto-dev/quarto) - Quarto open-source scientific and technical publishing system
+- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [Tatz884/RescueTime-Obsidian](https://github.com/Tatz884/RescueTime-Obsidian) - A RescueTime integration plugin to view your activity logs in Obsidian.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A next-generation Python notebook: explore data, build tools, deploy apps!
