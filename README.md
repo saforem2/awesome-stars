@@ -723,6 +723,7 @@
 
 ## Jupyter Notebook 
 
+- [nobuyukimatsumoto68/learning_transfer_matrix](https://github.com/nobuyukimatsumoto68/learning_transfer_matrix) - 
 - [atanikan/vllm_service](https://github.com/atanikan/vllm_service) - This repo hosts the different ways to run vllm on ANL HPC system
 - [mingxuan-yi/Bridging-the-gap-between-VI-and-WGF](https://github.com/mingxuan-yi/Bridging-the-gap-between-VI-and-WGF) - 
 - [run-house/funhouse](https://github.com/run-house/funhouse) - Fun stuff to do with runhouse
@@ -1343,6 +1344,7 @@
 
 ## Python 
 
+- [Nerocraft4/habittracker](https://github.com/Nerocraft4/habittracker) - 
 - [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
@@ -1702,7 +1704,6 @@
 - [cgarciae/treex](https://github.com/cgarciae/treex) - A Pytree Module system for Deep Learning in JAX
 - [wesselb/lab](https://github.com/wesselb/lab) - A generic interface for linear algebra backends
 - [GilesStrong/lumin](https://github.com/GilesStrong/lumin) - LUMIN - a deep learning and data science ecosystem for high-energy physics.
-- [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font) - Nerd Fonts with Cursive Italic Styles -- Read-only Mirror of https://git.sainnhe.dev/sainnhe/icursive-nerd-font
 - [OATML/non-parametric-transformers](https://github.com/OATML/non-parametric-transformers) - Code for "Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning"
 - [rw435/wreathProdNet](https://github.com/rw435/wreathProdNet) - 
 - [naver/tldr](https://github.com/naver/tldr) - TLDR is an unsupervised dimensionality reduction method that combines neighborhood embedding learning with the simplicity and effectiveness of recent self-supervised learning losses
@@ -2049,7 +2050,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-555-Stars](https://github.com/iBug/This-Repo-Has-555-Stars) - Yes, it's true :sparkling_heart: This repository has 555 stars.
+- [iBug/This-Repo-Has-556-Stars](https://github.com/iBug/This-Repo-Has-556-Stars) - Yes, it's true :revolving_hearts: This repository has 556 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
