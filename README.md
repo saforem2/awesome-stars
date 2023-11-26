@@ -1029,6 +1029,7 @@
 
 ## Lua 
 
+- [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [bamonroe/rnoweb-nvim](https://github.com/bamonroe/rnoweb-nvim) - A neovim plugin for rnoweb files
 - [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like NeoVim plugin.
 - [ada0l/obsidian](https://github.com/ada0l/obsidian) - :book: Base Obsidian functionality in your Neovim
