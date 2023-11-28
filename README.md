@@ -1149,7 +1149,6 @@
 
 ## OCaml 
 
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [SHoltzen/dice](https://github.com/SHoltzen/dice) - Exact inference for discrete probabilistic programs. (Research code, more documentation and ergonomics to come)
 
@@ -1172,6 +1171,7 @@
 
 ## Others 
 
+- [plainerman/Latent-TPS](https://github.com/plainerman/Latent-TPS) - Source code of the paper: Transition Path Sampling with Boltzmann Generator-based MCMC Moves
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [ignatandrei/ppt2reveal](https://github.com/ignatandrei/ppt2reveal) - Powerpoint to reveal
@@ -1345,6 +1345,8 @@
 
 ## Python 
 
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+- [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [Nerocraft4/habittracker](https://github.com/Nerocraft4/habittracker) - 
 - [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
@@ -1455,6 +1457,7 @@
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [cybertronai/gradient-checkpointing](https://github.com/cybertronai/gradient-checkpointing) - Make huge neural nets fit in memory
 - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools) - Intel PMU profiling tools
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [yixuan/temperflow](https://github.com/yixuan/temperflow) - Efficient Multimodal Sampling via Tempered Distribution Flow
 - [microsoft/NPKit](https://github.com/microsoft/NPKit) - NCCL Profiling Kit
@@ -2051,7 +2054,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-555-Stars](https://github.com/iBug/This-Repo-Has-555-Stars) - Yes, it's true :orange_heart: This repository has 555 stars.
+- [iBug/This-Repo-Has-554-Stars](https://github.com/iBug/This-Repo-Has-554-Stars) - Yes, it's true :purple_heart: This repository has 554 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
