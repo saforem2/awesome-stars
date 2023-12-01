@@ -159,7 +159,7 @@
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
 - [icl-utk-edu/slate](https://github.com/icl-utk-edu/slate) - SLATE is a distributed, GPU-accelerated, dense linear algebra library targetting current and upcoming high-performance computing (HPC) systems. It is developed as part of the U.S. Department of Energy
-- [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for terminals with mouse and keyboard support
+- [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [LatticeQCD/SIMULATeQCD](https://github.com/LatticeQCD/SIMULATeQCD) - SIMULATeQCD is a multi-GPU Lattice QCD framework that makes it easy for physicists to implement lattice QCD formulas while still providing competitive performance.
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [hmvege/GLAC](https://github.com/hmvege/GLAC) - A code for generating SU(3) Yang-Mills gauge configurations and applying gradient flow.
@@ -336,7 +336,7 @@
 
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
-- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
+- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - deprecated in favor of leap.nvim
 
 ## Fortran 
 
@@ -370,7 +370,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -748,6 +748,7 @@
 - [jiwidi/time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) - A use-case focused tutorial for time series forecasting with python
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption
 - [gradient-ai/stable-diffusion](https://github.com/gradient-ai/stable-diffusion) - 
+- [htjb/margarine](https://github.com/htjb/margarine) - Code to replicate posterior probability distributions with bijectors/KDEs and perform marginal KL/bayesian dimensionality calculations.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [FrancescoSaverioZuppichini/glasses](https://github.com/FrancescoSaverioZuppichini/glasses) - High-quality Neural Networks for Computer Vision 😎
 - [wangleiphy/ml4p](https://github.com/wangleiphy/ml4p) - Machine learning for physicists
@@ -1029,6 +1030,8 @@
 
 ## Lua 
 
+- [doctorfree/NvChad-custom](https://github.com/doctorfree/NvChad-custom) - Custom configs for NvChad
+- [dreamsofcode-io/neovim-python](https://github.com/dreamsofcode-io/neovim-python) - 
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [bamonroe/rnoweb-nvim](https://github.com/bamonroe/rnoweb-nvim) - A neovim plugin for rnoweb files
 - [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like NeoVim plugin.
@@ -1345,6 +1348,10 @@
 
 ## Python 
 
+- [uschi2000/hydra-config](https://github.com/uschi2000/hydra-config) - Example code for managing structured, strongly-typed configuration in Hydra projects
+- [Qualcomm-AI-research/geometric-algebra-transformer](https://github.com/Qualcomm-AI-research/geometric-algebra-transformer) - 
+- [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+- [Wookai/paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [Nerocraft4/habittracker](https://github.com/Nerocraft4/habittracker) - 
@@ -1471,7 +1478,6 @@
 - [jupyterlite/repo2jupyterlite](https://github.com/jupyterlite/repo2jupyterlite) - Build jupyterlite apps out of repositories
 - [mpmath/mpmath](https://github.com/mpmath/mpmath) - Python library for arbitrary-precision floating-point arithmetic
 - [Miyazaki-Yu/ecnn4klm](https://github.com/Miyazaki-Yu/ecnn4klm) - 
-- [htjb/margarine](https://github.com/htjb/margarine) - Code to replicate posterior probability distributions with bijectors/KDEs and perform marginal KL/bayesian dimensionality calculations.
 - [pytorch/torchx](https://github.com/pytorch/torchx) - TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [PythonOT/POT](https://github.com/PythonOT/POT) - POT : Python Optimal Transport
@@ -1510,7 +1516,7 @@
 - [Bras-P/langevin-for-stochastic-control](https://github.com/Bras-P/langevin-for-stochastic-control) - 
 - [pacman100/accelerate-megatron-test](https://github.com/pacman100/accelerate-megatron-test) - Testing the accelerate megatron integration
 - [WassimTenachi/PhySO](https://github.com/WassimTenachi/PhySO) - Physical Symbolic Optimization
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Programmable 🐍 remote compute 🔋 and data 📂 across environments 💻 and users 👩‍💻
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Create and share production-quality backend apps and services ridiculously quickly on any infra. Unobtrusive, debuggable, PyTorch-like APIs for your world of infra.
 - [TheRenegadeCoder/SnakeMD](https://github.com/TheRenegadeCoder/SnakeMD) - A markdown generation library for Python.
 - [didix21/mdutils](https://github.com/didix21/mdutils) - Python package contains a set of basic tools that can help to create a markdown file.
 - [muellerzr/timing_experiments](https://github.com/muellerzr/timing_experiments) - 
@@ -2054,7 +2060,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-554-Stars](https://github.com/iBug/This-Repo-Has-554-Stars) - Yes, it's true :purple_heart: This repository has 554 stars.
+- [iBug/This-Repo-Has-556-Stars](https://github.com/iBug/This-Repo-Has-556-Stars) - Yes, it's true :heartpulse: This repository has 556 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2270,7 +2276,7 @@
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [soravux/scoop](https://github.com/soravux/scoop) - SCOOP (Scalable COncurrent Operations in Python)
 - [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep) - Extended histogram plotting on top of matplotlib and HEP collaboration compatible styling
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
 - [Bihaqo/t3f](https://github.com/Bihaqo/t3f) - Tensor Train decomposition on TensorFlow
 - [chrischute/flowplusplus](https://github.com/chrischute/flowplusplus) - Implementation of Flow++ in PyTorch
 - [albertomontesg/keras-model-zoo](https://github.com/albertomontesg/keras-model-zoo) - Keras Model Zoo
@@ -2449,7 +2455,7 @@
 - [nshettell/SimuViz](https://github.com/nshettell/SimuViz) - A repository with the necessary tools to Visualize different Physical Simulations.
 - [MelkoCollective/perimeter-qmc](https://github.com/MelkoCollective/perimeter-qmc) - My Master Thesis at Perimeter Institute
 - [sylvialee12/SelfLearning-MonteCarlo](https://github.com/sylvialee12/SelfLearning-MonteCarlo) - 
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling in Python with MCMC and VI
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
 - [Samreay/ChainConsumer](https://github.com/Samreay/ChainConsumer) - Corner plots, LaTeX tables and plotting walks.
 - [dgerosa/filltex](https://github.com/dgerosa/filltex) - Automatic queries to ADS and INSPIRE databases to fill LaTex bibliography
 - [bjmorgan/bsym](https://github.com/bjmorgan/bsym) - A Basic Symmetry Module (Python)
@@ -2787,7 +2793,7 @@
 - [jupyterlab-contrib/jupyterlab-theme-editor](https://github.com/jupyterlab-contrib/jupyterlab-theme-editor) - Extension providing a theme editor where colors, font families and font sizes of the elements of the user interface can be varied
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you 
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share wi
 - [liamcain/obsidian-daily-notes-interface](https://github.com/liamcain/obsidian-daily-notes-interface) - Package to create, open, and find daily notes from your Obsidian plugin
 - [harbassan/spicetify-stats](https://github.com/harbassan/spicetify-stats) - A spicetify custom app that shows you your top artists, tracks, genres and an an analysis of your music library.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
