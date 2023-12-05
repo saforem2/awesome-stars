@@ -483,6 +483,7 @@
 
 ## JavaScript 
 
+- [wandb/gitbook](https://github.com/wandb/gitbook) - Documentation synced with GitBook. For all issues with the wandb library, please use https://github.com/wandb/client/issues
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [McShelby/reveal-themeoverride](https://github.com/McShelby/reveal-themeoverride) - A reveal.js 3.x / 4.x plugin to easily change themes of reveal.js and its syntax highlightning.
 - [dzello/revealjs-themes](https://github.com/dzello/revealjs-themes) - 👨‍🎨 Free Reveal.js themes including robot-lung and sunblind
@@ -2060,7 +2061,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-557-Stars](https://github.com/iBug/This-Repo-Has-557-Stars) - Yes, it's true :orange_heart: This repository has 557 stars.
+- [iBug/This-Repo-Has-558-Stars](https://github.com/iBug/This-Repo-Has-558-Stars) - Yes, it's true :two_hearts: This repository has 558 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
