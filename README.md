@@ -2061,7 +2061,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-558-Stars](https://github.com/iBug/This-Repo-Has-558-Stars) - Yes, it's true :two_hearts: This repository has 558 stars.
+- [iBug/This-Repo-Has-559-Stars](https://github.com/iBug/This-Repo-Has-559-Stars) - Yes, it's true :two_hearts: This repository has 559 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2795,7 +2795,7 @@
 - [jupyterlab-contrib/jupyterlab-theme-editor](https://github.com/jupyterlab-contrib/jupyterlab-theme-editor) - Extension providing a theme editor where colors, font families and font sizes of the elements of the user interface can be varied
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share wi
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [liamcain/obsidian-daily-notes-interface](https://github.com/liamcain/obsidian-daily-notes-interface) - Package to create, open, and find daily notes from your Obsidian plugin
 - [harbassan/spicetify-stats](https://github.com/harbassan/spicetify-stats) - A spicetify custom app that shows you your top artists, tracks, genres and an an analysis of your music library.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
