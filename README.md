@@ -156,6 +156,7 @@
 
 ## C++ 
 
+- [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
 - [icl-utk-edu/slate](https://github.com/icl-utk-edu/slate) - SLATE is a distributed, GPU-accelerated, dense linear algebra library targetting current and upcoming high-performance computing (HPC) systems. It is developed as part of the U.S. Department of Energy
@@ -1349,6 +1350,9 @@
 
 ## Python 
 
+- [simonw/llm-mlx-llama](https://github.com/simonw/llm-mlx-llama) - Run Llama 2 using MLX on macOS
+- [kingoflolz/swarm-jax](https://github.com/kingoflolz/swarm-jax) - Swarm training framework using Haiku + JAX + Ray for layer parallel transformer language models on unreliable, heterogeneous nodes
+- [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
 - [uschi2000/hydra-config](https://github.com/uschi2000/hydra-config) - Example code for managing structured, strongly-typed configuration in Hydra projects
 - [Qualcomm-AI-research/geometric-algebra-transformer](https://github.com/Qualcomm-AI-research/geometric-algebra-transformer) - 
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
@@ -2061,7 +2065,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-559-Stars](https://github.com/iBug/This-Repo-Has-559-Stars) - Yes, it's true :two_hearts: This repository has 559 stars.
+- [iBug/This-Repo-Has-561-Stars](https://github.com/iBug/This-Repo-Has-561-Stars) - Yes, it's true :sparkling_heart: This repository has 561 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
