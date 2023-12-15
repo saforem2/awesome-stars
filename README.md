@@ -156,6 +156,9 @@
 
 ## C++ 
 
+- [LLNL/axom](https://github.com/LLNL/axom) - CS infrastructure components for HPC applications
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+- [intel/torch-ccl](https://github.com/intel/torch-ccl) - oneCCL Bindings for Pytorch*
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
@@ -408,6 +411,7 @@
 
 ## HTML 
 
+- [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 - [tashapiro/intro-observable](https://github.com/tashapiro/intro-observable) - This is an introductory workshop hosted by R-Ladies Philadelphia. Participants will sample how to use Observable Notebooks, Observable Plot, and combine Observable with R Quarto.
 - [pytorch/kineto](https://github.com/pytorch/kineto) - A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
@@ -727,6 +731,7 @@
 
 ## Jupyter Notebook 
 
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [tedwards2412/ripple](https://github.com/tedwards2412/ripple) - Differentiable Gravitational Waveforms with JAX
 - [smsharma/fermi-gce-flows](https://github.com/smsharma/fermi-gce-flows) - Simulation-based inference for the Galactic Center gamma-ray excess. Code repository associated with https://arxiv.org/abs/2110.06931.
 - [nobuyukimatsumoto68/learning_transfer_matrix](https://github.com/nobuyukimatsumoto68/learning_transfer_matrix) - 
@@ -1036,6 +1041,7 @@
 
 ## Lua 
 
+- [mcanouil/quarto-preview-colour](https://github.com/mcanouil/quarto-preview-colour) - A Quarto extension to add preview colour as a coloured symbol next to colour code.
 - [doctorfree/NvChad-custom](https://github.com/doctorfree/NvChad-custom) - Custom configs for NvChad
 - [dreamsofcode-io/neovim-python](https://github.com/dreamsofcode-io/neovim-python) - 
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
@@ -1353,6 +1359,9 @@
 
 ## Python 
 
+- [google-research/weatherbench2](https://github.com/google-research/weatherbench2) - A benchmark for the next generation of data-driven global weather models.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [simonw/llm-mlx-llama](https://github.com/simonw/llm-mlx-llama) - Run Llama 2 using MLX on macOS
 - [kingoflolz/swarm-jax](https://github.com/kingoflolz/swarm-jax) - Swarm training framework using Haiku + JAX + Ray for layer parallel transformer language models on unreliable, heterogeneous nodes
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
@@ -2733,6 +2742,7 @@
 
 ## TeX 
 
+- [arcruz0/quarto-compact](https://github.com/arcruz0/quarto-compact) - A Quarto format for compact PDF documents. Good for short reports, homework assignments, etc.
 - [saforem2/saforem2.github.io](https://github.com/saforem2/saforem2.github.io) - Personal Website (using Quarto)
 - [saforem2/lattice23](https://github.com/saforem2/lattice23) - Slides for Lattice 2023
 - [moderncv/moderncv](https://github.com/moderncv/moderncv) - A modern curriculum vitae class for LaTeX
