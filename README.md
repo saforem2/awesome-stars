@@ -156,6 +156,7 @@
 
 ## C++ 
 
+- [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 - [LLNL/axom](https://github.com/LLNL/axom) - CS infrastructure components for HPC applications
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [intel/torch-ccl](https://github.com/intel/torch-ccl) - oneCCL Bindings for Pytorch*
@@ -258,6 +259,7 @@
 
 ## CSS 
 
+- [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [gapmiss/badges](https://github.com/gapmiss/badges) - A light-weight plugin for displaying inline "badges" in Obsidian.md
 - [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
@@ -1185,6 +1187,7 @@
 
 ## Others 
 
+- [rhythmus/markdown-resources](https://github.com/rhythmus/markdown-resources) - A curated collection of Markdown resources: apps, dialects, parsers, people, …
 - [plainerman/Latent-TPS](https://github.com/plainerman/Latent-TPS) - Source code of the paper: Transition Path Sampling with Boltzmann Generator-based MCMC Moves
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
@@ -1359,6 +1362,10 @@
 
 ## Python 
 
+- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
+- [manubot/manubot](https://github.com/manubot/manubot) - Python utilities for Manubot: Manuscripts, open and automated
+- [yt-project/yt](https://github.com/yt-project/yt) - Main yt repository
+- [basnijholt/unidep](https://github.com/basnijholt/unidep) - Single source of truth with requirements for pip and conda
 - [google-research/weatherbench2](https://github.com/google-research/weatherbench2) - A benchmark for the next generation of data-driven global weather models.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
