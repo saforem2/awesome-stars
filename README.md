@@ -1364,6 +1364,7 @@
 
 ## Python 
 
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
 - [BlinkDL/nanoRWKV](https://github.com/BlinkDL/nanoRWKV) - RWKV in nanoGPT style
 - [simonhmartin/genomics_general](https://github.com/simonhmartin/genomics_general) - General tools for genomic analyses.
 - [TristanBilot/mlx-GCN](https://github.com/TristanBilot/mlx-GCN) - MLX implementation of GCN, with benchmark on MPS, CUDA and CPU (M1 Pro, M2 Ultra, M3 Max).
