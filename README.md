@@ -211,7 +211,6 @@
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [lawmurray/Birch](https://github.com/lawmurray/Birch) - A probabilistic programming language that combines automatic differentiation, automatic marginalization, and automatic conditioning within Monte Carlo methods.
 - [argonne-lcf/sycltrain](https://github.com/argonne-lcf/sycltrain) - Training examples for SYCL
-- [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - Data Parallel Extension for NumPy
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [jeffhammond/dpcpp-tutorial](https://github.com/jeffhammond/dpcpp-tutorial) - Intel Data Parallel C++ (and SYCL 2020) Tutorial.
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
@@ -355,6 +354,8 @@
 
 ## Go 
 
+- [converged-computing/slurm-operator](https://github.com/converged-computing/slurm-operator) - Testing if I can implement slurm in an operator
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
@@ -738,6 +739,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 - [eiln/ane-ex](https://github.com/eiln/ane-ex) - 
 - [JakobRobnik/MicroCanonicalHMC](https://github.com/JakobRobnik/MicroCanonicalHMC) - MCHMC: sampler from an arbitrary differentiable distribution
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
@@ -1372,6 +1374,7 @@
 
 ## Python 
 
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [alibaba/Megatron-LLaMA](https://github.com/alibaba/Megatron-LLaMA) - Best practice for training LLaMA models in Megatron-LM
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
 - [Psivant/femto](https://github.com/Psivant/femto) - A comprehensive toolkit for predicting free energies
@@ -2288,6 +2291,7 @@
 - [tsudalab/combo](https://github.com/tsudalab/combo) - COMmon Bayesian Optimization
 - [AlexanderMath/fasth](https://github.com/AlexanderMath/fasth) - Code for the article "What if Neural Networks had SVDs?", to be presented as a spotlight paper at NeurIPS 2020.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - Data Parallel Extension for NumPy
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [exoplanet-dev/pymc-ext](https://github.com/exoplanet-dev/pymc-ext) - PyMC Extras extracted from the "exoplanet" library
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
@@ -2735,6 +2739,7 @@
 
 ## Swift 
 
+- [eth-siplab/SVG2Keynote-gui](https://github.com/eth-siplab/SVG2Keynote-gui) - SVG2Keynote is a macOS tool to convert Scalable Vector Graphics to Apple Keynote documents. SVG2Keynote preserves shape information (path styles, fills), such that shapes can be edited in Keynote.
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [rurza/NepTunesKit](https://github.com/rurza/NepTunesKit) - 
 - [seeM/Jim](https://github.com/seeM/Jim) - Jim is a simple, beautiful Jupyter notebook editor for macOS
