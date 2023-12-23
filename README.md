@@ -417,6 +417,7 @@
 
 ## HTML 
 
+- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 - [tashapiro/intro-observable](https://github.com/tashapiro/intro-observable) - This is an introductory workshop hosted by R-Ladies Philadelphia. Participants will sample how to use Observable Notebooks, Observable Plot, and combine Observable with R Quarto.
@@ -1053,6 +1054,8 @@
 
 ## Lua 
 
+- [vhyrro/hologram.nvim](https://github.com/vhyrro/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [mcanouil/quarto-preview-colour](https://github.com/mcanouil/quarto-preview-colour) - A Quarto extension to add preview colour as a coloured symbol next to colour code.
 - [doctorfree/NvChad-custom](https://github.com/doctorfree/NvChad-custom) - Custom configs for NvChad
 - [dreamsofcode-io/neovim-python](https://github.com/dreamsofcode-io/neovim-python) - 
@@ -1374,6 +1377,19 @@
 
 ## Python 
 
+- [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
+- [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+- [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
+- [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools
+- [rusty1s/pytorch_scatter](https://github.com/rusty1s/pytorch_scatter) - PyTorch Extension Library of Optimized Scatter Operations
+- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [jax-ml/bayeux](https://github.com/jax-ml/bayeux) - 
+- [ColCarroll/bayeux](https://github.com/ColCarroll/bayeux) - 
+- [SciPhi-AI/agent-search](https://github.com/SciPhi-AI/agent-search) - Comprehensive Agent-First Framework and Dataset for Webscale Search
+- [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown
+- [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [alibaba/Megatron-LLaMA](https://github.com/alibaba/Megatron-LLaMA) - Best practice for training LLaMA models in Megatron-LM
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
@@ -2826,6 +2842,7 @@
 
 ## TypeScript 
 
+- [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React + Tailwind components in one line
 - [quarto-dev/quarto](https://github.com/quarto-dev/quarto) - Quarto open-source scientific and technical publishing system
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
