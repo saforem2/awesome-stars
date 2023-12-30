@@ -497,6 +497,7 @@
 
 ## JavaScript 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [kaitlinmctigue/kaitlinmctigue.github.io](https://github.com/kaitlinmctigue/kaitlinmctigue.github.io) - 
 - [quarto-dev/quarto-web](https://github.com/quarto-dev/quarto-web) - Quarto website
 - [wandb/gitbook](https://github.com/wandb/gitbook) - Documentation synced with GitBook. For all issues with the wandb library, please use https://github.com/wandb/client/issues
@@ -1378,6 +1379,9 @@
 
 ## Python 
 
+- [ecmwf-lab/ai-models-fourcastnetv2](https://github.com/ecmwf-lab/ai-models-fourcastnetv2) - 
+- [briangu/klongpy](https://github.com/briangu/klongpy) - High-Performance Klong array language with rich Python integration.
+- [yastn/yastn](https://github.com/yastn/yastn) - Yet another symmetric tensor network
 - [alibaba/Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch) - The official repo of Pai-Megatron-Patch for LLM & VLM large scale training developed by Alibaba Cloud.
 - [saforem2/ambivalent](https://github.com/saforem2/ambivalent) - Minimal, beautiful (+ highly-customizable) styles for Matplotlib.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
@@ -2118,7 +2122,7 @@
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [lucidrains/egnn-pytorch](https://github.com/lucidrains/egnn-pytorch) - Implementation of E(n)-Equivariant Graph Neural Networks, in Pytorch
-- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ tmux session manager. built on libtmux
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [pimdh/relie](https://github.com/pimdh/relie) - Experiments for the AISTATS publication on Reparameterizing Distributions over Lie Groups
 - [Romit-Maulik/PyParSVD](https://github.com/Romit-Maulik/PyParSVD) - An implementation of the 1. Parallel, 2. Streaming, 3. Randomized SVD using MPI4Py
 - [patrick-kidger/sympytorch](https://github.com/patrick-kidger/sympytorch) - Turning SymPy expressions into PyTorch modules.
@@ -2315,7 +2319,7 @@
 - [IntelPython/dpnp](https://github.com/IntelPython/dpnp) - Data Parallel Extension for NumPy
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [exoplanet-dev/pymc-ext](https://github.com/exoplanet-dev/pymc-ext) - PyMC Extras extracted from the "exoplanet" library
-- [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
+- [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
 - [adamerose/PandasGUI](https://github.com/adamerose/PandasGUI) - A GUI for Pandas DataFrames
 - [wookayin/gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
 - [sbi-dev/sbi](https://github.com/sbi-dev/sbi) - Simulation-based inference toolkit
@@ -2760,6 +2764,7 @@
 
 ## Swift 
 
+- [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Apple Silicon.
 - [eth-siplab/SVG2Keynote-gui](https://github.com/eth-siplab/SVG2Keynote-gui) - SVG2Keynote is a macOS tool to convert Scalable Vector Graphics to Apple Keynote documents. SVG2Keynote preserves shape information (path styles, fills), such that shapes can be edited in Keynote.
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [rurza/NepTunesKit](https://github.com/rurza/NepTunesKit) - 
@@ -2871,7 +2876,7 @@
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [daksh2k/Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) - Some spicetify extensions!
 - [jupyterlab-contrib/jupyterlab-theme-editor](https://github.com/jupyterlab-contrib/jupyterlab-theme-editor) - Extension providing a theme editor where colors, font families and font sizes of the elements of the user interface can be varied
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [liamcain/obsidian-daily-notes-interface](https://github.com/liamcain/obsidian-daily-notes-interface) - Package to create, open, and find daily notes from your Obsidian plugin
