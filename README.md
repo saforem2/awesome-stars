@@ -53,7 +53,6 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Prolog](#prolog)
-- [Pug](#pug)
 - [Python](#python)
 - [R](#r)
 - [Roff](#roff)
@@ -742,6 +741,8 @@
 
 ## Jupyter Notebook 
 
+- [vislearn/FFF](https://github.com/vislearn/FFF) - Free-form flows are a generative model training a pair of neural networks via maximum likelihood
+- [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - Automatic GPU+CPU memory profiling, re-use and memory leaks detection using jupyter/ipython experiment containers
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 - [eiln/ane-ex](https://github.com/eiln/ane-ex) - 
 - [JakobRobnik/MicroCanonicalHMC](https://github.com/JakobRobnik/MicroCanonicalHMC) - MCHMC: sampler from an arbitrary differentiable distribution
@@ -1373,12 +1374,10 @@
 
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 
-## Pug 
-
-- [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
-
 ## Python 
 
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+- [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [ecmwf-lab/ai-models-fourcastnetv2](https://github.com/ecmwf-lab/ai-models-fourcastnetv2) - 
 - [briangu/klongpy](https://github.com/briangu/klongpy) - High-Performance Klong array language with rich Python integration.
 - [yastn/yastn](https://github.com/yastn/yastn) - Yet another symmetric tensor network
@@ -2135,7 +2134,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-562-Stars](https://github.com/iBug/This-Repo-Has-562-Stars) - Yes, it's true :heartbeat: This repository has 562 stars.
+- [iBug/This-Repo-Has-563-Stars](https://github.com/iBug/This-Repo-Has-563-Stars) - Yes, it's true :orange_heart: This repository has 563 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2617,6 +2616,7 @@
 
 ## Rust 
 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
