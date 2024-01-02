@@ -488,6 +488,8 @@
 
 ## Java 
 
+- [ambrosiogabe/ImpossibleGame](https://github.com/ambrosiogabe/ImpossibleGame) - 
+- [OftenUser/ImpossibleGame](https://github.com/OftenUser/ImpossibleGame) - 
 - [sylvainhalle/textidote](https://github.com/sylvainhalle/textidote) - Spelling, grammar and style checking on LaTeX documents
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, An
@@ -1376,6 +1378,7 @@
 
 ## Python 
 
+- [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [ecmwf-lab/ai-models-fourcastnetv2](https://github.com/ecmwf-lab/ai-models-fourcastnetv2) - 
@@ -2627,7 +2630,7 @@
 - [caphindsight/ergothic](https://github.com/caphindsight/ergothic) - Rust library for setting up and running distributed Monte-Carlo statistical simulations. Designed primarily for lattice QCD.
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [ofek/pyapp](https://github.com/ofek/pyapp) - Build self-bootstrapped Python applications
+- [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrames for Python designed for the cloud, powered by Rust
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
