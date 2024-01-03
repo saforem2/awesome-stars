@@ -53,6 +53,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Prolog](#prolog)
+- [Pug](#pug)
 - [Python](#python)
 - [R](#r)
 - [Roff](#roff)
@@ -91,6 +92,7 @@
 
 ## C 
 
+- [stas00/the-art-of-debugging](https://github.com/stas00/the-art-of-debugging) - The Art of Debugging
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [hpc/Spindle](https://github.com/hpc/Spindle) - Scalable dynamic library and python loading in HPC environments
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
@@ -318,6 +320,7 @@
 
 ## Dart 
 
+- [saber-notes/saber](https://github.com/saber-notes/saber) - A (work-in-progress) cross-platform libre handwritten notes app
 - [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Infinitely take notes, sketch and learn. Xournal++ Mobile is a port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
 
 ## Dockerfile 
@@ -1376,8 +1379,15 @@
 
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 
+## Pug 
+
+- [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
+
 ## Python 
 
+- [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
+- [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch
+- [JoshKarpel/counterweight](https://github.com/JoshKarpel/counterweight) - An experimental TUI framework for Python, inspired by React and Tailwind
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
