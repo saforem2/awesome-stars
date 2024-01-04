@@ -372,7 +372,7 @@
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-- [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
@@ -1408,7 +1408,7 @@
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [jax-ml/bayeux](https://github.com/jax-ml/bayeux) - 
 - [ColCarroll/bayeux](https://github.com/ColCarroll/bayeux) - 
-- [SciPhi-AI/agent-search](https://github.com/SciPhi-AI/agent-search) - Comprehensive Agent-First Framework and Dataset for Webscale Search
+- [SciPhi-AI/agent-search](https://github.com/SciPhi-AI/agent-search) - AgentSearch, by SciPhi, is a powerful agent-first rag-client and search engine.
 - [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown
 - [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
@@ -1899,7 +1899,7 @@
 - [gbup-group/EAN-efficient-attention-network](https://github.com/gbup-group/EAN-efficient-attention-network) - The implementation of paper ''Efficient Attention Network: Accelerate Attention by Searching Where to Plug''.
 - [lehner/gpt](https://github.com/lehner/gpt) - A Python toolkit for lattice field theory, quantum computing, and machine learning
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
-- [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
+- [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [deshaw/pyflyby](https://github.com/deshaw/pyflyby) - A set of productivity tools for Python
 - [yt-project/cmyt](https://github.com/yt-project/cmyt) - yt-native colormaps
@@ -2147,7 +2147,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-563-Stars](https://github.com/iBug/This-Repo-Has-563-Stars) - Yes, it's true :orange_heart: This repository has 563 stars.
+- [iBug/This-Repo-Has-561-Stars](https://github.com/iBug/This-Repo-Has-561-Stars) - Yes, it's true :yellow_heart: This repository has 561 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
