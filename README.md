@@ -1385,6 +1385,8 @@
 
 ## Python 
 
+- [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
+- [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch
 - [JoshKarpel/counterweight](https://github.com/JoshKarpel/counterweight) - An experimental TUI framework for Python, inspired by React and Tailwind
@@ -2865,6 +2867,7 @@
 
 ## TypeScript 
 
+- [jupyter-widgets/jupyterlab-sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
@@ -2873,7 +2876,7 @@
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [Tatz884/RescueTime-Obsidian](https://github.com/Tatz884/RescueTime-Obsidian) - A RescueTime integration plugin to view your activity logs in Obsidian.
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python: run reproducible experiments, bring data to life with UI elements, execute as a script, deploy as an app, and version with git.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, bring data to life with UI elements, execute as a script, deploy as an app, and version with git.
 - [TomNCatz/obsidian-gallery](https://github.com/TomNCatz/obsidian-gallery) - Main Gallery to tag / filter / add notes to images. Display blocks to embed images inside notes. Display block to an image information
 - [hdykokd/obsidian-vertical-tabs-view](https://github.com/hdykokd/obsidian-vertical-tabs-view) - A plugin for Obsidian that provides a vertical tabs view
 - [Ellpeck/ObsidianJustSharePlease](https://github.com/Ellpeck/ObsidianJustSharePlease) - An Obsidian plugin that allows quickly and easily sharing individual notes online using an anonymized link
