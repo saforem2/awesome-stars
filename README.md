@@ -417,6 +417,8 @@
 
 ## HTML 
 
+- [openjournals/joss-papers](https://github.com/openjournals/joss-papers) - Accepted JOSS papers
+- [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [codewithsadee/dashboard](https://github.com/codewithsadee/dashboard) - This dashboard is fully responsive for all devices
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
@@ -1207,6 +1209,7 @@
 
 ## Others 
 
+- [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - 🌍 A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4E) | AI for Science (AI4S)
 - [tung-nd/stormer](https://github.com/tung-nd/stormer) - 
 - [TPC-AI/domain-data-climate-environment-ecology](https://github.com/TPC-AI/domain-data-climate-environment-ecology) - 
 - [rhythmus/markdown-resources](https://github.com/rhythmus/markdown-resources) - A curated collection of Markdown resources: apps, dialects, parsers, people, …
@@ -1384,6 +1387,9 @@
 
 ## Python 
 
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
+- [google/jaxopt](https://github.com/google/jaxopt) - Hardware accelerated, batchable and differentiable optimizers in JAX.
 - [anki-code/xontrib-ergopack](https://github.com/anki-code/xontrib-ergopack) - 📦 Meta package that installs group of ergonomic xontribs in xonsh shell.
 - [anki-code/xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
 - [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
@@ -2610,6 +2616,7 @@
 
 ## Ruby 
 
+- [kevinjalbert/github_contributions](https://github.com/kevinjalbert/github_contributions) - Gem that provides can fetch your GitHub contributions and output them.
 - [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [apple/homebrew-apple](https://github.com/apple/homebrew-apple) - 
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
