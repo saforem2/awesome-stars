@@ -1073,7 +1073,7 @@
 - [ada0l/obsidian](https://github.com/ada0l/obsidian) - :book: Base Obsidian functionality in your Neovim
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
 - [garyhurtz/cmp_kitty](https://github.com/garyhurtz/cmp_kitty) - Kitty completion source for nvim-cmp
-- [mcanouil/quarto-iconify](https://github.com/mcanouil/quarto-iconify) - Use Iconify icons in HTML-based Quarto documents
+- [mcanouil/quarto-iconify](https://github.com/mcanouil/quarto-iconify) - Use Iconify icons in HTML-based Quarto documents (over 200,000 open source vector icons)
 - [Jezda1337/nvim-html-css](https://github.com/Jezda1337/nvim-html-css) - CSS Intellisense for HTML
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Not UFO in the sky, but an ultra fold in Neovim.
 - [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing!
@@ -1161,7 +1161,7 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mathematica 
@@ -1663,7 +1663,7 @@
 - [sid-the-coder/QuickDA](https://github.com/sid-the-coder/QuickDA) - Simple & Easy-to-use python modules to perform Quick Exploratory Data Analysis for any structured dataset!
 - [gcant/DistVAE](https://github.com/gcant/DistVAE) - VAE for approximating distributions and estimating partition functions
 - [1202kbs/DMCMC](https://github.com/1202kbs/DMCMC) - Official PyTorch implementation of "Denoising MCMC for Accelerating Diffusion-Based Generative Models"
-- [fjosw/pyerrors](https://github.com/fjosw/pyerrors) - Error propagation and statistical analysis for Markov chain Monte Carlo simulations in lattice QCD and statistical mechanics
+- [fjosw/pyerrors](https://github.com/fjosw/pyerrors) - Error propagation and statistical analysis for Markov chain Monte Carlo simulations in lattice QCD and statistical mechanics using autograd
 - [awesome-panel/examples](https://github.com/awesome-panel/examples) - A repository of awesome panel examples. The apps are running entirely in the browser as webassembly apps. NO SERVER REQUIRED.
 - [google-deepmind/alphatensor](https://github.com/google-deepmind/alphatensor) - 
 - [pyamg/pyamg](https://github.com/pyamg/pyamg) - Algebraic Multigrid Solvers in Python
