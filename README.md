@@ -1520,7 +1520,7 @@
 - [francois-rozet/sda](https://github.com/francois-rozet/sda) - Official implementation of Score-based Data Assimilation
 - [ehoogeboom/multinomial_diffusion](https://github.com/ehoogeboom/multinomial_diffusion) - 
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
-- [atomicarchitects/equiformer_v2](https://github.com/atomicarchitects/equiformer_v2) - [arXiv'23] EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations
+- [atomicarchitects/equiformer_v2](https://github.com/atomicarchitects/equiformer_v2) - [ICLR'24] EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations
 - [ewdurbin/clandestined-python](https://github.com/ewdurbin/clandestined-python) - python rendezvous hashing implementation based on murmur3 hash
 - [stared/livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook for Keras, PyTorch and others
 - [beresandras/clear-diffusion-keras](https://github.com/beresandras/clear-diffusion-keras) - Implementation of denoising diffusion models with schedules, improved sampling, and other extensions using Keras.
@@ -2157,7 +2157,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-563-Stars](https://github.com/iBug/This-Repo-Has-563-Stars) - Yes, it's true :heartpulse: This repository has 563 stars.
+- [iBug/This-Repo-Has-564-Stars](https://github.com/iBug/This-Repo-Has-564-Stars) - Yes, it's true :yellow_heart: This repository has 564 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
