@@ -157,7 +157,6 @@
 
 ## C++ 
 
-- [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 - [LLNL/axom](https://github.com/LLNL/axom) - CS infrastructure components for HPC applications
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [intel/torch-ccl](https://github.com/intel/torch-ccl) - oneCCL Bindings for Pytorch*
@@ -1437,6 +1436,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [manubot/manubot](https://github.com/manubot/manubot) - Python utilities for Manubot: Manuscripts, open and automated
 - [yt-project/yt](https://github.com/yt-project/yt) - Main yt repository
+- [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 - [basnijholt/unidep](https://github.com/basnijholt/unidep) - Single source of truth with requirements for pip and conda
 - [google-research/weatherbench2](https://github.com/google-research/weatherbench2) - A benchmark for the next generation of data-driven global weather models.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
@@ -2653,7 +2653,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrames for Python designed for the cloud, powered by Rust
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [noahgift/rust-mlops-template](https://github.com/noahgift/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
