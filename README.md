@@ -2053,7 +2053,7 @@
 - [calmiLovesAI/TensorFlow2.0_ResNet](https://github.com/calmiLovesAI/TensorFlow2.0_ResNet) - A ResNet(ResNet18, ResNet34, ResNet50, ResNet101, ResNet152) implementation using TensorFlow-2.0.
 - [Bao-Jiarong/ResNet](https://github.com/Bao-Jiarong/ResNet) - This repository includes ResNet18, ResNet34, ResNet50, ResNet101, ResNet152 in Tensorflow 2.
 - [rougier/matplotlib-3d](https://github.com/rougier/matplotlib-3d) - Experimental 3D axis for matplotlib
-- [Open-Catalyst-Project/ocp](https://github.com/Open-Catalyst-Project/ocp) - https://opencatalystproject.org/
+- [Open-Catalyst-Project/ocp](https://github.com/Open-Catalyst-Project/ocp) - Open Catalyst Project's library of machine learning methods for catalysis
 - [open-research/sumatra](https://github.com/open-research/sumatra) - 
 - [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning
 - [PabloRR100/Single_vs_Ensemble_of_NNs](https://github.com/PabloRR100/Single_vs_Ensemble_of_NNs) - Should we always go deeper? Study on Ensemble Learning as an alternative to going deeper in Deep Learning showing interesting results
