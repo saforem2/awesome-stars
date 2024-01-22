@@ -92,6 +92,7 @@
 
 ## C 
 
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [stas00/the-art-of-debugging](https://github.com/stas00/the-art-of-debugging) - The Art of Debugging
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
@@ -1343,7 +1344,6 @@
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [krunkosaurus/bettertouchtool-crypto](https://github.com/krunkosaurus/bettertouchtool-crypto) - Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [vahidk/EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -2159,7 +2159,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-564-Stars](https://github.com/iBug/This-Repo-Has-564-Stars) - Yes, it's true :yellow_heart: This repository has 564 stars.
+- [iBug/This-Repo-Has-564-Stars](https://github.com/iBug/This-Repo-Has-564-Stars) - Yes, it's true :revolving_hearts: This repository has 564 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2765,6 +2765,7 @@
 - [jjangsangy/MacOS-TensorflowBuilds](https://github.com/jjangsangy/MacOS-TensorflowBuilds) - Optimized tensorflow wheels binaries build for macos
 - [umurgdk/ddnotes](https://github.com/umurgdk/ddnotes) - drop down notes for linux window managers
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [JELGT2011/.dotfiles](https://github.com/JELGT2011/.dotfiles) - 
