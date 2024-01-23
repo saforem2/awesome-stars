@@ -1187,6 +1187,7 @@
 
 ## OCaml 
 
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [SHoltzen/dice](https://github.com/SHoltzen/dice) - Exact inference for discrete probabilistic programs. (Research code, more documentation and ergonomics to come)
 
@@ -1426,7 +1427,7 @@
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
 - [Psivant/femto](https://github.com/Psivant/femto) - A comprehensive toolkit for predicting free energies
 - [saforem2/wordplay](https://github.com/saforem2/wordplay) - Playing with words
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Guided Text Generation
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [louaaron/Scaling-Riemannian-Diffusion](https://github.com/louaaron/Scaling-Riemannian-Diffusion) - [NeurIPS 2023] Scaling Riemannian Diffusion Models
 - [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - 
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
@@ -1562,7 +1563,6 @@
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [cybertronai/gradient-checkpointing](https://github.com/cybertronai/gradient-checkpointing) - Make huge neural nets fit in memory
 - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools) - Intel PMU profiling tools
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [yixuan/temperflow](https://github.com/yixuan/temperflow) - Efficient Multimodal Sampling via Tempered Distribution Flow
 - [microsoft/NPKit](https://github.com/microsoft/NPKit) - NCCL Profiling Kit
@@ -2198,6 +2198,7 @@
 - [microsoft/AI](https://github.com/microsoft/AI) - Microsoft AI
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [tchaton/lightning-geometric](https://github.com/tchaton/lightning-geometric) - Integrate pytorch
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [jonathf/chaospy](https://github.com/jonathf/chaospy) - Chaospy - Toolbox for performing uncertainty quantification.
 - [ColCarroll/ridge_map](https://github.com/ColCarroll/ridge_map) - Ridge plots of ridges
 - [HongyangGao/Graph-U-Nets](https://github.com/HongyangGao/Graph-U-Nets) - Pytorch implementation of Graph U-Nets (ICML19)
@@ -2750,7 +2751,6 @@
 - [coreyjadams/ThetaGPU-Containers](https://github.com/coreyjadams/ThetaGPU-Containers) - Singularity recipes for ThetaGPU
 - [izmailovpavel/flowgmm](https://github.com/izmailovpavel/flowgmm) - 
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [richin13/dotfiles](https://github.com/richin13/dotfiles) - My dotfiles: (Neovim + Zsh + Tmux) optimized for Python & React development 🤑
 - [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action) - :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
 - [RescueTime/git-commits-to-rescuetime-daily-highlights](https://github.com/RescueTime/git-commits-to-rescuetime-daily-highlights) - An example script to show how to log code commits as Daily Highlights in RescueTime
