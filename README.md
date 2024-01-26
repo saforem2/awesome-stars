@@ -39,6 +39,7 @@
 - [Lean](#lean)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
@@ -501,6 +502,7 @@
 
 ## JavaScript 
 
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [kaitlinmctigue/kaitlinmctigue.github.io](https://github.com/kaitlinmctigue/kaitlinmctigue.github.io) - 
 - [quarto-dev/quarto-web](https://github.com/quarto-dev/quarto-web) - Quarto website
@@ -728,7 +730,7 @@
 - [TuringLang/Bijectors.jl](https://github.com/TuringLang/Bijectors.jl) - Implementation of normalising flows and constrained random variable transformations
 - [JuliaReach/ReachabilityAnalysis.jl](https://github.com/JuliaReach/ReachabilityAnalysis.jl) - Compute reachable states of dynamical systems
 - [JuliaApproximation/ContinuumArrays.jl](https://github.com/JuliaApproximation/ContinuumArrays.jl) - A package for representing quasi arrays with continuous indices
-- [SciML/NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations for Scientific Machine Learning (SciML) accelerated simulation
+- [SciML/NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) - Physics-Informed Neural Networks (PINN) Solvers of (Partial) Differential Equations for Scientific Machine Learning (SciML) accelerated simulation
 - [ITensor/NDTensors.jl](https://github.com/ITensor/NDTensors.jl) - A Julia package for n-dimensional sparse tensors.
 - [SciML/DiffEqBase.jl](https://github.com/SciML/DiffEqBase.jl) - The lightweight Base library for shared types and functionality for defining differential equation and scientific machine learning (SciML) problems
 - [JuliaGPU/XLA.jl](https://github.com/JuliaGPU/XLA.jl) - Julia on TPUs
@@ -1151,6 +1153,10 @@
 - [acerbilab/vbmc](https://github.com/acerbilab/vbmc) - Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB
 - [Sohl-Dickstein/LAHMC](https://github.com/Sohl-Dickstein/LAHMC) - Look Ahead Hamiltonian Monte Carlo
 
+## MDX 
+
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+
 ## Makefile 
 
 - [hpc/Spindle](https://github.com/hpc/Spindle) - Scalable dynamic library and python loading in HPC environments
@@ -1387,6 +1393,8 @@
 
 ## Python 
 
+- [google/pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
+- [dflock/kitty-save-session](https://github.com/dflock/kitty-save-session) - Allows you to save & restore kitty sessions, with all kitty OS windows, kitty tabs & kitty windows restored.
 - [huggingface/nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
@@ -2016,7 +2024,6 @@
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [HaohanWang/HFC](https://github.com/HaohanWang/HFC) - Implementation for the paper (CVPR Oral): High Frequency Component Helps Explain the Generalization of Convolutional Neural Networks
 - [lululxvi/deepxde](https://github.com/lululxvi/deepxde) - A library for scientific machine learning and physics-informed learning
-- [AmanoTeam/LyricsPy](https://github.com/AmanoTeam/LyricsPy) - Python library for searching lyrics on Musixmatch, Genius and letras.mus.br.
 - [hudsonbrendon/python-musixmatch](https://github.com/hudsonbrendon/python-musixmatch) - Simple integrate of API musixmatch.com with python
 - [alexmojaki/heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -2830,6 +2837,7 @@
 
 ## TeX 
 
+- [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites) - collection of favorite TikZ graphics
 - [arcruz0/quarto-compact](https://github.com/arcruz0/quarto-compact) - A Quarto format for compact PDF documents. Good for short reports, homework assignments, etc.
 - [saforem2/saforem2.github.io](https://github.com/saforem2/saforem2.github.io) - Personal Website (using Quarto)
 - [saforem2/lattice23](https://github.com/saforem2/lattice23) - Slides for Lattice 2023
@@ -2895,7 +2903,6 @@
 - [Ellpeck/ObsidianJustSharePlease](https://github.com/Ellpeck/ObsidianJustSharePlease) - An Obsidian plugin that allows quickly and easily sharing individual notes online using an anonymized link
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
