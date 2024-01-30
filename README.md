@@ -750,6 +750,7 @@
 
 ## Jupyter Notebook 
 
+- [kazewong/jim](https://github.com/kazewong/jim) - Gravitational-wave data analysis tools in Jax
 - [vislearn/FFF](https://github.com/vislearn/FFF) - Free-form flows are a generative model training a pair of neural networks via maximum likelihood
 - [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - Automatic GPU+CPU memory profiling, re-use and memory leaks detection using jupyter/ipython experiment containers
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
@@ -1262,7 +1263,7 @@
 - [Dmytro-Shulha/obsidian-css-snippets](https://github.com/Dmytro-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
 - [jeremysanders/awesome-dataviz](https://github.com/jeremysanders/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
-- [texworld/betterbib](https://github.com/texworld/betterbib) - :green_book: Update BibTeX files with info from online resources.
+- [texworld/betterbib](https://github.com/texworld/betterbib) - :green_book: Command-line tools for bibliographies.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
@@ -1395,6 +1396,10 @@
 
 ## Python 
 
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
+- [Garden-AI/garden](https://github.com/Garden-AI/garden) - 
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [jrieke/streamlit-analytics](https://github.com/jrieke/streamlit-analytics) - 👀 Track & visualize user interactions with your streamlit app
 - [ORNL/HydraGNN](https://github.com/ORNL/HydraGNN) - Distributed PyTorch implementation of multi-headed graph convolutional neural networks
@@ -1710,7 +1715,7 @@
 - [asperti/We_love_latent_space](https://github.com/asperti/We_love_latent_space) - Repository relative to the article "Comparing the latent space of generative models", joint work with Valerio Tonelli
 - [jimporter/mike](https://github.com/jimporter/mike) - Manage multiple versions of your MkDocs-powered documentation via Git
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
-- [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
+- [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
 - [bjing2016/subspace-diffusion](https://github.com/bjing2016/subspace-diffusion) - Improved diffusion generative models with subspaces
 - [online-ml/beaver](https://github.com/online-ml/beaver) - 🦫 MLOps for (online) machine learning
 - [MLMI2-CSSI/foundry](https://github.com/MLMI2-CSSI/foundry) - Simplifying the discovery and usage of machine-learning ready datasets in materials science and chemistry
@@ -2727,6 +2732,8 @@
 
 ## Shell 
 
+- [z-shell/F-Sy-H](https://github.com/z-shell/F-Sy-H) - ⚙️ Feature-rich Syntax Highlighting for Zsh
+- [z-shell/zprompts](https://github.com/z-shell/zprompts) - Zsh themes (prompts) plugin that uses the original Zsh theming subsystem.
 - [vinay0410/tectonic-action](https://github.com/vinay0410/tectonic-action) - Compile Tex files easily
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
@@ -3036,6 +3043,7 @@
 
 ## Typst 
 
+- [LaPreprint/typst](https://github.com/LaPreprint/typst) - Easily create beautiful preprints in Typst
 - [glambrechts/slydst](https://github.com/glambrechts/slydst) - Create simple static slides with Typst
 
 ## Vala 
