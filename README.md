@@ -757,6 +757,7 @@
 
 ## Jupyter Notebook 
 
+- [pacman100/DHS-LLM-Workshop](https://github.com/pacman100/DHS-LLM-Workshop) - DHS 2023 LLM Workshop by Sourab Mangrulkar
 - [kazewong/jim](https://github.com/kazewong/jim) - Gravitational-wave data analysis tools in Jax
 - [vislearn/FFF](https://github.com/vislearn/FFF) - Free-form flows are a generative model training a pair of neural networks via maximum likelihood
 - [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - Automatic GPU+CPU memory profiling, re-use and memory leaks detection using jupyter/ipython experiment containers
@@ -1654,7 +1655,7 @@
 - [probabilists/zuko](https://github.com/probabilists/zuko) - Normalizing flows in PyTorch
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
 - [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨
 - [fudan-zvg/PDS](https://github.com/fudan-zvg/PDS) - [ECCV 2022] Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling
@@ -2189,7 +2190,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-565-Stars](https://github.com/iBug/This-Repo-Has-565-Stars) - Yes, it's true :gift_heart: This repository has 565 stars.
+- [iBug/This-Repo-Has-566-Stars](https://github.com/iBug/This-Repo-Has-566-Stars) - Yes, it's true :revolving_hearts: This repository has 566 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2745,6 +2746,7 @@
 
 ## Shell 
 
+- [doctorfree/kitty-control](https://github.com/doctorfree/kitty-control) - Control some aspects of the Kitty terminal emulator from the command line
 - [z-shell/F-Sy-H](https://github.com/z-shell/F-Sy-H) - ⚙️ Feature-rich Syntax Highlighting for Zsh
 - [z-shell/zprompts](https://github.com/z-shell/zprompts) - Zsh themes (prompts) plugin that uses the original Zsh theming subsystem.
 - [vinay0410/tectonic-action](https://github.com/vinay0410/tectonic-action) - Compile Tex files easily
@@ -2825,6 +2827,7 @@
 
 ## Swift 
 
+- [niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh) - Unlock the full brightness of the XDR display of your MacBook Pro
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
 - [eth-siplab/SVG2Keynote-gui](https://github.com/eth-siplab/SVG2Keynote-gui) - SVG2Keynote is a macOS tool to convert Scalable Vector Graphics to Apple Keynote documents. SVG2Keynote preserves shape information (path styles, fills), such that shapes can be edited in Keynote.
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
