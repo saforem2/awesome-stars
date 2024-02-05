@@ -1589,7 +1589,7 @@
 - [AnonymouX47/termvisage](https://github.com/AnonymouX47/termvisage) - Browse and view images in the terminal (mostly a front-end to https://github.com/AnonymouX47/term-image)
 - [rougier/gsp-matplotlib](https://github.com/rougier/gsp-matplotlib) - Graphic Server Protocol (GSP) : Matplotlib implementation
 - [platisd/duplicate-code-detection-tool](https://github.com/platisd/duplicate-code-detection-tool) - A simple Python3 tool to detect similarities between files within a repository
-- [bluesky/tiled](https://github.com/bluesky/tiled) - This is an experimental prototype.
+- [bluesky/tiled](https://github.com/bluesky/tiled) - API to structured data
 - [radical-cybertools/radical.pilot](https://github.com/radical-cybertools/radical.pilot) - RADICAL-Pilot
 - [groq/mlagility](https://github.com/groq/mlagility) - Machine Learning Agility (MLAgility) benchmark and benchmarking tools
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
@@ -2695,7 +2695,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
