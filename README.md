@@ -509,6 +509,7 @@
 
 ## JavaScript 
 
+- [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -673,7 +674,7 @@
 - [CliMA/ClimaTimeSteppers.jl](https://github.com/CliMA/ClimaTimeSteppers.jl) - A CPU- and GPU-friendly package for solving ordinary differential equations
 - [slimgroup/InvertibleNetworks.jl](https://github.com/slimgroup/InvertibleNetworks.jl) - A Julia framework for invertible neural networks
 - [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for various mathematical libraries (including flint2)
-- [CliMA/ClimaLand.jl](https://github.com/CliMA/ClimaLand.jl) - an in-progress prototype interface for the land model
+- [CliMA/ClimaLand.jl](https://github.com/CliMA/ClimaLand.jl) - Clima's Land Model
 - [JuliaStrings/LaTeXStrings.jl](https://github.com/JuliaStrings/LaTeXStrings.jl) - convenient input and display of LaTeX equation strings for the Julia language
 - [fbuessen/SpinMC.jl](https://github.com/fbuessen/SpinMC.jl) - Classical Monte Carlo simulations for lattice spin systems
 - [vtjnash/Glob.jl](https://github.com/vtjnash/Glob.jl) - Posix-compliant file name pattern matching
@@ -761,7 +762,7 @@
 - [kazewong/jim](https://github.com/kazewong/jim) - Gravitational-wave data analysis tools in Jax
 - [vislearn/FFF](https://github.com/vislearn/FFF) - Free-form flows are a generative model training a pair of neural networks via maximum likelihood
 - [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - Automatic GPU+CPU memory profiling, re-use and memory leaks detection using jupyter/ipython experiment containers
-- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
+- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
 - [eiln/ane-ex](https://github.com/eiln/ane-ex) - 
 - [JakobRobnik/MicroCanonicalHMC](https://github.com/JakobRobnik/MicroCanonicalHMC) - MCHMC: sampler from an arbitrary differentiable distribution
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
@@ -1405,6 +1406,8 @@
 
 ## Python 
 
+- [astro-informatics/s2ball](https://github.com/astro-informatics/s2ball) - Differentiable and accelerated wavelet transform on the ball with JAX
+- [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [facebookresearch/recipes](https://github.com/facebookresearch/recipes) - Recipes are a standard, well supported set of blueprints for machine learning engineers to rapidly train models using the latest research techniques without significant engineering overhead.Specifical
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [danielward27/flowjax](https://github.com/danielward27/flowjax) - 
