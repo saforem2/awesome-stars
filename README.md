@@ -609,6 +609,7 @@
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [asford/notebook_input_mode](https://github.com/asford/notebook_input_mode) - Jupyter nbextension supporting alternate input modes.
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [chi-feng/mcmc-demo](https://github.com/chi-feng/mcmc-demo) - Interactive Markov-chain Monte Carlo Javascript demos
 - [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits.
 - [techsyndicate/starhub](https://github.com/techsyndicate/starhub) - StarHub - A chrome extension that tracks your GitHub stars so you don't have to.
@@ -709,7 +710,6 @@
 - [JuliaAI/ScientificTypes.jl](https://github.com/JuliaAI/ScientificTypes.jl) - An API for dispatching on the "scientific" type of data instead of the machine type
 - [JuliaImages/juliaimages.github.io](https://github.com/JuliaImages/juliaimages.github.io) - Documentation For JuliaImages
 - [jakobnissen/hardware_introduction](https://github.com/jakobnissen/hardware_introduction) - What scientific programmers must know about CPUs and RAM to write fast code.
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [Roger-luo/PIML](https://github.com/Roger-luo/PIML) - lecture materials of the ML for Physics course 2021 in Perimeter Institute
 - [mschauer/DynamicIterators.jl](https://github.com/mschauer/DynamicIterators.jl) - Iterators with message passing and feedback loops
 - [omlins/ParallelStencil.jl](https://github.com/omlins/ParallelStencil.jl) - Package for writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs
@@ -1230,7 +1230,7 @@
 
 ## Others 
 
-- [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - 🌍 A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4E) | AI for Science (AI4S)
+- [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - ☁️ A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4E) | AI for Science (AI4S)
 - [tung-nd/stormer](https://github.com/tung-nd/stormer) - 
 - [TPC-AI/domain-data-climate-environment-ecology](https://github.com/TPC-AI/domain-data-climate-environment-ecology) - 
 - [rhythmus/markdown-resources](https://github.com/rhythmus/markdown-resources) - A curated collection of Markdown resources: apps, dialects, parsers, people, …
@@ -1407,6 +1407,7 @@
 
 ## Python 
 
+- [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - A fast plotting library
 - [divelab/AIRS](https://github.com/divelab/AIRS) - Artificial Intelligence Research for Science (AIRS)
 - [astro-informatics/s2ball](https://github.com/astro-informatics/s2ball) - Differentiable and accelerated wavelet transform on the ball with JAX
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
@@ -1571,7 +1572,7 @@
 - [zengyi-li/MDSM](https://github.com/zengyi-li/MDSM) - Multiscale de-noising score matching
 - [WenboGong/Sliced_Kernelized_Stein_Discrepancy](https://github.com/WenboGong/Sliced_Kernelized_Stein_Discrepancy) - This repo implements the main experiments for sliced kernelized Stein discrepancy and active slices method.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is a creator platform for developers. Let's fix open source funding!
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
 - [microsoft/admin-torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 - [gmongaras/Diffusion_models_from_scratch](https://github.com/gmongaras/Diffusion_models_from_scratch) - Creating a diffusion model from scratch in PyTorch to learn exactly how they work.
@@ -2952,7 +2953,7 @@
 - [jupyterlab-contrib/jupyterlab-theme-editor](https://github.com/jupyterlab-contrib/jupyterlab-theme-editor) - Extension providing a theme editor where colors, font families and font sizes of the elements of the user interface can be varied
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [liamcain/obsidian-daily-notes-interface](https://github.com/liamcain/obsidian-daily-notes-interface) - Package to create, open, and find daily notes from your Obsidian plugin
 - [harbassan/spicetify-apps](https://github.com/harbassan/spicetify-apps) - A spicetify custom app that shows you your top artists, tracks, genres and an an analysis of your music library.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
