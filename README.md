@@ -1475,7 +1475,6 @@
 - [ershov/kitty_config](https://github.com/ershov/kitty_config) - Full config 'kitten' for Kitty terminal.
 - [yurikhan/kitty-smart-scroll](https://github.com/yurikhan/kitty-smart-scroll) - Mode-dependent buffer scrolling for Kitty
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
-- [manubot/manubot](https://github.com/manubot/manubot) - Python utilities for Manubot: Manuscripts, open and automated
 - [yt-project/yt](https://github.com/yt-project/yt) - Main yt repository
 - [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 - [basnijholt/unidep](https://github.com/basnijholt/unidep) - Single source of truth with requirements for pip and conda
