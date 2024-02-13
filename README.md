@@ -212,7 +212,6 @@
 - [xiaoh/DAFI](https://github.com/xiaoh/DAFI) - DAFI: Ensemble based data assimilation and field inversion, repository for internal development
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [danieljsharpe/DISCOTRESS](https://github.com/danieljsharpe/DISCOTRESS) - 🦜 DISCOTRESS 🦜 is a software package to simulate and analyse the dynamics on arbitrary Markov chains
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [lawmurray/Birch](https://github.com/lawmurray/Birch) - A probabilistic programming language that combines automatic differentiation, automatic marginalization, and automatic conditioning within Monte Carlo methods.
 - [argonne-lcf/sycltrain](https://github.com/argonne-lcf/sycltrain) - Training examples for SYCL
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
@@ -500,6 +499,7 @@
 
 ## Java 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [ambrosiogabe/ImpossibleGame](https://github.com/ambrosiogabe/ImpossibleGame) - 
 - [OftenUser/ImpossibleGame](https://github.com/OftenUser/ImpossibleGame) - 
 - [sylvainhalle/textidote](https://github.com/sylvainhalle/textidote) - Spelling, grammar and style checking on LaTeX documents
@@ -1407,6 +1407,7 @@
 
 ## Python 
 
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - A fast plotting library
 - [divelab/AIRS](https://github.com/divelab/AIRS) - Artificial Intelligence Research for Science (AIRS)
 - [astro-informatics/s2ball](https://github.com/astro-informatics/s2ball) - Differentiable and accelerated wavelet transform on the ball with JAX
@@ -2725,6 +2726,7 @@
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [crlf0710/tectonic](https://github.com/crlf0710/tectonic) - Experimental Oxidization of Tectonic the TeX/LaTeX engine.
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
 ## SCSS 
