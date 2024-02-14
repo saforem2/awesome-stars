@@ -361,7 +361,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [converged-computing/slurm-operator](https://github.com/converged-computing/slurm-operator) - Testing if I can implement slurm in an operator
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
@@ -758,6 +758,7 @@
 
 ## Jupyter Notebook 
 
+- [argonne-lcf/llm-workshop](https://github.com/argonne-lcf/llm-workshop) - 
 - [pacman100/DHS-LLM-Workshop](https://github.com/pacman100/DHS-LLM-Workshop) - DHS 2023 LLM Workshop by Sourab Mangrulkar
 - [kazewong/jim](https://github.com/kazewong/jim) - Gravitational-wave data analysis tools in Jax
 - [vislearn/FFF](https://github.com/vislearn/FFF) - Free-form flows are a generative model training a pair of neural networks via maximum likelihood
@@ -1077,6 +1078,7 @@
 
 ## Lua 
 
+- [wjschne/apaquarto](https://github.com/wjschne/apaquarto) - A quarto extension for creating APA7 documents in .docx, .html, and .pdf formats
 - [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) - A dark neovim colorscheme written in lua
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
 - [vhyrro/hologram.nvim](https://github.com/vhyrro/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
@@ -1407,6 +1409,7 @@
 
 ## Python 
 
+- [DavidRuhe/clifford-group-equivariant-neural-networks](https://github.com/DavidRuhe/clifford-group-equivariant-neural-networks) - Houses the code and models from the "Clifford Group Equivariant Neural Networks" paper.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - A fast plotting library
 - [divelab/AIRS](https://github.com/divelab/AIRS) - Artificial Intelligence Research for Science (AIRS)
@@ -1476,6 +1479,7 @@
 - [ershov/kitty_config](https://github.com/ershov/kitty_config) - Full config 'kitten' for Kitty terminal.
 - [yurikhan/kitty-smart-scroll](https://github.com/yurikhan/kitty-smart-scroll) - Mode-dependent buffer scrolling for Kitty
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
+- [manubot/manubot](https://github.com/manubot/manubot) - Python utilities for Manubot: Manuscripts, open and automated
 - [yt-project/yt](https://github.com/yt-project/yt) - Main yt repository
 - [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 - [basnijholt/unidep](https://github.com/basnijholt/unidep) - Single source of truth with requirements for pip and conda
@@ -2197,7 +2201,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-566-Stars](https://github.com/iBug/This-Repo-Has-566-Stars) - Yes, it's true :yellow_heart: This repository has 566 stars.
+- [iBug/This-Repo-Has-566-Stars](https://github.com/iBug/This-Repo-Has-566-Stars) - Yes, it's true :heart: This repository has 566 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
