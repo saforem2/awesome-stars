@@ -1548,7 +1548,7 @@
 - [altermo/vim-plugin-list](https://github.com/altermo/vim-plugin-list) - A list of vim/neovim plugins(/extensions for plugins)
 - [kiyoon/jupynium.nvim](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with NeoVim in real-time.
 - [jupyter-vim/jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
-- [Joshuaalbert/jaxns](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX
+- [Joshuaalbert/jaxns](https://github.com/Joshuaalbert/jaxns) - Probabilistic Programming and Nested sampling in JAX
 - [bazingagin/npc_lv](https://github.com/bazingagin/npc_lv) - 
 - [openclimatefix/graph_weather](https://github.com/openclimatefix/graph_weather) - PyTorch implementation of Ryan Keisler's 2022 "Forecasting Global Weather with Graph Neural Networks" paper (https://arxiv.org/abs/2202.07575)
 - [AutoGIS-2017/Exercise-2](https://github.com/AutoGIS-2017/Exercise-2) - Exercise 2 for the 2017 version of the Automating GIS-processes course https://automating-gis-processes.github.io/2017/
@@ -2666,7 +2666,7 @@
 - [apple/homebrew-apple](https://github.com/apple/homebrew-apple) - 
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [srobbin/sweeparoundus](https://github.com/srobbin/sweeparoundus) - A Chicago street sweeping alert system and searchable calendar
-- [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast and smart citation reference parsing
+- [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast citation reference parsing
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [Chris911/iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
