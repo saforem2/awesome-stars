@@ -758,6 +758,7 @@
 
 ## Jupyter Notebook 
 
+- [pyt-team/TopoNetX](https://github.com/pyt-team/TopoNetX) - Computing on Topological Domains
 - [argonne-lcf/llm-workshop](https://github.com/argonne-lcf/llm-workshop) - 
 - [pacman100/DHS-LLM-Workshop](https://github.com/pacman100/DHS-LLM-Workshop) - DHS 2023 LLM Workshop by Sourab Mangrulkar
 - [kazewong/jim](https://github.com/kazewong/jim) - Gravitational-wave data analysis tools in Jax
@@ -1078,6 +1079,7 @@
 
 ## Lua 
 
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - A Neovim plugin helping you establish good command workflow and habit
 - [wjschne/apaquarto](https://github.com/wjschne/apaquarto) - A quarto extension for creating APA7 documents in .docx, .html, and .pdf formats
 - [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) - A dark neovim colorscheme written in lua
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
@@ -1408,6 +1410,7 @@
 
 ## Python 
 
+- [carlini/yet-another-applied-llm-benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - 
 - [DavidRuhe/clifford-group-equivariant-neural-networks](https://github.com/DavidRuhe/clifford-group-equivariant-neural-networks) - Houses the code and models from the "Clifford Group Equivariant Neural Networks" paper.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - A fast plotting library
@@ -2685,6 +2688,7 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
