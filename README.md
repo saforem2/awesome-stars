@@ -262,6 +262,8 @@
 
 ## CSS 
 
+- [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+- [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [gapmiss/badges](https://github.com/gapmiss/badges) - A light-weight plugin for displaying inline "badges" in Obsidian.md
@@ -361,7 +363,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [converged-computing/slurm-operator](https://github.com/converged-computing/slurm-operator) - Testing if I can implement slurm in an operator
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
@@ -582,7 +584,6 @@
 - [Toinane/colorpicker](https://github.com/Toinane/colorpicker) - A mininal but complete colorpicker desktop app
 - [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [maierfelix/poxi](https://github.com/maierfelix/poxi) - A flat pixel art editor
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -759,6 +760,7 @@
 
 ## Jupyter Notebook 
 
+- [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind.
 - [pyt-team/TopoNetX](https://github.com/pyt-team/TopoNetX) - Computing on Topological Domains
 - [argonne-lcf/llm-workshop](https://github.com/argonne-lcf/llm-workshop) - 
 - [pacman100/DHS-LLM-Workshop](https://github.com/pacman100/DHS-LLM-Workshop) - DHS 2023 LLM Workshop by Sourab Mangrulkar
@@ -1411,6 +1413,11 @@
 
 ## Python 
 
+- [Lightning-AI/litdata](https://github.com/Lightning-AI/litdata) - Blazingly fast, distributed streaming of training data from cloud storage for training models
+- [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
+- [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
+- [stanford-crfm/mistral](https://github.com/stanford-crfm/mistral) - Mistral: A strong, northwesterly wind: Framework for transparent and accessible large-scale language model training, built with Hugging Face 🤗  Transformers.
+- [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 - [EleutherAI/cookbook](https://github.com/EleutherAI/cookbook) - Deep learning for dummies. All the practical details and useful utilities that go into working with real models.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [carlini/yet-another-applied-llm-benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - A benchmark to evaluate language models on questions I've previously asked them to solve.
@@ -1913,6 +1920,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation framework for testing with Selenium, Python, and pytest. Includes a Dashboard, a Recorder for generating tests, Undetected Mode, and more.
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -2207,7 +2215,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-566-Stars](https://github.com/iBug/This-Repo-Has-566-Stars) - Yes, it's true :heart: This repository has 566 stars.
+- [iBug/This-Repo-Has-572-Stars](https://github.com/iBug/This-Repo-Has-572-Stars) - Yes, it's true :yellow_heart: This repository has 572 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2517,7 +2525,7 @@
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [datafolklabs/cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [networkx/grave](https://github.com/networkx/grave) - Grave—dead simple graph visualization
 - [qctrl/open-controls](https://github.com/qctrl/open-controls) - 🎛 Q-CTRL Open Controls
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -2691,6 +2699,7 @@
 
 ## Rust 
 
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
