@@ -1413,8 +1413,10 @@
 
 ## Python 
 
+- [lgienapp/aquarel](https://github.com/lgienapp/aquarel) - Styling matplotlib made easy
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
-- [Lightning-AI/litdata](https://github.com/Lightning-AI/litdata) - Blazingly fast, distributed streaming of training data from cloud storage for training models
+- [Lightning-AI/litdata](https://github.com/Lightning-AI/litdata) - Blazingly fast, distributed streaming of training data from any cloud storage for training AI models
 - [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
 - [stanford-crfm/mistral](https://github.com/stanford-crfm/mistral) - Mistral: A strong, northwesterly wind: Framework for transparent and accessible large-scale language model training, built with Hugging Face 🤗  Transformers.
@@ -2216,7 +2218,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-572-Stars](https://github.com/iBug/This-Repo-Has-572-Stars) - Yes, it's true :yellow_heart: This repository has 572 stars.
+- [iBug/This-Repo-Has-573-Stars](https://github.com/iBug/This-Repo-Has-573-Stars) - Yes, it's true :gift_heart: This repository has 573 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2700,6 +2702,8 @@
 
 ## Rust 
 
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -3055,7 +3059,7 @@
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
-- [getmoro/moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
+- [getmoro/moro](https://github.com/getmoro/moro) - [DEPRECATED/DON'T USE] Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM ve
 - [github/github-artifact-exporter](https://github.com/github/github-artifact-exporter) - A set of packages to make exporting artifacts from GitHub easier
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
@@ -3098,6 +3102,7 @@
 
 ## Vim Script 
 
+- [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [felipec/vim-felipec](https://github.com/felipec/vim-felipec) - Vim color scheme: dark, bright, simple.
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
