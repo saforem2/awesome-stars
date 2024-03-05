@@ -195,6 +195,7 @@
 - [ORNL/TASMANIAN](https://github.com/ORNL/TASMANIAN) - The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
+- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [tuplex/tuplex](https://github.com/tuplex/tuplex) - Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather 
 - [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
 - [google/ml-metadata](https://github.com/google/ml-metadata) - For recording and retrieving metadata associated with ML developer and data scientist workflows.
@@ -1953,7 +1954,6 @@
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [percevalw/rich-logger](https://github.com/percevalw/rich-logger) - Table logger using Rich
 - [facebookresearch/NeuralCompression](https://github.com/facebookresearch/NeuralCompression) - A collection of tools for neural compression enthusiasts.
-- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [whitead/emoji-math](https://github.com/whitead/emoji-math) - A complete waste of time
