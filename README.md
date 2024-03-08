@@ -888,7 +888,7 @@
 - [PacktPublishing/Matplotlib-3.0-Cookbook](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) - Matplotlib 3.0 Cookbook, published by Packt
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
 - [google/nitroml](https://github.com/google/nitroml) - NitroML is a modular, portable, and scalable model-quality benchmarking framework for Machine Learning and Automated Machine Learning (AutoML) pipelines.
-- [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [NIH-HPC/python-in-hpc](https://github.com/NIH-HPC/python-in-hpc) - Materials for a Python in HPC class
 - [tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons) - Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the 
 - [intake/intake-examples](https://github.com/intake/intake-examples) - Intake examples
@@ -1237,7 +1237,7 @@
 
 ## Others 
 
-- [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - ☁️ A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4E) | AI for Science (AI4S)
+- [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - ☁️ A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4Earth) | AI for Science (AI4Science)
 - [tung-nd/stormer](https://github.com/tung-nd/stormer) - 
 - [TPC-AI/domain-data-climate-environment-ecology](https://github.com/TPC-AI/domain-data-climate-environment-ecology) - 
 - [rhythmus/markdown-resources](https://github.com/rhythmus/markdown-resources) - A curated collection of Markdown resources: apps, dialects, parsers, people, …
@@ -1413,10 +1413,11 @@
 
 ## Python 
 
+- [bair-climate-initiative/xT](https://github.com/bair-climate-initiative/xT) - 
 - [Roger-luo/teal](https://github.com/Roger-luo/teal) - Software framework for experimenting with Operator Learning Renormalization Group (OLRG)
 - [lgienapp/aquarel](https://github.com/lgienapp/aquarel) - Styling matplotlib made easy
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
 - [Lightning-AI/litdata](https://github.com/Lightning-AI/litdata) - Blazingly fast, distributed streaming of training data from any cloud storage for training AI models
 - [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
@@ -1669,10 +1670,10 @@
 - [lollcat/fab-torch](https://github.com/lollcat/fab-torch) - Flow Annealed Importance Sampling Bootstrap (FAB). ICLR 2023.
 - [jxpress/lightning-hydra-template-vertex-ai](https://github.com/jxpress/lightning-hydra-template-vertex-ai) - 
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
-- [Bras-P/langevin-for-stochastic-control](https://github.com/Bras-P/langevin-for-stochastic-control) - 
+- [bras-p/langevin-for-stochastic-control](https://github.com/bras-p/langevin-for-stochastic-control) - 
 - [pacman100/accelerate-megatron-test](https://github.com/pacman100/accelerate-megatron-test) - Testing the accelerate megatron integration
 - [WassimTenachi/PhySO](https://github.com/WassimTenachi/PhySO) - Physical Symbolic Optimization
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The fastest way to deploy AI apps and services on any infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - The fastest way to run and deploy AI jobs and services on any infra. Unobtrusive, debuggable, PyTorch-like APIs.
 - [TheRenegadeCoder/SnakeMD](https://github.com/TheRenegadeCoder/SnakeMD) - A markdown generation library for Python.
 - [didix21/mdutils](https://github.com/didix21/mdutils) - Python package contains a set of basic tools that can help to create a markdown file.
 - [muellerzr/timing_experiments](https://github.com/muellerzr/timing_experiments) - 
