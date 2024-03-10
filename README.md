@@ -540,7 +540,7 @@
 - [rajgoel/reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins) - Plugins for reveal.js
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
-- [github-20k/awesome-opensource](https://github.com/github-20k/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
+- [gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [ActiveCampaign/mailbrush](https://github.com/ActiveCampaign/mailbrush) - Node.js library for generating email friendly snippets with syntax highlighting
 - [EmilHvitfeldt/quarto-iframe-examples](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - 
@@ -1415,6 +1415,7 @@
 
 ## Python 
 
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [bair-climate-initiative/xT](https://github.com/bair-climate-initiative/xT) - 
 - [Roger-luo/teal](https://github.com/Roger-luo/teal) - Software framework for experimenting with Operator Learning Renormalization Group (OLRG)
 - [lgienapp/aquarel](https://github.com/lgienapp/aquarel) - Styling matplotlib made easy
@@ -1468,7 +1469,7 @@
 - [yastn/yastn](https://github.com/yastn/yastn) - Yet another symmetric tensor network
 - [alibaba/Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch) - The official repo of Pai-Megatron-Patch for LLM & VLM large scale training developed by Alibaba Cloud.
 - [saforem2/ambivalent](https://github.com/saforem2/ambivalent) - Minimal, beautiful (+ highly-customizable) styles for Matplotlib.
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [Suor/funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
 - [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
@@ -2221,7 +2222,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-573-Stars](https://github.com/iBug/This-Repo-Has-573-Stars) - Yes, it's true :orange_heart: This repository has 573 stars.
+- [iBug/This-Repo-Has-573-Stars](https://github.com/iBug/This-Repo-Has-573-Stars) - Yes, it's true :purple_heart: This repository has 573 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
