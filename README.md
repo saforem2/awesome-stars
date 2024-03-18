@@ -269,6 +269,7 @@
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [gapmiss/badges](https://github.com/gapmiss/badges) - A light-weight plugin for displaying inline "badges" in Obsidian.md
+- [saforem2/lattice23](https://github.com/saforem2/lattice23) - Slides for Lattice 2023
 - [replete/obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers.
 - [saforem2/climate-analysis](https://github.com/saforem2/climate-analysis) - Climate Analysis project using ClimRR data
 - [saforem2/lqcd-pasc23](https://github.com/saforem2/lqcd-pasc23) - Slides for talk @ PASC 23
@@ -446,7 +447,7 @@
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [EmilHvitfeldt/quarto-revealjs-letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto reveal.js theme based on xaringan letterbox
 - [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
-- [observablehq/plot](https://github.com/observablehq/plot) - Observable Plot: a concise API for exploratory data visualization
+- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [grokqcd/USQCD-theory-and-experimental-time-lines](https://github.com/grokqcd/USQCD-theory-and-experimental-time-lines) - Timeline for USQCD
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
 - [outerbounds/full-stack-ML-metaflow-tutorial](https://github.com/outerbounds/full-stack-ML-metaflow-tutorial) - It's all in the name
@@ -665,7 +666,7 @@
 
 ## Julia 
 
-- [yomichi/SpinMonteCarlo.jl](https://github.com/yomichi/SpinMonteCarlo.jl) - Markov chain Monte Carlo solver for lattice spin systems implemented by Julialang
+- [yomichi/SpinMonteCarlo.jl](https://github.com/yomichi/SpinMonteCarlo.jl) - Markov chain Monte Carlo solver for lattice spin systems implemented in Julialang
 - [MakieOrg/AlgebraOfGraphics.jl](https://github.com/MakieOrg/AlgebraOfGraphics.jl) - Combine ingredients for a plot
 - [JuliaComputing/PlotlyLight.jl](https://github.com/JuliaComputing/PlotlyLight.jl) - Plotly.js via Julia made easy.
 - [ChifiSource/Olive.jl](https://github.com/ChifiSource/Olive.jl) - pure julia notebooks
@@ -2650,7 +2651,7 @@
 - [shantnu/PyEng](https://github.com/shantnu/PyEng) - Python for engineers
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [merantix/picasso](https://github.com/merantix/picasso) - :art: A CNN visualizer
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [inforian/python-notifyAll](https://github.com/inforian/python-notifyAll) - A library which can be used for all types of notifications like SMS, Mail, Push.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -2917,7 +2918,6 @@
 - [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites) - collection of favorite TikZ graphics
 - [arcruz0/quarto-compact](https://github.com/arcruz0/quarto-compact) - A Quarto format for compact PDF documents. Good for short reports, homework assignments, etc.
 - [saforem2/saforem2.github.io](https://github.com/saforem2/saforem2.github.io) - Personal Website (using Quarto)
-- [saforem2/lattice23](https://github.com/saforem2/lattice23) - Slides for Lattice 2023
 - [moderncv/moderncv](https://github.com/moderncv/moderncv) - A modern curriculum vitae class for LaTeX
 - [mvoelk/nn_graphics](https://github.com/mvoelk/nn_graphics) - Artificial Neural Network related TikZ Graphics
 - [scipp-atlas/mapyde-paper](https://github.com/scipp-atlas/mapyde-paper) - 
