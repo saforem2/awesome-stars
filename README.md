@@ -1736,7 +1736,7 @@
 - [slimgroup/dfno](https://github.com/slimgroup/dfno) - Distributed Fourier Neural Operators
 - [sid-the-coder/QuickDA](https://github.com/sid-the-coder/QuickDA) - Simple & Easy-to-use python modules to perform Quick Exploratory Data Analysis for any structured dataset!
 - [gcant/DistVAE](https://github.com/gcant/DistVAE) - VAE for approximating distributions and estimating partition functions
-- [1202kbs/DMCMC](https://github.com/1202kbs/DMCMC) - Official PyTorch implementation of "Denoising MCMC for Accelerating Diffusion-Based Generative Models"
+- [1202kbs/DMCMC](https://github.com/1202kbs/DMCMC) - Official PyTorch implementation of "Denoising MCMC for Accelerating Diffusion-Based Generative Models", ICML 2023 Oral Paper
 - [fjosw/pyerrors](https://github.com/fjosw/pyerrors) - Error propagation and statistical analysis for Markov chain Monte Carlo simulations in lattice QCD and statistical mechanics using autograd
 - [awesome-panel/examples](https://github.com/awesome-panel/examples) - A repository of awesome panel examples. The apps are running entirely in the browser as webassembly apps. NO SERVER REQUIRED.
 - [google-deepmind/alphatensor](https://github.com/google-deepmind/alphatensor) - 
@@ -1936,7 +1936,7 @@
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Multi-purpose automation framework: Web crawling, scraping, testing, and reporting. (Python / pytest). UC Mode provides stealth. Over 200 examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 All-in-one automation framework: Web crawling, scraping, testing, and reporting. (Python | pytest). UC Mode provides stealth. Over 200 examples.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
