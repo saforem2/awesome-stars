@@ -266,6 +266,7 @@
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
+- [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [gapmiss/badges](https://github.com/gapmiss/badges) - A light-weight plugin for displaying inline "badges" in Obsidian.md
 - [saforem2/lattice23](https://github.com/saforem2/lattice23) - Slides for Lattice 2023
@@ -515,6 +516,7 @@
 
 ## JavaScript 
 
+- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
 - [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
@@ -666,6 +668,7 @@
 
 ## Julia 
 
+- [PumasAI/SummaryTables.jl](https://github.com/PumasAI/SummaryTables.jl) - A Julia package for creating publication-ready summary tables in HTML, docx, LaTeX and Typst
 - [yomichi/SpinMonteCarlo.jl](https://github.com/yomichi/SpinMonteCarlo.jl) - Markov chain Monte Carlo solver for lattice spin systems implemented in Julialang
 - [MakieOrg/AlgebraOfGraphics.jl](https://github.com/MakieOrg/AlgebraOfGraphics.jl) - Combine ingredients for a plot
 - [JuliaComputing/PlotlyLight.jl](https://github.com/JuliaComputing/PlotlyLight.jl) - Plotly.js via Julia made easy.
@@ -764,6 +767,7 @@
 
 ## Jupyter Notebook 
 
+- [InFoCusp/llm_seminar_series](https://github.com/InFoCusp/llm_seminar_series) - Material for the series of seminars on Large Language Models
 - [DavidRuhe/hba_flows](https://github.com/DavidRuhe/hba_flows) - 
 - [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
 - [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind.
@@ -895,7 +899,7 @@
 - [PacktPublishing/Matplotlib-3.0-Cookbook](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) - Matplotlib 3.0 Cookbook, published by Packt
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
 - [google/nitroml](https://github.com/google/nitroml) - NitroML is a modular, portable, and scalable model-quality benchmarking framework for Machine Learning and Automated Machine Learning (AutoML) pipelines.
-- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - This repo contains the original BigDL project (distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray)
 - [NIH-HPC/python-in-hpc](https://github.com/NIH-HPC/python-in-hpc) - Materials for a Python in HPC class
 - [tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons) - Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the 
 - [intake/intake-examples](https://github.com/intake/intake-examples) - Intake examples
@@ -1421,6 +1425,8 @@
 
 ## Python 
 
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [tonyduan/diffusion](https://github.com/tonyduan/diffusion) - From-scratch diffusion model implemented in PyTorch.
 - [InternLM/InternEvo](https://github.com/InternLM/InternEvo) - 
@@ -2970,6 +2976,7 @@
 
 ## TypeScript 
 
+- [OrionReed/orionreed.com](https://github.com/OrionReed/orionreed.com) - 
 - [richawo/minimal-llm-ui](https://github.com/richawo/minimal-llm-ui) - Minimalistic UI for Ollama LMs - This powerful react interface for LLMs drastically improves the chatbot experience and works offline.
 - [simonw/observable-framework-experiments](https://github.com/simonw/observable-framework-experiments) - Experiments with Observable Framework
 - [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and UnoCSS.
@@ -2989,7 +2996,6 @@
 - [TomNCatz/obsidian-gallery](https://github.com/TomNCatz/obsidian-gallery) - Main Gallery to tag / filter / add notes to images. Display blocks to embed images inside notes. Display block to an image information
 - [hdykokd/obsidian-vertical-tabs-view](https://github.com/hdykokd/obsidian-vertical-tabs-view) - A plugin for Obsidian that provides a vertical tabs view
 - [Ellpeck/ObsidianJustSharePlease](https://github.com/Ellpeck/ObsidianJustSharePlease) - An Obsidian plugin that allows quickly and easily sharing individual notes online using an anonymized link
-- [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
