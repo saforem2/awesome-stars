@@ -43,6 +43,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
+- [Mojo](#mojo)
 - [Nextflow](#nextflow)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -174,7 +175,7 @@
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [hmvege/GLAC](https://github.com/hmvege/GLAC) - A code for generating SU(3) Yang-Mills gauge configurations and applying gradient flow.
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Comes with an in-game Editor!
-- [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension that brings Intel GPU (XPU) support to DeepSpeed.
+- [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension to DeepSpeed that brings feature support with SYCL kernels on Intel GPU(XPU) device. Note XPU is already supported by stock DeepSpeed.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [jax-ml/ml_dtypes](https://github.com/jax-ml/ml_dtypes) - A stand-alone implementation of several NumPy dtype extensions used in machine learning.
 - [jinluchang/Qlattice](https://github.com/jinluchang/Qlattice) - A lattice QCD library.
@@ -547,7 +548,6 @@
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
-- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [ActiveCampaign/mailbrush](https://github.com/ActiveCampaign/mailbrush) - Node.js library for generating email friendly snippets with syntax highlighting
 - [EmilHvitfeldt/quarto-iframe-examples](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - 
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
@@ -1211,6 +1211,10 @@
 - [iamc/ML-CM-2019](https://github.com/iamc/ML-CM-2019) - Machine Learning in Condensed Matter Physics 2019  course repository
 - [metxchris/SpinSystems](https://github.com/metxchris/SpinSystems) - Simulations in C++ and Python of statistical spin systems.
 
+## Mojo 
+
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+
 ## Nextflow 
 
 - [nf-core/modules](https://github.com/nf-core/modules) - Repository to host tool-specific module files for the Nextflow DSL2 community!
@@ -1261,7 +1265,6 @@
 - [ignatandrei/ppt2reveal](https://github.com/ignatandrei/ppt2reveal) - Powerpoint to reveal
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [saforem2/diagrams](https://github.com/saforem2/diagrams) - Repo of various `draw.io` diagrams
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
 - [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim) - 🚀 A great starting point for your LunarVim journey!
@@ -2251,7 +2254,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-575-Stars](https://github.com/iBug/This-Repo-Has-575-Stars) - Yes, it's true :heartpulse: This repository has 575 stars.
+- [iBug/This-Repo-Has-576-Stars](https://github.com/iBug/This-Repo-Has-576-Stars) - Yes, it's true :gift_heart: This repository has 576 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
