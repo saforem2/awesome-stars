@@ -769,7 +769,7 @@
 
 ## Jupyter Notebook 
 
-- [InFoCusp/llm_seminar_series](https://github.com/InFoCusp/llm_seminar_series) - Material for the series of seminars on Large Language Models
+- [infocusp/llm_seminar_series](https://github.com/infocusp/llm_seminar_series) - Material for the series of seminars on Large Language Models
 - [DavidRuhe/hba_flows](https://github.com/DavidRuhe/hba_flows) - 
 - [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
 - [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind.
@@ -1437,7 +1437,7 @@
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy) - A light weight Python library for the Spotify Web API
 - [wightwick/fynesse](https://github.com/wightwick/fynesse) - Pure-Python web app for music exploration with Spotify 🌱
-- [Lightning-AI/lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - Make PyTorch models Lightning fast! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once.
+- [Lightning-AI/lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - Make PyTorch models up to 40% faster! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once; across one or thousands of GPUs.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
