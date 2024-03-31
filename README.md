@@ -548,6 +548,7 @@
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
+- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [ActiveCampaign/mailbrush](https://github.com/ActiveCampaign/mailbrush) - Node.js library for generating email friendly snippets with syntax highlighting
 - [EmilHvitfeldt/quarto-iframe-examples](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - 
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
@@ -1256,7 +1257,7 @@
 
 ## Others 
 
-- [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - ☁️ A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4Earth) | AI for Science (AI4Science)
+- [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - 🌍  A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4Earth) | AI for Science (AI4Science)
 - [tung-nd/stormer](https://github.com/tung-nd/stormer) - 
 - [TPC-AI/domain-data-climate-environment-ecology](https://github.com/TPC-AI/domain-data-climate-environment-ecology) - 
 - [rhythmus/markdown-resources](https://github.com/rhythmus/markdown-resources) - A curated collection of Markdown resources: apps, dialects, parsers, people, …
