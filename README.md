@@ -902,7 +902,7 @@
 - [PacktPublishing/Matplotlib-3.0-Cookbook](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) - Matplotlib 3.0 Cookbook, published by Packt
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
 - [google/nitroml](https://github.com/google/nitroml) - NitroML is a modular, portable, and scalable model-quality benchmarking framework for Machine Learning and Automated Machine Learning (AutoML) pipelines.
-- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - This repo contains the original BigDL project (distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray)
+- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [NIH-HPC/python-in-hpc](https://github.com/NIH-HPC/python-in-hpc) - Materials for a Python in HPC class
 - [tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons) - Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the 
 - [intake/intake-examples](https://github.com/intake/intake-examples) - Intake examples
@@ -1526,7 +1526,7 @@
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [louaaron/Scaling-Riemannian-Diffusion](https://github.com/louaaron/Scaling-Riemannian-Diffusion) - [NeurIPS 2023] Scaling Riemannian Diffusion Models
 - [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - 
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-tuning of 100+ LLMs
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [BlinkDL/nanoRWKV](https://github.com/BlinkDL/nanoRWKV) - RWKV in nanoGPT style
 - [simonhmartin/genomics_general](https://github.com/simonhmartin/genomics_general) - General tools for genomic analyses.
 - [TristanBilot/mlx-GCN](https://github.com/TristanBilot/mlx-GCN) - MLX implementation of GCN, with benchmark on MPS, CUDA and CPU (M1 Pro, M2 Ultra, M3 Max).
