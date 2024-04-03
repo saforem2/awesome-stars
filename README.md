@@ -149,6 +149,7 @@
 
 ## C# # 
 
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -159,6 +160,7 @@
 
 ## C++ 
 
+- [intel/intel-extension-for-openxla](https://github.com/intel/intel-extension-for-openxla) - 
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -770,6 +772,8 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [infocusp/llm_seminar_series](https://github.com/infocusp/llm_seminar_series) - Material for the series of seminars on Large Language Models
 - [DavidRuhe/hba_flows](https://github.com/DavidRuhe/hba_flows) - 
 - [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
@@ -1432,6 +1436,9 @@
 
 ## Python 
 
+- [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A
+- [lucidrains/enformer-pytorch](https://github.com/lucidrains/enformer-pytorch) - Implementation of Enformer, Deepmind's attention network for predicting gene expression, in Pytorch
+- [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
 - [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
@@ -2822,6 +2829,8 @@
 
 ## Shell 
 
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [doctorfree/kitty-control](https://github.com/doctorfree/kitty-control) - Control some aspects of the Kitty terminal emulator from the command line
 - [z-shell/F-Sy-H](https://github.com/z-shell/F-Sy-H) - ⚙️ Feature-rich Syntax Highlighting for Zsh
@@ -2874,7 +2883,7 @@
 - [BrandonRoehl/zsh-clean](https://github.com/BrandonRoehl/zsh-clean) - Minimal customizable ZSH theme
 - [mjrafferty/apollo-zsh-theme](https://github.com/mjrafferty/apollo-zsh-theme) - Heavily customizable, compatible, and fast ZSH theme framework.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [jjangsangy/MacOS-TensorflowBuilds](https://github.com/jjangsangy/MacOS-TensorflowBuilds) - Optimized tensorflow wheels binaries build for macos
 - [umurgdk/ddnotes](https://github.com/umurgdk/ddnotes) - drop down notes for linux window managers
@@ -2995,6 +3004,7 @@
 
 ## TypeScript 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [OrionReed/orionreed.com](https://github.com/OrionReed/orionreed.com) - A tiny website.
 - [rehype-pretty/rehype-pretty-code](https://github.com/rehype-pretty/rehype-pretty-code) - Beautiful code blocks for Markdown or MDX.
@@ -3123,7 +3133,7 @@
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [sadn1ck/draw-and-code](https://github.com/sadn1ck/draw-and-code) - Draw your explanation and write your code without pointlessly switching tabs!
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jupyterlab-contrib/jupyterlab-vim](https://github.com/jupyterlab-contrib/jupyterlab-vim) - Vim notebook cell bindings for JupyterLab
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
