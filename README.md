@@ -1793,7 +1793,7 @@
 - [michaelfaulkner/super-aLby](https://github.com/michaelfaulkner/super-aLby) - 
 - [michaelfaulkner/xy-type-models](https://github.com/michaelfaulkner/xy-type-models) - 
 - [neelindresh/pymlpipe](https://github.com/neelindresh/pymlpipe) - 
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
 - [executablebooks/github-activity](https://github.com/executablebooks/github-activity) - Simple markdown changelogs for GitHub repositories
 - [asperti/We_love_latent_space](https://github.com/asperti/We_love_latent_space) - Repository relative to the article "Comparing the latent space of generative models", joint work with Valerio Tonelli
