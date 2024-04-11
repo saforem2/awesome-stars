@@ -330,6 +330,7 @@
 
 ## Dart 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Infinitely take notes, sketch and learn. Xournal++ Mobile is a port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
 
@@ -1307,7 +1308,7 @@
 - [jeremysanders/awesome-dataviz](https://github.com/jeremysanders/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [texworld/betterbib](https://github.com/texworld/betterbib) - :green_book: Command-line tools for bibliographies.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
 - [data-apis/consortium-feedback](https://github.com/data-apis/consortium-feedback) - A repository for discussions related and for giving feedback on the Consortium
 - [LibraryCarpentry/lc-overview](https://github.com/LibraryCarpentry/lc-overview) - Library Carpentry Workshop Overview
@@ -1437,6 +1438,7 @@
 
 ## Python 
 
+- [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
 - [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A
 - [lucidrains/enformer-pytorch](https://github.com/lucidrains/enformer-pytorch) - Implementation of Enformer, Deepmind's attention network for predicting gene expression, in Pytorch
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
@@ -3005,7 +3007,6 @@
 
 ## TypeScript 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [OrionReed/orionreed.com](https://github.com/OrionReed/orionreed.com) - A tiny website.
 - [rehype-pretty/rehype-pretty-code](https://github.com/rehype-pretty/rehype-pretty-code) - Beautiful code blocks for Markdown or MDX.
