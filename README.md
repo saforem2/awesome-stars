@@ -772,6 +772,8 @@
 
 ## Jupyter Notebook 
 
+- [state-spaces/s4](https://github.com/state-spaces/s4) - Structured state space sequence models
+- [geronimi73/qlora-minimal](https://github.com/geronimi73/qlora-minimal) - 
 - [sidv23/ra-hmc](https://github.com/sidv23/ra-hmc) - Code for Repelling-Attracting Hamiltonian Monte Carlo (https://arxiv.org/abs/2403.04607)
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -3164,6 +3166,7 @@
 
 ## Vim Script 
 
+- [JuliaEditorSupport/julia-vim](https://github.com/JuliaEditorSupport/julia-vim) - Vim support for Julia.
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [felipec/vim-felipec](https://github.com/felipec/vim-felipec) - Vim color scheme: dark, bright, simple.
