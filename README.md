@@ -94,6 +94,7 @@
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [stas00/the-art-of-debugging](https://github.com/stas00/the-art-of-debugging) - The Art of Debugging
@@ -2372,7 +2373,7 @@
 - [Urinx/alphafold_pytorch](https://github.com/Urinx/alphafold_pytorch) - An implementation of the DeepMind's AlphaFold based on PyTorch for research
 - [StannisZhou/mixed_hmc](https://github.com/StannisZhou/mixed_hmc) - 
 - [RainingComputers/pykitml](https://github.com/RainingComputers/pykitml) - Machine Learning library written in Python and NumPy.
-- [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet and EfficientNetV2 (coming soon!)
+- [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [sciann/sciann](https://github.com/sciann/sciann) - Deep learning for Engineers - Physics Informed Deep Learning
 - [e3nn/e3nn](https://github.com/e3nn/e3nn) - A modular framework for neural networks with Euclidean symmetry
