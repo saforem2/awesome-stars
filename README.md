@@ -535,7 +535,7 @@
 - [wandb/gitbook](https://github.com/wandb/gitbook) - Documentation synced with GitBook. For all issues with the wandb library, please use https://github.com/wandb/client/issues
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [McShelby/reveal-themeoverride](https://github.com/McShelby/reveal-themeoverride) - A reveal.js 3.x / 4.x plugin to easily change themes of reveal.js and its syntax highlightning.
-- [dzello/revealjs-themes](https://github.com/dzello/revealjs-themes) - 👨‍🎨 Free Reveal.js themes including robot-lung and sunblind
+- [joshed-io/revealjs-themes](https://github.com/joshed-io/revealjs-themes) - 👨‍🎨 Free Reveal.js themes including robot-lung and sunblind
 - [pranavnt/umix](https://github.com/pranavnt/umix) - Let's make the web fun!
 - [shafayetShafee/reveal-header](https://github.com/shafayetShafee/reveal-header) - A Quarto filter extension that helps to add header text and header logo in all pages of RevealJs slide
 - [linkpreview/linkpreview](https://github.com/linkpreview/linkpreview) - Open Graph, Twitter Card, Oembed preview. Shows visual cards that mimic link previews in Social Media like facebook, twitter, vk and other sites that support link preview.
@@ -572,7 +572,7 @@
 - [Quorafind/Obsidian-Big-Calendar](https://github.com/Quorafind/Obsidian-Big-Calendar) - Big Calendar in Obsidian, for manage your events in a day/week/month and see agenda too!
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [dzello/reveal-hugo](https://github.com/dzello/reveal-hugo) - 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
+- [joshed-io/reveal-hugo](https://github.com/joshed-io/reveal-hugo) - 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -3012,6 +3012,7 @@
 
 ## TypeScript 
 
+- [Looskie/website](https://github.com/Looskie/website) - My portfolio website
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [OrionReed/orionreed.com](https://github.com/OrionReed/orionreed.com) - A tiny website.
