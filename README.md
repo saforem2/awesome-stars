@@ -116,7 +116,6 @@
 - [urbach/schwinger](https://github.com/urbach/schwinger) - Hybrid-Monte Carlo for the Schwinger model
 - [claudiopica/HiRep](https://github.com/claudiopica/HiRep) - HiRep repository
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 - [HDFGroup/hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 - [hpc-io/h5bench](https://github.com/hpc-io/h5bench) - A benchmark suite for measuring HDF5 performance.
 - [hpc-io/vol-async](https://github.com/hpc-io/vol-async) - Asynchronous I/O for HDF5
@@ -371,7 +370,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [converged-computing/slurm-operator](https://github.com/converged-computing/slurm-operator) - Testing if I can implement slurm in an operator
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
@@ -676,6 +675,7 @@
 
 - [PumasAI/SummaryTables.jl](https://github.com/PumasAI/SummaryTables.jl) - A Julia package for creating publication-ready summary tables in HTML, docx, LaTeX and Typst
 - [yomichi/SpinMonteCarlo.jl](https://github.com/yomichi/SpinMonteCarlo.jl) - Markov chain Monte Carlo solver for lattice spin systems implemented in Julialang
+- [ohno/Antique.jl](https://github.com/ohno/Antique.jl) - Self-contained, Well-Tested, Well-Documented Analytical Solutions of Quantum Mechanical Equations
 - [MakieOrg/AlgebraOfGraphics.jl](https://github.com/MakieOrg/AlgebraOfGraphics.jl) - Combine ingredients for a plot
 - [JuliaComputing/PlotlyLight.jl](https://github.com/JuliaComputing/PlotlyLight.jl) - Plotly.js via Julia made easy.
 - [ChifiSource/Olive.jl](https://github.com/ChifiSource/Olive.jl) - pure julia notebooks
@@ -796,7 +796,6 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [tedwards2412/ripple](https://github.com/tedwards2412/ripple) - Differentiable Gravitational Waveforms with JAX
 - [smsharma/fermi-gce-flows](https://github.com/smsharma/fermi-gce-flows) - Simulation-based inference for the Galactic Center gamma-ray excess. Code repository associated with https://arxiv.org/abs/2110.06931.
-- [ohno/Antique.jl](https://github.com/ohno/Antique.jl) - Self-contained, Well-Tested, Well-Documented Analytical Solutions of Quantum Mechanical Equations
 - [plainerman/Latent-TPS](https://github.com/plainerman/Latent-TPS) - Source code of the paper: Transition Path Sampling with Boltzmann Generator-based MCMC Moves
 - [nobuyukimatsumoto68/learning_transfer_matrix](https://github.com/nobuyukimatsumoto68/learning_transfer_matrix) - 
 - [atanikan/vllm_service](https://github.com/atanikan/vllm_service) - This repo hosts the different ways to run vllm on ANL HPC system
@@ -1426,6 +1425,7 @@
 
 - [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) - LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
 - [latex2html/latex2html](https://github.com/latex2html/latex2html) - Converts LaTeX documents to HTML
+- [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 
 ## PowerShell 
 
@@ -1441,6 +1441,9 @@
 
 ## Python 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+- [pytorch/torchtune](https://github.com/pytorch/torchtune) - A Native-PyTorch Library for LLM Fine-tuning
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
 - [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A
 - [lucidrains/enformer-pytorch](https://github.com/lucidrains/enformer-pytorch) - Implementation of Enformer, Deepmind's attention network for predicting gene expression, in Pytorch
@@ -2769,7 +2772,7 @@
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim) - :rocket: Blazingly fast colorscheme generator for Neovim written in Rust :crab:
@@ -3012,6 +3015,7 @@
 
 ## TypeScript 
 
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [Looskie/website](https://github.com/Looskie/website) - My portfolio website
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
@@ -3223,7 +3227,7 @@
 
 ## Vue 
 
-- [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
