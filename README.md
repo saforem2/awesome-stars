@@ -367,6 +367,7 @@
 
 ## Go 
 
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [converged-computing/slurm-operator](https://github.com/converged-computing/slurm-operator) - Testing if I can implement slurm in an operator
@@ -789,7 +790,7 @@
 - [kazewong/jim](https://github.com/kazewong/jim) - Gravitational-wave data analysis tools in Jax
 - [vislearn/FFF](https://github.com/vislearn/FFF) - Free-form flows are a generative model training a pair of neural networks via maximum likelihood
 - [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - Automatic GPU+CPU memory profiling, re-use and memory leaks detection using jupyter/ipython experiment containers
-- [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
+- [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
 - [eiln/ane-ex](https://github.com/eiln/ane-ex) - 
 - [JakobRobnik/MicroCanonicalHMC](https://github.com/JakobRobnik/MicroCanonicalHMC) - MCHMC: sampler from an arbitrary differentiable distribution
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
@@ -870,7 +871,6 @@
 - [facebookincubator/flowtorch](https://github.com/facebookincubator/flowtorch) - This library would form a permanent home for reusable components for deep probabilistic programming. The library would form and harness a community of users and contributors by focusing initially on c
 - [google/brain-tokyo-workshop](https://github.com/google/brain-tokyo-workshop) - 🧠🗼
 - [GTorlai/NeuralNetworks-for-Quantum](https://github.com/GTorlai/NeuralNetworks-for-Quantum) - Tutorials for the paper: "Neural network in quantum many-body physics: a hands-on tutorial"
-- [GPflow/GeometricKernels](https://github.com/GPflow/GeometricKernels) - Geometric kernels on manifolds, meshes and graphs
 - [argonne-lcf/ai-science-training-series](https://github.com/argonne-lcf/ai-science-training-series) - 
 - [openhackathons-org/gpubootcamp](https://github.com/openhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
 - [oschulz/Why-Julia](https://github.com/oschulz/Why-Julia) - Talk motivating using Julia in scientific contexts
@@ -1466,7 +1466,6 @@
 - [albermax/innvestigate](https://github.com/albermax/innvestigate) - A toolbox to iNNvestigate neural networks' predictions!
 - [luyug/magix](https://github.com/luyug/magix) - Supercharge huggingface transformers with model parallelism.
 - [modal-labs/llm-finetuning](https://github.com/modal-labs/llm-finetuning) - Guide for fine-tuning Llama/Mistral/CodeLlama models and more
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [bair-climate-initiative/xT](https://github.com/bair-climate-initiative/xT) - 
 - [Roger-luo/teal](https://github.com/Roger-luo/teal) - Software framework for experimenting with Operator Learning Renormalization Group (OLRG)
 - [lgienapp/aquarel](https://github.com/lgienapp/aquarel) - Styling matplotlib made easy
@@ -1924,6 +1923,7 @@
 - [cgarciae/treeo](https://github.com/cgarciae/treeo) - A small library for creating and manipulating custom JAX Pytree classes
 - [cgarciae/treex](https://github.com/cgarciae/treex) - A Pytree Module system for Deep Learning in JAX
 - [wesselb/lab](https://github.com/wesselb/lab) - A generic interface for linear algebra backends
+- [geometric-kernels/GeometricKernels](https://github.com/geometric-kernels/GeometricKernels) - Geometric kernels on manifolds, meshes and graphs
 - [GilesStrong/lumin](https://github.com/GilesStrong/lumin) - LUMIN - a deep learning and data science ecosystem for high-energy physics.
 - [OATML/non-parametric-transformers](https://github.com/OATML/non-parametric-transformers) - Code for "Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning"
 - [rw435/wreathProdNet](https://github.com/rw435/wreathProdNet) - 
