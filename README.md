@@ -160,6 +160,7 @@
 
 ## C++ 
 
+- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [intel/intel-extension-for-openxla](https://github.com/intel/intel-extension-for-openxla) - 
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -329,6 +330,7 @@
 
 ## Dart 
 
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Infinitely take notes, sketch and learn. Xournal++ Mobile is a port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
@@ -366,6 +368,7 @@
 
 ## Go 
 
+- [bottlerocketlabs/remote-pbcopy](https://github.com/bottlerocketlabs/remote-pbcopy) - remote pbcopy over ssh
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
@@ -399,7 +402,7 @@
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [msoedov/hacker-slides](https://github.com/msoedov/hacker-slides) - A small UI for building presentation slides from markdown markup
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -431,6 +434,7 @@
 
 ## HTML 
 
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [sidv23/sidv23.github.io-gatsby](https://github.com/sidv23/sidv23.github.io-gatsby) - Personal Website
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
 - [zachleat/carouscroll](https://github.com/zachleat/carouscroll) - Add next/previous buttons to a horizontal scrollable container.
@@ -520,6 +524,7 @@
 
 ## JavaScript 
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [chalk/ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal
 - [chalk/strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes from a string
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
@@ -1730,7 +1735,7 @@
 - [bras-p/langevin-for-stochastic-control](https://github.com/bras-p/langevin-for-stochastic-control) - 
 - [pacman100/accelerate-megatron-test](https://github.com/pacman100/accelerate-megatron-test) - Testing the accelerate megatron integration
 - [WassimTenachi/PhySO](https://github.com/WassimTenachi/PhySO) - Physical Symbolic Optimization
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The fastest way to iterate and deploy AI workloads on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
 - [TheRenegadeCoder/SnakeMD](https://github.com/TheRenegadeCoder/SnakeMD) - A markdown generation library for Python.
 - [didix21/mdutils](https://github.com/didix21/mdutils) - Python package contains a set of basic tools that can help to create a markdown file.
 - [muellerzr/timing_experiments](https://github.com/muellerzr/timing_experiments) - 
@@ -2275,7 +2280,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-576-Stars](https://github.com/iBug/This-Repo-Has-576-Stars) - Yes, it's true :gift_heart: This repository has 576 stars.
+- [iBug/This-Repo-Has-576-Stars](https://github.com/iBug/This-Repo-Has-576-Stars) - Yes, it's true :sparkling_heart: This repository has 576 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
