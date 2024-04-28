@@ -368,6 +368,7 @@
 
 ## Go 
 
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [bottlerocketlabs/remote-pbcopy](https://github.com/bottlerocketlabs/remote-pbcopy) - remote pbcopy over ssh
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
