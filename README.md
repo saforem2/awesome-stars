@@ -1381,7 +1381,7 @@
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) - Reinforcement learning resources curated
-- [GRAND-Lab/Awesome-Graph-Neural-Networks](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks) - Paper Lists for Graph Neural Networks
+- [TrustAGI-Lab/Awesome-Graph-Neural-Networks](https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks) - Paper Lists for Graph Neural Networks
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -2735,6 +2735,7 @@
 
 ## Roff 
 
+- [argonne-lcf/alcf-nccl-tests](https://github.com/argonne-lcf/alcf-nccl-tests) - NCCL tests for ALCF machines
 - [risilab/Learnable_MMF](https://github.com/risilab/Learnable_MMF) - Learning Multiresolution Matrix Factorization and its Wavelet Networks on Graphs
 - [lanl/McPhD](https://github.com/lanl/McPhD) - A Parallel Haskell framework for particle-based Monte Carlo simulations
 - [WenboGong/MetaSGMCMC](https://github.com/WenboGong/MetaSGMCMC) - The code for Meta Learning for SGMCMC
