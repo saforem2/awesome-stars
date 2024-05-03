@@ -451,6 +451,7 @@
 - [tashapiro/intro-observable](https://github.com/tashapiro/intro-observable) - This is an introductory workshop hosted by R-Ladies Philadelphia. Participants will sample how to use Observable Notebooks, Observable Plot, and combine Observable with R Quarto.
 - [pytorch/kineto](https://github.com/pytorch/kineto) - A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
+- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [jurjoroa/hcc-website](https://github.com/jurjoroa/hcc-website) - Repository of the Hertie Coding Club website. Built with Quarto
 - [cranmer/active_sciencing](https://github.com/cranmer/active_sciencing) - active learning + reusable workflows + likelihood free inference
@@ -1276,7 +1277,6 @@
 - [TPC-AI/domain-data-climate-environment-ecology](https://github.com/TPC-AI/domain-data-climate-environment-ecology) - 
 - [rhythmus/markdown-resources](https://github.com/rhythmus/markdown-resources) - A curated collection of Markdown resources: apps, dialects, parsers, people, …
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
-- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [ignatandrei/ppt2reveal](https://github.com/ignatandrei/ppt2reveal) - Powerpoint to reveal
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [saforem2/diagrams](https://github.com/saforem2/diagrams) - Repo of various `draw.io` diagrams
@@ -1830,7 +1830,7 @@
 - [gradhep/relaxed](https://github.com/gradhep/relaxed) - Provides differentiable versions of common HEP operations and objectives.
 - [glotzerlab/signac](https://github.com/glotzerlab/signac) - Manage large and heterogeneous data spaces on the file system.
 - [vdutor/neural-diffusion-processes](https://github.com/vdutor/neural-diffusion-processes) - Neural Diffusion Processes
-- [iterative/example-get-started](https://github.com/iterative/example-get-started) - Get started DVC project
+- [iterative/example-get-started](https://github.com/iterative/example-get-started) - Get started DVC project (NLP, random forest)
 - [statbiophys/MINIMALIST](https://github.com/statbiophys/MINIMALIST) - Companion Github of the MINIMALIST preprint.
 - [gcorso/torsional-diffusion](https://github.com/gcorso/torsional-diffusion) - Implementation of Torsional Diffusion for Molecular Conformer Generation (NeurIPS 2022)
 - [beartype/plum](https://github.com/beartype/plum) - Multiple dispatch in Python
@@ -2283,7 +2283,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-577-Stars](https://github.com/iBug/This-Repo-Has-577-Stars) - Yes, it's true :gift_heart: This repository has 577 stars.
+- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :revolving_hearts: This repository has 578 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
