@@ -1147,7 +1147,7 @@
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
-- [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
+- [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
@@ -1459,7 +1459,7 @@
 - [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A
 - [lucidrains/enformer-pytorch](https://github.com/lucidrains/enformer-pytorch) - Implementation of Enformer, Deepmind's attention network for predicting gene expression, in Pytorch
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
-- [darrenburns/elia](https://github.com/darrenburns/elia) - Interact with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 - [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
