@@ -2179,7 +2179,7 @@
 - [calmiLovesAI/TensorFlow2.0_ResNet](https://github.com/calmiLovesAI/TensorFlow2.0_ResNet) - A ResNet(ResNet18, ResNet34, ResNet50, ResNet101, ResNet152) implementation using TensorFlow-2.0.
 - [Bao-Jiarong/ResNet](https://github.com/Bao-Jiarong/ResNet) - This repository includes ResNet18, ResNet34, ResNet50, ResNet101, ResNet152 in Tensorflow 2.
 - [rougier/matplotlib-3d](https://github.com/rougier/matplotlib-3d) - Experimental 3D axis for matplotlib
-- [Open-Catalyst-Project/ocp](https://github.com/Open-Catalyst-Project/ocp) - Open Catalyst Project's library of machine learning methods for catalysis
+- [FAIR-Chem/fairchem](https://github.com/FAIR-Chem/fairchem) - Open Catalyst Project's library of machine learning methods for catalysis
 - [open-research/sumatra](https://github.com/open-research/sumatra) - 
 - [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning
 - [PabloRR100/Single_vs_Ensemble_of_NNs](https://github.com/PabloRR100/Single_vs_Ensemble_of_NNs) - Should we always go deeper? Study on Ensemble Learning as an alternative to going deeper in Deep Learning showing interesting results
@@ -2283,7 +2283,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :gift_heart: This repository has 578 stars.
+- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :sparkling_heart: This repository has 578 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
