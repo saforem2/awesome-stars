@@ -160,6 +160,7 @@
 
 ## C++ 
 
+- [refresh-bio/SPLASH](https://github.com/refresh-bio/SPLASH) - 
 - [LLNL/conduit](https://github.com/LLNL/conduit) - Simplified Data Exchange for HPC Simulations
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [intel/intel-extension-for-openxla](https://github.com/intel/intel-extension-for-openxla) - 
@@ -369,6 +370,8 @@
 
 ## Go 
 
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts) - Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
@@ -440,6 +443,7 @@
 
 ## HTML 
 
+- [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [sidv23/sidv23.github.io-gatsby](https://github.com/sidv23/sidv23.github.io-gatsby) - Personal Website
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
@@ -531,6 +535,7 @@
 
 ## JavaScript 
 
+- [jienagu/Jiena_McLellan_CV](https://github.com/jienagu/Jiena_McLellan_CV) - This is My CV
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [chalk/ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal
 - [chalk/strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes from a string
@@ -1275,6 +1280,7 @@
 
 ## Others 
 
+- [yazi-rs/flavor-template](https://github.com/yazi-rs/flavor-template) - Yazi flavor starter template.
 - [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - 🌍  A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4Earth) | AI for Science (AI4Science)
 - [tung-nd/stormer](https://github.com/tung-nd/stormer) - 
 - [TPC-AI/domain-data-climate-environment-ecology](https://github.com/TPC-AI/domain-data-climate-environment-ecology) - 
@@ -1530,7 +1536,7 @@
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [ecmwf-lab/ai-models-fourcastnetv2](https://github.com/ecmwf-lab/ai-models-fourcastnetv2) - 
-- [briangu/klongpy](https://github.com/briangu/klongpy) - High-Performance Klong array language with rich Python integration.
+- [briangu/klongpy](https://github.com/briangu/klongpy) - High-Performance Klong array language in Python.
 - [yastn/yastn](https://github.com/yastn/yastn) - Yet another symmetric tensor network
 - [alibaba/Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch) - The official repo of Pai-Megatron-Patch for LLM & VLM large scale training developed by Alibaba Cloud.
 - [saforem2/ambivalent](https://github.com/saforem2/ambivalent) - Minimal, beautiful (+ highly-customizable) styles for Matplotlib.
