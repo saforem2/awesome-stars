@@ -94,6 +94,7 @@
 
 ## C 
 
+- [Sandia-OpenSHMEM/SOS](https://github.com/Sandia-OpenSHMEM/SOS) - Sandia OpenSHMEM is an implementation of the OpenSHMEM specification over multiple Networking APIs, including Portals 4, the Open Fabric Interface (OFI), and UCX.  Please click on the Wiki tab for hel
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -943,7 +944,7 @@
 - [lsarra/rmi](https://github.com/lsarra/rmi) - Code to estimate Renormalized Mutual Information in simple settings
 - [sedthh/pyxelate](https://github.com/sedthh/pyxelate) - Python class that generates pixel art from images
 - [acids-ircam/pytorch_flows](https://github.com/acids-ircam/pytorch_flows) - Implementation and tutorials of normalizing flows with the novel distributions module
-- [FlorianMarquardt/machine-learning-for-physicists](https://github.com/FlorianMarquardt/machine-learning-for-physicists) - Code for "Machine Learning for Physicists 2020" lecture series
+- [FlorianMarquardt/machine-learning-for-physicists](https://github.com/FlorianMarquardt/machine-learning-for-physicists) - Code for "Machine Learning for Physicists" lecture series by Florian Marquardt
 - [je-suis-tm/graph-theory](https://github.com/je-suis-tm/graph-theory) - Julia and Python complex system applications in ecology, epidemiology, sociology, economics & finance; network science models including Bianconi-Barabási, Barabási-Albert, Watts-Strogatz, Waxman Model
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
 - [twitter-research/image-crop-analysis](https://github.com/twitter-research/image-crop-analysis) - Code for reproducing our analysis in the paper titled: Image Cropping on Twitter: Fairness Metrics, their Limitations, and the Importance of Representation, Design, and Agency
@@ -1456,6 +1457,9 @@
 
 ## Python 
 
+- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
+- [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+- [microsoft/LMOps](https://github.com/microsoft/LMOps) - General technology for enabling AI capabilities w/ LLMs and MLLMs
 - [jktr/matplotlib-backend-notcurses](https://github.com/jktr/matplotlib-backend-notcurses) - show matplotlib plots directly in your terminal
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [pytorch/torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training
@@ -3041,6 +3045,7 @@
 
 ## TypeScript 
 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [Konsl/spicetify-ncs-visualizer](https://github.com/Konsl/spicetify-ncs-visualizer) - NCS-style visualizer for Spicetify
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [Looskie/website](https://github.com/Looskie/website) - My portfolio website
@@ -3065,7 +3070,7 @@
 - [TomNCatz/obsidian-gallery](https://github.com/TomNCatz/obsidian-gallery) - Main Gallery to tag / filter / add notes to images. Display blocks to embed images inside notes. Display block to an image information
 - [hdykokd/obsidian-vertical-tabs-view](https://github.com/hdykokd/obsidian-vertical-tabs-view) - A plugin for Obsidian that provides a vertical tabs view
 - [Ellpeck/ObsidianJustSharePlease](https://github.com/Ellpeck/ObsidianJustSharePlease) - An Obsidian plugin that allows quickly and easily sharing individual notes online using an anonymized link
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
