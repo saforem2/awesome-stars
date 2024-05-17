@@ -371,6 +371,7 @@
 
 ## Go 
 
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
@@ -814,7 +815,7 @@
 - [smsharma/fermi-gce-flows](https://github.com/smsharma/fermi-gce-flows) - Simulation-based inference for the Galactic Center gamma-ray excess. Code repository associated with https://arxiv.org/abs/2110.06931.
 - [plainerman/Latent-TPS](https://github.com/plainerman/Latent-TPS) - Source code of the paper: Transition Path Sampling with Boltzmann Generator-based MCMC Moves
 - [nobuyukimatsumoto68/learning_transfer_matrix](https://github.com/nobuyukimatsumoto68/learning_transfer_matrix) - 
-- [atanikan/vllm_service](https://github.com/atanikan/vllm_service) - This repo hosts the different ways to run vllm on ANL HPC system
+- [atanikan/llm-inference-service](https://github.com/atanikan/llm-inference-service) - This repo hosts the different ways to run vllm on ANL HPC system
 - [mingxuan-yi/Bridging-the-gap-between-VI-and-WGF](https://github.com/mingxuan-yi/Bridging-the-gap-between-VI-and-WGF) - 
 - [run-house/funhouse](https://github.com/run-house/funhouse) - Fun stuff to do with runhouse
 - [KislayaRavi/MuDaFuGP](https://github.com/KislayaRavi/MuDaFuGP) - 
@@ -1457,6 +1458,7 @@
 
 ## Python 
 
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [microsoft/LMOps](https://github.com/microsoft/LMOps) - General technology for enabling AI capabilities w/ LLMs and MLLMs
@@ -1514,9 +1516,9 @@
 - [facebookresearch/recipes](https://github.com/facebookresearch/recipes) - Recipes are a standard, well supported set of blueprints for machine learning engineers to rapidly train models using the latest research techniques without significant engineering overhead.Specifical
 - [danielward27/flowjax](https://github.com/danielward27/flowjax) - 
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
-- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [Garden-AI/garden](https://github.com/Garden-AI/garden) - 
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - 
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [jrieke/streamlit-analytics](https://github.com/jrieke/streamlit-analytics) - 👀 Track & visualize user interactions with your streamlit app
@@ -2298,7 +2300,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :purple_heart: This repository has 578 stars.
+- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :heart: This repository has 578 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2785,7 +2787,7 @@
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what the past year looks like in command line!
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
