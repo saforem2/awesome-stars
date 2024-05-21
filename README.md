@@ -297,7 +297,7 @@
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [8lueberry/google-material-color](https://github.com/8lueberry/google-material-color) - Google material color for SASS, LESS, Stylus, CSS, JS, etc
 - [jupyterlab/theme-cookiecutter](https://github.com/jupyterlab/theme-cookiecutter) - A cookiecutter template to help you make new JupyterLab theme extensions
-- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [khanhas/genius-spicetify](https://github.com/khanhas/genius-spicetify) - Fetch lyrics from Genius and Musixmatch right in Spotify desktop client
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
 - [leriomaggio/notexbook-jupyter-theme](https://github.com/leriomaggio/notexbook-jupyter-theme) - noTeXbook: Jupyter notebook theme for LaTeX lovers
@@ -642,7 +642,7 @@
 - [hanayik/CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [asford/notebook_input_mode](https://github.com/asford/notebook_input_mode) - Jupyter nbextension supporting alternate input modes.
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [chi-feng/mcmc-demo](https://github.com/chi-feng/mcmc-demo) - Interactive Markov-chain Monte Carlo Javascript demos
 - [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits.
@@ -693,6 +693,7 @@
 
 ## Julia 
 
+- [JuliaNLSolvers/Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) - Optimization functions for Julia
 - [PumasAI/SummaryTables.jl](https://github.com/PumasAI/SummaryTables.jl) - A Julia package for creating publication-ready summary tables in HTML, docx, LaTeX and Typst
 - [yomichi/SpinMonteCarlo.jl](https://github.com/yomichi/SpinMonteCarlo.jl) - Markov chain Monte Carlo solver for lattice spin systems implemented in Julialang
 - [ohno/Antique.jl](https://github.com/ohno/Antique.jl) - Self-contained, Well-Tested, Well-Documented Analytical Solutions of Quantum Mechanical Equations
@@ -812,7 +813,7 @@
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
 - [eiln/ane-ex](https://github.com/eiln/ane-ex) - 
 - [JakobRobnik/MicroCanonicalHMC](https://github.com/JakobRobnik/MicroCanonicalHMC) - MCHMC: sampler from an arbitrary differentiable distribution
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [smsharma/fermi-gce-flows](https://github.com/smsharma/fermi-gce-flows) - Simulation-based inference for the Galactic Center gamma-ray excess. Code repository associated with https://arxiv.org/abs/2110.06931.
 - [plainerman/Latent-TPS](https://github.com/plainerman/Latent-TPS) - Source code of the paper: Transition Path Sampling with Boltzmann Generator-based MCMC Moves
@@ -1877,7 +1878,7 @@
 - [adambielski/siamese-triplet](https://github.com/adambielski/siamese-triplet) - Siamese and triplet networks with online pair/triplet mining in PyTorch
 - [CUAI/Equivariant-Manifold-Flows](https://github.com/CUAI/Equivariant-Manifold-Flows) - [NeurIPS 2021] Equivariant Manifold Flows (https://arxiv.org/abs/2107.08596)
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [streamlet-dev/tributary](https://github.com/streamlet-dev/tributary) - Streaming reactive and dataflow graphs in Python
 - [ObsidianPublisher/obsidian-mkdocs-publisher-python](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
