@@ -539,6 +539,7 @@
 
 ## JavaScript 
 
+- [abskmj/badges-lastfm](https://github.com/abskmj/badges-lastfm) - Markdown Badges for LastFM
 - [nuejs/nue](https://github.com/nuejs/nue) - The Content First Web Framework
 - [jienagu/Jiena_McLellan_CV](https://github.com/jienagu/Jiena_McLellan_CV) - This is My CV
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2306,7 +2307,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :heart: This repository has 578 stars.
+- [iBug/This-Repo-Has-579-Stars](https://github.com/iBug/This-Repo-Has-579-Stars) - Yes, it's true :revolving_hearts: This repository has 579 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2531,7 +2532,7 @@
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [Palashio/libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [google-deepmind/sonnet](https://github.com/google-deepmind/sonnet) - TensorFlow-based neural network library
 - [probtorch/probtorch](https://github.com/probtorch/probtorch) - Probabilistic Torch is library for deep generative models that extends PyTorch
