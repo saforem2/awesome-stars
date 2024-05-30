@@ -797,6 +797,7 @@
 
 ## Jupyter Notebook 
 
+- [pyt-team/challenge-icml-2024](https://github.com/pyt-team/challenge-icml-2024) - Official repository for the Topological Deep Learning Challenge 2024, organized by TAG-DS & PyT-Team and hosted by GRaM Workshop @ ICML 2024.
 - [state-spaces/s4](https://github.com/state-spaces/s4) - Structured state space sequence models
 - [geronimi73/qlora-minimal](https://github.com/geronimi73/qlora-minimal) - 
 - [sidv23/ra-hmc](https://github.com/sidv23/ra-hmc) - Code for Repelling-Attracting Hamiltonian Monte Carlo (https://arxiv.org/abs/2403.04607)
