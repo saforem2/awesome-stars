@@ -182,7 +182,7 @@
 - [hmvege/GLAC](https://github.com/hmvege/GLAC) - A code for generating SU(3) Yang-Mills gauge configurations and applying gradient flow.
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Comes with an in-game Editor!
 - [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension to DeepSpeed that brings feature support with SYCL kernels on Intel GPU(XPU) device. Note XPU is already supported by stock DeepSpeed.
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [jax-ml/ml_dtypes](https://github.com/jax-ml/ml_dtypes) - A stand-alone implementation of several NumPy dtype extensions used in machine learning.
 - [jinluchang/Qlattice](https://github.com/jinluchang/Qlattice) - A lattice QCD library.
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
@@ -1476,7 +1476,7 @@
 - [pytorch/torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training
 - [pytorch/PiPPy](https://github.com/pytorch/PiPPy) - Pipeline Parallelism for PyTorch
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
-- [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
+- [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [google-deepmind/penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [pytorch/torchtune](https://github.com/pytorch/torchtune) - A Native-PyTorch Library for LLM Fine-tuning
@@ -2284,7 +2284,7 @@
 - [joeybose/HyperbolicNF](https://github.com/joeybose/HyperbolicNF) - ICML 2020 Paper: Latent Variable Modelling with Hyperbolic Normalizing Flows
 - [changyi7231/MEF](https://github.com/changyi7231/MEF) - A PyTorch implementation of Generative Flows with Matrix Exponential.
 - [c-hofer/topologically_densified_distributions](https://github.com/c-hofer/topologically_densified_distributions) - 
-- [montefiore-ai/hypothesis](https://github.com/montefiore-ai/hypothesis) - A Python toolkit for (simulation-based) inference and the mechanization of science.
+- [montefiore-institute/hypothesis](https://github.com/montefiore-institute/hypothesis) - A Python toolkit for (simulation-based) inference and the mechanization of science.
 - [gaoliyao/Replica_Exchange_Stochastic_Gradient_MCMC](https://github.com/gaoliyao/Replica_Exchange_Stochastic_Gradient_MCMC) - Code for Non-convex Learning via Replica Exchange Stochastic Gradient MCMC, ICML 2020.
 - [glamp/bashplotlib](https://github.com/glamp/bashplotlib) - plotting in the terminal
 - [brain-research/conv-sv](https://github.com/brain-research/conv-sv) - The Singular Values of Convolutional Layers
