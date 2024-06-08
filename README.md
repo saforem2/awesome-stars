@@ -1516,7 +1516,7 @@
 - [EleutherAI/cookbook](https://github.com/EleutherAI/cookbook) - Deep learning for dummies. All the practical details and useful utilities that go into working with real models.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [carlini/yet-another-applied-llm-benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - A benchmark to evaluate language models on questions I've previously asked them to solve.
-- [DavidRuhe/clifford-group-equivariant-neural-networks](https://github.com/DavidRuhe/clifford-group-equivariant-neural-networks) - Houses the code and models from the "Clifford Group Equivariant Neural Networks" paper.
+- [DavidRuhe/clifford-group-equivariant-neural-networks](https://github.com/DavidRuhe/clifford-group-equivariant-neural-networks) - Code used by the "Clifford Group Equivariant Neural Networks" paper.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - Next-gen fast plotting library running on WGPU using the pygfx rendering engine
 - [divelab/AIRS](https://github.com/divelab/AIRS) - Artificial Intelligence Research for Science (AIRS)
