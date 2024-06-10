@@ -837,6 +837,7 @@
 - [aditya-grover/climate-learn](https://github.com/aditya-grover/climate-learn) - Source code for ClimateLearn
 - [NERSC/pytorch-examples](https://github.com/NERSC/pytorch-examples) - PyTorch examples for NERSC systems
 - [NERSC/intro-HPC-bootcamp-2023](https://github.com/NERSC/intro-HPC-bootcamp-2023) - 
+- [openclimatefix/graph_weather](https://github.com/openclimatefix/graph_weather) - PyTorch implementation of Ryan Keisler's 2022 "Forecasting Global Weather with Graph Neural Networks" paper (https://arxiv.org/abs/2202.07575)
 - [mjbrodzik/ExploringCETB](https://github.com/mjbrodzik/ExploringCETB) - Examples for reading and understanding Calibrated Enhanced-Resolution Brightness Temperature (CETB) files
 - [wandb/droughtwatch](https://github.com/wandb/droughtwatch) - Weights & Biases benchmark for drought prediction
 - [tcapelle/Diffusion-Models-pytorch](https://github.com/tcapelle/Diffusion-Models-pytorch) - Pytorch implementation of Diffusion Models (https://arxiv.org/pdf/2006.11239.pdf)
@@ -1400,6 +1401,7 @@
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) - Reinforcement learning resources curated
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -1659,7 +1661,6 @@
 - [jupyter-vim/jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
 - [Joshuaalbert/jaxns](https://github.com/Joshuaalbert/jaxns) - Probabilistic Programming and Nested sampling in JAX
 - [bazingagin/npc_lv](https://github.com/bazingagin/npc_lv) - 
-- [openclimatefix/graph_weather](https://github.com/openclimatefix/graph_weather) - PyTorch implementation of Ryan Keisler's 2022 "Forecasting Global Weather with Graph Neural Networks" paper (https://arxiv.org/abs/2202.07575)
 - [AutoGIS-2017/Exercise-2](https://github.com/AutoGIS-2017/Exercise-2) - Exercise 2 for the 2017 version of the Automating GIS-processes course https://automating-gis-processes.github.io/2017/
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
@@ -2535,7 +2536,6 @@
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [Palashio/libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [google-deepmind/sonnet](https://github.com/google-deepmind/sonnet) - TensorFlow-based neural network library
 - [probtorch/probtorch](https://github.com/probtorch/probtorch) - Probabilistic Torch is library for deep generative models that extends PyTorch
 - [kunalb/panopticon](https://github.com/kunalb/panopticon) - Python tracing module to visualize code execution.
