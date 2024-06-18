@@ -269,6 +269,8 @@
 
 ## CSS 
 
+- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [jez/pandoc-markdown-css-theme](https://github.com/jez/pandoc-markdown-css-theme) - CSS files and a template for using Pandoc to generate standalone HTML files
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
@@ -541,6 +543,7 @@
 
 ## JavaScript 
 
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [abskmj/badges-lastfm](https://github.com/abskmj/badges-lastfm) - Markdown Badges for LastFM
 - [nuejs/nue](https://github.com/nuejs/nue) - A content first web framework. Perfect for UX developers.
 - [jienagu/Jiena_McLellan_CV](https://github.com/jienagu/Jiena_McLellan_CV) - This is My CV
@@ -1299,6 +1302,7 @@
 
 ## Others 
 
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [yazi-rs/flavor-template](https://github.com/yazi-rs/flavor-template) - Yazi flavor starter template.
 - [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - 🌍  A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4Earth) | AI for Science (AI4Science)
 - [tung-nd/stormer](https://github.com/tung-nd/stormer) - 
@@ -1475,6 +1479,7 @@
 
 ## Python 
 
+- [wandb/wandb-workspaces](https://github.com/wandb/wandb-workspaces) - 
 - [ksamuk/pixy](https://github.com/ksamuk/pixy) - Software for painlessly estimating average nucleotide diversity within and between populations
 - [BBischof/yapping](https://github.com/BBischof/yapping) - Verbosity control for AI agents
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
@@ -1601,7 +1606,7 @@
 - [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 - [basnijholt/unidep](https://github.com/basnijholt/unidep) - Single source of truth with requirements for pip and conda
 - [google-research/weatherbench2](https://github.com/google-research/weatherbench2) - A benchmark for the next generation of data-driven global weather models.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [tedwards2412/ripple](https://github.com/tedwards2412/ripple) - Differentiable Gravitational Waveforms with JAX
 - [simonw/llm-mlx-llama](https://github.com/simonw/llm-mlx-llama) - Run Llama 2 using MLX on macOS
