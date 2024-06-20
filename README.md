@@ -544,6 +544,7 @@
 
 ## JavaScript 
 
+- [JasonPuglisi/descent](https://github.com/JasonPuglisi/descent) - Elegant now playing display for Last.fm showing song metadata and local weather.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [abskmj/badges-lastfm](https://github.com/abskmj/badges-lastfm) - Markdown Badges for LastFM
 - [nuejs/nue](https://github.com/nuejs/nue) - A content first web framework. Perfect for UX developers.
@@ -1480,6 +1481,8 @@
 
 ## Python 
 
+- [biancarosa/lastfm-last-played](https://github.com/biancarosa/lastfm-last-played) - Little lastfm widget to show your latest songs on your personal website.
+- [facebookresearch/chameleon](https://github.com/facebookresearch/chameleon) - Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR.
 - [wandb/wandb-workspaces](https://github.com/wandb/wandb-workspaces) - 
 - [ksamuk/pixy](https://github.com/ksamuk/pixy) - Software for painlessly estimating average nucleotide diversity within and between populations
 - [BBischof/yapping](https://github.com/BBischof/yapping) - Verbosity control for AI agents
@@ -3073,6 +3076,7 @@
 
 ## TypeScript 
 
+- [felhag/lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - A small project to show some additional statistics for last.fm.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [Konsl/spicetify-ncs-visualizer](https://github.com/Konsl/spicetify-ncs-visualizer) - NCS-style visualizer for Spicetify
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
