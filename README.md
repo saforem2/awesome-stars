@@ -264,7 +264,7 @@
 - [s9w/magneto](https://github.com/s9w/magneto) - 2D Ising model in C++, including IPython notebook examples
 - [dpohanlon/Ising](https://github.com/dpohanlon/Ising) - 2D Ising model
 - [gzc/CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [simbody/simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 
@@ -1463,6 +1463,7 @@
 
 ## Perl 
 
+- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) - LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
 - [latex2html/latex2html](https://github.com/latex2html/latex2html) - Converts LaTeX documents to HTML
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
@@ -1482,7 +1483,7 @@
 ## Python 
 
 - [biancarosa/lastfm-last-played](https://github.com/biancarosa/lastfm-last-played) - Little lastfm widget to show your latest songs on your personal website.
-- [facebookresearch/chameleon](https://github.com/facebookresearch/chameleon) - Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR.
+- [facebookresearch/chameleon](https://github.com/facebookresearch/chameleon) - Repository for Meta Chameleon, a mixed-modal early-fusion foundation model from FAIR.
 - [wandb/wandb-workspaces](https://github.com/wandb/wandb-workspaces) - 
 - [ksamuk/pixy](https://github.com/ksamuk/pixy) - Software for painlessly estimating average nucleotide diversity within and between populations
 - [BBischof/yapping](https://github.com/BBischof/yapping) - Verbosity control for AI agents
@@ -2901,6 +2902,9 @@
 
 ## Shell 
 
+- [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
