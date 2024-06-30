@@ -1492,7 +1492,7 @@
 - [pytorch/torchsnapshot](https://github.com/pytorch/torchsnapshot) - A performant, memory-efficient checkpointing library for PyTorch applications, designed with large, complex distributed workloads in mind.
 - [biancarosa/lastfm-last-played](https://github.com/biancarosa/lastfm-last-played) - Little lastfm widget to show your latest songs on your personal website.
 - [facebookresearch/chameleon](https://github.com/facebookresearch/chameleon) - Repository for Meta Chameleon, a mixed-modal early-fusion foundation model from FAIR.
-- [wandb/wandb-workspaces](https://github.com/wandb/wandb-workspaces) - 
+- [wandb/wandb-workspaces](https://github.com/wandb/wandb-workspaces) - Programatically edit the W&B UI
 - [ksamuk/pixy](https://github.com/ksamuk/pixy) - Software for painlessly estimating average nucleotide diversity within and between populations
 - [BBischof/yapping](https://github.com/BBischof/yapping) - Verbosity control for AI agents
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
