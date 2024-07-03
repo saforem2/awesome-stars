@@ -1161,7 +1161,7 @@
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [bamonroe/rnoweb-nvim](https://github.com/bamonroe/rnoweb-nvim) - A neovim plugin for rnoweb files
 - [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like NeoVim plugin.
-- [ada0l/obsidian](https://github.com/ada0l/obsidian) - :book: Base Obsidian functionality in your Neovim
+- [andvarfolomeev/obsidian](https://github.com/andvarfolomeev/obsidian) - :book: Base Obsidian functionality in your Neovim
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
 - [garyhurtz/cmp_kitty](https://github.com/garyhurtz/cmp_kitty) - Kitty completion source for nvim-cmp
 - [mcanouil/quarto-iconify](https://github.com/mcanouil/quarto-iconify) - Use Iconify icons in HTML-based Quarto documents (over 200,000 open source vector icons)
@@ -1536,7 +1536,7 @@
 - [Roger-luo/teal](https://github.com/Roger-luo/teal) - Software framework for experimenting with Operator Learning Renormalization Group (OLRG)
 - [lgienapp/aquarel](https://github.com/lgienapp/aquarel) - Styling matplotlib made easy
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLM implementations with recipes to pretrain, finetune and deploy at scale.
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [Lightning-AI/litdata](https://github.com/Lightning-AI/litdata) - Streamline data pipelines for AI. Process datasets across 1000s of machines, and optimize data for blazing fast model training.
 - [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
