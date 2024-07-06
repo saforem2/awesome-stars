@@ -315,7 +315,7 @@
 
 ## Clojure 
 
-- [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
 - [camspiers/dotfiles](https://github.com/camspiers/dotfiles) - Dotfiles (macOS, stow, brew, yabai, nvim, kitty, tmux)
 
 ## CoffeeScript 
@@ -811,6 +811,7 @@
 
 ## Jupyter Notebook 
 
+- [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [pyt-team/challenge-icml-2024](https://github.com/pyt-team/challenge-icml-2024) - Official repository for the Topological Deep Learning Challenge 2024, organized by TAG-DS & PyT-Team and hosted by GRaM Workshop @ ICML 2024.
 - [state-spaces/s4](https://github.com/state-spaces/s4) - Structured state space sequence models
 - [geronimi73/qlora-minimal](https://github.com/geronimi73/qlora-minimal) - 
@@ -1311,6 +1312,7 @@
 
 ## Others 
 
+- [sherrylixuecheng/AI_for_Science_paper_collection](https://github.com/sherrylixuecheng/AI_for_Science_paper_collection) - List the AI for Science papers accepted by top conferences
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [yazi-rs/flavor-template](https://github.com/yazi-rs/flavor-template) - Yazi flavor starter template.
@@ -1540,7 +1542,7 @@
 - [lgienapp/aquarel](https://github.com/lgienapp/aquarel) - Styling matplotlib made easy
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-- [Lightning-AI/litdata](https://github.com/Lightning-AI/litdata) - Streamline data pipelines for AI. Process datasets across 1000s of machines, and optimize data for blazing fast model training.
+- [Lightning-AI/litdata](https://github.com/Lightning-AI/litdata) - Transform datasets at scale. Optimize datasets for fast AI model training.
 - [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
 - [stanford-crfm/mistral](https://github.com/stanford-crfm/mistral) - Mistral: A strong, northwesterly wind: Framework for transparent and accessible large-scale language model training, built with Hugging Face 🤗  Transformers.
