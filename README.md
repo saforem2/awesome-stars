@@ -1312,7 +1312,6 @@
 
 ## Others 
 
-- [sherrylixuecheng/AI_for_Science_paper_collection](https://github.com/sherrylixuecheng/AI_for_Science_paper_collection) - List the AI for Science papers accepted by top conferences
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [yazi-rs/flavor-template](https://github.com/yazi-rs/flavor-template) - Yazi flavor starter template.
@@ -1426,6 +1425,7 @@
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) - Reinforcement learning resources curated
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [TrustAGI-Lab/Awesome-Graph-Neural-Networks](https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks) - Paper Lists for Graph Neural Networks
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -1492,6 +1492,7 @@
 
 ## Python 
 
+- [sherrylixuecheng/AI_for_Science_paper_collection](https://github.com/sherrylixuecheng/AI_for_Science_paper_collection) - List the AI for Science papers accepted by top conferences
 - [rogual/fix-quicklook](https://github.com/rogual/fix-quicklook) - Remove rounded corners from QuickLook on MacOS
 - [aiqm/torchani](https://github.com/aiqm/torchani) - Accurate Neural Network Potential on PyTorch
 - [pytorch/torchsnapshot](https://github.com/pytorch/torchsnapshot) - A performant, memory-efficient checkpointing library for PyTorch applications, designed with large, complex distributed workloads in mind.
@@ -1603,7 +1604,7 @@
 - [ColCarroll/bayeux](https://github.com/ColCarroll/bayeux) - 
 - [SciPhi-AI/agent-search](https://github.com/SciPhi-AI/agent-search) - AgentSearch is a framework for powering search agents and enabling customizable local search.
 - [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - Math OCR model that outputs LaTeX and markdown
-- [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
+- [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [alibaba/Megatron-LLaMA](https://github.com/alibaba/Megatron-LLaMA) - Best practice for training LLaMA models in Megatron-LM
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
@@ -2343,7 +2344,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-582-Stars](https://github.com/iBug/This-Repo-Has-582-Stars) - Yes, it's true :orange_heart: This repository has 582 stars.
+- [iBug/This-Repo-Has-583-Stars](https://github.com/iBug/This-Repo-Has-583-Stars) - Yes, it's true :heart: This repository has 583 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3224,7 +3225,7 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [sadn1ck/draw-and-code](https://github.com/sadn1ck/draw-and-code) - Draw your explanation and write your code without pointlessly switching tabs!
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
