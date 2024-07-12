@@ -454,6 +454,7 @@
 
 ## HTML 
 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [sidv23/sidv23.github.io-gatsby](https://github.com/sidv23/sidv23.github.io-gatsby) - Personal Website
@@ -551,6 +552,7 @@
 
 ## JavaScript 
 
+- [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [Kiran1689/kiran1689](https://github.com/Kiran1689/kiran1689) - Dynamic readme profile template. Do not just fork, Give Star too :)
 - [JasonPuglisi/descent](https://github.com/JasonPuglisi/descent) - Elegant now playing display for Last.fm showing song metadata and local weather.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
@@ -1142,6 +1144,7 @@
 
 ## Lua 
 
+- [yacineMTB/kitty](https://github.com/yacineMTB/kitty) - Yacine's .config/kitty (yacine's kitty config)
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium
 - [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Coloursheme for Neovim
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Fluent navigation and management of markdown notebooks
@@ -1492,6 +1495,7 @@
 
 ## Python 
 
+- [yacineMTB/pyrepl.nvim](https://github.com/yacineMTB/pyrepl.nvim) - ipython is bloated af
 - [sherrylixuecheng/AI_for_Science_paper_collection](https://github.com/sherrylixuecheng/AI_for_Science_paper_collection) - List the AI for Science papers accepted by top conferences
 - [rogual/fix-quicklook](https://github.com/rogual/fix-quicklook) - Remove rounded corners from QuickLook on MacOS
 - [aiqm/torchani](https://github.com/aiqm/torchani) - Accurate Neural Network Potential on PyTorch
@@ -1798,7 +1802,7 @@
 - [bras-p/langevin-for-stochastic-control](https://github.com/bras-p/langevin-for-stochastic-control) - 
 - [pacman100/accelerate-megatron-test](https://github.com/pacman100/accelerate-megatron-test) - Testing the accelerate megatron integration
 - [WassimTenachi/PhySO](https://github.com/WassimTenachi/PhySO) - Physical Symbolic Optimization
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Like PyTorch for building ML systems. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Like PyTorch for ML infra. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
 - [TheRenegadeCoder/SnakeMD](https://github.com/TheRenegadeCoder/SnakeMD) - A markdown generation library for Python.
 - [didix21/mdutils](https://github.com/didix21/mdutils) - Python package contains a set of basic tools that can help to create a markdown file.
 - [muellerzr/timing_experiments](https://github.com/muellerzr/timing_experiments) - 
