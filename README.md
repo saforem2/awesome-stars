@@ -95,6 +95,7 @@
 
 ## C 
 
+- [openpmix/openpmix](https://github.com/openpmix/openpmix) - OpenPMIx Project Repository
 - [Sandia-OpenSHMEM/SOS](https://github.com/Sandia-OpenSHMEM/SOS) - Sandia OpenSHMEM is an implementation of the OpenSHMEM specification over multiple Networking APIs, including Portals 4, the Open Fabric Interface (OFI), and UCX.  Please click on the Wiki tab for hel
 - [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -1315,6 +1316,7 @@
 
 ## Others 
 
+- [harmonic-ai/datasets](https://github.com/harmonic-ai/datasets) - Harmonic Datasets
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [yazi-rs/flavor-template](https://github.com/yazi-rs/flavor-template) - Yazi flavor starter template.
