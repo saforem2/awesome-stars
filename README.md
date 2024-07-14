@@ -2596,7 +2596,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [Newmu/dcgan_code](https://github.com/Newmu/dcgan_code) - Deep Convolutional Generative Adversarial Networks
 - [utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) - Pytorch implementation of convolutional neural network visualization techniques
-- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
+- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [tscohen/GrouPy](https://github.com/tscohen/GrouPy) - Group Equivariant Convolutional Neural Networks
 - [jeremyschulman/iterm2-colors2rgb](https://github.com/jeremyschulman/iterm2-colors2rgb) - Convert an iTerm2 profile color settings to RGB values
 - [ikostrikov/pytorch-flows](https://github.com/ikostrikov/pytorch-flows) - PyTorch implementations of algorithms for density estimation
