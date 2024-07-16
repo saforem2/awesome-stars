@@ -553,6 +553,7 @@
 
 ## JavaScript 
 
+- [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [Kiran1689/kiran1689](https://github.com/Kiran1689/kiran1689) - Dynamic readme profile template. Do not just fork, Give Star too :)
 - [JasonPuglisi/descent](https://github.com/JasonPuglisi/descent) - Elegant now playing display for Last.fm showing song metadata and local weather.
@@ -814,6 +815,7 @@
 
 ## Jupyter Notebook 
 
+- [fastai/fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [pyt-team/challenge-icml-2024](https://github.com/pyt-team/challenge-icml-2024) - Official repository for the Topological Deep Learning Challenge 2024, organized by TAG-DS & PyT-Team and hosted by GRaM Workshop @ ICML 2024.
 - [state-spaces/s4](https://github.com/state-spaces/s4) - Structured state space sequence models
@@ -1497,6 +1499,10 @@
 
 ## Python 
 
+- [cloneofsimo/minDiffusion](https://github.com/cloneofsimo/minDiffusion) - Self-contained, minimalistic implementation of diffusion models with Pytorch.
+- [test-time-training/ttt-lm-pytorch](https://github.com/test-time-training/ttt-lm-pytorch) - Official PyTorch implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States
+- [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.
+- [test-time-training/ttt-lm-jax](https://github.com/test-time-training/ttt-lm-jax) - Official JAX implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States
 - [yacineMTB/pyrepl.nvim](https://github.com/yacineMTB/pyrepl.nvim) - ipython is bloated af
 - [sherrylixuecheng/AI_for_Science_paper_collection](https://github.com/sherrylixuecheng/AI_for_Science_paper_collection) - List the AI for Science papers accepted by top conferences
 - [rogual/fix-quicklook](https://github.com/rogual/fix-quicklook) - Remove rounded corners from QuickLook on MacOS
