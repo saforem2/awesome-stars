@@ -379,6 +379,7 @@
 
 ## Go 
 
+- [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
 - [dhth/hours](https://github.com/dhth/hours) - A no-frills time tracking toolkit for command line nerds
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
@@ -815,6 +816,7 @@
 
 ## Jupyter Notebook 
 
+- [scifm/summer-school-2024](https://github.com/scifm/summer-school-2024) - 
 - [fastai/fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [pyt-team/challenge-icml-2024](https://github.com/pyt-team/challenge-icml-2024) - Official repository for the Topological Deep Learning Challenge 2024, organized by TAG-DS & PyT-Team and hosted by GRaM Workshop @ ICML 2024.
@@ -1499,6 +1501,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [cloneofsimo/minDiffusion](https://github.com/cloneofsimo/minDiffusion) - Self-contained, minimalistic implementation of diffusion models with Pytorch.
 - [test-time-training/ttt-lm-pytorch](https://github.com/test-time-training/ttt-lm-pytorch) - Official PyTorch implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States
 - [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.
@@ -2356,7 +2359,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-583-Stars](https://github.com/iBug/This-Repo-Has-583-Stars) - Yes, it's true :heart: This repository has 583 stars.
+- [iBug/This-Repo-Has-583-Stars](https://github.com/iBug/This-Repo-Has-583-Stars) - Yes, it's true :gift_heart: This repository has 583 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
