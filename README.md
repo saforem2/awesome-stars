@@ -816,6 +816,7 @@
 
 ## Jupyter Notebook 
 
+- [huggingface/cookbook](https://github.com/huggingface/cookbook) - Open-source AI cookbook
 - [scifm/summer-school-2024](https://github.com/scifm/summer-school-2024) - 
 - [fastai/fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
@@ -945,6 +946,7 @@
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [thjashin/mirror-stein-samplers](https://github.com/thjashin/mirror-stein-samplers) - Sampling with Mirrored Stein Operators
+- [Liao-Xu/SFS_py](https://github.com/Liao-Xu/SFS_py) - Schrödinger-Föllmer Sampler for Gaussian Mixtures
 - [learningmatter-mit/Segal](https://github.com/learningmatter-mit/Segal) - 
 - [scottire/fastpages](https://github.com/scottire/fastpages) - 
 - [ro-jefferson/entropy_dnn](https://github.com/ro-jefferson/entropy_dnn) - Code for project on relative entropy in deep neural networks
@@ -1320,6 +1322,7 @@
 
 ## Others 
 
+- [argonne-lcf/summer-school-2024](https://github.com/argonne-lcf/summer-school-2024) - 
 - [harmonic-ai/datasets](https://github.com/harmonic-ai/datasets) - Harmonic Datasets
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -2088,7 +2091,6 @@
 - [thu-ml/zhusuan](https://github.com/thu-ml/zhusuan) - A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow
 - [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
 - [VincentStimper/hmc-hyperparameter-tuning](https://github.com/VincentStimper/hmc-hyperparameter-tuning) - Framework to tune the hyperparameters of Hamiltonian Monte Carlo in an automated fashion
-- [Liao-Xu/SFS_py](https://github.com/Liao-Xu/SFS_py) - 
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/
 - [poets-ai/elegy](https://github.com/poets-ai/elegy) - A High Level API for Deep Learning in JAX
 - [chrisculver/WickContractions](https://github.com/chrisculver/WickContractions) - 
@@ -2359,7 +2361,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-583-Stars](https://github.com/iBug/This-Repo-Has-583-Stars) - Yes, it's true :gift_heart: This repository has 583 stars.
+- [iBug/This-Repo-Has-583-Stars](https://github.com/iBug/This-Repo-Has-583-Stars) - Yes, it's true :heartpulse: This repository has 583 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
