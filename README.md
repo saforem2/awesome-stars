@@ -162,6 +162,7 @@
 
 ## C++ 
 
+- [intel/torch-xpu-ops](https://github.com/intel/torch-xpu-ops) - 
 - [eth-cscs/node-burn](https://github.com/eth-cscs/node-burn) - 
 - [refresh-bio/SPLASH](https://github.com/refresh-bio/SPLASH) - 
 - [LLNL/conduit](https://github.com/LLNL/conduit) - Simplified Data Exchange for HPC Simulations
@@ -379,6 +380,7 @@
 
 ## Go 
 
+- [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
 - [dhth/hours](https://github.com/dhth/hours) - A no-frills time tracking toolkit for command line nerds
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -456,6 +458,7 @@
 
 ## HTML 
 
+- [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
@@ -1504,6 +1507,9 @@
 
 ## Python 
 
+- [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
+- [cjolowicz/hypermodern-python](https://github.com/cjolowicz/hypermodern-python) - Hypermodern Python
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [cloneofsimo/minDiffusion](https://github.com/cloneofsimo/minDiffusion) - Self-contained, minimalistic implementation of diffusion models with Pytorch.
 - [test-time-training/ttt-lm-pytorch](https://github.com/test-time-training/ttt-lm-pytorch) - Official PyTorch implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States
