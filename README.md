@@ -7,6 +7,7 @@
 
 - [Assembly](#assembly)
 - [Astro](#astro)
+- [Awk](#awk)
 - [Brainfuck](#brainfuck)
 - [C](#c)
 - [C#](#c#)
@@ -88,6 +89,10 @@
 ## Astro 
 
 - [argyleink/morphull](https://github.com/argyleink/morphull) - Astro starter powered by MPA view transitions
+
+## Awk 
+
+- [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 
 ## Brainfuck 
 
@@ -557,6 +562,7 @@
 
 ## JavaScript 
 
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [Kiran1689/kiran1689](https://github.com/Kiran1689/kiran1689) - Dynamic readme profile template. Do not just fork, Give Star too :)
@@ -1507,6 +1513,9 @@
 
 ## Python 
 
+- [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
+- [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
+- [NVIDIA/modulus](https://github.com/NVIDIA/modulus) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
 - [olcf/ai-training-series](https://github.com/olcf/ai-training-series) - AI Training Series Material
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -2812,6 +2821,8 @@
 
 ## R 
 
+- [EllaKaye/ellakaye.co.uk](https://github.com/EllaKaye/ellakaye.co.uk) - My personal website
+- [mhanf/quarto_website](https://github.com/mhanf/quarto_website) - Personal website
 - [mcanouil/quarto-revealjs-coeos](https://github.com/mcanouil/quarto-revealjs-coeos) - Quarto reveal.js template extension
 - [walmes/Tikz](https://github.com/walmes/Tikz) - Galley of Tikz drawings.
 - [joonhap/THT_source](https://github.com/joonhap/THT_source) - source files for tempered Hamiltonian transitions
@@ -3124,7 +3135,7 @@
 
 - [felhag/lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - A small project to show some additional statistics for last.fm.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
-- [Konsl/spicetify-visualizer](https://github.com/Konsl/spicetify-visualizer) - NCS-style visualizer for Spicetify
+- [Konsl/spicetify-visualizer](https://github.com/Konsl/spicetify-visualizer) - Audio Visualizer for Spicetify
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [Looskie/website](https://github.com/Looskie/website) - My portfolio website
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
