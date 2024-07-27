@@ -1606,7 +1606,7 @@
 - [dflock/kitty-save-session](https://github.com/dflock/kitty-save-session) - Allows you to save & restore kitty sessions, with all kitty OS windows, kitty tabs & kitty windows restored.
 - [huggingface/nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [google/jaxopt](https://github.com/google/jaxopt) - Hardware accelerated, batchable and differentiable optimizers in JAX.
 - [anki-code/xontrib-ergopack](https://github.com/anki-code/xontrib-ergopack) - 📦 Meta package that installs group of ergonomic xontribs in xonsh shell.
