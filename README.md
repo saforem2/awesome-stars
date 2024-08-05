@@ -829,6 +829,7 @@
 - [scifm/summer-school-2024](https://github.com/scifm/summer-school-2024) - 
 - [fastai/fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
+- [sherrylixuecheng/AI_for_Science_paper_collection](https://github.com/sherrylixuecheng/AI_for_Science_paper_collection) - List the AI for Science papers accepted by top conferences
 - [pyt-team/challenge-icml-2024](https://github.com/pyt-team/challenge-icml-2024) - Official repository for the Topological Deep Learning Challenge 2024, organized by TAG-DS & PyT-Team and hosted by GRaM Workshop @ ICML 2024.
 - [state-spaces/s4](https://github.com/state-spaces/s4) - Structured state space sequence models
 - [geronimi73/qlora-minimal](https://github.com/geronimi73/qlora-minimal) - 
@@ -1524,7 +1525,6 @@
 - [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.
 - [test-time-training/ttt-lm-jax](https://github.com/test-time-training/ttt-lm-jax) - Official JAX implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States
 - [yacineMTB/pyrepl.nvim](https://github.com/yacineMTB/pyrepl.nvim) - ipython is bloated af
-- [sherrylixuecheng/AI_for_Science_paper_collection](https://github.com/sherrylixuecheng/AI_for_Science_paper_collection) - List the AI for Science papers accepted by top conferences
 - [rogual/fix-quicklook](https://github.com/rogual/fix-quicklook) - Remove rounded corners from QuickLook on MacOS
 - [aiqm/torchani](https://github.com/aiqm/torchani) - Accurate Neural Network Potential on PyTorch
 - [pytorch/torchsnapshot](https://github.com/pytorch/torchsnapshot) - A performant, memory-efficient checkpointing library for PyTorch applications, designed with large, complex distributed workloads in mind.
