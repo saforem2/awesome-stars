@@ -826,6 +826,7 @@
 
 ## Jupyter Notebook 
 
+- [google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) - A collection of guides and examples for the Gemma open models from Google.
 - [huggingface/cookbook](https://github.com/huggingface/cookbook) - Open-source AI cookbook
 - [scifm/summer-school-2024](https://github.com/scifm/summer-school-2024) - 
 - [fastai/fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
@@ -1604,7 +1605,7 @@
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [jrieke/streamlit-analytics](https://github.com/jrieke/streamlit-analytics) - 👀 Track & visualize user interactions with your streamlit app
 - [ORNL/HydraGNN](https://github.com/ORNL/HydraGNN) - Distributed PyTorch implementation of multi-headed graph convolutional neural networks
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy (Gateway) to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
 - [google/pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [dflock/kitty-save-session](https://github.com/dflock/kitty-save-session) - Allows you to save & restore kitty sessions, with all kitty OS windows, kitty tabs & kitty windows restored.
 - [huggingface/nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
@@ -2185,7 +2186,7 @@
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
 - [sarugaku/shellingham](https://github.com/sarugaku/shellingham) - Tool to Detect Surrounding Shell
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
-- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [tensorflow/tfx](https://github.com/tensorflow/tfx) - TFX is an end-to-end platform for deploying production ML pipelines
 - [intake/intake-xarray](https://github.com/intake/intake-xarray) - Intake plugin for xarray
