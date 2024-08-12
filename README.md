@@ -828,6 +828,7 @@
 
 ## Jupyter Notebook 
 
+- [nobuyukimatsumoto68/test_prmhmc](https://github.com/nobuyukimatsumoto68/test_prmhmc) - 
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) - A collection of guides and examples for the Gemma open models from Google.
 - [huggingface/cookbook](https://github.com/huggingface/cookbook) - Open-source AI cookbook
@@ -1156,6 +1157,7 @@
 
 ## LLVM 
 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [meifeng/GridMini](https://github.com/meifeng/GridMini) - This is a mini-app based on the Grid C++ lattice QCD library (https://github.com/paboyle/Grid)
 - [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - Lecture and hands-on material for Track 8- Machine Learning of  Argonne Training Program on Extreme-Scale Computing
 
@@ -1518,6 +1520,7 @@
 
 ## Python 
 
+- [sail-sg/zero-bubble-pipeline-parallelism](https://github.com/sail-sg/zero-bubble-pipeline-parallelism) - Zero Bubble Pipeline Parallelism
 - [mag-/gpu_benchmark](https://github.com/mag-/gpu_benchmark) - Gpu benchmark
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
 - [HabanaAI/Megatron-DeepSpeed](https://github.com/HabanaAI/Megatron-DeepSpeed) - Intel Gaudi's Megatron DeepSpeed Large Language Models for training
