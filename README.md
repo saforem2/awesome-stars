@@ -100,6 +100,7 @@
 
 ## C 
 
+- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [openpmix/openpmix](https://github.com/openpmix/openpmix) - OpenPMIx Project Repository
 - [Sandia-OpenSHMEM/SOS](https://github.com/Sandia-OpenSHMEM/SOS) - Sandia OpenSHMEM is an implementation of the OpenSHMEM specification over multiple Networking APIs, including Portals 4, the Open Fabric Interface (OFI), and UCX.  Please click on the Wiki tab for hel
 - [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
@@ -2183,7 +2184,7 @@
 - [y0ast/Glow-PyTorch](https://github.com/y0ast/Glow-PyTorch) - Simple, extendable, easy to understand Glow implementation in PyTorch
 - [NeuroDiffGym/neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq) - A library for solving differential equations using neural networks based on PyTorch, used by multiple research groups around the world, including at Harvard IACS.
 - [geoopt/geoopt](https://github.com/geoopt/geoopt) - Riemannian Adaptive Optimization Methods with pytorch optim
-- [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
+- [pyston/pyston](https://github.com/pyston/pyston) - (No longer maintained) A faster and highly-compatible implementation of the Python programming language.
 - [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 - [felker/deephyper_pytorch_layers](https://github.com/felker/deephyper_pytorch_layers) - Use DeepHyper to find the max FLOPS for various PyTorch Layers.
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
@@ -2967,6 +2968,8 @@
 
 ## Shell 
 
+- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+- [crissNb/Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar) - Dynamic Island on iPhone 14 Pro implementation on Mac using Sketchybar
 - [mej/nhc](https://github.com/mej/nhc) - LBNL Node Health Check
 - [xxh/xxh-shell-xonsh](https://github.com/xxh/xxh-shell-xonsh) - Use xonsh wherever you go through the SSH without installation on the host.
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
