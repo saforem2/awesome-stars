@@ -92,6 +92,7 @@
 
 ## Awk 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and your scripts.
 - [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 
 ## Brainfuck 
@@ -103,6 +104,7 @@
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [openpmix/openpmix](https://github.com/openpmix/openpmix) - OpenPMIx Project Repository
 - [Sandia-OpenSHMEM/SOS](https://github.com/Sandia-OpenSHMEM/SOS) - Sandia OpenSHMEM is an implementation of the OpenSHMEM specification over multiple Networking APIs, including Portals 4, the Open Fabric Interface (OFI), and UCX.  Please click on the Wiki tab for hel
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [stas00/the-art-of-debugging](https://github.com/stas00/the-art-of-debugging) - The Art of Debugging
@@ -168,12 +170,12 @@
 
 ## C++ 
 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [intel/torch-xpu-ops](https://github.com/intel/torch-xpu-ops) - 
 - [eth-cscs/node-burn](https://github.com/eth-cscs/node-burn) - 
 - [refresh-bio/SPLASH](https://github.com/refresh-bio/SPLASH) - 
 - [LLNL/conduit](https://github.com/LLNL/conduit) - Simplified Data Exchange for HPC Simulations
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [intel/intel-extension-for-openxla](https://github.com/intel/intel-extension-for-openxla) - 
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -570,6 +572,7 @@
 
 ## JavaScript 
 
+- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [coatless-quarto/pyodide](https://github.com/coatless-quarto/pyodide) - Community developed Quarto extension to enable interactive Python code cells in HTML documents using Pyodide
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
@@ -712,7 +715,7 @@
 - [neurals-ro/keras-model-editor](https://github.com/neurals-ro/keras-model-editor) - Web editor for Keras models
 - [timqian/resumd](https://github.com/timqian/resumd) - Write resume with markdown
 - [neurals-ro/keras-model-viewer](https://github.com/neurals-ro/keras-model-viewer) - Keras Model viewable as an SVG diagram
-- [WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop. https://bit.ly/ur_demo
+- [WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) - Minimal and formal résumé (CV) website template for print, mobile, and desktop.
 - [meodai/color-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈
 - [Ademking/WebCmd](https://github.com/Ademking/WebCmd) - 💣 WebCmd v1.1 : Improved "new tab" page made for CLI Lovers
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
@@ -833,6 +836,7 @@
 
 ## Jupyter Notebook 
 
+- [MultimodalUniverse/MultimodalUniverse](https://github.com/MultimodalUniverse/MultimodalUniverse) - Large-Scale Multimodal Dataset of Astronomical Data
 - [snat-s/m](https://github.com/snat-s/m) - 
 - [NVIDIA/torch-harmonics](https://github.com/NVIDIA/torch-harmonics) - Differentiable spherical harmonic transforms and spherical convolutions in PyTorch
 - [nobuyukimatsumoto68/test_prmhmc](https://github.com/nobuyukimatsumoto68/test_prmhmc) - 
@@ -1625,7 +1629,7 @@
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [jrieke/streamlit-analytics](https://github.com/jrieke/streamlit-analytics) - 👀 Track & visualize user interactions with your streamlit app
 - [ORNL/HydraGNN](https://github.com/ORNL/HydraGNN) - Distributed PyTorch implementation of multi-headed graph convolutional neural networks
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [google/pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [dflock/kitty-save-session](https://github.com/dflock/kitty-save-session) - Allows you to save & restore kitty sessions, with all kitty OS windows, kitty tabs & kitty windows restored.
 - [huggingface/nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
@@ -2908,12 +2912,12 @@
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim) - :rocket: Blazingly fast colorscheme generator for Neovim written in Rust :crab:
