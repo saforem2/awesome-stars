@@ -92,7 +92,7 @@
 
 ## Awk 
 
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and your scripts.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and scripts.
 - [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 
 ## Brainfuck 
@@ -838,7 +838,7 @@
 
 - [MultimodalUniverse/MultimodalUniverse](https://github.com/MultimodalUniverse/MultimodalUniverse) - Large-Scale Multimodal Dataset of Astronomical Data
 - [snat-s/m](https://github.com/snat-s/m) - 
-- [NVIDIA/torch-harmonics](https://github.com/NVIDIA/torch-harmonics) - Differentiable spherical harmonic transforms and spherical convolutions in PyTorch
+- [NVIDIA/torch-harmonics](https://github.com/NVIDIA/torch-harmonics) - Differentiable signal processing on the sphere for PyTorch
 - [nobuyukimatsumoto68/test_prmhmc](https://github.com/nobuyukimatsumoto68/test_prmhmc) - 
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) - A collection of guides and examples for the Gemma open models from Google.
@@ -2473,7 +2473,7 @@
 - [lukasturcani/stk](https://github.com/lukasturcani/stk) - A Python library which allows construction and manipulation of complex molecules, as well as automatic molecular design and the creation of molecular databases.
 - [hatchet/hatchet](https://github.com/hatchet/hatchet) - Analyze graph/hierarchical performance data using pandas dataframes
 - [xflash96/pybind11_package_example](https://github.com/xflash96/pybind11_package_example) - Example python package with pybind11 cpp extension
-- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [johannbrehmer/pointers](https://github.com/johannbrehmer/pointers) - Things that make me feel productive
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
