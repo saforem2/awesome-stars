@@ -281,6 +281,7 @@
 
 ## CSS 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [AnswerDotAI/fasthtml-example](https://github.com/AnswerDotAI/fasthtml-example) - Example fasthtml applications demonstrating a range of web programming techniques
 - [Martinomagnifico/quarto-appearance](https://github.com/Martinomagnifico/quarto-appearance) - An animation plugin for Reveal.js that animates elements sequentially like in Powerpoint. Perfect for online portfolios or other presentations with images.
 - [hamelsmu/minimal-site](https://github.com/hamelsmu/minimal-site) - 
@@ -2406,7 +2407,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-585-Stars](https://github.com/iBug/This-Repo-Has-585-Stars) - Yes, it's true :heartbeat: This repository has 585 stars.
+- [iBug/This-Repo-Has-585-Stars](https://github.com/iBug/This-Repo-Has-585-Stars) - Yes, it's true :purple_heart: This repository has 585 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
