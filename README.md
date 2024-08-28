@@ -2389,7 +2389,7 @@
 - [Fanerst/simulate_sycamore](https://github.com/Fanerst/simulate_sycamore) - Simulating Sycamore quantum circuits classically using tensor network algorithm.
 - [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
 - [holoviz/param](https://github.com/holoviz/param) - Param: Make your Python code clearer and more reliable by declaring Parameters
-- [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
+- [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [pentschev/pybench](https://github.com/pentschev/pybench) - Automation tools for Python benchmarking
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
