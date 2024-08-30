@@ -2183,7 +2183,6 @@
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
 - [facebookresearch/pplbench](https://github.com/facebookresearch/pplbench) - Evaluation Framework for Probabilistic Programming Languages
-- [stefanwebb/flowtorch-old](https://github.com/stefanwebb/flowtorch-old) - Separating Normalizing Flows code from Pyro and improving API
 - [facebookarchive/ml_sampler](https://github.com/facebookarchive/ml_sampler) - Model assisted random sampling.
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
 - [dionhaefner/pyhpc-benchmarks](https://github.com/dionhaefner/pyhpc-benchmarks) - A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python :rocket:
