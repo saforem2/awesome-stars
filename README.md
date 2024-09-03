@@ -170,6 +170,7 @@
 
 ## C++ 
 
+- [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [intel/torch-xpu-ops](https://github.com/intel/torch-xpu-ops) - 
 - [eth-cscs/node-burn](https://github.com/eth-cscs/node-burn) - 
@@ -1180,6 +1181,7 @@
 
 ## Lua 
 
+- [ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52) - A Neovim plugin to copy text through SSH with OSC52
 - [coatless-quarto/embedio](https://github.com/coatless-quarto/embedio) - Quarto extension for Embedding HTML Documents and Presentations
 - [pandoc/lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
 - [yacineMTB/kitty](https://github.com/yacineMTB/kitty) - Yacine's .config/kitty (yacine's kitty config)
@@ -1671,7 +1673,7 @@
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [alibaba/Megatron-LLaMA](https://github.com/alibaba/Megatron-LLaMA) - Best practice for training LLaMA models in Megatron-LM
-- [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
+- [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - [ICML'24] Magicoder: Empowering Code Generation with OSS-Instruct
 - [Psivant/femto](https://github.com/Psivant/femto) - A comprehensive toolkit for predicting free energies
 - [saforem2/wordplay](https://github.com/saforem2/wordplay) - Playing with words
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
@@ -2660,7 +2662,7 @@
 - [danielegrattarola/spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
 - [jacobjinkelly/easy-neural-ode](https://github.com/jacobjinkelly/easy-neural-ode) - Code for the paper "Learning Differential Equations that are Easy to Solve"
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
-- [KAUST-Academy/horovod-gpu-data-science-project](https://github.com/KAUST-Academy/horovod-gpu-data-science-project) - Template repository for a Python 3-based data science project that uses Horovod.
+- [davidrpugh/horovod-gpu-data-science-project](https://github.com/davidrpugh/horovod-gpu-data-science-project) - Template repository for a Python 3-based data science project that uses Horovod.
 - [CUAI/Neural-Manifold-Ordinary-Differential-Equations](https://github.com/CUAI/Neural-Manifold-Ordinary-Differential-Equations) - [NeurIPS 2020] Neural Manifold Ordinary Differential Equations (https://arxiv.org/abs/2006.10254)
 - [necludov/iMCMC](https://github.com/necludov/iMCMC) - 
 - [bayesiains/nsf](https://github.com/bayesiains/nsf) - Code for Neural Spline Flows paper
@@ -2892,6 +2894,8 @@
 
 ## Rust 
 
+- [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
