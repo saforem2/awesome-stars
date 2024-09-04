@@ -1304,6 +1304,7 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Mathematica 
 
@@ -1473,7 +1474,6 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [iris-hep/awesome-hep](https://github.com/iris-hep/awesome-hep) - A curated list of awesome high energy and particle physics software.
 - [PurpleBooth/a-good-readme-template](https://github.com/PurpleBooth/a-good-readme-template) - A template to make good README.md
 - [hsf-training/PyHEP-resources](https://github.com/hsf-training/PyHEP-resources) - Python libraries of interest to particle physicists.  This is meant for educational purposes.
@@ -1785,6 +1785,7 @@
 - [zengyi-li/MDSM](https://github.com/zengyi-li/MDSM) - Multiscale de-noising score matching
 - [WenboGong/Sliced_Kernelized_Stein_Discrepancy](https://github.com/WenboGong/Sliced_Kernelized_Stein_Discrepancy) - This repo implements the main experiments for sliced kernelized Stein discrepancy and active slices method.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [microsoft/admin-torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 - [gmongaras/Diffusion_models_from_scratch](https://github.com/gmongaras/Diffusion_models_from_scratch) - Creating a diffusion model from scratch in PyTorch to learn exactly how they work.
@@ -3212,7 +3213,6 @@
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [daksh2k/Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) - Some spicetify extensions!
 - [jupyterlab-contrib/jupyterlab-theme-editor](https://github.com/jupyterlab-contrib/jupyterlab-theme-editor) - Extension providing a theme editor where colors, font families and font sizes of the elements of the user interface can be varied
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
 - [liamcain/obsidian-daily-notes-interface](https://github.com/liamcain/obsidian-daily-notes-interface) - Package to create, open, and find daily notes from your Obsidian plugin
