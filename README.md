@@ -574,6 +574,7 @@
 
 ## JavaScript 
 
+- [osiristape/notes-application](https://github.com/osiristape/notes-application) - a simple notes application that allows users to create, edit, and delete notes.
 - [Nenuial/ThemeTest](https://github.com/Nenuial/ThemeTest) - 
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [coatless-quarto/pyodide](https://github.com/coatless-quarto/pyodide) - Community developed Quarto extension to enable interactive Python code cells in HTML documents using Pyodide
@@ -737,6 +738,7 @@
 
 ## Julia 
 
+- [JuliaDataCubes/YAXArrays.jl](https://github.com/JuliaDataCubes/YAXArrays.jl) - Yet Another XArray-like Julia package
 - [JuliaNLSolvers/Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) - Optimization functions for Julia
 - [PumasAI/SummaryTables.jl](https://github.com/PumasAI/SummaryTables.jl) - A Julia package for creating publication-ready summary tables in HTML, docx, LaTeX and Typst
 - [yomichi/SpinMonteCarlo.jl](https://github.com/yomichi/SpinMonteCarlo.jl) - Markov chain Monte Carlo solver for lattice spin systems implemented in Julialang
@@ -839,6 +841,7 @@
 
 ## Jupyter Notebook 
 
+- [fastai/course22](https://github.com/fastai/course22) - The fast.ai course notebooks
 - [MultimodalUniverse/MultimodalUniverse](https://github.com/MultimodalUniverse/MultimodalUniverse) - Large-Scale Multimodal Dataset of Astronomical Data
 - [snat-s/m](https://github.com/snat-s/m) - 
 - [NVIDIA/torch-harmonics](https://github.com/NVIDIA/torch-harmonics) - Differentiable signal processing on the sphere for PyTorch
@@ -1356,6 +1359,7 @@
 
 ## Others 
 
+- [osiristape/osiristape](https://github.com/osiristape/osiristape) - 
 - [argonne-lcf/summer-school-2024](https://github.com/argonne-lcf/summer-school-2024) - 
 - [harmonic-ai/datasets](https://github.com/harmonic-ai/datasets) - Harmonic Datasets
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
@@ -1537,6 +1541,9 @@
 
 ## Python 
 
+- [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
+- [osiristape/github-autofollow-bot](https://github.com/osiristape/github-autofollow-bot) - a python script to automatically follow users on a github repository's stargazers page.
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [googlefonts/color-fonts](https://github.com/googlefonts/color-fonts) - Experimental color font builds.
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
 - [Genentech/gReLU](https://github.com/Genentech/gReLU) - gReLU is a python library to train, interpret, and apply deep learning models to DNA sequences.
@@ -2131,7 +2138,7 @@
 - [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
 - [jliu/graph-normalizing-flows](https://github.com/jliu/graph-normalizing-flows) - Code for Graph Normalizing Flows.
 - [twitter-research/cwn](https://github.com/twitter-research/cwn) - Message Passing Neural Networks for Simplicial and Cell Complexes
-- [tantale/deprecated](https://github.com/tantale/deprecated) - Python @deprecated decorator to deprecate old python classes, functions or methods.
+- [laurent-laporte-pro/deprecated](https://github.com/laurent-laporte-pro/deprecated) - Python @deprecated decorator to deprecate old python classes, functions or methods.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
 - [brohrer/taming_matplotlib](https://github.com/brohrer/taming_matplotlib) - Tutorials for getting the most out of Matplotlib
