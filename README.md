@@ -1359,6 +1359,7 @@
 
 ## Others 
 
+- [NousResearch/DisTrO](https://github.com/NousResearch/DisTrO) - Distributed Training Over-The-Internet
 - [osiristape/osiristape](https://github.com/osiristape/osiristape) - 
 - [argonne-lcf/summer-school-2024](https://github.com/argonne-lcf/summer-school-2024) - 
 - [harmonic-ai/datasets](https://github.com/harmonic-ai/datasets) - Harmonic Datasets
