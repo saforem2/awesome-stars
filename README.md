@@ -1360,7 +1360,6 @@
 ## Others 
 
 - [NousResearch/DisTrO](https://github.com/NousResearch/DisTrO) - Distributed Training Over-The-Internet
-- [osiristape/osiristape](https://github.com/osiristape/osiristape) - 
 - [argonne-lcf/summer-school-2024](https://github.com/argonne-lcf/summer-school-2024) - 
 - [harmonic-ai/datasets](https://github.com/harmonic-ai/datasets) - Harmonic Datasets
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
@@ -1543,7 +1542,7 @@
 ## Python 
 
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
-- [osiristape/github-autofollow-bot](https://github.com/osiristape/github-autofollow-bot) - a python script to automatically follow users on a github repository's stargazers page.
+- [osiristape/github-autofollow-bot](https://github.com/osiristape/github-autofollow-bot) - automate github following/unfollowing with python; configurable for stargazers/users, page numbers, speed, and trial 2FA verification with anti-detection.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [googlefonts/color-fonts](https://github.com/googlefonts/color-fonts) - Experimental color font builds.
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
