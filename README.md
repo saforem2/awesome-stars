@@ -1792,7 +1792,7 @@
 - [zengyi-li/MDSM](https://github.com/zengyi-li/MDSM) - Multiscale de-noising score matching
 - [WenboGong/Sliced_Kernelized_Stein_Discrepancy](https://github.com/WenboGong/Sliced_Kernelized_Stein_Discrepancy) - This repo implements the main experiments for sliced kernelized Stein discrepancy and active slices method.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
+- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [microsoft/admin-torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 - [gmongaras/Diffusion_models_from_scratch](https://github.com/gmongaras/Diffusion_models_from_scratch) - Creating a diffusion model from scratch in PyTorch to learn exactly how they work.
@@ -3182,7 +3182,7 @@
 ## TypeScript 
 
 - [r-wasm/quarto-live](https://github.com/r-wasm/quarto-live) - WebAssembly powered code blocks and exercises for both the R and Python languages in Quarto documents
-- [sdegutis/vanillajsx.com](https://github.com/sdegutis/vanillajsx.com) - 
+- [thesoftwarephilosopher/vanillajsx.com](https://github.com/thesoftwarephilosopher/vanillajsx.com) - 
 - [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click
 - [felhag/lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - A small project to show some additional statistics for last.fm.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
