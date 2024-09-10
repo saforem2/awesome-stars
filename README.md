@@ -1603,7 +1603,7 @@
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [tonyduan/diffusion](https://github.com/tonyduan/diffusion) - From-scratch diffusion model implemented in PyTorch.
-- [InternLM/InternEvo](https://github.com/InternLM/InternEvo) - 
+- [InternLM/InternEvo](https://github.com/InternLM/InternEvo) - InternEvo is an open-sourced lightweight training framework aims to support model pre-training without the need for extensive dependencies.
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [openai/grok](https://github.com/openai/grok) - 
 - [pypa/sampleproject](https://github.com/pypa/sampleproject) - A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
