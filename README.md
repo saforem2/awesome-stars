@@ -1544,6 +1544,8 @@
 
 ## Python 
 
+- [Silent-Zebra/twisted-smc-lm](https://github.com/Silent-Zebra/twisted-smc-lm) - 
+- [tgu-ltd/tgutui](https://github.com/tgu-ltd/tgutui) - A Demonstration of Test Equipment TUI
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [osiristape/github-autofollow-bot](https://github.com/osiristape/github-autofollow-bot) - automate github following/unfollowing with python; configurable for stargazers/users, page numbers, speed, and trial 2FA verification with anti-detection.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -1784,7 +1786,7 @@
 - [francois-rozet/sda](https://github.com/francois-rozet/sda) - Official implementation of Score-based Data Assimilation
 - [ehoogeboom/multinomial_diffusion](https://github.com/ehoogeboom/multinomial_diffusion) - 
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
-- [atomicarchitects/equiformer_v2](https://github.com/atomicarchitects/equiformer_v2) - [ICLR'24] EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations
+- [atomicarchitects/equiformer_v2](https://github.com/atomicarchitects/equiformer_v2) - [ICLR 2024] EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations
 - [ewdurbin/clandestined-python](https://github.com/ewdurbin/clandestined-python) - python rendezvous hashing implementation based on murmur3 hash
 - [stared/livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook for Keras, PyTorch and others
 - [beresandras/clear-diffusion-keras](https://github.com/beresandras/clear-diffusion-keras) - Implementation of denoising diffusion models with schedules, improved sampling, and other extensions using Keras.
@@ -2934,7 +2936,7 @@
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim) - :rocket: Blazingly fast colorscheme generator for Neovim written in Rust :crab:
