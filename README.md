@@ -2422,7 +2422,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-586-Stars](https://github.com/iBug/This-Repo-Has-586-Stars) - Yes, it's true :heartpulse: This repository has 586 stars.
+- [iBug/This-Repo-Has-585-Stars](https://github.com/iBug/This-Repo-Has-585-Stars) - Yes, it's true :heartpulse: This repository has 585 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3190,6 +3190,9 @@
 
 ## TypeScript 
 
+- [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
+- [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
+- [valeriangalliat/markdown-it-highlightjs](https://github.com/valeriangalliat/markdown-it-highlightjs) - Preset to use highlight.js with markdown-it.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
 - [r-wasm/quarto-live](https://github.com/r-wasm/quarto-live) - WebAssembly powered code blocks and exercises for both the R and Python languages in Quarto documents
 - [thesoftwarephilosopher/vanillajsx.com](https://github.com/thesoftwarephilosopher/vanillajsx.com) - 
