@@ -1766,7 +1766,7 @@
 - [WaylonWalker/hatch-action](https://github.com/WaylonWalker/hatch-action) - Automatically version bump hatch projects.  This is very much a personal project that just does what I need it to, if you like it great!, if you don't fork it and make it do what you want.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [deephyper/benchmark](https://github.com/deephyper/benchmark) - Repository to benchmark DeepHyper on different systems.
-- [ltworf/typedload](https://github.com/ltworf/typedload) - Python library to load dynamically typed data into statically typed data structures
+- [ltworf/typedload](https://github.com/ltworf/typedload) - MIGRATED TO CODEBERG. Python library to load dynamically typed data into statically typed data structures
 - [altermo/vim-plugin-list](https://github.com/altermo/vim-plugin-list) - A list of vim/neovim plugins(/extensions for plugins)
 - [kiyoon/jupynium.nvim](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with NeoVim in real-time.
 - [jupyter-vim/jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
@@ -2908,6 +2908,7 @@
 
 ## Rust 
 
+- [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
