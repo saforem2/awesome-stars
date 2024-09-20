@@ -284,6 +284,7 @@
 
 ## CSS 
 
+- [st1020/kita](https://github.com/st1020/kita) - Kita is a clean, elegant and simple blog theme for Zola.
 - [gadenbuie/quarto-auto-dark](https://github.com/gadenbuie/quarto-auto-dark) - Auto dark mode for Quarto websites and slides
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [AnswerDotAI/fasthtml-example](https://github.com/AnswerDotAI/fasthtml-example) - Example fasthtml applications demonstrating a range of web programming techniques
@@ -474,6 +475,8 @@
 
 ## HTML 
 
+- [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
+- [pawroman/zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
 - [googlefonts/colr-gradients-spec](https://github.com/googlefonts/colr-gradients-spec) - 
 - [fxpar/markdown-to-bootstrap-pandoc-lua-filter](https://github.com/fxpar/markdown-to-bootstrap-pandoc-lua-filter) - A Lua Filter to convert directly markdown into bootstrap components (cards, jumbotrons, carousels, accordions) using Pandoc
 - [revolter/notepadtab.com](https://github.com/revolter/notepadtab.com) - 
@@ -2435,7 +2438,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-586-Stars](https://github.com/iBug/This-Repo-Has-586-Stars) - Yes, it's true :gift_heart: This repository has 586 stars.
+- [iBug/This-Repo-Has-587-Stars](https://github.com/iBug/This-Repo-Has-587-Stars) - Yes, it's true :heartbeat: This repository has 587 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2776,7 +2779,7 @@
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [ehoogeboom/emerging](https://github.com/ehoogeboom/emerging) - 
 - [8080labs/pyforest](https://github.com/8080labs/pyforest) - pyforest - feel the bliss of automated imports
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [fancompute/ceviche](https://github.com/fancompute/ceviche) - :shrimp: Electromagnetic Simulation + Automatic Differentiation
 - [tensorflow/mesh](https://github.com/tensorflow/mesh) - Mesh TensorFlow: Model Parallelism Made Easier
 - [asprenger/distributed-training-patterns](https://github.com/asprenger/distributed-training-patterns) - Experiments with low level communication patterns that are useful for distributed training.
@@ -3378,6 +3381,7 @@
 
 ## Vim Script 
 
+- [lyokha/vim-publish-helper](https://github.com/lyokha/vim-publish-helper) - vim plugin that makes vim syntax highlighting engine available in pandoc
 - [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - pandoc integration and utilities for vim
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [JuliaEditorSupport/julia-vim](https://github.com/JuliaEditorSupport/julia-vim) - Vim support for Julia.
