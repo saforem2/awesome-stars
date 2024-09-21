@@ -1661,7 +1661,7 @@
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [jrieke/streamlit-analytics](https://github.com/jrieke/streamlit-analytics) - 👀 Track & visualize user interactions with your streamlit app
 - [ORNL/HydraGNN](https://github.com/ORNL/HydraGNN) - Distributed PyTorch implementation of multi-headed graph convolutional neural networks
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [google/pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [dflock/kitty-save-session](https://github.com/dflock/kitty-save-session) - Allows you to save & restore kitty sessions, with all kitty OS windows, kitty tabs & kitty windows restored.
 - [huggingface/nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
@@ -2767,7 +2767,7 @@
 - [TensorBFS/dTRG](https://github.com/TensorBFS/dTRG) - 
 - [callat-qcd/espressodb](https://github.com/callat-qcd/espressodb) - Science database interface using Django as the content manager.
 - [AustenLamacraft/tfimps](https://github.com/AustenLamacraft/tfimps) - Infinite Matrix Product States in TensorFlow
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [raghakot/keras-vis](https://github.com/raghakot/keras-vis) - Neural network visualization toolkit for keras
 - [li012589/xyzFile2Animation](https://github.com/li012589/xyzFile2Animation) - A small python script to create animation from multiply xyz files
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
@@ -3087,6 +3087,7 @@
 - [mjrafferty/apollo-zsh-theme](https://github.com/mjrafferty/apollo-zsh-theme) - Heavily customizable, compatible, and fast ZSH theme framework.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [derekprior/dotfiles](https://github.com/derekprior/dotfiles) - Configuration Files
 - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [jjangsangy/MacOS-TensorflowBuilds](https://github.com/jjangsangy/MacOS-TensorflowBuilds) - Optimized tensorflow wheels binaries build for macos
 - [umurgdk/ddnotes](https://github.com/umurgdk/ddnotes) - drop down notes for linux window managers
@@ -3215,7 +3216,7 @@
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 - [r-wasm/quarto-live](https://github.com/r-wasm/quarto-live) - WebAssembly powered code blocks and exercises for both the R and Python languages in Quarto documents
 - [thesoftwarephilosopher/vanillajsx.com](https://github.com/thesoftwarephilosopher/vanillajsx.com) - 
 - [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click
@@ -3413,7 +3414,6 @@
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
 - [pechorin/any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀
 - [drzel/vim-line-no-indicator](https://github.com/drzel/vim-line-no-indicator) - Simple and expressive line number indicator.
-- [derekprior/dotfiles](https://github.com/derekprior/dotfiles) - Configuration Files
 - [thiagoalessio/rainbow_levels.vim](https://github.com/thiagoalessio/rainbow_levels.vim) - A different approach to code highlighting.
 - [hukl/Smyck-Color-Scheme](https://github.com/hukl/Smyck-Color-Scheme) - Color Scheme for Terminal.app, iTerm2, Vim, MacVim, Sublime Text2 and Textmate
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
