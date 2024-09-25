@@ -15,6 +15,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Common Lisp](#common-lisp)
 - [Component Pascal](#component-pascal)
 - [Cuda](#cuda)
 - [Cython](#cython)
@@ -339,6 +340,10 @@
 - [apierz/nerdbar.widget](https://github.com/apierz/nerdbar.widget) - Customizable bar(s) for OSX.
 - [stayradiated/okeanos](https://github.com/stayradiated/okeanos) - Node.js adapter for Zephyros.
 
+## Common Lisp 
+
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
+
 ## Component Pascal 
 
 - [mloesch/baposter](https://github.com/mloesch/baposter) - A nifty LaTeX Poster Class
@@ -356,6 +361,7 @@
 
 ## Dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
@@ -1555,6 +1561,7 @@
 
 ## Python 
 
+- [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
 - [forhaoliu/ringattention](https://github.com/forhaoliu/ringattention) - Transformers with Arbitrarily Large Context
