@@ -1841,7 +1841,6 @@
 - [khuyentran1401/rich-dataframe](https://github.com/khuyentran1401/rich-dataframe) - Create animated and pretty Pandas Dataframe
 - [pycontribs/enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
 - [AnonymouX47/termvisage](https://github.com/AnonymouX47/termvisage) - Browse and view images in the terminal (mostly a front-end to https://github.com/AnonymouX47/term-image)
-- [rougier/gsp-matplotlib](https://github.com/rougier/gsp-matplotlib) - Graphic Server Protocol (GSP) : Matplotlib implementation
 - [platisd/duplicate-code-detection-tool](https://github.com/platisd/duplicate-code-detection-tool) - A simple Python3 tool to detect similarities between files within a repository
 - [bluesky/tiled](https://github.com/bluesky/tiled) - API to structured data
 - [radical-cybertools/radical.pilot](https://github.com/radical-cybertools/radical.pilot) - RADICAL-Pilot
