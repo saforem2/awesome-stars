@@ -162,7 +162,6 @@
 
 ## C# # 
 
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -1312,7 +1311,6 @@
 
 ## MDX 
 
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [primer/presentations](https://github.com/primer/presentations) - Primer Presentations is the presentation design system for GitHub. It's intended to be used only by GitHub staff for presentations that represent GitHub.
 
 ## Makefile 
@@ -2444,7 +2442,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-588-Stars](https://github.com/iBug/This-Repo-Has-588-Stars) - Yes, it's true :two_hearts: This repository has 588 stars.
+- [iBug/This-Repo-Has-589-Stars](https://github.com/iBug/This-Repo-Has-589-Stars) - Yes, it's true :two_hearts: This repository has 589 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3055,7 +3053,7 @@
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [bigscience-workshop/bigscience](https://github.com/bigscience-workshop/bigscience) - Central place for the engineering/scaling WG: documentation, SLURM scripts and logs, compute environment and data.
 - [hpc-uk/build-instructions](https://github.com/hpc-uk/build-instructions) - Contains build scripts and instructions for software on a variety of UK HPC resources
-- [hpc/charliecloud](https://github.com/hpc/charliecloud) - Lightweight user-defined software stacks for high-performance computing.
+- [hpc/charliecloud](https://github.com/hpc/charliecloud) - Now hosted on GitLab.
 - [minamarkham/yonce](https://github.com/minamarkham/yonce) - 👑 Queen Bey-inspired themes for all your favs.
 - [minamarkham/formation](https://github.com/minamarkham/formation) - 💻 macOS setup script for front-end development
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
@@ -3253,6 +3251,7 @@
 - [hdykokd/obsidian-vertical-tabs-view](https://github.com/hdykokd/obsidian-vertical-tabs-view) - A plugin for Obsidian that provides a vertical tabs view
 - [Ellpeck/ObsidianJustSharePlease](https://github.com/Ellpeck/ObsidianJustSharePlease) - An Obsidian plugin that allows quickly and easily sharing individual notes online using an anonymized link
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
