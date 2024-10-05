@@ -873,7 +873,7 @@
 - [geronimi73/qlora-minimal](https://github.com/geronimi73/qlora-minimal) - 
 - [sidv23/ra-hmc](https://github.com/sidv23/ra-hmc) - Code for Repelling-Attracting Hamiltonian Monte Carlo (https://arxiv.org/abs/2403.04607)
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [infocusp/llm_seminar_series](https://github.com/infocusp/llm_seminar_series) - Material for the series of seminars on Large Language Models
 - [DavidRuhe/hba_flows](https://github.com/DavidRuhe/hba_flows) - 
 - [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
@@ -2970,7 +2970,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [noahgift/rust-mlops-template](https://github.com/noahgift/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
@@ -3000,7 +3000,7 @@
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [crlf0710/tectonic](https://github.com/crlf0710/tectonic) - Experimental Oxidization of Tectonic the TeX/LaTeX engine.
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
 ## SCSS 
