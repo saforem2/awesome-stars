@@ -599,7 +599,7 @@
 - [JasonPuglisi/descent](https://github.com/JasonPuglisi/descent) - Elegant now playing display for Last.fm showing song metadata and local weather.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [abskmj/badges-lastfm](https://github.com/abskmj/badges-lastfm) - Markdown Badges for LastFM
-- [nuejs/nue](https://github.com/nuejs/nue) - A web framework for UX developers
+- [nuejs/nue](https://github.com/nuejs/nue) - The UX Framework for the Web
 - [jienagu/Jiena_McLellan_CV](https://github.com/jienagu/Jiena_McLellan_CV) - This is My CV
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [chalk/ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal
@@ -703,6 +703,7 @@
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [asford/notebook_input_mode](https://github.com/asford/notebook_input_mode) - Jupyter nbextension supporting alternate input modes.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [chi-feng/mcmc-demo](https://github.com/chi-feng/mcmc-demo) - Interactive Markov-chain Monte Carlo Javascript demos
 - [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history) - A command-line tool to generate GitHub and GitLab activity graph.
 - [techsyndicate/starhub](https://github.com/techsyndicate/starhub) - StarHub - A chrome extension that tracks your GitHub stars so you don't have to.
@@ -805,7 +806,6 @@
 - [JuliaAI/ScientificTypes.jl](https://github.com/JuliaAI/ScientificTypes.jl) - An API for dispatching on the "scientific" type of data instead of the machine type
 - [JuliaImages/juliaimages.github.io](https://github.com/JuliaImages/juliaimages.github.io) - Documentation For JuliaImages
 - [jakobnissen/hardware_introduction](https://github.com/jakobnissen/hardware_introduction) - What scientific programmers must know about CPUs and RAM to write fast code.
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [Roger-luo/PIML](https://github.com/Roger-luo/PIML) - lecture materials of the ML for Physics course 2021 in Perimeter Institute
 - [mschauer/DynamicIterators.jl](https://github.com/mschauer/DynamicIterators.jl) - Iterators with message passing and feedback loops
 - [omlins/ParallelStencil.jl](https://github.com/omlins/ParallelStencil.jl) - Package for writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs
@@ -855,6 +855,7 @@
 
 ## Jupyter Notebook 
 
+- [rhymes-ai/Aria](https://github.com/rhymes-ai/Aria) - Codebase for Aria - an Open Multimodal Native MoE
 - [merveenoyan/smol-vision](https://github.com/merveenoyan/smol-vision) - Recipes for shrinking, optimizing, customizing cutting edge vision models. 💜
 - [fastai/course22](https://github.com/fastai/course22) - The fast.ai course notebooks
 - [MultimodalUniverse/MultimodalUniverse](https://github.com/MultimodalUniverse/MultimodalUniverse) - Large-Scale Multimodal Dataset of Astronomical Data
@@ -1559,6 +1560,7 @@
 
 ## Python 
 
+- [argonne-lcf/ml_communications](https://github.com/argonne-lcf/ml_communications) - ML communications benchmark
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [EleutherAI/nanoGPT-mup](https://github.com/EleutherAI/nanoGPT-mup) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
@@ -2661,7 +2663,7 @@
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [soravux/scoop](https://github.com/soravux/scoop) - SCOOP (Scalable COncurrent Operations in Python)
 - [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep) - Extended histogram plotting on top of matplotlib and HEP collaboration compatible styling
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [Bihaqo/t3f](https://github.com/Bihaqo/t3f) - Tensor Train decomposition on TensorFlow
 - [chrischute/flowplusplus](https://github.com/chrischute/flowplusplus) - Implementation of Flow++ in PyTorch
 - [albertomontesg/keras-model-zoo](https://github.com/albertomontesg/keras-model-zoo) - Keras Model Zoo
@@ -3217,6 +3219,7 @@
 
 ## TypeScript 
 
+- [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser!
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
