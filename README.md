@@ -1560,13 +1560,14 @@
 
 ## Python 
 
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) quality in 2.67B tokens
 - [argonne-lcf/ml_communications](https://github.com/argonne-lcf/ml_communications) - ML communications benchmark
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [EleutherAI/nanoGPT-mup](https://github.com/EleutherAI/nanoGPT-mup) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
-- [forhaoliu/ringattention](https://github.com/forhaoliu/ringattention) - Transformers with Arbitrarily Large Context
+- [haoliuhl/ringattention](https://github.com/haoliuhl/ringattention) - Transformers with Arbitrarily Large Context
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
 - [feifeibear/long-context-attention](https://github.com/feifeibear/long-context-attention) - USP: Unified (a.k.a. Hybrid, 2D) Sequence Parallel Attention for Long Context Transformers Model Training and Inference
 - [Silent-Zebra/twisted-smc-lm](https://github.com/Silent-Zebra/twisted-smc-lm) - 
@@ -2782,7 +2783,7 @@
 - [gecrooks/quantumflow](https://github.com/gecrooks/quantumflow) - QuantumFlow: A Quantum Algorithms Development Toolkit
 - [JonasLandman/QCNN](https://github.com/JonasLandman/QCNN) - quantum convolutional neural network - simulations
 - [dfm/emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC
-- [openml/openml-python](https://github.com/openml/openml-python) - Python module to interface with OpenML
+- [openml/openml-python](https://github.com/openml/openml-python) - OpenML's Python API for a World of Data and More 💫
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [ehoogeboom/emerging](https://github.com/ehoogeboom/emerging) - 
 - [8080labs/pyforest](https://github.com/8080labs/pyforest) - pyforest - feel the bliss of automated imports
@@ -2866,7 +2867,7 @@
 - [shantnu/PyEng](https://github.com/shantnu/PyEng) - Python for engineers
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [merantix/picasso](https://github.com/merantix/picasso) - :art: A CNN visualizer
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [inforian/python-notifyAll](https://github.com/inforian/python-notifyAll) - A library which can be used for all types of notifications like SMS, Mail, Push.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
