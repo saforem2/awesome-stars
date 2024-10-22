@@ -309,6 +309,7 @@
 - [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [Lithou/Sandbox](https://github.com/Lithou/Sandbox) - Testing and Experimentation for Obsidian and CSS
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
+- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [1-2-3/remark-it](https://github.com/1-2-3/remark-it) - markdown -&gt; slideshow ——Write PPT like a programmer
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
@@ -653,7 +654,6 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [joshed-io/reveal-hugo](https://github.com/joshed-io/reveal-hugo) - 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
-- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [saforem2/physicsSeminar](https://github.com/saforem2/physicsSeminar) - Talk for physics seminar
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
@@ -1200,6 +1200,7 @@
 
 ## Lua 
 
+- [coatless-quarto/custom-callout](https://github.com/coatless-quarto/custom-callout) - A Quarto Extension to Setup Custom Callouts
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [romgrk/kui-demo.nvim](https://github.com/romgrk/kui-demo.nvim) - kui.nvim demo
 - [shafayetShafee/collapse-callout](https://github.com/shafayetShafee/collapse-callout) - Make the Callout Blocks collapsible globally in your HTML document
@@ -1560,6 +1561,7 @@
 
 ## Python 
 
+- [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
 - [tzador/makedown](https://github.com/tzador/makedown) - Organise your shell scripts within executable markdown files
 - [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) quality in 2.67B tokens
@@ -1852,7 +1854,7 @@
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [cybertronai/gradient-checkpointing](https://github.com/cybertronai/gradient-checkpointing) - Make huge neural nets fit in memory
 - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools) - Intel PMU profiling tools
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [yixuan/temperflow](https://github.com/yixuan/temperflow) - Efficient Multimodal Sampling via Tempered Distribution Flow
 - [microsoft/NPKit](https://github.com/microsoft/NPKit) - NCCL Profiling Kit
