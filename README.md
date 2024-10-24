@@ -1132,7 +1132,6 @@
 - [google/automl](https://github.com/google/automl) - Google Brain AutoML
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
-- [senyuan-juncheng/TensorProjectionLayer](https://github.com/senyuan-juncheng/TensorProjectionLayer) - 
 - [li012589/neuralCT](https://github.com/li012589/neuralCT) - Pytorch implement of the paper Neural Canonical Transformation with Symplectic Flows
 - [johannbrehmer/manifold-flow](https://github.com/johannbrehmer/manifold-flow) - Manifold-learning flows (ℳ-flows)
 - [tensorfieldnetworks/tensorfieldnetworks](https://github.com/tensorfieldnetworks/tensorfieldnetworks) - 
@@ -1386,7 +1385,6 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [yazi-rs/flavor-template](https://github.com/yazi-rs/flavor-template) - Yazi flavor starter template.
 - [jaychempan/Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) - 🌍  A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4Earth) | AI for Science (AI4Science)
-- [tung-nd/stormer](https://github.com/tung-nd/stormer) - 
 - [TPC-AI/domain-data-climate-environment-ecology](https://github.com/TPC-AI/domain-data-climate-environment-ecology) - 
 - [rhythmus/markdown-resources](https://github.com/rhythmus/markdown-resources) - A curated collection of Markdown resources: apps, dialects, parsers, people, …
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
@@ -1713,6 +1711,7 @@
 - [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - Math OCR model that outputs LaTeX and markdown
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+- [tung-nd/stormer](https://github.com/tung-nd/stormer) - 
 - [alibaba/Megatron-LLaMA](https://github.com/alibaba/Megatron-LLaMA) - Best practice for training LLaMA models in Megatron-LM
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - [ICML'24] Magicoder: Empowering Code Generation with OSS-Instruct
 - [Psivant/femto](https://github.com/Psivant/femto) - A comprehensive toolkit for predicting free energies
@@ -2736,6 +2735,7 @@
 - [lazyprogrammer/machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [sshane/Konverter](https://github.com/sshane/Konverter) - Convert simple Keras models to pure Python 🐍+ NumPy
+- [senyuan-juncheng/TensorProjectionLayer](https://github.com/senyuan-juncheng/TensorProjectionLayer) - 
 - [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk) - "Cyberpunk style" for matplotlib plots
 - [argonne-lcf/DL-Profiling-Examples](https://github.com/argonne-lcf/DL-Profiling-Examples) - Example scripts and profiling demonstrations for deep learning models
 - [amarshah/complex_RNN](https://github.com/amarshah/complex_RNN) - unitary matrix for hidden to hidden layer
@@ -3227,6 +3227,7 @@
 
 ## TypeScript 
 
+- [arthurrump/tldreveal](https://github.com/arthurrump/tldreveal) - A drawing tool for Reveal.js based on tldraw
 - [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser!
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
