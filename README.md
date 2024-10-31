@@ -585,6 +585,7 @@
 
 ## JavaScript 
 
+- [danieltomasz/qmd-as-md-obsidian](https://github.com/danieltomasz/qmd-as-md-obsidian) - A plugin for Obsidian which allows editing of `qmd` Quarto files.
 - [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative
 - [valeriangalliat/markdown-it-highlightjs](https://github.com/valeriangalliat/markdown-it-highlightjs) - Preset to use highlight.js with markdown-it.
 - [siyuan-note/siyuan-chrome](https://github.com/siyuan-note/siyuan-chrome) - Chrome/Edge extension for SiYuan
@@ -599,7 +600,7 @@
 - [JasonPuglisi/descent](https://github.com/JasonPuglisi/descent) - Elegant now playing display for Last.fm showing song metadata and local weather.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [abskmj/badges-lastfm](https://github.com/abskmj/badges-lastfm) - Markdown Badges for LastFM
-- [nuejs/nue](https://github.com/nuejs/nue) - The UX Framework for the Web
+- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web
 - [jienagu/Jiena_McLellan_CV](https://github.com/jienagu/Jiena_McLellan_CV) - This is My CV
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [chalk/ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal
@@ -854,8 +855,9 @@
 
 ## Jupyter Notebook 
 
+- [allenai/OLMoE](https://github.com/allenai/OLMoE) - OLMoE: Open Mixture-of-Experts Language Models
 - [rhymes-ai/Aria](https://github.com/rhymes-ai/Aria) - Codebase for Aria - an Open Multimodal Native MoE
-- [VectorSpaceLab/OmniGen](https://github.com/VectorSpaceLab/OmniGen) - 
+- [VectorSpaceLab/OmniGen](https://github.com/VectorSpaceLab/OmniGen) - OmniGen: Unified Image Generation. https://arxiv.org/pdf/2409.11340
 - [merveenoyan/smol-vision](https://github.com/merveenoyan/smol-vision) - Recipes for shrinking, optimizing, customizing cutting edge vision models. 💜
 - [fastai/course22](https://github.com/fastai/course22) - The fast.ai course notebooks
 - [MultimodalUniverse/MultimodalUniverse](https://github.com/MultimodalUniverse/MultimodalUniverse) - Large-Scale Multimodal Dataset of Astronomical Data
@@ -1072,6 +1074,7 @@
 - [henryiii/compclass](https://github.com/henryiii/compclass) - A class over Computational Physics in Jupyter
 - [tjburch/twitter-studies](https://github.com/tjburch/twitter-studies) - Quick study into my engagements on  twitter
 - [greydanus/mnist1d](https://github.com/greydanus/mnist1d) - A 1D analogue of the MNIST dataset for measuring spatial biases and answering Science of Deep Learning questions.
+- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [QMagen/PyQMagen](https://github.com/QMagen/PyQMagen) - A method which combines quantum many-body calculation and unbiased optimizers to automatically learn effective Hamiltonians for quantum magnets
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
 - [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
@@ -1200,7 +1203,7 @@
 
 ## Lua 
 
-- [coatless-quarto/custom-callout](https://github.com/coatless-quarto/custom-callout) - A Quarto Extension to Setup Custom Callouts
+- [coatless-quarto/custom-callout](https://github.com/coatless-quarto/custom-callout) - Quarto Extension to Setup Custom Callouts
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [romgrk/kui-demo.nvim](https://github.com/romgrk/kui-demo.nvim) - kui.nvim demo
 - [shafayetShafee/collapse-callout](https://github.com/shafayetShafee/collapse-callout) - Make the Callout Blocks collapsible globally in your HTML document
@@ -1559,6 +1562,8 @@
 
 ## Python 
 
+- [DAMO-NLP-SG/Inf-CLIP](https://github.com/DAMO-NLP-SG/Inf-CLIP) - The official CLIP training codebase of Inf-CL: "Breaking the Memory Barrier: Near Infinite Batch Size Scaling for Contrastive Loss". A super memory-efficiency CLIP training scheme.
+- [facebookresearch/HolisticTraceAnalysis](https://github.com/facebookresearch/HolisticTraceAnalysis) - A library to analyze PyTorch traces.
 - [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
 - [tzador/makedown](https://github.com/tzador/makedown) - Organise your shell scripts within executable markdown files
@@ -1575,7 +1580,7 @@
 - [Silent-Zebra/twisted-smc-lm](https://github.com/Silent-Zebra/twisted-smc-lm) - 
 - [tgu-ltd/tgutui](https://github.com/tgu-ltd/tgutui) - A Demonstration of Test Equipment TUI
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
-- [osiristape/github-autofollow-bot](https://github.com/osiristape/github-autofollow-bot) - automate github following/unfollowing with python; configurable for stargazers/users, page numbers, speed, and trial 2FA verification with anti-detection.
+- [osiristape/github-autofollow-bot](https://github.com/osiristape/github-autofollow-bot) - automate github following and unfollowing with python. configurable options include targeting stargazers or users, setting page numbers, adjusting speed, and manually entering the otp code for 2fa ver
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [googlefonts/color-fonts](https://github.com/googlefonts/color-fonts) - Experimental color font builds.
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
@@ -1621,7 +1626,7 @@
 - [pytorch/torchtune](https://github.com/pytorch/torchtune) - PyTorch native finetuning library
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
-- [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, Phi, MiniCPM, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Fl
+- [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such 
 - [lucidrains/enformer-pytorch](https://github.com/lucidrains/enformer-pytorch) - Implementation of Enformer, Deepmind's attention network for predicting gene expression, in Pytorch
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
@@ -1802,7 +1807,7 @@
 - [bazingagin/npc_lv](https://github.com/bazingagin/npc_lv) - 
 - [openclimatefix/graph_weather](https://github.com/openclimatefix/graph_weather) - PyTorch implementation of Ryan Keisler's 2022 "Forecasting Global Weather with Graph Neural Networks" paper (https://arxiv.org/abs/2202.07575)
 - [AutoGIS-2017/Exercise-2](https://github.com/AutoGIS-2017/Exercise-2) - Exercise 2 for the 2017 version of the Automating GIS-processes course https://automating-gis-processes.github.io/2017/
-- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
+- [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [alan-turing-institute/distinctipy](https://github.com/alan-turing-institute/distinctipy) - A lightweight package for generating visually distinct colours.
 - [facebookresearch/projUNN](https://github.com/facebookresearch/projUNN) - Fast training of unitary deep network layers from low-rank updates
@@ -2448,7 +2453,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-592-Stars](https://github.com/iBug/This-Repo-Has-592-Stars) - Yes, it's true :purple_heart: This repository has 592 stars.
+- [iBug/This-Repo-Has-591-Stars](https://github.com/iBug/This-Repo-Has-591-Stars) - Yes, it's true :sparkling_heart: This repository has 591 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2558,7 +2563,6 @@
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [ehsanhaghighat/sciann](https://github.com/ehsanhaghighat/sciann) - Deep learning for Engineers - Physics Informed Deep Learning
 - [e3nn/e3nn](https://github.com/e3nn/e3nn) - A modular framework for neural networks with Euclidean symmetry
-- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [gecrooks/modern-python-template](https://github.com/gecrooks/modern-python-template) - Minimal Viable Product for an open source, github hosted, python package
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
@@ -3091,7 +3095,7 @@
 - [coreyjadams/ThetaGPU-Containers](https://github.com/coreyjadams/ThetaGPU-Containers) - Singularity recipes for ThetaGPU
 - [izmailovpavel/flowgmm](https://github.com/izmailovpavel/flowgmm) - 
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action) - :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
 - [RescueTime/git-commits-to-rescuetime-daily-highlights](https://github.com/RescueTime/git-commits-to-rescuetime-daily-highlights) - An example script to show how to log code commits as Daily Highlights in RescueTime
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
@@ -3227,13 +3231,14 @@
 
 ## TypeScript 
 
+- [AndreasThinks/obsidian-to-quarto-exporter](https://github.com/AndreasThinks/obsidian-to-quarto-exporter) - Export Obsidian notes to Quarto-compatible QMD files.
 - [arthurrump/tldreveal](https://github.com/arthurrump/tldreveal) - A drawing tool for Reveal.js based on tldraw
 - [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser!
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
+- [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [r-wasm/quarto-live](https://github.com/r-wasm/quarto-live) - WebAssembly powered code blocks and exercises for both the R and Python languages in Quarto documents
 - [thesoftwarephilosopher/vanillajsx.com](https://github.com/thesoftwarephilosopher/vanillajsx.com) - 
 - [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click
