@@ -286,7 +286,6 @@
 
 - [st1020/kita](https://github.com/st1020/kita) - Kita is a clean, elegant and simple blog theme for Zola.
 - [gadenbuie/quarto-auto-dark](https://github.com/gadenbuie/quarto-auto-dark) - Auto dark mode for Quarto websites and slides
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [AnswerDotAI/fasthtml-example](https://github.com/AnswerDotAI/fasthtml-example) - Example fasthtml applications demonstrating a range of web programming techniques
 - [Martinomagnifico/quarto-appearance](https://github.com/Martinomagnifico/quarto-appearance) - An animation plugin for Reveal.js that animates elements sequentially like in Powerpoint. Perfect for online portfolios or other presentations with images.
 - [hamelsmu/minimal-site](https://github.com/hamelsmu/minimal-site) - 
@@ -591,6 +590,7 @@
 - [siyuan-note/siyuan-chrome](https://github.com/siyuan-note/siyuan-chrome) - Chrome/Edge extension for SiYuan
 - [osiristape/notes-application](https://github.com/osiristape/notes-application) - a simple notes application that allows users to create, edit, and delete notes.
 - [Nenuial/ThemeTest](https://github.com/Nenuial/ThemeTest) - 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [coatless-quarto/pyodide](https://github.com/coatless-quarto/pyodide) - Community developed Quarto extension to enable interactive Python code cells in HTML documents using Pyodide
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
@@ -1173,7 +1173,7 @@
 - [tensorflow/probability](https://github.com/tensorflow/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
 - [pymc-devs/pymc-resources](https://github.com/pymc-devs/pymc-resources) - PyMC educational resources
 - [sharanry/pymc4_prototypes](https://github.com/sharanry/pymc4_prototypes) - Experimental code for porting PyMC to alternative backends
-- [pymc-devs/pymc4](https://github.com/pymc-devs/pymc4) - Experimental PyMC interface for TensorFlow Probability. Official work on this project has been discontinued.
+- [pymc-devs/pymc4](https://github.com/pymc-devs/pymc4) - (Deprecated) Experimental PyMC interface for TensorFlow Probability. Official work on this project has been discontinued.
 - [crgagne/pymc3-tensorflow-and-theano-backends](https://github.com/crgagne/pymc3-tensorflow-and-theano-backends) - Within this repo, I altered some of the PyMC3 source code so that it can run on either Theano or TensorFlow backends
 - [brain-research/l2hmc](https://github.com/brain-research/l2hmc) - TensorFlow implementation for training MCMC samplers from the paper: Generalizing Hamiltonian Monte Carlo with Neural Network
 - [rasbt/deep-learning-book](https://github.com/rasbt/deep-learning-book) - Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python"
@@ -1203,6 +1203,7 @@
 
 ## Lua 
 
+- [dasupradyumna/midnight.nvim](https://github.com/dasupradyumna/midnight.nvim) - :crescent_moon:  A modern black neovim theme written in Lua, with comfortable color contrast for a pleasant visual experience, with LSP and treesitter support
 - [coatless-quarto/custom-callout](https://github.com/coatless-quarto/custom-callout) - Quarto Extension to Setup Custom Callouts
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [romgrk/kui-demo.nvim](https://github.com/romgrk/kui-demo.nvim) - kui.nvim demo
@@ -1567,13 +1568,13 @@
 - [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
 - [tzador/makedown](https://github.com/tzador/makedown) - Organise your shell scripts within executable markdown files
-- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) quality in 2.67B tokens
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) quality in 2.4B tokens
 - [argonne-lcf/ml_communications](https://github.com/argonne-lcf/ml_communications) - ML communications benchmark
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [EleutherAI/nanoGPT-mup](https://github.com/EleutherAI/nanoGPT-mup) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-- [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - Large World Model With 1M Context
+- [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - Large World Model -- Modeling Text and Video with Millions Context
 - [haoliuhl/ringattention](https://github.com/haoliuhl/ringattention) - Transformers with Arbitrarily Large Context
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
 - [feifeibear/long-context-attention](https://github.com/feifeibear/long-context-attention) - USP: Unified (a.k.a. Hybrid, 2D) Sequence Parallel Attention for Long Context Transformers Model Training and Inference
@@ -1682,7 +1683,7 @@
 - [dflock/kitty-save-session](https://github.com/dflock/kitty-save-session) - Allows you to save & restore kitty sessions, with all kitty OS windows, kitty tabs & kitty windows restored.
 - [huggingface/nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [google/jaxopt](https://github.com/google/jaxopt) - Hardware accelerated, batchable and differentiable optimizers in JAX.
 - [anki-code/xontrib-ergopack](https://github.com/anki-code/xontrib-ergopack) - 📦 Meta package that installs group of ergonomic xontribs in xonsh shell.
@@ -1960,7 +1961,7 @@
 - [sid-the-coder/QuickDA](https://github.com/sid-the-coder/QuickDA) - Simple & Easy-to-use python modules to perform Quick Exploratory Data Analysis for any structured dataset!
 - [gcant/DistVAE](https://github.com/gcant/DistVAE) - VAE for approximating distributions and estimating partition functions
 - [1202kbs/DMCMC](https://github.com/1202kbs/DMCMC) - Official PyTorch implementation of "Denoising MCMC for Accelerating Diffusion-Based Generative Models", ICML 2023 Oral Paper
-- [fjosw/pyerrors](https://github.com/fjosw/pyerrors) - Error propagation and statistical analysis for Markov chain Monte Carlo simulations in lattice QCD and statistical mechanics using autograd
+- [fjosw/pyerrors](https://github.com/fjosw/pyerrors) - Error propagation and statistical analysis for Monte Carlo simulations in lattice QCD and statistical mechanics using autograd.
 - [awesome-panel/examples](https://github.com/awesome-panel/examples) - A repository of awesome panel examples. The apps are running entirely in the browser as webassembly apps. NO SERVER REQUIRED.
 - [google-deepmind/alphatensor](https://github.com/google-deepmind/alphatensor) - 
 - [pyamg/pyamg](https://github.com/pyamg/pyamg) - Algebraic Multigrid Solvers in Python
@@ -2454,7 +2455,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-592-Stars](https://github.com/iBug/This-Repo-Has-592-Stars) - Yes, it's true :purple_heart: This repository has 592 stars.
+- [iBug/This-Repo-Has-592-Stars](https://github.com/iBug/This-Repo-Has-592-Stars) - Yes, it's true :heartpulse: This repository has 592 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2983,7 +2984,7 @@
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
-- [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
+- [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [noahgift/rust-mlops-template](https://github.com/noahgift/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
@@ -3180,6 +3181,7 @@
 
 ## TeX 
 
+- [mps9506/quarto-cv](https://github.com/mps9506/quarto-cv) - A CV template for quarto
 - [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites) - collection of favorite TikZ graphics
 - [arcruz0/quarto-compact](https://github.com/arcruz0/quarto-compact) - A Quarto format for compact PDF documents. Good for short reports, homework assignments, etc.
 - [saforem2/saforem2.github.io](https://github.com/saforem2/saforem2.github.io) - Personal Website (using Quarto)
@@ -3270,7 +3272,7 @@
 - [Ellpeck/ObsidianJustSharePlease](https://github.com/Ellpeck/ObsidianJustSharePlease) - An Obsidian plugin that allows quickly and easily sharing individual notes online using an anonymized link
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - realtime whiteboard / infinite canvas SDK
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
