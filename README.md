@@ -172,6 +172,7 @@
 
 ## C++ 
 
+- [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [intel/torch-xpu-ops](https://github.com/intel/torch-xpu-ops) - 
@@ -401,6 +402,7 @@
 
 ## Go 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [coder/wush](https://github.com/coder/wush) - simplest & fastest way to transfer files between computers via WireGuard
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
@@ -1567,6 +1569,7 @@
 
 ## Python 
 
+- [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [invictus717/MetaTransformer](https://github.com/invictus717/MetaTransformer) - Meta-Transformer for Unified Multimodal Learning
 - [chao1224/ProteinDT](https://github.com/chao1224/ProteinDT) - 
 - [facebookresearch/optimizers](https://github.com/facebookresearch/optimizers) - For optimization algorithm research and development.
@@ -1838,7 +1841,7 @@
 - [zengyi-li/MDSM](https://github.com/zengyi-li/MDSM) - Multiscale de-noising score matching
 - [WenboGong/Sliced_Kernelized_Stein_Discrepancy](https://github.com/WenboGong/Sliced_Kernelized_Stein_Discrepancy) - This repo implements the main experiments for sliced kernelized Stein discrepancy and active slices method.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [microsoft/admin-torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 - [gmongaras/Diffusion_models_from_scratch](https://github.com/gmongaras/Diffusion_models_from_scratch) - Creating a diffusion model from scratch in PyTorch to learn exactly how they work.
@@ -2220,7 +2223,7 @@
 - [yt-project/cmyt](https://github.com/yt-project/cmyt) - yt-native colormaps
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [PatrickHua/SimSiam](https://github.com/PatrickHua/SimSiam) - A pytorch implementation for paper 'Exploring Simple Siamese Representation Learning'
-- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
+- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold 2.
 - [kevinzakka/pytorch-goodies](https://github.com/kevinzakka/pytorch-goodies) - PyTorch Boilerplate For Research
 - [dgilland/pydash](https://github.com/dgilland/pydash) - The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library.
 - [vislearn/FrEIA](https://github.com/vislearn/FrEIA) - Framework for Easily Invertible Architectures
@@ -2948,6 +2951,7 @@
 
 ## Rust 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
