@@ -3310,12 +3310,13 @@
 
 ## TypeScript 
 
+- [sarimabbas/authortrail](https://github.com/sarimabbas/authortrail) - See all the files you have ever touched in a Git repo
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
-- [danieltomasz/qmd-as-md-obsidian](https://github.com/danieltomasz/qmd-as-md-obsidian) - A plugin for Obsidian which allows editing of `qmd` Quarto files.
+- [danieltomasz/qmd-as-md-obsidian](https://github.com/danieltomasz/qmd-as-md-obsidian) - A plugin for Obsidian that enables editing and compiling `qmd` Quarto files.
 - [AndreasThinks/obsidian-to-quarto-exporter](https://github.com/AndreasThinks/obsidian-to-quarto-exporter) - Export Obsidian notes to Quarto-compatible QMD files.
 - [arthurrump/tldreveal](https://github.com/arthurrump/tldreveal) - A drawing tool for Reveal.js based on tldraw
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
@@ -3441,7 +3442,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [IgorSzyporyn/badger-ui](https://github.com/IgorSzyporyn/badger-ui) - Badger UI is a theming tool for creating theme design systems
 - [functionland/fx-fotos](https://github.com/functionland/fx-fotos) - "Fx Fotos" is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box"
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
