@@ -1596,6 +1596,7 @@
 
 ## Python 
 
+- [runjie-yan/ConsistentFlowDistillation](https://github.com/runjie-yan/ConsistentFlowDistillation) - Official Implementation for Consistent Flow Distillation for Text-to-3D Generation
 - [pytorch/torchft](https://github.com/pytorch/torchft) - PyTorch per step fault tolerance (actively under development)
 - [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
 - [mil-ad/kitcat](https://github.com/mil-ad/kitcat) - Matplotlib backend for direct plotting in the terminal using Kitty graphics protocol.
@@ -1796,7 +1797,7 @@
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 - [louaaron/Scaling-Riemannian-Diffusion](https://github.com/louaaron/Scaling-Riemannian-Diffusion) - [NeurIPS 2023] Scaling Riemannian Diffusion Models
 - [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - Automatically add simple type annotations to your code
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [BlinkDL/nanoRWKV](https://github.com/BlinkDL/nanoRWKV) - RWKV in nanoGPT style
 - [simonhmartin/genomics_general](https://github.com/simonhmartin/genomics_general) - General tools for genomic analyses.
 - [TristanBilot/mlx-GCN](https://github.com/TristanBilot/mlx-GCN) - MLX implementation of GCN, with benchmark on MPS, CUDA and CPU (M1 Pro, M2 Ultra, M3 Max).
@@ -3073,7 +3074,7 @@
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [shashwatah/jot](https://github.com/shashwatah/jot) - ⚡Rapid note management for the terminal.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -3283,7 +3284,7 @@
 - [kourgeorge/arxiv-style](https://github.com/kourgeorge/arxiv-style) - A Latex style and template for paper preprints (based on NIPS style)
 - [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [anishathalye/gemini](https://github.com/anishathalye/gemini) - Gemini is a modern LaTex beamerposter theme 🖼
-- [janosh/tikz](https://github.com/janosh/tikz) - TikZ figures for concepts in physics/chemistry/ML
+- [janosh/diagrams](https://github.com/janosh/diagrams) - TikZ figures for concepts in physics/chemistry/ML
 - [joeybose/Hyperbolic-Normalizing-Flows-ICML-2020](https://github.com/joeybose/Hyperbolic-Normalizing-Flows-ICML-2020) - Hyperbolic_NF_latex
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [So-Cool/you-only-write-thrice](https://github.com/So-Cool/you-only-write-thrice) - A companion repository to the "You Only Write Thrice: Creating Documents, Computational Notebooks and Presentations From a Single Source" paper published at Rethinking ML Papers – ICLR 2021 Workshop.
