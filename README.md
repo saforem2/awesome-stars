@@ -420,7 +420,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
-- [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
+- [JFryy/qq](https://github.com/JFryy/qq) - jq, but with many interoperable configuration format transcodings and interactive querying.
 - [dhth/hours](https://github.com/dhth/hours) - A no-frills time tracking toolkit for command line nerds
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
@@ -621,7 +621,7 @@
 - [JasonPuglisi/descent](https://github.com/JasonPuglisi/descent) - Elegant now playing display for Last.fm showing song metadata and local weather.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [abskmj/badges-lastfm](https://github.com/abskmj/badges-lastfm) - Markdown Badges for LastFM
-- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework
 - [jienagu/Jiena_McLellan_CV](https://github.com/jienagu/Jiena_McLellan_CV) - This is My CV
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [chalk/ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal
@@ -1032,7 +1032,7 @@
 - [PacktPublishing/Matplotlib-3.0-Cookbook](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) - Matplotlib 3.0 Cookbook, published by Packt
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We'v
 - [google/nitroml](https://github.com/google/nitroml) - NitroML is a modular, portable, and scalable model-quality benchmarking framework for Machine Learning and Automated Machine Learning (AutoML) pipelines.
-- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [intel/BigDL](https://github.com/intel/BigDL) - BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [NIH-HPC/python-in-hpc](https://github.com/NIH-HPC/python-in-hpc) - Materials for a Python in HPC class
 - [tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons) - Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the 
 - [intake/intake-examples](https://github.com/intake/intake-examples) - Intake examples
@@ -1366,7 +1366,7 @@
 
 ## Mojo 
 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
 
 ## Nextflow 
 
@@ -1596,6 +1596,7 @@
 
 ## Python 
 
+- [brentyi/tyro](https://github.com/brentyi/tyro) - CLI interfaces & config objects, from types
 - [runjie-yan/ConsistentFlowDistillation](https://github.com/runjie-yan/ConsistentFlowDistillation) - Official Implementation for Consistent Flow Distillation for Text-to-3D Generation
 - [pytorch/torchft](https://github.com/pytorch/torchft) - PyTorch per step fault tolerance (actively under development)
 - [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
@@ -1640,7 +1641,7 @@
 - [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
 - [tzador/makedown](https://github.com/tzador/makedown) - Organise your shell scripts within executable markdown files
-- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3.4 minutes
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
 - [argonne-lcf/ml_communications](https://github.com/argonne-lcf/ml_communications) - ML communications benchmark
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [EleutherAI/nanoGPT-mup](https://github.com/EleutherAI/nanoGPT-mup) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -3284,7 +3285,7 @@
 - [kourgeorge/arxiv-style](https://github.com/kourgeorge/arxiv-style) - A Latex style and template for paper preprints (based on NIPS style)
 - [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [anishathalye/gemini](https://github.com/anishathalye/gemini) - Gemini is a modern LaTex beamerposter theme 🖼
-- [janosh/diagrams](https://github.com/janosh/diagrams) - TikZ figures for concepts in physics/chemistry/ML
+- [janosh/diagrams](https://github.com/janosh/diagrams) - Diagrams of concepts in physics/chemistry/ML
 - [joeybose/Hyperbolic-Normalizing-Flows-ICML-2020](https://github.com/joeybose/Hyperbolic-Normalizing-Flows-ICML-2020) - Hyperbolic_NF_latex
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [So-Cool/you-only-write-thrice](https://github.com/So-Cool/you-only-write-thrice) - A companion repository to the "You Only Write Thrice: Creating Documents, Computational Notebooks and Presentations From a Single Source" paper published at Rethinking ML Papers – ICLR 2021 Workshop.
@@ -3418,7 +3419,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [jupyterlab-contrib/jupyter-ui-toolkit](https://github.com/jupyterlab-contrib/jupyter-ui-toolkit) - UI Toolkit for Jupyter
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
