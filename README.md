@@ -50,7 +50,6 @@
 - [Mojo](#mojo)
 - [Nextflow](#nextflow)
 - [Nim](#nim)
-- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -356,6 +355,7 @@
 ## Common Lisp 
 
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## Component Pascal 
 
@@ -785,7 +785,7 @@
 - [JuliaNLSolvers/Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) - Optimization functions for Julia
 - [PumasAI/SummaryTables.jl](https://github.com/PumasAI/SummaryTables.jl) - A Julia package for creating publication-ready tables in HTML, docx, LaTeX and Typst
 - [yomichi/SpinMonteCarlo.jl](https://github.com/yomichi/SpinMonteCarlo.jl) - Markov chain Monte Carlo solver for lattice spin systems implemented in Julialang
-- [ohno/Antique.jl](https://github.com/ohno/Antique.jl) - Self-contained, well-tested, well-documented analytical solutions of quantum mechanical equations.
+- [ohno/Antique.jl](https://github.com/ohno/Antique.jl) - Antique.jl: A Julia package on analytical solutions of quantum mechanical equations
 - [MakieOrg/AlgebraOfGraphics.jl](https://github.com/MakieOrg/AlgebraOfGraphics.jl) - An algebraic spin on grammar-of-graphics data visualization in Julia. Powered by the Makie.jl plotting ecosystem.
 - [JuliaComputing/PlotlyLight.jl](https://github.com/JuliaComputing/PlotlyLight.jl) - Fast Lightweight Plotly.js Wrapper for Julia
 - [ChifiSource/Olive.jl](https://github.com/ChifiSource/Olive.jl) - parametric julia notebooks
@@ -1399,10 +1399,6 @@
 - [paranim/paramidi](https://github.com/paranim/paramidi) - A Nim data -&gt; music library
 - [jcosborn/qex](https://github.com/jcosborn/qex) - Quantum EXpressions lattice field theory framework
 
-## Nix 
-
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
-
 ## OCaml 
 
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
@@ -1616,6 +1612,9 @@
 
 ## Python 
 
+- [roee30/datargs](https://github.com/roee30/datargs) - Declarative, type-safe command line argument parsers from dataclasses and attrs classes
+- [NVIDIA/NeMo-Inspector](https://github.com/NVIDIA/NeMo-Inspector) - A tool for an analysis of LLM generations.
+- [NVIDIA/NeMo-Skills](https://github.com/NVIDIA/NeMo-Skills) - A project to improve skills of large language models
 - [abravalheri/validate-pyproject](https://github.com/abravalheri/validate-pyproject) - Validation library for simple check on `pyproject.toml`
 - [klieret/wandb-offline-sync-hook](https://github.com/klieret/wandb-offline-sync-hook) - A convenient way to trigger synchronizations to wandb / Weights & Biases if your compute nodes don't have internet!
 - [huggingface/lighteval](https://github.com/huggingface/lighteval) - Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends
@@ -1931,7 +1930,7 @@
 - [deephyper/benchmark](https://github.com/deephyper/benchmark) - Repository to benchmark DeepHyper on different systems.
 - [ltworf/typedload](https://github.com/ltworf/typedload) - MIGRATED TO CODEBERG. Python library to load dynamically typed data into statically typed data structures
 - [altermo/vim-plugin-list](https://github.com/altermo/vim-plugin-list) - A list of vim/neovim plugins(/extensions for plugins)
-- [kiyoon/jupynium.nvim](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with NeoVim in real-time.
+- [kiyoon/jupynium.nvim](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
 - [jupyter-vim/jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
 - [Joshuaalbert/jaxns](https://github.com/Joshuaalbert/jaxns) - Probabilistic Programming and Nested sampling in JAX
 - [bazingagin/npc_lv](https://github.com/bazingagin/npc_lv) - 
@@ -3381,6 +3380,7 @@
 
 ## TypeScript 
 
+- [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective.
 - [excalidraw-smart-presentation/excalidraw-smart-presentation.github.io](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io) - Excalidraw fork that helps in making presentations with smart animations
