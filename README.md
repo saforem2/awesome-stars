@@ -370,7 +370,7 @@
 
 ## Cython 
 
-- [IntelPython/mkl-service](https://github.com/IntelPython/mkl-service) - Python hooks for Intel(R) Math Kernel Library runtime control settings.
+- [IntelPython/mkl-service](https://github.com/IntelPython/mkl-service) - Python hooks for Intel® OneAPI Math Kernel Library (OneMKL) runtime control settings.
 
 ## Dart 
 
@@ -413,6 +413,7 @@
 
 ## Go 
 
+- [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Synchronized lyrics in your terminal
@@ -497,6 +498,8 @@
 
 ## HTML 
 
+- [ashki23/pandoc-bootstrap](https://github.com/ashki23/pandoc-bootstrap) - Application for converting Markdown files into bootstrap styled HTML pages by Pandoc.
+- [converged-computing/performance-study](https://github.com/converged-computing/performance-study) - Performance study for HPC applications across Google, AWS, and Azure clouds ☁️
 - [kirill-markin/slides-html-pdf](https://github.com/kirill-markin/slides-html-pdf) - 
 - [nerveband/Apple-Music-Play-History-Converter](https://github.com/nerveband/Apple-Music-Play-History-Converter) - A Python desktop app that converts Apple Music play history to Last.fm-compatible format. Features local CSV processing, optional iTunes API integration, and is available as a script or Mac app.
 - [simonw/tools](https://github.com/simonw/tools) - Assorted tools
@@ -511,7 +514,7 @@
 - [revolter/notepadtab.com](https://github.com/revolter/notepadtab.com) - 
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [sidv23/sidv23.github.io-gatsby](https://github.com/sidv23/sidv23.github.io-gatsby) - Personal Website
 - [zachleat/carouscroll](https://github.com/zachleat/carouscroll) - Add next/previous buttons to a horizontal scrollable container.
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -595,7 +598,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [bentolor/java9to13](https://github.com/bentolor/java9to13) - Power Catchup – Java 9 to 13: HTML5 Presentation and Code Examples
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [ambrosiogabe/ImpossibleGame](https://github.com/ambrosiogabe/ImpossibleGame) - 
@@ -1542,7 +1545,7 @@
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) - Reinforcement learning resources curated
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [TrustAGI-Lab/Awesome-Graph-Neural-Networks](https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks) - Paper Lists for Graph Neural Networks
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -1612,6 +1615,16 @@
 
 ## Python 
 
+- [mkaz/libro](https://github.com/mkaz/libro) - A command-line book tracking tool
+- [lantunes/netomaton](https://github.com/lantunes/netomaton) - Automata on arbitrary networks, with Python
+- [fnoble/Plot-o-matic](https://github.com/fnoble/Plot-o-matic) - Plot data in real-time from arbitrary input streams (serial ports, network, files etc.)
+- [evelynmitchell/Score-Entropy-Discrete-Diffusion](https://github.com/evelynmitchell/Score-Entropy-Discrete-Diffusion) - [ICML 2024 Best Paper] Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution (https://arxiv.org/abs/2310.16834)
+- [stockeh/imm](https://github.com/stockeh/imm) - Official implementation of Inductive Moment Matching
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI
+- [valine/training-hot-swap](https://github.com/valine/training-hot-swap) - Pytorch script hot swap: Change code without unloading your LLM from VRAM
+- [keceli/ArgoAgent](https://github.com/keceli/ArgoAgent) - A command-line interface for interacting with the Argo API
+- [mads-bisgaard/bayesh](https://github.com/mads-bisgaard/bayesh) - Shell command suggestion
 - [roee30/datargs](https://github.com/roee30/datargs) - Declarative, type-safe command line argument parsers from dataclasses and attrs classes
 - [NVIDIA/NeMo-Inspector](https://github.com/NVIDIA/NeMo-Inspector) - A tool for an analysis of LLM generations.
 - [NVIDIA/NeMo-Skills](https://github.com/NVIDIA/NeMo-Skills) - A project to improve skills of large language models
@@ -1746,7 +1759,7 @@
 - [microsoft/LMOps](https://github.com/microsoft/LMOps) - General technology for enabling AI capabilities w/ LLMs and MLLMs
 - [jktr/matplotlib-backend-notcurses](https://github.com/jktr/matplotlib-backend-notcurses) - show matplotlib plots directly in your terminal
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [pytorch/torchtitan](https://github.com/pytorch/torchtitan) - A PyTorch native library for large model training
+- [pytorch/torchtitan](https://github.com/pytorch/torchtitan) - A PyTorch native library for large-scale model training
 - [pytorch/PiPPy](https://github.com/pytorch/PiPPy) - Pipeline Parallelism for PyTorch
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [google-deepmind/penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks.
@@ -2158,7 +2171,7 @@
 - [CUAI/Equivariant-Manifold-Flows](https://github.com/CUAI/Equivariant-Manifold-Flows) - [NeurIPS 2021] Equivariant Manifold Flows (https://arxiv.org/abs/2107.08596)
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
-- [streamlet-dev/tributary](https://github.com/streamlet-dev/tributary) - Streaming reactive and dataflow graphs in Python
+- [1kbgz/tributary](https://github.com/1kbgz/tributary) - Streaming reactive and dataflow graphs in Python
 - [Enveloppe/obsidian-mkdocs-publisher-python](https://github.com/Enveloppe/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [labmlai/labml](https://github.com/labmlai/labml) - 🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
@@ -2478,8 +2491,8 @@
 - [calmiLovesAI/TensorFlow2.0_ResNet](https://github.com/calmiLovesAI/TensorFlow2.0_ResNet) - A ResNet(ResNet18, ResNet34, ResNet50, ResNet101, ResNet152) implementation using TensorFlow-2.0.
 - [Bao-Jiarong/ResNet](https://github.com/Bao-Jiarong/ResNet) - This repository includes ResNet18, ResNet34, ResNet50, ResNet101, ResNet152 in Tensorflow 2.
 - [rougier/matplotlib-3d](https://github.com/rougier/matplotlib-3d) - Experimental 3D axis for matplotlib
-- [FAIR-Chem/fairchem](https://github.com/FAIR-Chem/fairchem) - FAIR Chemistry's library of machine learning methods for chemistry
-- [open-research/sumatra](https://github.com/open-research/sumatra) - 
+- [facebookresearch/fairchem](https://github.com/facebookresearch/fairchem) - FAIR Chemistry's library of machine learning methods for chemistry
+- [open-research/sumatra](https://github.com/open-research/sumatra) - Sumatra is a tool for managing and tracking projects based on numerical simulation and/or analysis, with the aim of supporting reproducible research. It can be thought of as an automated electronic la
 - [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning
 - [PabloRR100/Single_vs_Ensemble_of_NNs](https://github.com/PabloRR100/Single_vs_Ensemble_of_NNs) - Should we always go deeper? Study on Ensemble Learning as an alternative to going deeper in Deep Learning showing interesting results
 - [davidbrochart/nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
@@ -2582,7 +2595,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-609-Stars](https://github.com/iBug/This-Repo-Has-609-Stars) - Yes, it's true :two_hearts: This repository has 609 stars.
+- [iBug/This-Repo-Has-610-Stars](https://github.com/iBug/This-Repo-Has-610-Stars) - Yes, it's true :heartbeat: This repository has 610 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3070,6 +3083,7 @@
 
 ## Rust 
 
+- [huggingface/xet-core](https://github.com/huggingface/xet-core) - xet client tech, used in huggingface_hub
 - [benwis/femark](https://github.com/benwis/femark) - A Markdown to HTML compiler and Syntax Highlighter, built using Rust's pulldown-cmark and tree-sitter-highlight crates. Compiled for use via the Node FFI.
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [huggingface/gpu-fryer](https://github.com/huggingface/gpu-fryer) - Where GPUs get cooked 👩‍🍳🔥
@@ -3380,6 +3394,7 @@
 
 ## TypeScript 
 
+- [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [dwmkerr/terminal-ai](https://github.com/dwmkerr/terminal-ai) - Effortless AI in the shell. Maintain your flow and be more effective.
