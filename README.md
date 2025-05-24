@@ -68,6 +68,7 @@
 - [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Smalltalk](#smalltalk)
 - [Standard ML](#standard-ml)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -176,6 +177,7 @@
 
 ## C++ 
 
+- [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine
 - [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) - NVIDIA Inference Xfer Library (NIXL)
 - [DataStates/datastates-llm](https://github.com/DataStates/datastates-llm) - LLM checkpointing for DeepSpeed/Megatron
@@ -211,6 +213,7 @@
 - [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension to DeepSpeed that brings feature support with SYCL kernels on Intel GPU(XPU) device. Note XPU is already supported in stock DeepSpeed (upstream).
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [jax-ml/ml_dtypes](https://github.com/jax-ml/ml_dtypes) - A stand-alone implementation of several NumPy dtype extensions used in machine learning.
+- [jinluchang/Qlattice](https://github.com/jinluchang/Qlattice) - A lattice QCD library.
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
@@ -615,6 +618,7 @@
 
 ## JavaScript 
 
+- [iMammal/CytoCave](https://github.com/iMammal/CytoCave) - CytoCave: A web-based immersive visual analytics tool for exploring the Multi-Omics Network Data, Developed in collaboration with CoNECt@UIC and EVL.
 - [regorxxx/Wrapped-SMP](https://github.com/regorxxx/Wrapped-SMP) - User listening statistics for foobar2000 using, using Spider Monkey, which output a report similar to Spotify's wrapped and personalized playlists.
 - [parmsam/quarto-excalidraw](https://github.com/parmsam/quarto-excalidraw) - An extension to open an empty or existing Excalidraw canvas for RevealJS in Quarto
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -674,6 +678,7 @@
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [ActiveCampaign/mailbrush](https://github.com/ActiveCampaign/mailbrush) - Node.js library for generating email friendly snippets with syntax highlighting
+- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [EmilHvitfeldt/quarto-iframe-examples](https://github.com/EmilHvitfeldt/quarto-iframe-examples) - 
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [malcolmbarrett/kakashi-quarto-theme](https://github.com/malcolmbarrett/kakashi-quarto-theme) - 
@@ -960,7 +965,6 @@
 - [jiwidi/time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) - A use-case focused tutorial for time series forecasting with python
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, for human consumption
 - [gradient-ai/stable-diffusion](https://github.com/gradient-ai/stable-diffusion) - 
-- [jinluchang/Qlattice](https://github.com/jinluchang/Qlattice) - A lattice QCD library.
 - [htjb/margarine](https://github.com/htjb/margarine) - Code to replicate posterior probability distributions with bijectors/KDEs and perform marginal KL/bayesian dimensionality calculations.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [FrancescoSaverioZuppichini/glasses](https://github.com/FrancescoSaverioZuppichini/glasses) - High-quality Neural Networks for Computer Vision 😎
@@ -1438,7 +1442,8 @@
 
 ## Others 
 
-- [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - 
+- [HKUST-KnowComp/Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery
+- [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [coryhouse/speaker-starter-kit](https://github.com/coryhouse/speaker-starter-kit) - Resources for aspiring speakers
 - [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - 
 - [pmh9960/SphereDiff](https://github.com/pmh9960/SphereDiff) - Official PyTorch implementation of "SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation"
@@ -1630,6 +1635,11 @@
 
 ## Python 
 
+- [brendanhogan/picoDeepResearch](https://github.com/brendanhogan/picoDeepResearch) - 
+- [kwuking/TimeMixer](https://github.com/kwuking/TimeMixer) - [ICLR 2024] Official implementation of "TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting"
+- [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
+- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
+- [microsoft/aurora](https://github.com/microsoft/aurora) - Implementation of the Aurora model for Earth system forecasting
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers.
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [Oaklight/argo-openai-proxy](https://github.com/Oaklight/argo-openai-proxy) - Proxy server to Argo API, OpenAI format compatible
@@ -2104,7 +2114,7 @@
 - [mshakerinava/Equivariant-Networks-for-Pixelized-Spheres](https://github.com/mshakerinava/Equivariant-Networks-for-Pixelized-Spheres) - Authors' implementation of the paper "Equivariant Networks for Pixelized Spheres" published at ICML 2021.
 - [mshakerinava/AutoEquiv](https://github.com/mshakerinava/AutoEquiv) - Group Equivariant Linear Maps
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
 - [probml/probml-utils](https://github.com/probml/probml-utils) - Utilities for probabilistic ML
 - [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -2146,7 +2156,7 @@
 - [jeffminlin/vmcnet](https://github.com/jeffminlin/vmcnet) - Flexible, general-purpose VMC framework, built on JAX.
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping) - Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [olcf/olcf-user-docs](https://github.com/olcf/olcf-user-docs) - Sources for the Oak Ridge Leadership Computing Facility User Documentation
-- [volodia99/cblind](https://github.com/volodia99/cblind) - A colorblind-friendly python module that allows optimal color choice for plotting multiple curves
+- [la-niche/cblind](https://github.com/la-niche/cblind) - A colorblind-friendly python module that allows optimal color choice for plotting multiple curves
 - [Nuclear-Physics-with-Machine-Learning/MLQM](https://github.com/Nuclear-Physics-with-Machine-Learning/MLQM) - Testing using AI and ML techniques to solve quantum systems
 - [gimbo/iterm2-tabs.zsh](https://github.com/gimbo/iterm2-tabs.zsh) - Andy's zsh plugin for setting iTerm2 titles and colors
 - [hpc-carpentry/old-hpc-workflows](https://github.com/hpc-carpentry/old-hpc-workflows) - Scaling studies on high-performance clusters using Snakemake workflows
@@ -3111,6 +3121,7 @@
 
 ## Rust 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [ecumene/rust-sloth](https://github.com/ecumene/rust-sloth) - A 3D software rasterizer... for the terminal!
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
@@ -3320,6 +3331,10 @@
 - [emoryy/unicode-distro-logos](https://github.com/emoryy/unicode-distro-logos) - 256 color unicode distro logos for displaying in terminal
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 
+## Smalltalk 
+
+- [cdglabs/thinglab](https://github.com/cdglabs/thinglab) - Alan Borning's graphical constraint solver from the late 70s, running on our Smalltalk-78 JavaScript VM.
+
 ## Standard ML 
 
 - [MLton/mlton](https://github.com/MLton/mlton) - The MLton repository
@@ -3426,6 +3441,8 @@
 
 ## TypeScript 
 
+- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
@@ -3681,7 +3698,6 @@
 
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [ActivityWatch/aw-webui](https://github.com/ActivityWatch/aw-webui) - Webapp for visualizing and browsing ActivityWatch data, built with Vue.js.
