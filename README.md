@@ -508,7 +508,6 @@
 - [ashki23/pandoc-bootstrap](https://github.com/ashki23/pandoc-bootstrap) - Application for converting Markdown files into bootstrap styled HTML pages by Pandoc.
 - [converged-computing/performance-study](https://github.com/converged-computing/performance-study) - Performance study for HPC applications across Google, AWS, and Azure clouds ☁️
 - [kirill-markin/slides-html-pdf](https://github.com/kirill-markin/slides-html-pdf) - 
-- [nerveband/Apple-Music-Play-History-Converter](https://github.com/nerveband/Apple-Music-Play-History-Converter) - A Python desktop app that converts Apple Music play history to Last.fm-compatible format. Features local CSV processing, optional iTunes API integration, and is available as a script or Mac app.
 - [simonw/tools](https://github.com/simonw/tools) - Assorted tools
 - [FernandoCelmer/mkdocs-simple-blog](https://github.com/FernandoCelmer/mkdocs-simple-blog) - Blog Template for Mkdocs
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
@@ -522,7 +521,6 @@
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
-- [sidv23/sidv23.github.io-gatsby](https://github.com/sidv23/sidv23.github.io-gatsby) - Personal Website
 - [zachleat/carouscroll](https://github.com/zachleat/carouscroll) - Add next/previous buttons to a horizontal scrollable container.
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
@@ -917,7 +915,7 @@
 - [scifm/summer-school-2024](https://github.com/scifm/summer-school-2024) - 
 - [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
-- [sherrylixuecheng/AI_for_Science_paper_collection](https://github.com/sherrylixuecheng/AI_for_Science_paper_collection) - List the AI for Science papers accepted by top conferences
+- [AI4QC/AI_for_Science_paper_collection](https://github.com/AI4QC/AI_for_Science_paper_collection) - List the AI for Science papers accepted by top conferences
 - [pyt-team/challenge-icml-2024](https://github.com/pyt-team/challenge-icml-2024) - Official repository for the Topological Deep Learning Challenge 2024, organized by TAG-DS & PyT-Team and hosted by GRaM Workshop @ ICML 2024.
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [state-spaces/s4](https://github.com/state-spaces/s4) - Structured state space sequence models
@@ -1646,7 +1644,6 @@
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [scoder/lupa](https://github.com/scoder/lupa) - Lua in Python
 - [huggingface/nanoVLM](https://github.com/huggingface/nanoVLM) - The simplest, fastest repository for training/finetuning small-sized VLMs.
-- [converged-computing/google-performance-study](https://github.com/converged-computing/google-performance-study) - Experiments on Google Cloud, hoping to extend the performance study
 - [allenai/infinigram-api](https://github.com/allenai/infinigram-api) - 
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
@@ -1676,6 +1673,7 @@
 - [VatsaDev/NanoPoor](https://github.com/VatsaDev/NanoPoor) - NanoGPT-speedrunning for the poor T4 enjoyers
 - [eitchtee/WYGIWYH](https://github.com/eitchtee/WYGIWYH) - A simple but powerful finance tracker
 - [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
+- [nerveband/Apple-Music-Play-History-Converter](https://github.com/nerveband/Apple-Music-Play-History-Converter) - A Python desktop app that converts Apple Music play history to Last.fm-compatible format. Features local CSV processing, optional iTunes API integration, and is available as a script or Mac app.
 - [UIC-Liu-Lab/ContinualLM](https://github.com/UIC-Liu-Lab/ContinualLM) - An Extensible Continual Learning Framework Focused on Language Models (LMs)
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
@@ -2633,7 +2631,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-611-Stars](https://github.com/iBug/This-Repo-Has-611-Stars) - Yes, it's true :heartpulse: This repository has 611 stars.
+- [iBug/This-Repo-Has-612-Stars](https://github.com/iBug/This-Repo-Has-612-Stars) - Yes, it's true :heart: This repository has 612 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3183,7 +3181,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [noahgift/rust-mlops-template](https://github.com/noahgift/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
@@ -3243,6 +3241,7 @@
 
 ## Shell 
 
+- [converged-computing/google-performance-study](https://github.com/converged-computing/google-performance-study) - Experiments on Google Cloud, hoping to extend the performance study
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/great alternatives to common unix commands, which is maintained.
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
