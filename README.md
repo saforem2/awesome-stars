@@ -1765,7 +1765,7 @@
 - [huggingface/search-and-learn](https://github.com/huggingface/search-and-learn) - Recipes to scale inference-time compute of open models
 - [huggingface/picotron](https://github.com/huggingface/picotron) - Minimalistic 4D-parallelism distributed training framework for education purpose
 - [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym) - Helpful tools and examples for working with flex-attention
-- [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - Accelerating the development of large multimodal models (LMMs) with one-click evaluation module - lmms-eval.
+- [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - One for All Modalities Evaluation Toolkit - including text, image, video, audio tasks.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM2 and SmolVLM family of models
 - [lunarc/gfxlauncher](https://github.com/lunarc/gfxlauncher) - User interface for launching interactive software through SLURM. Supports launching standard graphical applications X11 application (software and hardware accelerated), Jupyter Notebooks/Labs and Wind
@@ -2679,7 +2679,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-613-Stars](https://github.com/iBug/This-Repo-Has-613-Stars) - Yes, it's true :heart: This repository has 613 stars.
+- [iBug/This-Repo-Has-614-Stars](https://github.com/iBug/This-Repo-Has-614-Stars) - Yes, it's true :two_hearts: This repository has 614 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
