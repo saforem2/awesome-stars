@@ -26,6 +26,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
 - [Fortran](#fortran)
+- [GLSL](#glsl)
 - [Go](#go)
 - [Groff](#groff)
 - [HCL](#hcl)
@@ -105,6 +106,7 @@
 
 ## C 
 
+- [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim) - Play DOOM in Neovim v0.11+ on Linux & macOS
 - [codekitchen/pipeline](https://github.com/codekitchen/pipeline) - the `pipeline` shell command
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [argonne-lcf/THAPI](https://github.com/argonne-lcf/THAPI) - A tracing infrastructure for heterogeneous computing applications.
@@ -181,6 +183,7 @@
 
 ## C++ 
 
+- [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine
 - [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) - NVIDIA Inference Xfer Library (NIXL)
@@ -379,7 +382,7 @@
 
 ## Cython 
 
-- [IntelPython/mkl-service](https://github.com/IntelPython/mkl-service) - Python hooks for Intel® OneAPI Math Kernel Library (OneMKL) runtime control settings.
+- [IntelPython/mkl-service](https://github.com/IntelPython/mkl-service) - Python hooks for Intel® oneAPI Math Kernel Library (oneMKL) runtime control settings.
 
 ## Dart 
 
@@ -419,6 +422,10 @@
 - [madebr/pyOpt](https://github.com/madebr/pyOpt) - Fork of http://www.pyopt.org/ (python3 compatible)
 - [mhoffman/kmos](https://github.com/mhoffman/kmos) - kMC on steroids: A vigorous attempt to make lattice kinetic Monte Carlo modelling easier
 - [sdliuyuzhi/HOTRG](https://github.com/sdliuyuzhi/HOTRG) - HOTRG
+
+## GLSL 
+
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Go 
 
@@ -522,6 +529,7 @@
 - [spcanelon/silvia](https://github.com/spcanelon/silvia) - Personal website of Silvia Canelón
 - [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
 - [pawroman/zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
+- [8ORUZ7/notes-application](https://github.com/8ORUZ7/notes-application) - a simple notes application that allows users to create, edit, and delete notes.
 - [googlefonts/colr-gradients-spec](https://github.com/googlefonts/colr-gradients-spec) - 
 - [fxpar/markdown-to-bootstrap-pandoc-lua-filter](https://github.com/fxpar/markdown-to-bootstrap-pandoc-lua-filter) - A Lua Filter to convert directly markdown into bootstrap components (cards, jumbotrons, carousels, accordions) using Pandoc
 - [revolter/notepadtab.com](https://github.com/revolter/notepadtab.com) - 
@@ -623,12 +631,14 @@
 
 ## JavaScript 
 
+- [openfiletax/openfile](https://github.com/openfiletax/openfile) - A free tax tool based on IRS Direct File
 - [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File
 - [hyparam/hyparquet](https://github.com/hyparam/hyparquet) - parquet file parser for javascript
 - [iMammal/CytoCave](https://github.com/iMammal/CytoCave) - CytoCave: A web-based immersive visual analytics tool for exploring the Multi-Omics Network Data, Developed in collaboration with CoNECt@UIC and EVL.
 - [regorxxx/Wrapped-SMP](https://github.com/regorxxx/Wrapped-SMP) - User listening statistics for foobar2000 using, using Spider Monkey, which output a report similar to Spotify's wrapped and personalized playlists.
 - [parmsam/quarto-excalidraw](https://github.com/parmsam/quarto-excalidraw) - An extension to open an empty or existing Excalidraw canvas for RevealJS in Quarto
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [LeaVerou/md-block](https://github.com/LeaVerou/md-block) - A custom element for rendering stylable (light DOM) Markdown
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -640,7 +650,6 @@
 - [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative
 - [valeriangalliat/markdown-it-highlightjs](https://github.com/valeriangalliat/markdown-it-highlightjs) - Preset to use highlight.js with markdown-it.
 - [siyuan-note/siyuan-chrome](https://github.com/siyuan-note/siyuan-chrome) - Chrome/Edge extension for SiYuan
-- [8ORUZ7/notes-application](https://github.com/8ORUZ7/notes-application) - a simple notes application that allows users to create, edit, and delete notes.
 - [Nenuial/ThemeTest](https://github.com/Nenuial/ThemeTest) - 
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [coatless-quarto/pyodide](https://github.com/coatless-quarto/pyodide) - Community developed Quarto extension to enable interactive Python code cells in HTML documents using Pyodide
@@ -937,9 +946,9 @@
 - [infocusp/llm_seminar_series](https://github.com/infocusp/llm_seminar_series) - Material for the series of seminars on Large Language Models
 - [DavidRuhe/hba_flows](https://github.com/DavidRuhe/hba_flows) - 
 - [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
-- [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Gemma open-weight LLM library, from Google DeepMind
 - [pyt-team/TopoNetX](https://github.com/pyt-team/TopoNetX) - Computing on Topological Domains
 - [argonne-lcf/llm-workshop](https://github.com/argonne-lcf/llm-workshop) - 
+- [divelab/AIRS](https://github.com/divelab/AIRS) - Artificial Intelligence Research for Science (AIRS)
 - [pacman100/LLM-Workshop](https://github.com/pacman100/LLM-Workshop) - LLM Workshop by Sourab Mangrulkar
 - [kazewong/jim](https://github.com/kazewong/jim) - Gravitational-wave data analysis tools in Jax
 - [vislearn/FFF](https://github.com/vislearn/FFF) - Free-form flows are a generative model training a pair of neural networks via maximum likelihood
@@ -1194,6 +1203,7 @@
 - [tensorfieldnetworks/tensorfieldnetworks](https://github.com/tensorfieldnetworks/tensorfieldnetworks) - 
 - [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [facebookresearch/dagger](https://github.com/facebookresearch/dagger) - Experiment orchestration
+- [arogozhnikov/hep_ml](https://github.com/arogozhnikov/hep_ml) - Machine Learning for High Energy Physics.
 - [UTA-HEP-Computing/DSatHEP-Tutorial](https://github.com/UTA-HEP-Computing/DSatHEP-Tutorial) - 
 - [oleksandr-balabanov/topo-augmentation-ML-protocol](https://github.com/oleksandr-balabanov/topo-augmentation-ML-protocol) - A neural-network-based protocol for finding toplogical indices using topological data augmentation.
 - [hithesh111/Hith100](https://github.com/hithesh111/Hith100) - My 100 Days of ML Code Challenge Repository. Note: I stopped updating in the blogger site. The days after 100 days are documented in another repository.
@@ -1261,6 +1271,7 @@
 
 ## Lua 
 
+- [y3owk1n/dotmd.nvim](https://github.com/y3owk1n/dotmd.nvim) - 📓 Organize. Navigate. Create. Markdown. Keep all your notes, todos, and journals inside Neovim without ever leaving the editor.
 - [aileot/ex-colors.nvim](https://github.com/aileot/ex-colors.nvim) - 🌈 Optimize your favorite colorscheme!
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim, winbar alternative
 - [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim) - A tiny Neovim plugin that adds subtle animations to various operations.
@@ -1378,7 +1389,6 @@
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
 - [richin13/dotfiles](https://github.com/richin13/dotfiles) - My dotfiles: (Neovim + Zsh + Tmux) optimized for Python & React development 🤑
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [dsanson/hs.tiling](https://github.com/dsanson/hs.tiling) - Add tiling window management powers to your hammerspoon
 - [leehomyc/Faster-High-Res-Neural-Inpainting](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting) - High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis
 - [facebookarchive/fb.resnet.torch](https://github.com/facebookarchive/fb.resnet.torch) - Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts
@@ -1644,6 +1654,7 @@
 
 ## PowerShell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [kyle-sylvestre/mightygrep-misc](https://github.com/kyle-sylvestre/mightygrep-misc) - Public repository for miscellaneous MightyGrep files
 - [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
 
@@ -1657,9 +1668,10 @@
 
 ## Python 
 
+- [acadev/warp-tutorial](https://github.com/acadev/warp-tutorial) - Warp tutorial developed as part of Argonne's vibe coding hackathon
 - [xrsrke/pipegoose](https://github.com/xrsrke/pipegoose) - Large scale 4D parallelism pre-training for 🤗 transformers in Mixture of Experts *(still work in progress)*
 - [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [margueritetalamon/VI-MIG](https://github.com/margueritetalamon/VI-MIG) - 
 - [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) - 
 - [tanishqkumar/beyond-nanogpt](https://github.com/tanishqkumar/beyond-nanogpt) - Minimal and annotated implementations of key ideas from modern deep learning research.
@@ -1748,7 +1760,7 @@
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [brentyi/tyro](https://github.com/brentyi/tyro) - CLI interfaces & config objects, from types
 - [runjie-yan/ConsistentFlowDistillation](https://github.com/runjie-yan/ConsistentFlowDistillation) - [ICLR'25] Official Implementation for Consistent Flow Distillation for Text-to-3D Generation
-- [pytorch/torchft](https://github.com/pytorch/torchft) - PyTorch per step fault tolerance (actively under development)
+- [pytorch/torchft](https://github.com/pytorch/torchft) - Fault tolerance for PyTorch (HSDP, LocalSGD, DiLoCo, Streaming DiLoCo)
 - [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
 - [mil-ad/kitcat](https://github.com/mil-ad/kitcat) - Matplotlib backend for direct plotting in the terminal using Kitty graphics protocol.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -1765,7 +1777,7 @@
 - [huggingface/search-and-learn](https://github.com/huggingface/search-and-learn) - Recipes to scale inference-time compute of open models
 - [huggingface/picotron](https://github.com/huggingface/picotron) - Minimalistic 4D-parallelism distributed training framework for education purpose
 - [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym) - Helpful tools and examples for working with flex-attention
-- [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - One for All Modalities Evaluation Toolkit - including text, image, video, audio tasks.
+- [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - A One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM2 and SmolVLM family of models
 - [lunarc/gfxlauncher](https://github.com/lunarc/gfxlauncher) - User interface for launching interactive software through SLURM. Supports launching standard graphical applications X11 application (software and hardware accelerated), Jupyter Notebooks/Labs and Wind
@@ -1879,6 +1891,7 @@
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [Lightning-AI/litData](https://github.com/Lightning-AI/litData) - Transform datasets at scale. Optimize datasets for fast AI model training.
 - [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
+- [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Gemma open-weight LLM library, from Google DeepMind
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
 - [stanford-crfm/mistral](https://github.com/stanford-crfm/mistral) - Mistral: A strong, northwesterly wind: Framework for transparent and accessible large-scale language model training, built with Hugging Face 🤗  Transformers.
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
@@ -1888,7 +1901,6 @@
 - [DavidRuhe/clifford-group-equivariant-neural-networks](https://github.com/DavidRuhe/clifford-group-equivariant-neural-networks) - Code used by the "Clifford Group Equivariant Neural Networks" paper.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - Next-gen fast plotting library running on WGPU using the pygfx rendering engine
-- [divelab/AIRS](https://github.com/divelab/AIRS) - Artificial Intelligence Research for Science (AIRS)
 - [astro-informatics/s2ball](https://github.com/astro-informatics/s2ball) - Differentiable and accelerated wavelet transform on the ball with JAX
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [facebookresearch/recipes](https://github.com/facebookresearch/recipes) - Recipes are a standard, well supported set of blueprints for machine learning engineers to rapidly train models using the latest research techniques without significant engineering overhead.Specifical
@@ -1944,7 +1956,7 @@
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - [ICML'24] Magicoder: Empowering Code Generation with OSS-Instruct
 - [Psivant/femto](https://github.com/Psivant/femto) - A comprehensive toolkit for predicting free energies
 - [saforem2/wordplay](https://github.com/saforem2/wordplay) - Playing with words
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [louaaron/Scaling-Riemannian-Diffusion](https://github.com/louaaron/Scaling-Riemannian-Diffusion) - [NeurIPS 2023] Scaling Riemannian Diffusion Models
 - [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - Automatically add simple type annotations to your code
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -2029,7 +2041,7 @@
 - [jupyter-vim/jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
 - [Joshuaalbert/jaxns](https://github.com/Joshuaalbert/jaxns) - Probabilistic Programming and Nested sampling in JAX
 - [bazingagin/npc_lv](https://github.com/bazingagin/npc_lv) - 
-- [openclimatefix/graph_weather](https://github.com/openclimatefix/graph_weather) - PyTorch implementation of Ryan Keisler's 2022 "Forecasting Global Weather with Graph Neural Networks" paper (https://arxiv.org/abs/2202.07575)
+- [openclimatefix/graph_weather](https://github.com/openclimatefix/graph_weather) - Graph-based weather forecasting models. Originally, PyTorch implementation of Ryan Keisler's 2022 "Forecasting Global Weather with Graph Neural Networks" paper (https://arxiv.org/abs/2202.07575)
 - [AutoGIS-2017/Exercise-2](https://github.com/AutoGIS-2017/Exercise-2) - Exercise 2 for the 2017 version of the Automating GIS-processes course https://automating-gis-processes.github.io/2017/
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
@@ -2433,7 +2445,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
-- [deshaw/pyflyby](https://github.com/deshaw/pyflyby) - A set of productivity tools for Python
+- [deshaw/pyflyby](https://github.com/deshaw/pyflyby) - A set of productivity tools for Python. Learn more at https://www.deshaw.com/library/desco-quansight-improving-jupyter-efficiency
 - [yt-project/cmyt](https://github.com/yt-project/cmyt) - yt-native colormaps
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [PatrickHua/SimSiam](https://github.com/PatrickHua/SimSiam) - A pytorch implementation for paper 'Exploring Simple Siamese Representation Learning'
@@ -2666,7 +2678,7 @@
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 - [lucidrains/egnn-pytorch](https://github.com/lucidrains/egnn-pytorch) - Implementation of E(n)-Equivariant Graph Neural Networks, in Pytorch
-- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
 - [pimdh/relie](https://github.com/pimdh/relie) - Experiments for the AISTATS publication on Reparameterizing Distributions over Lie Groups
 - [Romit-Maulik/PyParSVD](https://github.com/Romit-Maulik/PyParSVD) - An implementation of the 1. Parallel, 2. Streaming, 3. Randomized SVD using MPI4Py
 - [patrick-kidger/sympytorch](https://github.com/patrick-kidger/sympytorch) - Turning SymPy expressions into PyTorch modules.
@@ -2679,7 +2691,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-614-Stars](https://github.com/iBug/This-Repo-Has-614-Stars) - Yes, it's true :two_hearts: This repository has 614 stars.
+- [iBug/This-Repo-Has-615-Stars](https://github.com/iBug/This-Repo-Has-615-Stars) - Yes, it's true :revolving_hearts: This repository has 615 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2979,7 +2991,6 @@
 - [MilesCranmer/lagrangian_nns](https://github.com/MilesCranmer/lagrangian_nns) - Lagrangian Neural Networks
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [gugarosa/learnergy](https://github.com/gugarosa/learnergy) - 💡 Learnergy is a Python library for energy-based machine learning models.
-- [arogozhnikov/hep_ml](https://github.com/arogozhnikov/hep_ml) - Machine Learning for High Energy Physics.
 - [getlogbook/logbook](https://github.com/getlogbook/logbook) - A cool logging replacement for Python.
 - [itamarst/eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
 - [pytoolz/toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python.
@@ -3304,7 +3315,6 @@
 - [marlonrichert/zsh-hist](https://github.com/marlonrichert/zsh-hist) - 📝 Edit your Zsh history from the command line.
 - [muthuishere/mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk) - Yes Mcp server in bash
 - [converged-computing/google-performance-study](https://github.com/converged-computing/google-performance-study) - Experiments on Google Cloud, hoping to extend the performance study
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/great alternatives to common unix commands, which is maintained.
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
 - [doctorfree/MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more
@@ -3427,7 +3437,7 @@
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [kaunteya/MacCacheCleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac cache cleaner
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
-- [kmikiy/SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify & Apple Music in your menu bar
+- [kmikiy/SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify & Apple Music in your macOS menu bar
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
@@ -3525,7 +3535,6 @@
 - [excalidraw-smart-presentation/excalidraw-smart-presentation.github.io](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io) - Excalidraw fork that helps in making presentations with smart animations
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [r-wasm/quarto-drop](https://github.com/r-wasm/quarto-drop) - Drop down an interactive R or Python console, code editor, and plotting window from the top of your Quarto slides.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [internet-development/www-sacred](https://github.com/internet-development/www-sacred) - SRCL is an open-source React component and style repository that helps you build web applications, desktop applications, and static websites with terminal aesthetics.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
