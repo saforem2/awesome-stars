@@ -92,7 +92,6 @@
 
 ## Astro 
 
-- [webtui/webtui](https://github.com/webtui/webtui) - 
 - [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser!
 - [argyleink/morphull](https://github.com/argyleink/morphull) - Astro starter powered by MPA view transitions
 
@@ -183,6 +182,7 @@
 
 ## C++ 
 
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones.
 - [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine
@@ -306,6 +306,7 @@
 
 ## CSS 
 
+- [koaning/tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
 - [barkstone2/vault-to-blog](https://github.com/barkstone2/vault-to-blog) - Automation tool of making react SPA blog by obsidian vault.
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
@@ -518,6 +519,7 @@
 
 ## HTML 
 
+- [andrewheiss/ath-quarto](https://github.com/andrewheiss/ath-quarto) - Code and content for andrewheiss.com
 - [matt-dray/rostrum-blog-2](https://github.com/matt-dray/rostrum-blog-2) - :memo::bug: Blog: source for rostrum.blog
 - [ashki23/pandoc-bootstrap](https://github.com/ashki23/pandoc-bootstrap) - Application for converting Markdown files into bootstrap styled HTML pages by Pandoc.
 - [converged-computing/performance-study](https://github.com/converged-computing/performance-study) - Performance study for HPC applications across Google, AWS, and Azure clouds ☁️
@@ -631,6 +633,7 @@
 
 ## JavaScript 
 
+- [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [openfiletax/openfile](https://github.com/openfiletax/openfile) - A free tax tool based on IRS Direct File
 - [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File
@@ -1256,7 +1259,7 @@
 
 ## Kotlin 
 
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
 
 ## LLVM 
 
@@ -1406,6 +1409,7 @@
 
 ## MDX 
 
+- [webtui/webtui](https://github.com/webtui/webtui) - 
 - [primer/presentations](https://github.com/primer/presentations) - Primer Presentations is the presentation design system for GitHub. It's intended to be used only by GitHub staff for presentations that represent GitHub.
 
 ## MLIR 
@@ -1668,6 +1672,8 @@
 
 ## Python 
 
+- [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
+- [apple/ml-diffucoder](https://github.com/apple/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
 - [acadev/warp-tutorial](https://github.com/acadev/warp-tutorial) - Warp tutorial developed as part of Argonne's vibe coding hackathon
 - [xrsrke/pipegoose](https://github.com/xrsrke/pipegoose) - Large scale 4D parallelism pre-training for 🤗 transformers in Mixture of Experts *(still work in progress)*
 - [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.
@@ -1779,7 +1785,7 @@
 - [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym) - Helpful tools and examples for working with flex-attention
 - [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - A One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
-- [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM2 and SmolVLM family of models
+- [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 - [lunarc/gfxlauncher](https://github.com/lunarc/gfxlauncher) - User interface for launching interactive software through SLURM. Supports launching standard graphical applications X11 application (software and hardware accelerated), Jupyter Notebooks/Labs and Wind
 - [allenai/open-instruct](https://github.com/allenai/open-instruct) - AllenAI's post-training codebase
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
@@ -1872,7 +1878,7 @@
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy) - A light weight Python library for the Spotify Web API
 - [wightwick/fynesse](https://github.com/wightwick/fynesse) - Pure-Python web app for music exploration with Spotify 🌱
-- [Lightning-AI/lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - Thunder gives you PyTorch models superpowers for training and inference. Unlock out-of-the-box optimizations for performance, memory and parallelism, or roll out your own.
+- [Lightning-AI/lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - PyTorch compiler that accelerates training and inference. Get built-in optimizations for performance, memory, parallelism, and easily write your own.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -2477,7 +2483,6 @@
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
 - [GetRD/academic-file-converter](https://github.com/GetRD/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
 - [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
-- [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) - A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [fernandobrito/travel_log](https://github.com/fernandobrito/travel_log) - A static website generator for your trip and its records (pictures, tracks, journal, etc).
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
@@ -2691,7 +2696,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-615-Stars](https://github.com/iBug/This-Repo-Has-615-Stars) - Yes, it's true :revolving_hearts: This repository has 615 stars.
+- [iBug/This-Repo-Has-617-Stars](https://github.com/iBug/This-Repo-Has-617-Stars) - Yes, it's true :heartpulse: This repository has 617 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3180,6 +3185,8 @@
 
 ## Rust 
 
+- [Linus-Mussmaecher/rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [TylerBloom/webatui](https://github.com/TylerBloom/webatui) - An integration between the Yew and Ratatui crates for making TUI-themed WASM webapps
@@ -3202,7 +3209,7 @@
 - [sugyan/tuisky](https://github.com/sugyan/tuisky) - 
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 A ratatui framework to build stateful applications with a React/Elm inspired approach
 - [MilesCranmer/rip2](https://github.com/MilesCranmer/rip2) - A safe and ergonomic alternative to rm
-- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
+- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
@@ -3310,6 +3317,7 @@
 
 ## Shell 
 
+- [Trepan-Debuggers/bashdb](https://github.com/Trepan-Debuggers/bashdb) - Bash debugger (code imported from sourceforge)
 - [igrmk/whiskers](https://github.com/igrmk/whiskers) - Kitty alternative icon
 - [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Neovim, Zsh or Fish, and Kitty or iTerm+Tmux
 - [marlonrichert/zsh-hist](https://github.com/marlonrichert/zsh-hist) - 📝 Edit your Zsh history from the command line.
@@ -3419,6 +3427,7 @@
 
 ## Swift 
 
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [neon443/AirAP](https://github.com/neon443/AirAP) - airplay to an ios device
 - [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent) - An AI agent that can get things done across iPhone apps.
