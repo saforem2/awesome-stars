@@ -1672,6 +1672,7 @@
 
 ## Python 
 
+- [agruca-polsl/weather4cast-2023](https://github.com/agruca-polsl/weather4cast-2023) - Starter Kit for the NeurIPS 2023 Weather4cast competition
 - [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
 - [apple/ml-diffucoder](https://github.com/apple/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
 - [acadev/warp-tutorial](https://github.com/acadev/warp-tutorial) - Warp tutorial developed as part of Argonne's vibe coding hackathon
