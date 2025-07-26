@@ -306,6 +306,7 @@
 
 ## CSS 
 
+- [nuclearcodecat/shimmer](https://github.com/nuclearcodecat/shimmer) - charming firefox userchrome with sidebery support
 - [koaning/tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
 - [barkstone2/vault-to-blog](https://github.com/barkstone2/vault-to-blog) - Automation tool of making react SPA blog by obsidian vault.
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
@@ -519,12 +520,13 @@
 
 ## HTML 
 
+- [imfisk/CPSC](https://github.com/imfisk/CPSC) - 
 - [andrewheiss/ath-quarto](https://github.com/andrewheiss/ath-quarto) - Code and content for andrewheiss.com
 - [matt-dray/rostrum-blog-2](https://github.com/matt-dray/rostrum-blog-2) - :memo::bug: Blog: source for rostrum.blog
 - [ashki23/pandoc-bootstrap](https://github.com/ashki23/pandoc-bootstrap) - Application for converting Markdown files into bootstrap styled HTML pages by Pandoc.
 - [converged-computing/performance-study](https://github.com/converged-computing/performance-study) - Performance study for HPC applications across Google, AWS, and Azure clouds ☁️
 - [kirill-markin/slides-html-pdf](https://github.com/kirill-markin/slides-html-pdf) - 
-- [simonw/tools](https://github.com/simonw/tools) - Assorted tools
+- [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [FernandoCelmer/mkdocs-simple-blog](https://github.com/FernandoCelmer/mkdocs-simple-blog) - Blog Template for Mkdocs
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [jthomasmock/themockup-blog](https://github.com/jthomasmock/themockup-blog) - This is my personal blog
@@ -563,6 +565,7 @@
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [grokqcd/USQCD-theory-and-experimental-time-lines](https://github.com/grokqcd/USQCD-theory-and-experimental-time-lines) - Timeline for USQCD
 - [argonne-lcf/ALCFBeginnersGuide](https://github.com/argonne-lcf/ALCFBeginnersGuide) - 
+- [olcf/olcf-user-docs](https://github.com/olcf/olcf-user-docs) - Sources for the Oak Ridge Leadership Computing Facility User Documentation
 - [brettcannon/mousebender](https://github.com/brettcannon/mousebender) - Create reproducible installations for a virtual environment from a lock file
 - [outerbounds/full-stack-ML-metaflow-tutorial](https://github.com/outerbounds/full-stack-ML-metaflow-tutorial) - It's all in the name
 - [argonne-lcf/user-guides](https://github.com/argonne-lcf/user-guides) - ALCF Systems User Documentation
@@ -620,7 +623,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 - [bentolor/java9to13](https://github.com/bentolor/java9to13) - Power Catchup – Java 9 to 13: HTML5 Presentation and Code Examples
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [ambrosiogabe/ImpossibleGame](https://github.com/ambrosiogabe/ImpossibleGame) - 
@@ -633,6 +636,8 @@
 
 ## JavaScript 
 
+- [rafaelrinaldi/hn-cli](https://github.com/rafaelrinaldi/hn-cli) - :newspaper: CLI to browse Hacker News
+- [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [openfiletax/openfile](https://github.com/openfiletax/openfile) - A free tax tool based on IRS Direct File
 - [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
@@ -914,6 +919,7 @@
 
 ## Jupyter Notebook 
 
+- [Greyyy-HJC/hmc_ft](https://github.com/Greyyy-HJC/hmc_ft) - Field transform optimization of HMC
 - [Azure-Samples/openai-chat-vision-quickstart](https://github.com/Azure-Samples/openai-chat-vision-quickstart) - A demonstration of chatting with uploaded images using OpenAI vision models like gpt-4o.
 - [pamelafox/ollama-python-playground](https://github.com/pamelafox/ollama-python-playground) - A dev container with ollama and ollama examples with the Python OpenAI SDK
 - [zzzqt/DM4U1](https://github.com/zzzqt/DM4U1) - Diffusion model for gauge field simulations
@@ -953,7 +959,6 @@
 - [argonne-lcf/llm-workshop](https://github.com/argonne-lcf/llm-workshop) - 
 - [divelab/AIRS](https://github.com/divelab/AIRS) - Artificial Intelligence Research for Science (AIRS)
 - [pacman100/LLM-Workshop](https://github.com/pacman100/LLM-Workshop) - LLM Workshop by Sourab Mangrulkar
-- [kazewong/jim](https://github.com/kazewong/jim) - Gravitational-wave data analysis tools in Jax
 - [vislearn/FFF](https://github.com/vislearn/FFF) - Free-form flows are a generative model training a pair of neural networks via maximum likelihood
 - [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - Automatic GPU+CPU memory profiling, re-use and memory leaks detection using jupyter/ipython experiment containers
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
@@ -1274,6 +1279,12 @@
 
 ## Lua 
 
+- [adoyle-h/neovim-config](https://github.com/adoyle-h/neovim-config) - My personal neovim configuration
+- [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
+- [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) - A plugin for setting Neovim LSP with JSON or YAML files
+- [2KAbhishek/octohub.nvim](https://github.com/2KAbhishek/octohub.nvim) - All Your GitHub repos and more in Neovim 🐙🛠️
+- [SUSTech-data/neopyter](https://github.com/SUSTech-data/neopyter) - The  bridge between Neovim and Jupyterlab
+- [adoyle-h/one.nvim](https://github.com/adoyle-h/one.nvim) - All-in-one neovim config framework in Lua.
 - [y3owk1n/dotmd.nvim](https://github.com/y3owk1n/dotmd.nvim) - 📓 Organize. Navigate. Create. Markdown. Keep all your notes, todos, and journals inside Neovim without ever leaving the editor.
 - [aileot/ex-colors.nvim](https://github.com/aileot/ex-colors.nvim) - 🌈 Optimize your favorite colorscheme!
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim, winbar alternative
@@ -1322,7 +1333,7 @@
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
 - [vhyrro/hologram.nvim](https://github.com/vhyrro/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
-- [mcanouil/quarto-preview-colour](https://github.com/mcanouil/quarto-preview-colour) - A Quarto extension to add preview colour as a coloured symbol next to colour code.
+- [mcanouil/quarto-preview-colour](https://github.com/mcanouil/quarto-preview-colour) - A Quarto extension to add preview colour as a coloured symbol next to colour code in HTML, PDF, Typst, Docx, Reveal.js, Beamer, and PowerPoint
 - [doctorfree/NvChad-custom](https://github.com/doctorfree/NvChad-custom) - Custom configs for NvChad
 - [dreamsofcode-io/neovim-python](https://github.com/dreamsofcode-io/neovim-python) - 
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
@@ -1474,10 +1485,13 @@
 
 ## Others 
 
+- [MoonshotAI/Moonlight](https://github.com/MoonshotAI/Moonlight) - Muon is Scalable for LLM Training
+- [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [andrew-jeremy/nonAttentionLLM](https://github.com/andrew-jeremy/nonAttentionLLM) - non-attention-based LLM
 - [Atcold/Energy-Book](https://github.com/Atcold/Energy-Book) - Deep Learning, an Energy Approach
 - [melogabriel/repositories-views-counter](https://github.com/melogabriel/repositories-views-counter) - Repository to implement automatic view counting in the profile readme.
 - [astorfi/Large-Scale-AI-Blueprint](https://github.com/astorfi/Large-Scale-AI-Blueprint) - A comprehensive guide designed to empower readers with advanced strategies and practical insights for developing, optimizing, and deploying scalable AI models in real-world applications.
+- [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) - This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"
 - [HKUST-KnowComp/Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [coryhouse/speaker-starter-kit](https://github.com/coryhouse/speaker-starter-kit) - Resources for aspiring speakers
@@ -1559,7 +1573,7 @@
 - [Alvin-Zeng/Awesome-Temporal-Action-Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) - A curated list of temporal action localization/detection and related area (e.g. temporal action proposal) resources.
 - [davidsd/lie](https://github.com/davidsd/lie) - A python interface to the computer algebra package LiE, for computations with Lie groups, representations, etc..
 - [dwarvesf/VimMotionApp](https://github.com/dwarvesf/VimMotionApp) - Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.
-- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [transformerdb/transformerdb](https://github.com/transformerdb/transformerdb) - TransformerDB
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [kriasoft/Folder-Structure-Conventions](https://github.com/kriasoft/Folder-Structure-Conventions) - Folder / directory structure options and naming conventions for software projects
@@ -1572,7 +1586,7 @@
 - [Vincent-Carrier/CocoaVim](https://github.com/Vincent-Carrier/CocoaVim) - A BetterTouchTool preset to enable Vim keybindings in any Cocoa-based macOS app
 - [iclr2020-fsai/FSAI](https://github.com/iclr2020-fsai/FSAI) - Fundamental Science in the era of AI: This ICLR 2020 workshop will address a number of pressing topics: What is good fundamental science  in an era when AI is becoming core to the way scientists inter
 - [nikosarcevic/HEP-ASTRO-COSMO](https://github.com/nikosarcevic/HEP-ASTRO-COSMO) - HEP/Astroparticle/Astrophysics/Cosmology open source packages. Community effort. Physics people, unite!
-- [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
+- [lukasmasuch/best-of-python](https://github.com/lukasmasuch/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) - Paper list for equivariant neural network
@@ -1624,7 +1638,7 @@
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [krunkosaurus/bettertouchtool-crypto](https://github.com/krunkosaurus/bettertouchtool-crypto) - Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [zee-shan-ahmad/learn-regex](https://github.com/zee-shan-ahmad/learn-regex) - Learn regex the easy way
 - [vahidk/EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [kendricktan/non-overwhelming-machine-learning](https://github.com/kendricktan/non-overwhelming-machine-learning) - A (non overwhelming) list of Machine Learning resources for beginners
@@ -1672,6 +1686,18 @@
 
 ## Python 
 
+- [NCAR/pbsparse](https://github.com/NCAR/pbsparse) - A package for processing PBS Pro accounting records
+- [NCAR/qhist](https://github.com/NCAR/qhist) - A utility to query historical PBS Pro job data
+- [FedericoCeratto/dashing](https://github.com/FedericoCeratto/dashing) - Terminal dashboards for Python
+- [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
+- [dilawarm/federated](https://github.com/dilawarm/federated) - Federated Learning with Differential Privacy and Homomorphic Encryption.
+- [dilawarm/distributed-hetero-ml](https://github.com/dilawarm/distributed-hetero-ml) - A simple framework for distributed ML on heterogeneous hardware
+- [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
+- [Greyyy-HJC/fthmc_2d_u1](https://github.com/Greyyy-HJC/fthmc_2d_u1) - Field transformation for HMC on 2D U1
+- [asottile/dead](https://github.com/asottile/dead) - dead simple python dead code detection
+- [samuela/torch2jax](https://github.com/samuela/torch2jax) - Run PyTorch in JAX. 🤝
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+- [UCL-ARC/pi_examples](https://github.com/UCL-ARC/pi_examples) - A lot of ways to run the same way of calculating pi. Some of them are dumb.
 - [agruca-polsl/weather4cast-2023](https://github.com/agruca-polsl/weather4cast-2023) - Starter Kit for the NeurIPS 2023 Weather4cast competition
 - [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
 - [apple/ml-diffucoder](https://github.com/apple/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
@@ -1699,7 +1725,6 @@
 - [rackslab/Slurm-web](https://github.com/rackslab/Slurm-web) - Open source web interface for Slurm HPC & AI clusters
 - [Greyyy-HJC/gpt_benchmark](https://github.com/Greyyy-HJC/gpt_benchmark) - collection of benchmark of gpt code
 - [eth-cscs/cscs-reframe-tests](https://github.com/eth-cscs/cscs-reframe-tests) - The CSCS ReFrame test suite
-- [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) - This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"
 - [brendanhogan/picoDeepResearch](https://github.com/brendanhogan/picoDeepResearch) - 
 - [kwuking/TimeMixer](https://github.com/kwuking/TimeMixer) - [ICLR 2024] Official implementation of "TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting"
 - [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
@@ -1707,7 +1732,7 @@
 - [microsoft/aurora](https://github.com/microsoft/aurora) - Implementation of the Aurora model for Earth system forecasting
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers.
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
-- [Oaklight/argo-openai-proxy](https://github.com/Oaklight/argo-openai-proxy) - Proxy server to Argo API, OpenAI format compatible
+- [Oaklight/argo-proxy](https://github.com/Oaklight/argo-proxy) - Proxy server to Argo API, OpenAI format compatible
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [scoder/lupa](https://github.com/scoder/lupa) - Lua in Python
 - [huggingface/nanoVLM](https://github.com/huggingface/nanoVLM) - The simplest, fastest repository for training/finetuning small-sized VLMs.
@@ -1784,7 +1809,7 @@
 - [huggingface/search-and-learn](https://github.com/huggingface/search-and-learn) - Recipes to scale inference-time compute of open models
 - [huggingface/picotron](https://github.com/huggingface/picotron) - Minimalistic 4D-parallelism distributed training framework for education purpose
 - [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym) - Helpful tools and examples for working with flex-attention
-- [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - A One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
+- [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 - [lunarc/gfxlauncher](https://github.com/lunarc/gfxlauncher) - User interface for launching interactive software through SLURM. Supports launching standard graphical applications X11 application (software and hardware accelerated), Jupyter Notebooks/Labs and Wind
@@ -1793,7 +1818,7 @@
 - [hpc-social/personal-blog](https://github.com/hpc-social/personal-blog) - The HPC.social personal blogs aggregator (contribute yours!)
 - [apple/ml-cross-entropy](https://github.com/apple/ml-cross-entropy) - 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
+- [QuixiAI/github2file](https://github.com/QuixiAI/github2file) - 
 - [kirill-markin/repo-to-text](https://github.com/kirill-markin/repo-to-text) - Convert a repository structure and its contents into a single text file, including the tree output and file contents in markdown code blocks. It may be useful to chat with LLM about your code.
 - [jgm/pandocfilters](https://github.com/jgm/pandocfilters) - A python module for writing pandoc filters, with a collection of examples
 - [sergiocorreia/panflute](https://github.com/sergiocorreia/panflute) - An Pythonic alternative to John MacFarlane's pandocfilters, with extra helper functions
@@ -1917,6 +1942,7 @@
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [Garden-AI/garden](https://github.com/Garden-AI/garden) - 
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
+- [kazewong/jim](https://github.com/kazewong/jim) - Gravitational-wave data analysis tools in Jax
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [jrieke/streamlit-analytics](https://github.com/jrieke/streamlit-analytics) - 👀 Track & visualize user interactions with your streamlit app
@@ -2220,7 +2246,6 @@
 - [hanschen/vim-ipython-cell](https://github.com/hanschen/vim-ipython-cell) - Seamlessly run Python code in IPython from Vim
 - [jeffminlin/vmcnet](https://github.com/jeffminlin/vmcnet) - Flexible, general-purpose VMC framework, built on JAX.
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping) - Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
-- [olcf/olcf-user-docs](https://github.com/olcf/olcf-user-docs) - Sources for the Oak Ridge Leadership Computing Facility User Documentation
 - [la-niche/cblind](https://github.com/la-niche/cblind) - A colorblind-friendly python module that allows optimal color choice for plotting multiple curves
 - [Nuclear-Physics-with-Machine-Learning/MLQM](https://github.com/Nuclear-Physics-with-Machine-Learning/MLQM) - Testing using AI and ML techniques to solve quantum systems
 - [gimbo/iterm2-tabs.zsh](https://github.com/gimbo/iterm2-tabs.zsh) - Andy's zsh plugin for setting iTerm2 titles and colors
@@ -2532,7 +2557,7 @@
 - [matplotlib/cycler](https://github.com/matplotlib/cycler) - cycler: composable cycles
 - [jaanli/variational-autoencoder](https://github.com/jaanli/variational-autoencoder) - Variational autoencoder implemented in tensorflow and pytorch (including inverse autoregressive flow)
 - [sysuin/pycolordetector](https://github.com/sysuin/pycolordetector) - A simple Python package for detecting colors in images
-- [nv-legate/cupynumeric](https://github.com/nv-legate/cupynumeric) - An Aspiring Drop-In Replacement for NumPy at Scale
+- [nv-legate/cupynumeric](https://github.com/nv-legate/cupynumeric) - NumPy and SciPy on Multi-Node Multi-GPU systems
 - [lspvic/jupyter_tensorboard](https://github.com/lspvic/jupyter_tensorboard) - Start Tensorboard in Jupyter Notebook
 - [t-makaro/animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 - [jbusecke/xmovie](https://github.com/jbusecke/xmovie) - A simple way of creating movies from xarray objects
@@ -2697,7 +2722,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-617-Stars](https://github.com/iBug/This-Repo-Has-617-Stars) - Yes, it's true :heartpulse: This repository has 617 stars.
+- [iBug/This-Repo-Has-618-Stars](https://github.com/iBug/This-Repo-Has-618-Stars) - Yes, it's true :heartbeat: This repository has 618 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -2751,7 +2776,7 @@
 - [facebookresearch/TransCoder](https://github.com/facebookresearch/TransCoder) - Public release of the TransCoder research project https://arxiv.org/pdf/2006.03511.pdf
 - [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
 - [computational-quantum-science/encap](https://github.com/computational-quantum-science/encap) - A simple tool to keep track of computational experiments.
-- [leegao/readme2tex](https://github.com/leegao/readme2tex) - Renders TeXy Math for Github Readmes
+- [leegao/readme2tex](https://github.com/leegao/readme2tex) - Renders TeXy Math for Github Readme - No longer needed with official MathTex support on GH
 - [daft-dev/daft](https://github.com/daft-dev/daft) - Render probabilistic graphical models using matplotlib
 - [toshikwa/rljax](https://github.com/toshikwa/rljax) - A collection of RL algorithms written in JAX.
 - [mariogeiger/se3cnn](https://github.com/mariogeiger/se3cnn) - Euclidean Neural Networks
@@ -3186,13 +3211,18 @@
 
 ## Rust 
 
+- [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
+- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
+- [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+- [henriklovhaug/md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Linus-Mussmaecher/rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [TylerBloom/webatui](https://github.com/TylerBloom/webatui) - An integration between the Yew and Ratatui crates for making TUI-themed WASM webapps
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
-- [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux.
+- [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [pytorch-labs/monarch](https://github.com/pytorch-labs/monarch) - PyTorch Single Controller
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
@@ -3257,7 +3287,6 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [noahgift/rust-mlops-template](https://github.com/noahgift/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
@@ -3294,7 +3323,6 @@
 ## SCSS 
 
 - [stephenhutchings/microns](https://github.com/stephenhutchings/microns) - The universal icon set for user interfaces.
-- [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [schochastics/quarto-sketchy-html](https://github.com/schochastics/quarto-sketchy-html) - A template for quarto to create sketchy looking html documents
 - [saforem2/quarto-reveal](https://github.com/saforem2/quarto-reveal) - Markdown slides using Quarto + reveal.js
 - [hrbrmstr/quarto-organization-template](https://github.com/hrbrmstr/quarto-organization-template) - A Quarto RevealJS Organization Boilerplate Template You Can Clone And Modify Quickly
@@ -3318,13 +3346,17 @@
 
 ## Shell 
 
+- [NCAR/pbstools](https://github.com/NCAR/pbstools) - A collection of user-facing PBS convenience tools maintained by CSG
+- [IHATEGIVINGAUSERNAME/theProtector](https://github.com/IHATEGIVINGAUSERNAME/theProtector) - Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response
+- [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
+- [alex-moon/ban](https://github.com/alex-moon/ban) - ban
 - [Trepan-Debuggers/bashdb](https://github.com/Trepan-Debuggers/bashdb) - Bash debugger (code imported from sourceforge)
 - [igrmk/whiskers](https://github.com/igrmk/whiskers) - Kitty alternative icon
-- [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Neovim, Zsh or Fish, and Kitty or iTerm+Tmux
+- [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Neovim, Zsh or Fish, and Ghostty + Tmux
 - [marlonrichert/zsh-hist](https://github.com/marlonrichert/zsh-hist) - 📝 Edit your Zsh history from the command line.
 - [muthuishere/mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk) - Yes Mcp server in bash
 - [converged-computing/google-performance-study](https://github.com/converged-computing/google-performance-study) - Experiments on Google Cloud, hoping to extend the performance study
-- [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/great alternatives to common unix commands, which is maintained.
+- [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained.
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
 - [doctorfree/MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more
 - [popstas/zsh-command-time](https://github.com/popstas/zsh-command-time) - Show execution time for long commands in zsh
@@ -3428,6 +3460,7 @@
 
 ## Swift 
 
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [neon443/AirAP](https://github.com/neon443/AirAP) - airplay to an ios device
@@ -3526,6 +3559,9 @@
 
 ## TypeScript 
 
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
+- [HassanHassanKerdash/codetxt](https://github.com/HassanHassanKerdash/codetxt) - A CLI tool to turn any Git repository into a prompt-friendly text ingest for LLMs.
+- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [egovelox/mozeidon](https://github.com/egovelox/mozeidon) - Mozeidon is a CLI to handle Firefox or Chrome tabs, history and bookmarks.
 - [possibilities/claude-composer](https://github.com/possibilities/claude-composer) - 
@@ -3558,6 +3594,7 @@
 - [AndreasThinks/obsidian-to-quarto-exporter](https://github.com/AndreasThinks/obsidian-to-quarto-exporter) - Export Obsidian notes to Quarto-compatible QMD files.
 - [arthurrump/tldreveal](https://github.com/arthurrump/tldreveal) - A drawing tool for Reveal.js based on tldraw
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
+- [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
