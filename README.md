@@ -393,7 +393,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
-- [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Infinitely take notes, sketch and learn. Xournal++ Mobile is a port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
+- [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Xournal++ Mobile is an unmaintained port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
 
 ## Dockerfile 
 
@@ -1501,6 +1501,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [trevor-vincent/awesome-high-performance-computing](https://github.com/trevor-vincent/awesome-high-performance-computing) - A curated list of awesome high performance computing resources
 - [MoonshotAI/Moonlight](https://github.com/MoonshotAI/Moonlight) - Muon is Scalable for LLM Training
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
@@ -1722,7 +1723,7 @@
 - [astral-sh/uv-fastapi-example](https://github.com/astral-sh/uv-fastapi-example) - 
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
 - [brentyi/jaxlie](https://github.com/brentyi/jaxlie) - Rigid transforms + Lie groups for JAX
-- [gradio-app/trackio](https://github.com/gradio-app/trackio) - A lightweight, local-first, and free experiment tracking Python library built on top of 🤗 Datasets and Spaces.
+- [gradio-app/trackio](https://github.com/gradio-app/trackio) - A lightweight, local-first, and free experiment tracking from Hugging Face 🤗
 - [ISEEKYAN/mbridge](https://github.com/ISEEKYAN/mbridge) - Bridge Megatron-Core to Hugging Face/Reinforcement Learning
 - [THUDM/slime](https://github.com/THUDM/slime) - slime is a LLM post-training framework aiming for RL Scaling.
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
@@ -2284,7 +2285,7 @@
 - [hanschen/vim-ipython-cell](https://github.com/hanschen/vim-ipython-cell) - Seamlessly run Python code in IPython from Vim
 - [jeffminlin/vmcnet](https://github.com/jeffminlin/vmcnet) - Flexible, general-purpose VMC framework, built on JAX.
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping) - Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
-- [la-niche/cblind](https://github.com/la-niche/cblind) - A colorblind-friendly python module that allows optimal color choice for plotting multiple curves
+- [la-niche/cblind](https://github.com/la-niche/cblind) - Colorblind friendly colormaps and color cycles for matplotlib
 - [Nuclear-Physics-with-Machine-Learning/MLQM](https://github.com/Nuclear-Physics-with-Machine-Learning/MLQM) - Testing using AI and ML techniques to solve quantum systems
 - [gimbo/iterm2-tabs.zsh](https://github.com/gimbo/iterm2-tabs.zsh) - Andy's zsh plugin for setting iTerm2 titles and colors
 - [hpc-carpentry/old-hpc-workflows](https://github.com/hpc-carpentry/old-hpc-workflows) - Scaling studies on high-performance clusters using Snakemake workflows
@@ -2760,7 +2761,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-621-Stars](https://github.com/iBug/This-Repo-Has-621-Stars) - Yes, it's true :heart: This repository has 621 stars.
+- [iBug/This-Repo-Has-622-Stars](https://github.com/iBug/This-Repo-Has-622-Stars) - Yes, it's true :heart: This repository has 622 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3604,6 +3605,7 @@
 
 ## TypeScript 
 
+- [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) - Generate a Breakout game SVG from a GitHub user's contributions graph
 - [MuTsunTsai/fontfreeze](https://github.com/MuTsunTsai/fontfreeze) - Freeze variations and features in font.
 - [BlueprintDesignLab/markdown-ui](https://github.com/BlueprintDesignLab/markdown-ui) - An open standard for rendering interactive widgets in plain Markdown.
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
