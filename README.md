@@ -182,7 +182,7 @@
 
 ## C++ 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones, wearables and AI-native hardware
 - [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine
@@ -925,6 +925,8 @@
 
 ## Jupyter Notebook 
 
+- [ToelUl/Thermal-Phase-Transition-MC-GPU-Simulation](https://github.com/ToelUl/Thermal-Phase-Transition-MC-GPU-Simulation) - Monte Carlo Simulation of 2D Ising model, 2D XY model and 2D Potts model with using PyTorch GPU acceleration.
+- [ToelUl/Flow-U-Net](https://github.com/ToelUl/Flow-U-Net) - U-Net for flow-based sampling
 - [kolibril13/mobject-gallery](https://github.com/kolibril13/mobject-gallery) - Gallery of math objects in manim
 - [therealoliver/Deepdive-llama3-from-scratch](https://github.com/therealoliver/Deepdive-llama3-from-scratch) - Achieve the llama3 inference step-by-step, grasp the core concepts, master the process derivation, implement the code.
 - [dkirkby/MachineLearningStatistics](https://github.com/dkirkby/MachineLearningStatistics) - Machine learning and statistics for physicists
@@ -1510,7 +1512,7 @@
 - [melogabriel/repositories-views-counter](https://github.com/melogabriel/repositories-views-counter) - Repository to implement automatic view counting in the profile readme.
 - [astorfi/Large-Scale-AI-Blueprint](https://github.com/astorfi/Large-Scale-AI-Blueprint) - A comprehensive guide designed to empower readers with advanced strategies and practical insights for developing, optimizing, and deploying scalable AI models in real-world applications.
 - [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) - This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"
-- [HKUST-KnowComp/Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery
+- [HKUST-KnowComp/Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - [EMNLP2025] From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [coryhouse/speaker-starter-kit](https://github.com/coryhouse/speaker-starter-kit) - Resources for aspiring speakers
 - [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - 
@@ -1781,7 +1783,7 @@
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [NVlabs/EAGLE](https://github.com/NVlabs/EAGLE) - Eagle: Frontier Vision-Language Models with Data-Centric Strategies
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
-- [mkaz/libro](https://github.com/mkaz/libro) - A command-line book tracking tool
+- [mkaz/libro](https://github.com/mkaz/libro) - A terminal based book tracking tool
 - [lantunes/netomaton](https://github.com/lantunes/netomaton) - Automata on arbitrary networks, with Python
 - [fnoble/Plot-o-matic](https://github.com/fnoble/Plot-o-matic) - Plot data in real-time from arbitrary input streams (serial ports, network, files etc.)
 - [evelynmitchell/Score-Entropy-Discrete-Diffusion](https://github.com/evelynmitchell/Score-Entropy-Discrete-Diffusion) - [ICML 2024 Best Paper] Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution (https://arxiv.org/abs/2310.16834)
@@ -2058,6 +2060,7 @@
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [Nerocraft4/habittracker](https://github.com/Nerocraft4/habittracker) - 
+- [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [argonne-lcf/Megatron-DeepSpeed](https://github.com/argonne-lcf/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
@@ -2067,7 +2070,7 @@
 - [ptmcg/logmerger](https://github.com/ptmcg/logmerger) - TUI utility to view multiple log files with merged timeline
 - [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either Trio or asyncio
 - [mina-ghashami/transformer-in-pytorch](https://github.com/mina-ghashami/transformer-in-pytorch) - Contains from scratch code of implementing transformer in PyTorch
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
 - [orakaro/rainbowstream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [outergroup/vexpr](https://github.com/outergroup/vexpr) - Write your code as tree-like expressions, then transform it
 - [ahrm/sioyek-python-extensions](https://github.com/ahrm/sioyek-python-extensions) - Python wrapper and simple addons for sioyek PDF viewer
@@ -2292,7 +2295,7 @@
 - [michaelfaulkner/super-aLby](https://github.com/michaelfaulkner/super-aLby) - 
 - [michaelfaulkner/xy-type-models](https://github.com/michaelfaulkner/xy-type-models) - 
 - [neelindresh/pymlpipe](https://github.com/neelindresh/pymlpipe) - 
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
 - [executablebooks/github-activity](https://github.com/executablebooks/github-activity) - Simple markdown changelogs for GitHub repositories
 - [asperti/We_love_latent_space](https://github.com/asperti/We_love_latent_space) - Repository relative to the article "Comparing the latent space of generative models", joint work with Valerio Tonelli
@@ -2761,7 +2764,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-622-Stars](https://github.com/iBug/This-Repo-Has-622-Stars) - Yes, it's true :heart: This repository has 622 stars.
+- [iBug/This-Repo-Has-622-Stars](https://github.com/iBug/This-Repo-Has-622-Stars) - Yes, it's true :orange_heart: This repository has 622 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3173,7 +3176,7 @@
 - [rkern/line_profiler](https://github.com/rkern/line_profiler) - (OLD REPO) Line-by-line profiling for Python - Current repo -&gt;
 - [beacoding/jupyshare](https://github.com/beacoding/jupyshare) - 
 - [CodinGame/advanced-python-features-playground](https://github.com/CodinGame/advanced-python-features-playground) - Advanced Python Features
-- [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
+- [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation and documentation
 - [qmlcode/qml](https://github.com/qmlcode/qml) - QML: Quantum Machine Learning
 - [lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
@@ -3317,7 +3320,6 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
-- [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -3688,7 +3690,7 @@
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [daksh2k/Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) - Some spicetify extensions!
