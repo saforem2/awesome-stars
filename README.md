@@ -125,7 +125,7 @@
 - [LLNL/scr](https://github.com/LLNL/scr) - SCR caches checkpoint data in storage on the compute nodes of a Linux cluster to provide a fast, scalable checkpoint / restart capability for MPI codes.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
-- [fletcher/MultiMarkdown-6](https://github.com/fletcher/MultiMarkdown-6) - Lightweight markup processor to produce HTML, LaTeX, and more.
+- [fletcher/MultiMarkdown-6](https://github.com/fletcher/MultiMarkdown-6) - (MultiMarkdown-7 is now in pre-release development here on GitHub
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [pmodels/mpich](https://github.com/pmodels/mpich) - Official MPICH Repository
 - [argonne-lcf/GettingStarted](https://github.com/argonne-lcf/GettingStarted) - Collection of small examples for running on ALCF resources
@@ -182,7 +182,7 @@
 
 ## C++ 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones, wearables and AI-native hardware
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones and AI-native devices
 - [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine
@@ -609,6 +609,7 @@
 
 ## Haskell 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [jgm/skylighting](https://github.com/jgm/skylighting) - A Haskell syntax highlighting library with tokenizers derived from KDE syntax highlighting descriptions
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
@@ -628,7 +629,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
 - [bentolor/java9to13](https://github.com/bentolor/java9to13) - Power Catchup – Java 9 to 13: HTML5 Presentation and Code Examples
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [ambrosiogabe/ImpossibleGame](https://github.com/ambrosiogabe/ImpossibleGame) - 
@@ -641,6 +642,7 @@
 
 ## JavaScript 
 
+- [kidminks/terminal_resume](https://github.com/kidminks/terminal_resume) - My resume which looks like terminal
 - [blocktronics/moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor
 - [rafaelrinaldi/hn-cli](https://github.com/rafaelrinaldi/hn-cli) - :newspaper: CLI to browse Hacker News
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
@@ -1292,6 +1294,8 @@
 
 ## Lua 
 
+- [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
+- [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
 - [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [roobert/palette.nvim](https://github.com/roobert/palette.nvim) - 🎨 Palette - A beautiful, versatile, systematic, Neovim theme system
 - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) - Ripgrep source for blink.nvim
@@ -1727,7 +1731,7 @@
 - [brentyi/jaxlie](https://github.com/brentyi/jaxlie) - Rigid transforms + Lie groups for JAX
 - [gradio-app/trackio](https://github.com/gradio-app/trackio) - A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗
 - [ISEEKYAN/mbridge](https://github.com/ISEEKYAN/mbridge) - Bridge Megatron-Core to Hugging Face/Reinforcement Learning
-- [THUDM/slime](https://github.com/THUDM/slime) - slime is a LLM post-training framework aiming for RL Scaling.
+- [THUDM/slime](https://github.com/THUDM/slime) - slime is a LLM post-training framework for RL Scaling.
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
 - [NCAR/pbsparse](https://github.com/NCAR/pbsparse) - A package for processing PBS Pro accounting records
 - [NCAR/qhist](https://github.com/NCAR/qhist) - A utility to query historical PBS Pro job data
@@ -3252,6 +3256,8 @@
 
 ## Rust 
 
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [darrell-roberts/hacker-news](https://github.com/darrell-roberts/hacker-news) - My Hacker news desktop reader.
 - [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card) - 
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
@@ -3386,7 +3392,7 @@
 
 ## Scala 
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [unibas-gravis/icp-proposal](https://github.com/unibas-gravis/icp-proposal) - Source code to the paper "A Closest Point Proposal for MCMC-based Probabilistic Surface Registration"
 
 ## Shell 
@@ -3650,7 +3656,7 @@
 - [danieltomasz/qmd-as-md-obsidian](https://github.com/danieltomasz/qmd-as-md-obsidian) - A plugin for Obsidian that enables editing and compiling `qmd` Quarto files.
 - [AndreasThinks/obsidian-to-quarto-exporter](https://github.com/AndreasThinks/obsidian-to-quarto-exporter) - Export Obsidian notes to Quarto-compatible QMD files.
 - [arthurrump/tldreveal](https://github.com/arthurrump/tldreveal) - A drawing tool for Reveal.js based on tldraw
-- [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
+- [edmundhung/conform](https://github.com/edmundhung/conform) - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
