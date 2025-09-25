@@ -184,7 +184,7 @@
 ## C++ 
 
 - [google-deepmind/gemini_icpc2025](https://github.com/google-deepmind/gemini_icpc2025) - Gemini 2025 ICPC World Finals Code Submissions
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones and AI-native devices
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
 - [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine
@@ -435,6 +435,7 @@
 
 ## Go 
 
+- [bmf-san/ggc](https://github.com/bmf-san/ggc) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
 - [robert-mcdermott/uve](https://github.com/robert-mcdermott/uve) - UVE  (UV Environment Manager) is a lightweight Python virtual environment manager that works with UV. It provides a conda-like experience for managing Python virtual environments from any directory, w
 - [zix99/rare](https://github.com/zix99/rare) - Create terminal-based histograms, bar graphs, tables, heatmaps and more in realtime using regex and expressions.
 - [nathbns/gitact](https://github.com/nathbns/gitact) - cli app in Go
@@ -464,6 +465,7 @@
 - [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Realtime log viewer with web UI, tail -f for logs with a web interface browser.
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [bottlerocketlabs/remote-pbcopy](https://github.com/bottlerocketlabs/remote-pbcopy) - remote pbcopy over ssh
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [converged-computing/slurm-operator](https://github.com/converged-computing/slurm-operator) - Testing if I can implement slurm in an operator
@@ -636,7 +638,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [bentolor/java9to13](https://github.com/bentolor/java9to13) - Power Catchup – Java 9 to 13: HTML5 Presentation and Code Examples
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [ambrosiogabe/ImpossibleGame](https://github.com/ambrosiogabe/ImpossibleGame) - 
@@ -649,6 +651,7 @@
 
 ## JavaScript 
 
+- [hoeci/sort-play](https://github.com/hoeci/sort-play) - The ultimate toolkit for your Spotify library. Sort, filter, and create playlists.
 - [mulfok/periodic-note-templates](https://github.com/mulfok/periodic-note-templates) - A set of periodic note templates for Obsidian.md.
 - [gadenbuie/mynorfolk-dash](https://github.com/gadenbuie/mynorfolk-dash) - MyNorfolk Dashboard: A Quarto Dashboards Demo
 - [kidminks/terminal_resume](https://github.com/kidminks/terminal_resume) - My resume which looks like terminal
@@ -935,6 +938,7 @@
 
 ## Jupyter Notebook 
 
+- [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.
 - [ToelUl/Flow-to-Field](https://github.com/ToelUl/Flow-to-Field) - 
 - [CVC-Lab/HamiltonianLearning](https://github.com/CVC-Lab/HamiltonianLearning) - 
 - [ToelUl/Thermal-Phase-Transition-MC-GPU-Simulation](https://github.com/ToelUl/Thermal-Phase-Transition-MC-GPU-Simulation) - Monte Carlo Simulation of 2D Ising model, 2D XY model and 2D Potts model with using PyTorch GPU acceleration.
@@ -1001,7 +1005,6 @@
 - [marylou-gabrie/flonaco](https://github.com/marylou-gabrie/flonaco) - 
 - [svsamsonov/ex2mcmc_new](https://github.com/svsamsonov/ex2mcmc_new) - 
 - [tanelp/tiny-diffusion](https://github.com/tanelp/tiny-diffusion) - A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.
-- [hamelsmu/hamel-site](https://github.com/hamelsmu/hamel-site) - Repo for Hamel's Professional Website
 - [hamelsmu/wandb-cicd](https://github.com/hamelsmu/wandb-cicd) - 
 - [MNoichl/opinionated](https://github.com/MNoichl/opinionated) - Opinionated provides simple, clean stylesheets for plotting with matplotlib and seaborn.
 - [autosome-ru/LegNet](https://github.com/autosome-ru/LegNet) - accurate prediction of promoter activity and variant effects from massive parallel reporter assays
@@ -1304,6 +1307,7 @@
 
 ## Lua 
 
+- [mcauley-penney/nvim](https://github.com/mcauley-penney/nvim) - Neovim cfg
 - [sontungexpt/sttusline](https://github.com/sontungexpt/sttusline) - A very lightweight, super fast and lazyloading statusline plugin for Neovim written in lua.
 - [2KAbhishek/termim.nvim](https://github.com/2KAbhishek/termim.nvim) - Neovim Terminal, Improved 🦾💻
 - [NvChad/base46](https://github.com/NvChad/base46) - NvChad's base46 theme plugin with caching ( Total re-write )
@@ -1383,7 +1387,6 @@
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Not UFO in the sky, but an ultra fold in Neovim.
 - [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing!
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
-- [ginolhac/unilur](https://github.com/ginolhac/unilur) - A quarto extension for writing teaching practicals
 - [clearmatics/qreacto](https://github.com/clearmatics/qreacto) - Run standalone React components in your Quarto project!
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
@@ -1724,12 +1727,19 @@
 
 ## Python 
 
+- [apple/ml-l3m](https://github.com/apple/ml-l3m) - Large multi-modal models (L3M) pre-training.
+- [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper) - A fast and efficient type assistant for Python, including tensor shape inference
+- [wmn-231314/diffusion-data-constraint](https://github.com/wmn-231314/diffusion-data-constraint) - Official PyTorch implementation and models for paper "Diffusion Beats Autoregressive in Data-Constrained Settings". We find diffusion models are significantly more data-efficient than standard left to
+- [pyiron/executorlib](https://github.com/pyiron/executorlib) - Up-scale python functions for high-performance computing (HPC)
+- [LLNL/open-ai-co-scientist](https://github.com/LLNL/open-ai-co-scientist) - Open-source implementation of Google's AI co-scientist for genenerating research hypotheses
+- [TsinghuaC3I/SSRL](https://github.com/TsinghuaC3I/SSRL) - SSRL: Self-Search Reinforcement Learning
+- [zhenghh04/blendcorpus](https://github.com/zhenghh04/blendcorpus) - BlendCorpus is a modular and scalable data preprocessing and loading framework for large language model (LLM) training.
 - [astral-sh/trusted-publishing-examples](https://github.com/astral-sh/trusted-publishing-examples) - A complete, self-contained example for trusted publishing with uv
 - [mlcommons/logging](https://github.com/mlcommons/logging) - MLPerf™ logging library
 - [dloss/klp](https://github.com/dloss/klp) - Lightweight CLI viewer for structured log files and streams (logfmt, JSONL and many others)
 - [mil-ad/stui](https://github.com/mil-ad/stui) - A Slurm dashboard for the terminal.
 - [josheppinette/python-logfmter](https://github.com/josheppinette/python-logfmter) - Add logfmt structured logging using the stdlib logging module and without changing a single log call.
-- [meta-pytorch/BackendBench](https://github.com/meta-pytorch/BackendBench) - How to ship your LLM generated kernels to PyTorch
+- [meta-pytorch/BackendBench](https://github.com/meta-pytorch/BackendBench) - How to ensure correctness and ship LLM generated kernels in PyTorch
 - [goombalab/hnet](https://github.com/goombalab/hnet) - H-Net: Hierarchical Network with Dynamic Chunking
 - [foundation-model-stack/foundation-model-stack](https://github.com/foundation-model-stack/foundation-model-stack) - 🚀 Collection of components for development, training, tuning, and inference of foundation models leveraging PyTorch native components.
 - [foundation-model-stack/fms-fsdp](https://github.com/foundation-model-stack/fms-fsdp) - 🚀 Efficiently (pre)training foundation models with native PyTorch features, including FSDP for training and SDPA implementation of Flash attention v2.
@@ -1738,7 +1748,7 @@
 - [NVIDIA-NeMo/Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge) - Training library for Megatron-based models
 - [hugovk/lastfm-tools](https://github.com/hugovk/lastfm-tools) - Some Python CLI tools for talking to the Last.fm API
 - [epfml/schedules-and-scaling](https://github.com/epfml/schedules-and-scaling) - Code for NeurIPS 2024 Spotlight: "Scaling Laws and Compute-Optimal Training Beyond Fixed Training Durations"
-- [willccbb/verifiers](https://github.com/willccbb/verifiers) - Verifiers for LLM Reinforcement Learning
+- [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Environments for LLM Reinforcement Learning
 - [nkantar/sus](https://github.com/nkantar/sus) - Really simple static website URL shortener
 - [helblazer811/ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
 - [typedef-ai/fenic](https://github.com/typedef-ai/fenic) - Build reliable AI and agentic applications with DataFrames
@@ -1758,7 +1768,7 @@
 - [brentyi/jaxlie](https://github.com/brentyi/jaxlie) - Rigid transforms + Lie groups for JAX
 - [gradio-app/trackio](https://github.com/gradio-app/trackio) - A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗
 - [ISEEKYAN/mbridge](https://github.com/ISEEKYAN/mbridge) - Bridge Megatron-Core to Hugging Face/Reinforcement Learning
-- [THUDM/slime](https://github.com/THUDM/slime) - slime is a LLM post-training framework for RL Scaling.
+- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling.
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
 - [NCAR/pbsparse](https://github.com/NCAR/pbsparse) - A package for processing PBS Pro accounting records
 - [NCAR/qhist](https://github.com/NCAR/qhist) - A utility to query historical PBS Pro job data
@@ -1864,7 +1874,7 @@
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [brentyi/tyro](https://github.com/brentyi/tyro) - CLI interfaces & config objects, from types
 - [runjie-yan/ConsistentFlowDistillation](https://github.com/runjie-yan/ConsistentFlowDistillation) - [ICLR'25] Official Implementation for Consistent Flow Distillation for Text-to-3D Generation
-- [pytorch/torchft](https://github.com/pytorch/torchft) - Fault tolerance for PyTorch (HSDP, LocalSGD, DiLoCo, Streaming DiLoCo)
+- [meta-pytorch/torchft](https://github.com/meta-pytorch/torchft) - Fault tolerance for PyTorch (HSDP, LocalSGD, DiLoCo, Streaming DiLoCo)
 - [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
 - [mil-ad/kitcat](https://github.com/mil-ad/kitcat) - Matplotlib backend for direct plotting in the terminal using Kitty graphics protocol.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -1988,7 +1998,6 @@
 - [albermax/innvestigate](https://github.com/albermax/innvestigate) - A toolbox to iNNvestigate neural networks' predictions!
 - [luyug/magix](https://github.com/luyug/magix) - Supercharge huggingface transformers with model parallelism.
 - [modal-labs/llm-finetuning](https://github.com/modal-labs/llm-finetuning) - Guide for fine-tuning Llama/Mistral/CodeLlama models and more
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [bair-climate-initiative/xT](https://github.com/bair-climate-initiative/xT) - 
 - [Roger-luo/teal](https://github.com/Roger-luo/teal) - Software framework for experimenting with Operator Learning Renormalization Group (OLRG)
 - [lgienapp/aquarel](https://github.com/lgienapp/aquarel) - Styling matplotlib made easy
@@ -2215,7 +2224,7 @@
 - [jupyterlite/repo2jupyterlite](https://github.com/jupyterlite/repo2jupyterlite) - Build jupyterlite apps out of repositories
 - [mpmath/mpmath](https://github.com/mpmath/mpmath) - Python library for arbitrary-precision floating-point arithmetic
 - [Miyazaki-Yu/ecnn4klm](https://github.com/Miyazaki-Yu/ecnn4klm) - 
-- [pytorch/torchx](https://github.com/pytorch/torchx) - TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
+- [meta-pytorch/torchx](https://github.com/meta-pytorch/torchx) - TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [PythonOT/POT](https://github.com/PythonOT/POT) - POT : Python Optimal Transport
 - [pretalx/pretalx](https://github.com/pretalx/pretalx) - Conference planning tool: CfP, scheduling, speaker management
@@ -2284,7 +2293,7 @@
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
-- [pytorch/tnt](https://github.com/pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
+- [meta-pytorch/tnt](https://github.com/meta-pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
 - [jw9730/hot](https://github.com/jw9730/hot) - [NeurIPS'21] Higher-order Transformers for sets, graphs, and hypergraphs, in PyTorch
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [NERSC/sc22-dl-tutorial](https://github.com/NERSC/sc22-dl-tutorial) - Material for the SC22 Deep Learning at Scale Tutorial
@@ -2580,7 +2589,7 @@
 - [iffsid/mmvae](https://github.com/iffsid/mmvae) - Multimodal Mixture-of-Experts VAE
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
-- [GetRD/academic-file-converter](https://github.com/GetRD/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
+- [BuildLore/academic-file-converter](https://github.com/BuildLore/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
 - [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
 - [fernandobrito/travel_log](https://github.com/fernandobrito/travel_log) - A static website generator for your trip and its records (pictures, tracks, journal, etc).
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
@@ -3600,6 +3609,7 @@
 - [mps9506/quarto-cv](https://github.com/mps9506/quarto-cv) - A CV template for quarto
 - [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites) - collection of favorite TikZ graphics
 - [arcruz0/quarto-compact](https://github.com/arcruz0/quarto-compact) - A Quarto format for compact PDF documents. Good for short reports, homework assignments, etc.
+- [ginolhac/unilur](https://github.com/ginolhac/unilur) - A quarto extension for writing teaching practicals
 - [saforem2/saforem2.github.io](https://github.com/saforem2/saforem2.github.io) - Personal Website (using Quarto)
 - [saforem2/lattice23](https://github.com/saforem2/lattice23) - Slides for Lattice 2023
 - [saforem2/lqcd-pasc23](https://github.com/saforem2/lqcd-pasc23) - Slides for talk @ PASC 23
@@ -3648,6 +3658,7 @@
 
 ## TypeScript 
 
+- [Left-on-Read/leftonread](https://github.com/Left-on-Read/leftonread) - Left on Read
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
