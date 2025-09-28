@@ -121,7 +121,7 @@
 - [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [stas00/the-art-of-debugging](https://github.com/stas00/the-art-of-debugging) - The Art of Debugging
-- [hpc/Spindle](https://github.com/hpc/Spindle) - Scalable dynamic library and python loading in HPC environments
+- [LLNL/Spindle](https://github.com/LLNL/Spindle) - Scalable dynamic library and python loading in HPC environments
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [LLNL/scr](https://github.com/LLNL/scr) - SCR caches checkpoint data in storage on the compute nodes of a Linux cluster to provide a fast, scalable checkpoint / restart capability for MPI codes.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
@@ -1022,6 +1022,7 @@
 - [htjb/margarine](https://github.com/htjb/margarine) - Code to replicate posterior probability distributions with bijectors/KDEs and perform marginal KL/bayesian dimensionality calculations.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [FrancescoSaverioZuppichini/glasses](https://github.com/FrancescoSaverioZuppichini/glasses) - High-quality Neural Networks for Computer Vision 😎
+- [nasaharvest/presto](https://github.com/nasaharvest/presto) - Lightweight, Pre-trained Transformers for Remote Sensing Timeseries
 - [wangleiphy/ml4p](https://github.com/wangleiphy/ml4p) - Machine learning for physicists
 - [CrossFacilityWorkflows/DOE-HPC-workflow-training](https://github.com/CrossFacilityWorkflows/DOE-HPC-workflow-training) - Repo for a DOE HPC workflow training event
 - [anoops-ai/CosmicTagger](https://github.com/anoops-ai/CosmicTagger) - Cosmic Tagging Network for Neutrino Physics
@@ -1544,7 +1545,6 @@
 - [FZJ-JSC/jubench](https://github.com/FZJ-JSC/jubench) - JUPITER Benchmark Suite
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [NousResearch/DisTrO](https://github.com/NousResearch/DisTrO) - Distributed Training Over-The-Internet
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [argonne-lcf/summer-school-2024](https://github.com/argonne-lcf/summer-school-2024) - 
 - [harmonic-ai/datasets](https://github.com/harmonic-ai/datasets) - Harmonic Datasets
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
@@ -1987,7 +1987,7 @@
 - [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy) - A light weight Python library for the Spotify Web API
 - [wightwick/fynesse](https://github.com/wightwick/fynesse) - Pure-Python web app for music exploration with Spotify 🌱
 - [Lightning-AI/lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - PyTorch compiler that accelerates training and inference. Get built-in optimizations for performance, memory, parallelism, and easily write your own.
-- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [tonyduan/diffusion](https://github.com/tonyduan/diffusion) - From-scratch diffusion model implemented in PyTorch.
@@ -2237,7 +2237,6 @@
 - [davidbrochart/jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the terminal.
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [FrancescoSaverioZuppichini/pytorch-2.0-benchmark](https://github.com/FrancescoSaverioZuppichini/pytorch-2.0-benchmark) - Benchmarking PyTorch 2.0 different models
-- [nasaharvest/presto](https://github.com/nasaharvest/presto) - Lightweight, Pre-trained Transformers for Remote Sensing Timeseries
 - [microsoft/msccl-tools](https://github.com/microsoft/msccl-tools) - Synthesizer for optimal collective communication algorithms
 - [parmoo/parmoo](https://github.com/parmoo/parmoo) - Python library for parallel multiobjective simulation optimization
 - [chr5tphr/zennit](https://github.com/chr5tphr/zennit) - Zennit is a high-level framework in Python using PyTorch for explaining/exploring neural networks using attribution methods like LRP.
@@ -3456,6 +3455,7 @@
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
 - [doctorfree/MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more
 - [popstas/zsh-command-time](https://github.com/popstas/zsh-command-time) - Show execution time for long commands in zsh
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [crissNb/Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar) - Dynamic Island on iPhone 14 Pro implementation on Mac using Sketchybar
 - [mej/nhc](https://github.com/mej/nhc) - LBNL Node Health Check
@@ -3522,7 +3522,6 @@
 - [jjangsangy/MacOS-TensorflowBuilds](https://github.com/jjangsangy/MacOS-TensorflowBuilds) - Optimized tensorflow wheels binaries build for macos
 - [umurgdk/ddnotes](https://github.com/umurgdk/ddnotes) - drop down notes for linux window managers
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
@@ -3556,6 +3555,7 @@
 
 ## Swift 
 
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [OrdinarySF/LyricFever-Lite](https://github.com/OrdinarySF/LyricFever-Lite) - Ultimate Spotify & Apple Music Lyrics experience for macOS (spiritual successor to LyricsX and LyricFever)
 - [argmaxinc/apple-speechanalyzer-cli-example](https://github.com/argmaxinc/apple-speechanalyzer-cli-example) - Apple Speech Analyzer CLI Example
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
@@ -3867,6 +3867,7 @@
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [DonJayamanne/pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - This extension is now maintained in the Microsoft fork.
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
