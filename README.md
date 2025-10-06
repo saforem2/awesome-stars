@@ -176,7 +176,7 @@
 - [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-- [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
+- [Live-Charts/LiveCharts2](https://github.com/Live-Charts/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [LaTeX-Bibitem-Styler/latex-bibitemstyler](https://github.com/LaTeX-Bibitem-Styler/latex-bibitemstyler) - Automatically exported from code.google.com/p/latex-bibitemstyler
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
@@ -575,7 +575,6 @@
 - [EmilHvitfeldt/quarto-revealjs-letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto reveal.js theme based on xaringan letterbox
 - [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
-- [mcanouil/quarto-revealjs-coeos](https://github.com/mcanouil/quarto-revealjs-coeos) - Quarto reveal.js template extension.
 - [grokqcd/USQCD-theory-and-experimental-time-lines](https://github.com/grokqcd/USQCD-theory-and-experimental-time-lines) - Timeline for USQCD
 - [argonne-lcf/ALCFBeginnersGuide](https://github.com/argonne-lcf/ALCFBeginnersGuide) - 
 - [olcf/olcf-user-docs](https://github.com/olcf/olcf-user-docs) - Sources for the Oak Ridge Leadership Computing Facility User Documentation
@@ -638,7 +637,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [bentolor/java9to13](https://github.com/bentolor/java9to13) - Power Catchup – Java 9 to 13: HTML5 Presentation and Code Examples
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [ambrosiogabe/ImpossibleGame](https://github.com/ambrosiogabe/ImpossibleGame) - 
@@ -1092,6 +1091,7 @@
 - [noegroup/stochastic_normalizing_flows](https://github.com/noegroup/stochastic_normalizing_flows) - Stochastic Normalizing Flows
 - [noegroup/paper_boltzmann_generators](https://github.com/noegroup/paper_boltzmann_generators) - 
 - [noegroup/bgflow](https://github.com/noegroup/bgflow) - Boltzmann Generators and Normalizing Flows in PyTorch
+- [bandframework/surmise](https://github.com/bandframework/surmise) - A python package for surrogate models that interface with calibration and other tools
 - [twitter-research/graph-neural-pde](https://github.com/twitter-research/graph-neural-pde) - Graph Neural PDEs
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
@@ -1539,7 +1539,6 @@
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [coryhouse/speaker-starter-kit](https://github.com/coryhouse/speaker-starter-kit) - Resources for aspiring speakers
 - [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - 
-- [pmh9960/SphereDiff](https://github.com/pmh9960/SphereDiff) - Official PyTorch implementation of "SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation"
 - [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
 - [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
 - [FZJ-JSC/jubench](https://github.com/FZJ-JSC/jubench) - JUPITER Benchmark Suite
@@ -1789,7 +1788,7 @@
 - [xrsrke/pipegoose](https://github.com/xrsrke/pipegoose) - Large scale 4D parallelism pre-training for 🤗 transformers in Mixture of Experts *(still work in progress)*
 - [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
-- [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) - 
+- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [tanishqkumar/beyond-nanogpt](https://github.com/tanishqkumar/beyond-nanogpt) - Minimal and annotated implementations of key ideas from modern deep learning research.
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [APPFL/APPFL](https://github.com/APPFL/APPFL) - Advanced Privacy-Preserving Federated Learning framework
@@ -1803,7 +1802,7 @@
 - [Princeton-RL/normalising-flows-4-reinforcement-learning](https://github.com/Princeton-RL/normalising-flows-4-reinforcement-learning) - Code for the paper Normalizing Flows are Capable Models for RL
 - [finnschi/heic-shenanigans](https://github.com/finnschi/heic-shenanigans) - Doing some dev work on HEIC files , HDR GAIn maps and so on
 - [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL) - Scalable toolkit for efficient model reinforcement
-- [thomasple/FeNNol](https://github.com/thomasple/FeNNol) - Force-field-enhanced Neural Networks optimized library
+- [FeNNol-tools/FeNNol](https://github.com/FeNNol-tools/FeNNol) - Force-field-enhanced Neural Networks optimized library
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 - [rackslab/Slurm-web](https://github.com/rackslab/Slurm-web) - Open source web interface for Slurm HPC & AI clusters
 - [Greyyy-HJC/gpt_benchmark](https://github.com/Greyyy-HJC/gpt_benchmark) - collection of benchmark of gpt code
@@ -1823,6 +1822,7 @@
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [NVlabs/EAGLE](https://github.com/NVlabs/EAGLE) - Eagle: Frontier Vision-Language Models with Data-Centric Strategies
+- [pmh9960/SphereDiff](https://github.com/pmh9960/SphereDiff) - Official PyTorch implementation of "SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation"
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
 - [mkaz/libro](https://github.com/mkaz/libro) - A terminal based book tracking tool
 - [lantunes/netomaton](https://github.com/lantunes/netomaton) - Automata on arbitrary networks, with Python
@@ -1857,7 +1857,7 @@
 - [ML-GSAI/SMDM](https://github.com/ML-GSAI/SMDM) - Official PyTorch implementation for ICLR2025 paper "Scaling up Masked Diffusion Models on Text"
 - [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
-- [deepseek-ai/DualPipe](https://github.com/deepseek-ai/DualPipe) - A bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training.
+- [deepseek-ai/DualPipe](https://github.com/deepseek-ai/DualPipe) - A bidirectional pipeline parallelism algorithm for computation-communication overlap in DeepSeek V3/R1 training.
 - [emergent-misalignment/emergent-misalignment](https://github.com/emergent-misalignment/emergent-misalignment) - 
 - [ecmwf-lab/ai-models](https://github.com/ecmwf-lab/ai-models) - 
 - [fla-org/flame](https://github.com/fla-org/flame) - 🔥 A minimal training framework for scaling FLA models
@@ -1955,7 +1955,7 @@
 - [yacineMTB/pyrepl.nvim](https://github.com/yacineMTB/pyrepl.nvim) - ipython is bloated af
 - [AI4QC/AI_for_Science_paper_collection](https://github.com/AI4QC/AI_for_Science_paper_collection) - List the AI for Science papers accepted by top conferences
 - [rogual/fix-quicklook](https://github.com/rogual/fix-quicklook) - Remove rounded corners from QuickLook on MacOS
-- [aiqm/torchani](https://github.com/aiqm/torchani) - Accurate Neural Network Potential on PyTorch
+- [aiqm/torchani](https://github.com/aiqm/torchani) - TorchANI 2.0 is an open-source library that supports training, development, and research of ANI-style neural network interatomic potentials. It was originally developed and is currently maintained by 
 - [meta-pytorch/torchsnapshot](https://github.com/meta-pytorch/torchsnapshot) - A performant, memory-efficient checkpointing library for PyTorch applications, designed with large, complex distributed workloads in mind.
 - [biancarosa/lastfm-last-played](https://github.com/biancarosa/lastfm-last-played) - Little lastfm widget to show your latest songs on your personal website.
 - [facebookresearch/chameleon](https://github.com/facebookresearch/chameleon) - Repository for Meta Chameleon, a mixed-modal early-fusion foundation model from FAIR.
@@ -1974,7 +1974,7 @@
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [google-deepmind/penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [pytorch/torchtune](https://github.com/pytorch/torchtune) - PyTorch native post-training library
+- [meta-pytorch/torchtune](https://github.com/meta-pytorch/torchtune) - PyTorch native post-training library
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
 - [intel/ipex-llm](https://github.com/intel/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete
@@ -2003,7 +2003,7 @@
 - [lgienapp/aquarel](https://github.com/lgienapp/aquarel) - Styling matplotlib made easy
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-- [Lightning-AI/litData](https://github.com/Lightning-AI/litData) - Transform datasets at scale. Optimize datasets for fast AI model training.
+- [Lightning-AI/litData](https://github.com/Lightning-AI/litData) - Speed up model training by fixing data loading.
 - [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
 - [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Gemma open-weight LLM library, from Google DeepMind
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
@@ -2114,7 +2114,7 @@
 - [orakaro/rainbowstream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [outergroup/vexpr](https://github.com/outergroup/vexpr) - Write your code as tree-like expressions, then transform it
 - [ahrm/sioyek-python-extensions](https://github.com/ahrm/sioyek-python-extensions) - Python wrapper and simple addons for sioyek PDF viewer
-- [axonn-ai/axonn](https://github.com/axonn-ai/axonn) - A parallel framework for training deep neural networks
+- [axonn-ai/axonn](https://github.com/axonn-ai/axonn) - Parallel framework for training and fine-tuning deep neural networks
 - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 - [cutecharts/cutecharts.py](https://github.com/cutecharts/cutecharts.py) - 📉 Hand drawing style charts library for Python
 - [aio-libs/aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
@@ -2300,7 +2300,7 @@
 - [noajshu/learning_irreps](https://github.com/noajshu/learning_irreps) - Learning irreducible representations of noncommutative Lie groups, applied to constructing equivariant neural networks
 - [oxcsml/lie-transformer](https://github.com/oxcsml/lie-transformer) - LieTransformer: Equivariant Self-Attention for Lie Groups
 - [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state
-- [Anguswlx/CAN2XY](https://github.com/Anguswlx/CAN2XY) - Code for recognizing the KT phase transition in classical 2D XY model by the Variational Autoregressive Networks
+- [lingxiao-mlphys/CAN2XY](https://github.com/lingxiao-mlphys/CAN2XY) - Code for recognizing the KT phase transition in classical 2D XY model by the Variational Autoregressive Networks
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [kazewong/flowMC](https://github.com/kazewong/flowMC) - Normalizing-flow enhanced sampling package for probabilistic inference in Jax
 - [jonkhler/s2cnn](https://github.com/jonkhler/s2cnn) - Spherical CNNs
@@ -2528,7 +2528,6 @@
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
 - [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
 - [brohrer/taming_matplotlib](https://github.com/brohrer/taming_matplotlib) - Tutorials for getting the most out of Matplotlib
-- [bandframework/surmise](https://github.com/bandframework/surmise) - A python package for surrogate models that interface with calibration and other tools
 - [Libensemble/libensemble](https://github.com/Libensemble/libensemble) - A Python toolkit for coordinating asynchronous and dynamic ensembles of calculations.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [thu-ml/zhusuan](https://github.com/thu-ml/zhusuan) - A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow
@@ -2803,7 +2802,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-623-Stars](https://github.com/iBug/This-Repo-Has-623-Stars) - Yes, it's true :heartbeat: This repository has 623 stars.
+- [iBug/This-Repo-Has-625-Stars](https://github.com/iBug/This-Repo-Has-625-Stars) - Yes, it's true :revolving_hearts: This repository has 625 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3019,7 +3018,7 @@
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [soravux/scoop](https://github.com/soravux/scoop) - SCOOP (Scalable COncurrent Operations in Python)
 - [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep) - Extended histogram plotting on top of matplotlib and HEP collaboration compatible styling
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [Bihaqo/t3f](https://github.com/Bihaqo/t3f) - Tensor Train decomposition on TensorFlow
 - [chrischute/flowplusplus](https://github.com/chrischute/flowplusplus) - Implementation of Flow++ in PyTorch
 - [albertomontesg/keras-model-zoo](https://github.com/albertomontesg/keras-model-zoo) - Keras Model Zoo
@@ -3059,7 +3058,6 @@
 - [necludov/iMCMC](https://github.com/necludov/iMCMC) - 
 - [bayesiains/nsf](https://github.com/bayesiains/nsf) - Code for Neural Spline Flows paper
 - [argonne-lcf/balsam](https://github.com/argonne-lcf/balsam) - High throughput workflows and automation for HPC
-- [ChrisWaites/jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing Flows in JAX 🌊
 - [hariharan-devarajan/vanidl](https://github.com/hariharan-devarajan/vanidl) - VaniDL is an tool for analyzing I/O patterns and behavior with Deep Learning Applications.
 - [MishaLaskin/curl](https://github.com/MishaLaskin/curl) - CURL: Contrastive Unsupervised Representation Learning for Sample-Efficient Reinforcement Learning
 - [facebookincubator/submitit](https://github.com/facebookincubator/submitit) - Python 3.8+ toolbox for submitting jobs to Slurm
@@ -3248,6 +3246,7 @@
 - [kazuyanagimoto/quarto-awesomecv-typst](https://github.com/kazuyanagimoto/quarto-awesomecv-typst) - A Quarto + Typst format for CV
 - [EllaKaye/ellakaye.co.uk](https://github.com/EllaKaye/ellakaye.co.uk) - My personal website
 - [mhanf/quarto_website](https://github.com/mhanf/quarto_website) - Personal website
+- [mcanouil/quarto-revealjs-coeos](https://github.com/mcanouil/quarto-revealjs-coeos) - Quarto reveal.js template extension.
 - [walmes/Tikz](https://github.com/walmes/Tikz) - Galley of Tikz drawings.
 - [joonhap/THT_source](https://github.com/joonhap/THT_source) - source files for tempered Hamiltonian transitions
 - [bonStats/smcdar](https://github.com/bonStats/smcdar) - Data and code to accompany paper "Accelerating sequential Monte Carlo with surrogate likelihoods"
@@ -3673,7 +3672,7 @@
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [HassanHassanKerdash/codetxt](https://github.com/HassanHassanKerdash/codetxt) - A CLI tool to turn any Git repository into a prompt-friendly text ingest for LLMs.
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [egovelox/mozeidon](https://github.com/egovelox/mozeidon) - Mozeidon is a CLI to handle Firefox or Chrome tabs, history and bookmarks.
 - [possibilities/claude-composer](https://github.com/possibilities/claude-composer) - 
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
