@@ -183,6 +183,7 @@
 
 ## C++ 
 
+- [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples) - 
 - [google-deepmind/gemini_icpc2025](https://github.com/google-deepmind/gemini_icpc2025) - Gemini 2025 ICPC World Finals Code Submissions
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
 - [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
@@ -222,7 +223,6 @@
 - [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension to DeepSpeed that brings feature support with SYCL kernels on Intel GPU(XPU) device. Note XPU is already supported in stock DeepSpeed (upstream).
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [jax-ml/ml_dtypes](https://github.com/jax-ml/ml_dtypes) - A stand-alone implementation of several NumPy dtype extensions used in machine learning.
-- [jinluchang/Qlattice](https://github.com/jinluchang/Qlattice) - A lattice QCD library.
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
@@ -435,6 +435,7 @@
 
 ## Go 
 
+- [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [bmf-san/ggc](https://github.com/bmf-san/ggc) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
 - [robert-mcdermott/uve](https://github.com/robert-mcdermott/uve) - UVE  (UV Environment Manager) is a lightweight Python virtual environment manager that works with UV. It provides a conda-like experience for managing Python virtual environments from any directory, w
 - [zix99/rare](https://github.com/zix99/rare) - Create terminal-based histograms, bar graphs, tables, heatmaps and more in realtime using regex and expressions.
@@ -530,6 +531,7 @@
 
 ## HTML 
 
+- [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [imfisk/CPSC](https://github.com/imfisk/CPSC) - 
 - [andrewheiss/ath-quarto](https://github.com/andrewheiss/ath-quarto) - Code and content for andrewheiss.com
@@ -561,7 +563,7 @@
 - [codewithsadee/dashboard](https://github.com/codewithsadee/dashboard) - This dashboard is fully responsive for all devices
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
-- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
+- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 Robust, scalable, and open-source online code execution system.
 - [tashapiro/intro-observable](https://github.com/tashapiro/intro-observable) - This is an introductory workshop hosted by R-Ladies Philadelphia. Participants will sample how to use Observable Notebooks, Observable Plot, and combine Observable with R Quarto.
 - [pytorch/kineto](https://github.com/pytorch/kineto) - A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
@@ -650,6 +652,8 @@
 
 ## JavaScript 
 
+- [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
+- [Link-/starred_search](https://github.com/Link-/starred_search) - Search your starred ★ repositories on GitHub from your terminal
 - [hoeci/sort-play](https://github.com/hoeci/sort-play) - The ultimate toolkit for your Spotify library. Sort, filter, and create playlists.
 - [mulfok/periodic-note-templates](https://github.com/mulfok/periodic-note-templates) - A set of periodic note templates for Obsidian.md.
 - [gadenbuie/mynorfolk-dash](https://github.com/gadenbuie/mynorfolk-dash) - MyNorfolk Dashboard: A Quarto Dashboards Demo
@@ -1018,6 +1022,7 @@
 - [jiwidi/time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) - A use-case focused tutorial for time series forecasting with python
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, for human consumption
 - [gradient-ai/stable-diffusion](https://github.com/gradient-ai/stable-diffusion) - 
+- [jinluchang/Qlattice](https://github.com/jinluchang/Qlattice) - A lattice QCD library.
 - [htjb/margarine](https://github.com/htjb/margarine) - Code to replicate posterior probability distributions with bijectors/KDEs and perform marginal KL/bayesian dimensionality calculations.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [FrancescoSaverioZuppichini/glasses](https://github.com/FrancescoSaverioZuppichini/glasses) - High-quality Neural Networks for Computer Vision 😎
@@ -1026,7 +1031,6 @@
 - [CrossFacilityWorkflows/DOE-HPC-workflow-training](https://github.com/CrossFacilityWorkflows/DOE-HPC-workflow-training) - Repo for a DOE HPC workflow training event
 - [anoops-ai/CosmicTagger](https://github.com/anoops-ai/CosmicTagger) - Cosmic Tagging Network for Neutrino Physics
 - [greydanus/hamiltonian-nn](https://github.com/greydanus/hamiltonian-nn) - Code for our paper "Hamiltonian Neural Networks"
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [LSSTC-DSFP/LSSTC-DSFP-Sessions](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions) - Lecture slides, Jupyter notebooks, and other material from the  LSSTC Data Science Fellowship Program
 - [mli/transformers-benchmarks](https://github.com/mli/transformers-benchmarks) - real Transformer TeraFLOPS on various GPUs
 - [lukasheinrich/generative_models_examples](https://github.com/lukasheinrich/generative_models_examples) - playground for generative models
@@ -1308,6 +1312,7 @@
 
 ## Lua 
 
+- [willothy/veil.nvim](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin (currently unmaintained)
 - [mcauley-penney/nvim](https://github.com/mcauley-penney/nvim) - Neovim cfg
 - [sontungexpt/sttusline](https://github.com/sontungexpt/sttusline) - A very lightweight, super fast and lazyloading statusline plugin for Neovim written in lua.
 - [2KAbhishek/termim.nvim](https://github.com/2KAbhishek/termim.nvim) - Neovim Terminal, Improved 🦾💻
@@ -1525,6 +1530,7 @@
 
 ## Others 
 
+- [welpo/tabi-start](https://github.com/welpo/tabi-start) - Get your personal site up in a few minutes. Powered by Zola and tabi: https://github.com/welpo/tabi
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [trevor-vincent/awesome-high-performance-computing](https://github.com/trevor-vincent/awesome-high-performance-computing) - A curated list of awesome high performance computing resources
@@ -1713,6 +1719,7 @@
 
 ## PowerShell 
 
+- [anishathalye/dotfiles_template](https://github.com/anishathalye/dotfiles_template) - A template for structuring dotfiles (using Dotbot as an installer) 📜
 - [kyle-sylvestre/mightygrep-misc](https://github.com/kyle-sylvestre/mightygrep-misc) - Public repository for miscellaneous MightyGrep files
 - [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
 
@@ -1726,6 +1733,17 @@
 
 ## Python 
 
+- [ucker/why-low-precision-training-fails](https://github.com/ucker/why-low-precision-training-fails) - Why Low-Precision Transformer Training Fails: An Analysis on Flash Attention
+- [cloudmercato/ai-benchmark](https://github.com/cloudmercato/ai-benchmark) - 
+- [IBM/fmwork](https://github.com/IBM/fmwork) - Tools and pipelines for automated LLM performance evaluation
+- [fmperf-project/fmperf](https://github.com/fmperf-project/fmperf) - Cloud Native Benchmarking of Foundation Models
+- [montefiore-sail/appa](https://github.com/montefiore-sail/appa) - Code for the publication "Appa: Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation".
+- [converged-computing/aws-performance-study](https://github.com/converged-computing/aws-performance-study) - 
+- [thellert/alpha_berkeley](https://github.com/thellert/alpha_berkeley) - 
+- [stockeh/swift](https://github.com/stockeh/swift) - An Autoregressive Consistency Model for Efficient Weather Forecasting
+- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
+- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
+- [argonne-lcf/checkpoint_restart](https://github.com/argonne-lcf/checkpoint_restart) - This repo is for providing instructions on how to do checkpoint/restart at large scale simulations on exasscale machines
 - [apple/ml-l3m](https://github.com/apple/ml-l3m) - Large multi-modal models (L3M) pre-training.
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper) - A fast and efficient type assistant for Python, including tensor shape inference
 - [wmn-231314/diffusion-data-constraint](https://github.com/wmn-231314/diffusion-data-constraint) - Official PyTorch implementation and models for paper "Diffusion Beats Autoregressive in Data-Constrained Settings". We find diffusion models are significantly more data-efficient than standard left to
@@ -1821,7 +1839,7 @@
 - [allenai/infinigram-api](https://github.com/allenai/infinigram-api) - 
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [NVlabs/EAGLE](https://github.com/NVlabs/EAGLE) - Eagle: Frontier Vision-Language Models with Data-Centric Strategies
+- [NVlabs/Eagle](https://github.com/NVlabs/Eagle) - Eagle: Frontier Vision-Language Models with Data-Centric Strategies
 - [pmh9960/SphereDiff](https://github.com/pmh9960/SphereDiff) - Official PyTorch implementation of "SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation"
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
 - [mkaz/libro](https://github.com/mkaz/libro) - A terminal based book tracking tool
@@ -1836,7 +1854,7 @@
 - [mads-bisgaard/bayesh](https://github.com/mads-bisgaard/bayesh) - Shell command suggestion
 - [roee30/datargs](https://github.com/roee30/datargs) - Declarative, type-safe command line argument parsers from dataclasses and attrs classes
 - [NVIDIA/NeMo-Inspector](https://github.com/NVIDIA/NeMo-Inspector) - A tool for an analysis of LLM generations.
-- [NVIDIA/NeMo-Skills](https://github.com/NVIDIA/NeMo-Skills) - A project to improve skills of large language models
+- [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills) - A project to improve skills of large language models
 - [abravalheri/validate-pyproject](https://github.com/abravalheri/validate-pyproject) - Validation library for simple check on `pyproject.toml`
 - [klieret/wandb-offline-sync-hook](https://github.com/klieret/wandb-offline-sync-hook) - A convenient way to trigger synchronizations to wandb / Weights & Biases if your compute nodes don't have internet!
 - [huggingface/lighteval](https://github.com/huggingface/lighteval) - Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends
@@ -1847,7 +1865,7 @@
 - [VatsaDev/NanoPoor](https://github.com/VatsaDev/NanoPoor) - NanoGPT-speedrunning for the poor T4 enjoyers
 - [eitchtee/WYGIWYH](https://github.com/eitchtee/WYGIWYH) - A simple but powerful self-hosted finance tracker
 - [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
-- [nerveband/Apple-Music-Play-History-Converter](https://github.com/nerveband/Apple-Music-Play-History-Converter) - A Python desktop app that converts Apple Music play history to Last.fm-compatible format. Features local CSV processing, optional iTunes API integration, and is available as a script or Mac app.
+- [nerveband/Apple-Music-Play-History-Converter](https://github.com/nerveband/Apple-Music-Play-History-Converter) - A modern desktop application that converts Apple Music play history CSV files into Last.fm and Universal Scrobbler compatible format.
 - [UIC-Liu-Lab/ContinualLM](https://github.com/UIC-Liu-Lab/ContinualLM) - An Extensible Continual Learning Framework Focused on Language Models (LMs)
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
@@ -2270,6 +2288,7 @@
 - [probabilists/zuko](https://github.com/probabilists/zuko) - Normalizing flows in PyTorch
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
 - [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨
 - [fudan-zvg/PDS](https://github.com/fudan-zvg/PDS) - [ECCV 2022 & IJCV 2025] Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling
@@ -2371,7 +2390,7 @@
 - [matplotlib/pytest-mpl](https://github.com/matplotlib/pytest-mpl) - A pytest plugin to facilitate image comparison for Matplotlib figures
 - [suneeta-mall/hydra_pydantic_config_management](https://github.com/suneeta-mall/hydra_pydantic_config_management) - 
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [BorgwardtLab/TOGL](https://github.com/BorgwardtLab/TOGL) - Topological Graph Neural Networks (ICLR 2022)
 - [google-deepmind/tensor_annotations](https://github.com/google-deepmind/tensor_annotations) - Annotating tensor shapes using Python types
 - [allenai/python-package-template](https://github.com/allenai/python-package-template) - A template repo for Python packages
@@ -3290,6 +3309,12 @@
 
 ## Rust 
 
+- [Esubaalew/run](https://github.com/Esubaalew/run) - Universal multi-language runner and smart REPL written in Rust.
+- [bestouff/catmark](https://github.com/bestouff/catmark) - CatMark - Markdown(CommonMark) printer for the terminal
+- [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
+- [ollej/rusty-slider](https://github.com/ollej/rusty-slider) - A small tool to display markdown files as a slideshow written in Rust.
+- [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
@@ -3436,6 +3461,12 @@
 
 ## Shell 
 
+- [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
+- [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
+- [renemarc/dotfiles](https://github.com/renemarc/dotfiles) - ~/. Cross-platform, cross-shell configuration files. ⚙️💻
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
 - [2KAbhishek/tdo](https://github.com/2KAbhishek/tdo) - Fast & Simple Note Taking! 📃🚀
 - [xPMo/zsh-ls-colors](https://github.com/xPMo/zsh-ls-colors) - A zsh library to use LS_COLORS
@@ -3522,7 +3553,7 @@
 - [umurgdk/ddnotes](https://github.com/umurgdk/ddnotes) - drop down notes for linux window managers
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: Modular, customizable, and blazing fast Zsh framework
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [JELGT2011/.dotfiles](https://github.com/JELGT2011/.dotfiles) - 
@@ -3605,6 +3636,8 @@
 
 ## TeX 
 
+- [ElArkk/jax-unirep](https://github.com/ElArkk/jax-unirep) - Reimplementation of the UniRep protein featurization model.
+- [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
 - [mps9506/quarto-cv](https://github.com/mps9506/quarto-cv) - A CV template for quarto
 - [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites) - collection of favorite TikZ graphics
 - [arcruz0/quarto-compact](https://github.com/arcruz0/quarto-compact) - A Quarto format for compact PDF documents. Good for short reports, homework assignments, etc.
@@ -3657,6 +3690,7 @@
 
 ## TypeScript 
 
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [Left-on-Read/leftonread](https://github.com/Left-on-Read/leftonread) - Left on Read
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
@@ -3751,7 +3785,7 @@
 - [daksh2k/Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) - Some spicetify extensions!
 - [jupyterlab-contrib/jupyterlab-theme-editor](https://github.com/jupyterlab-contrib/jupyterlab-theme-editor) - Extension providing a theme editor where colors, font families and font sizes of the elements of the user interface can be varied
 - [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
 - [liamcain/obsidian-daily-notes-interface](https://github.com/liamcain/obsidian-daily-notes-interface) - Package to create, open, and find daily notes from your Obsidian plugin
 - [harbassan/spicetify-apps](https://github.com/harbassan/spicetify-apps) - A collection of spicetify custom apps to improve your spotify experience.
@@ -3909,7 +3943,7 @@
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
 - [nanotee/zoxide.vim](https://github.com/nanotee/zoxide.vim) - A small (Neo)Vim wrapper for zoxide
 - [ActivityWatch/aw-watcher-vim](https://github.com/ActivityWatch/aw-watcher-vim) - 
-- [saforem2/dotfiles](https://github.com/saforem2/dotfiles) - dotfiles
+- [saforem2/dotfiles-old](https://github.com/saforem2/dotfiles-old) - dotfiles
 - [gibiansky/vim-latex-objects](https://github.com/gibiansky/vim-latex-objects) - Text objects and motions for Latex editing in Vim.
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
