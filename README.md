@@ -482,7 +482,7 @@
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
-- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
+- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
@@ -498,7 +498,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -550,7 +550,7 @@
 - [spcanelon/silvia](https://github.com/spcanelon/silvia) - Personal website of Silvia Canelón
 - [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
 - [pawroman/zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
-- [8ORUZ7/notes-application](https://github.com/8ORUZ7/notes-application) - a simple notes application that allows users to create, edit, and delete notes.
+- [ezr0th/notes-application](https://github.com/ezr0th/notes-application) - a simple notes application that allows users to create, edit, and delete notes.
 - [googlefonts/colr-gradients-spec](https://github.com/googlefonts/colr-gradients-spec) - 
 - [fxpar/markdown-to-bootstrap-pandoc-lua-filter](https://github.com/fxpar/markdown-to-bootstrap-pandoc-lua-filter) - A Lua Filter to convert directly markdown into bootstrap components (cards, jumbotrons, carousels, accordions) using Pandoc
 - [revolter/notepadtab.com](https://github.com/revolter/notepadtab.com) - 
@@ -1317,6 +1317,8 @@
 
 ## Lua 
 
+- [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim) - Find Nerd Glyphs Easily 🤓🔭
+- [beauwilliams/statusline.lua](https://github.com/beauwilliams/statusline.lua) - A zero-config minimal statusline for neovim written in lua featuring awesome integrations and blazing speed!
 - [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance. A collection of quality-of-life features related to folding.
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Neovim colorschemes generated on the fly with a text prompt using ChatGPT
 - [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
@@ -1329,10 +1331,11 @@
 - [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
+- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [roobert/palette.nvim](https://github.com/roobert/palette.nvim) - 🎨 Palette - A beautiful, versatile, systematic, Neovim theme system
 - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) - Ripgrep source for blink.nvim
 - [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion.
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [adoyle-h/neovim-config](https://github.com/adoyle-h/neovim-config) - My personal neovim configuration
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) - A plugin for setting Neovim LSP with JSON or YAML files
@@ -2310,7 +2313,7 @@
 - [probabilists/zuko](https://github.com/probabilists/zuko) - Normalizing flows in PyTorch
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
 - [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨
 - [fudan-zvg/PDS](https://github.com/fudan-zvg/PDS) - [ECCV 2022 & IJCV 2025] Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling
@@ -2843,7 +2846,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-625-Stars](https://github.com/iBug/This-Repo-Has-625-Stars) - Yes, it's true :purple_heart: This repository has 625 stars.
+- [iBug/This-Repo-Has-624-Stars](https://github.com/iBug/This-Repo-Has-624-Stars) - Yes, it's true :heart: This repository has 624 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3416,7 +3419,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -3436,7 +3439,7 @@
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
@@ -3733,13 +3736,12 @@
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [textlint/textlint](https://github.com/textlint/textlint) - textlint is the pluggable linter for natural language text.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
-- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
 - [codemirror/theme-one-dark](https://github.com/codemirror/theme-one-dark) - One Dark theme for the CodeMirror code editor
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [HassanHassanKerdash/codetxt](https://github.com/HassanHassanKerdash/codetxt) - A CLI tool to turn any Git repository into a prompt-friendly text ingest for LLMs.
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [egovelox/mozeidon](https://github.com/egovelox/mozeidon) - Mozeidon is a CLI to handle Firefox or Chrome tabs, history and bookmarks.
 - [possibilities/claude-composer](https://github.com/possibilities/claude-composer) - 
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
