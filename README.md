@@ -182,6 +182,7 @@
 
 ## C++ 
 
+- [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [HazyResearch/HipKittens](https://github.com/HazyResearch/HipKittens) - Fast and Furious AMD Kernels
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples) - 
@@ -2093,7 +2094,7 @@
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [jrieke/streamlit-analytics](https://github.com/jrieke/streamlit-analytics) - 👀 Track & visualize user interactions with your streamlit app
 - [ORNL/HydraGNN](https://github.com/ORNL/HydraGNN) - Distributed PyTorch implementation of multi-headed graph convolutional neural networks
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [google/pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [huggingface/nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
@@ -2119,7 +2120,7 @@
 - [Suor/funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
 - [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 17+ clouds, or on-prem).
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools
@@ -3355,6 +3356,7 @@
 
 ## Rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix – Reddit, refined for the terminal.
 - [CrociDB/bulletty](https://github.com/CrociDB/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
 - [tod-org/tod](https://github.com/tod-org/tod) - An unofficial Todoist command line client written in Rust
@@ -3490,6 +3492,7 @@
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [crlf0710/tectonic](https://github.com/crlf0710/tectonic) - Experimental Oxidization of Tectonic the TeX/LaTeX engine.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
 ## SCSS 
@@ -3547,7 +3550,7 @@
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [crissNb/Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar) - Dynamic Island on iPhone 14 Pro implementation on Mac using Sketchybar
 - [mej/nhc](https://github.com/mej/nhc) - LBNL Node Health Check
-- [xxh/xxh-shell-xonsh](https://github.com/xxh/xxh-shell-xonsh) - Use xonsh wherever you go through the SSH without installation on the host.
+- [xxh/xxh-shell-xonsh](https://github.com/xxh/xxh-shell-xonsh) - Use @xonsh wherever you go through the SSH without installation on the host.
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
@@ -3965,7 +3968,6 @@
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [DonJayamanne/pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - This extension is now maintained in the Microsoft fork.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
