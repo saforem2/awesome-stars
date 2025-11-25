@@ -437,6 +437,7 @@
 
 ## Go 
 
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [arpxspace/smartcommit](https://github.com/arpxspace/smartcommit) - Enforce the habit of self-documenting code through better commit messages.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -1343,6 +1344,7 @@
 
 ## Lua 
 
+- [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 web server runtime for Lua
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [craftzdog/solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim) - 🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.
 - [eero-lehtinen/oklch-color-picker.nvim](https://github.com/eero-lehtinen/oklch-color-picker.nvim) - A graphical color picker and highlighter for Neovim
@@ -1837,7 +1839,7 @@
 - [dloss/klp](https://github.com/dloss/klp) - Lightweight CLI viewer for structured log files and streams (logfmt, JSONL and many others)
 - [mil-ad/stui](https://github.com/mil-ad/stui) - A Slurm dashboard for the terminal.
 - [josheppinette/python-logfmter](https://github.com/josheppinette/python-logfmter) - Add logfmt structured logging using the stdlib logging module and without changing a single log call.
-- [meta-pytorch/BackendBench](https://github.com/meta-pytorch/BackendBench) - How to ensure correctness and ship LLM generated kernels in PyTorch
+- [meta-pytorch/BackendBench](https://github.com/meta-pytorch/BackendBench) - Ship correct and fast LLM kernels to PyTorch
 - [goombalab/hnet](https://github.com/goombalab/hnet) - H-Net: Hierarchical Network with Dynamic Chunking
 - [foundation-model-stack/foundation-model-stack](https://github.com/foundation-model-stack/foundation-model-stack) - 🚀 Collection of components for development, training, tuning, and inference of foundation models leveraging PyTorch native components.
 - [foundation-model-stack/fms-fsdp](https://github.com/foundation-model-stack/fms-fsdp) - 🚀 Efficiently (pre)training foundation models with native PyTorch features, including FSDP for training and SDPA implementation of Flash attention v2.
@@ -2902,7 +2904,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-625-Stars](https://github.com/iBug/This-Repo-Has-625-Stars) - Yes, it's true :heartpulse: This repository has 625 stars.
+- [iBug/This-Repo-Has-626-Stars](https://github.com/iBug/This-Repo-Has-626-Stars) - Yes, it's true :revolving_hearts: This repository has 626 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3218,7 +3220,7 @@
 - [PyTables/PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [phobson/paramnormal](https://github.com/phobson/paramnormal) - Conventionally parameterized probability distributions
 - [rlouf/mcx](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference on CPU & GPU. Powered by JAX.
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
 - [stevenygd/PointFlow](https://github.com/stevenygd/PointFlow) - PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows
 - [team-approx-bayes/dl-with-bayes](https://github.com/team-approx-bayes/dl-with-bayes) - Contains code for the NeurIPS 2019 paper "Practical Deep Learning with Bayesian Principles"
 - [NVIDIA/framework-reproducibility](https://github.com/NVIDIA/framework-reproducibility) - Providing reproducibility in deep learning frameworks
@@ -3400,7 +3402,7 @@
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [kaushiksrini/parqeye](https://github.com/kaushiksrini/parqeye) - Peek inside Parquet files right from your terminal
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A fast and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix – Reddit, refined for the terminal.
@@ -3567,6 +3569,7 @@
 
 ## Shell 
 
+- [exactlab/vhpc](https://github.com/exactlab/vhpc) - A virtualised HPC cluster based on SLURM and Rocky Linux 9
 - [jvns/shell-examples](https://github.com/jvns/shell-examples) - 
 - [hatanp/ml-scripts](https://github.com/hatanp/ml-scripts) - Common helper scripts for some HPC systems
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
@@ -3696,6 +3699,7 @@
 
 ## Swift 
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [curzel-it/pipper](https://github.com/curzel-it/pipper) - App that allows users to keep a webview always visible on their screen, on top of other windows, like for watching youtube while working and stuff. Still a proof of concept
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [OrdinarySF/LyricFever-Lite](https://github.com/OrdinarySF/LyricFever-Lite) - Ultimate Spotify & Apple Music Lyrics experience for macOS (spiritual successor to LyricsX and LyricFever)
