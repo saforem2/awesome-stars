@@ -191,6 +191,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples) - 
 - [google-deepmind/gemini_icpc2025](https://github.com/google-deepmind/gemini_icpc2025) - Gemini 2025 ICPC World Finals Code Submissions
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for mobile devices.
 - [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine
@@ -992,7 +993,6 @@
 - [mfinzi/equivariant-MLP](https://github.com/mfinzi/equivariant-MLP) - A library for programmatically generating equivariant layers through constraint solving
 - [danielsobrado/llm_notebooks](https://github.com/danielsobrado/llm_notebooks) - Concepts and examples on using and training LLMs
 - [Greyyy-HJC/hmc_ft](https://github.com/Greyyy-HJC/hmc_ft) - Field transform optimization of HMC
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for mobile devices.
 - [Azure-Samples/openai-chat-vision-quickstart](https://github.com/Azure-Samples/openai-chat-vision-quickstart) - A demonstration of chatting with uploaded images using OpenAI vision models like gpt-4o.
 - [pamelafox/ollama-python-playground](https://github.com/pamelafox/ollama-python-playground) - A dev container with ollama and ollama examples with the Python OpenAI SDK
 - [zzzqt/DM4U1](https://github.com/zzzqt/DM4U1) - Diffusion model for gauge field simulations
@@ -1579,6 +1579,7 @@
 
 ## Others 
 
+- [ActivityWatch/awesome-activitywatch](https://github.com/ActivityWatch/awesome-activitywatch) - A list of awesome ActivityWatch resources
 - [welpo/tabi-start](https://github.com/welpo/tabi-start) - Get your personal site up in a few minutes. Powered by Zola and tabi: https://github.com/welpo/tabi
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -1783,6 +1784,8 @@
 
 ## Python 
 
+- [ActivityWatch/aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) - Import data from Apple's Screen Time on macOS and iOS to ActivityWatch
+- [RTnhN/aw-importer-lastfm](https://github.com/RTnhN/aw-importer-lastfm) - 
 - [stapply-ai/job-map](https://github.com/stapply-ai/job-map) - An interactive map of jobs around the world
 - [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -3401,6 +3404,7 @@
 
 ## Rust 
 
+- [0xbrayo/aw-watcher-lastfm](https://github.com/0xbrayo/aw-watcher-lastfm) - ActivityWatch watcher for Spotify and Apple Music streaming.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
