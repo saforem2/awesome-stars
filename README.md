@@ -1789,7 +1789,7 @@
 - [stapply-ai/job-map](https://github.com/stapply-ai/job-map) - An interactive map of jobs around the world
 - [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB) - An early research stage MoE load balancer based on inear programming.
+- [deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB) - An early research stage expert-parallel load balancer for MoE models based on linear programming.
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 - [scikit-hep/cabinetry](https://github.com/scikit-hep/cabinetry) - design and steer profile likelihood fits
 - [anistark/sot](https://github.com/anistark/sot) - Command-line System Obervation Tool
