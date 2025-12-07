@@ -471,7 +471,7 @@
 - [pomdtr/tweety](https://github.com/pomdtr/tweety) - An integrated terminal for your browser
 - [crhuber/kelp](https://github.com/crhuber/kelp) - A simple alternative to homebrew for installing binary packages on MacOS & Linux written in Go.
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
-- [mads-bisgaard/bayesh](https://github.com/mads-bisgaard/bayesh) - Bash/zsh auto suggestion tool
+- [mads-bisgaard/bayesh](https://github.com/mads-bisgaard/bayesh) - Bash/zsh command auto suggestion tool
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [raitonoberu/sptlrx](https://github.com/raitonoberu/sptlrx) - Synchronized lyrics in your terminal
@@ -1787,7 +1787,7 @@
 
 - [ActivityWatch/aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) - Import data from Apple's Screen Time on macOS and iOS to ActivityWatch
 - [RTnhN/aw-importer-lastfm](https://github.com/RTnhN/aw-importer-lastfm) - 
-- [stapply-ai/job-map](https://github.com/stapply-ai/job-map) - An interactive map of jobs around the world
+- [stapply-ai/data](https://github.com/stapply-ai/data) - An interactive map of jobs around the world
 - [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB) - An early research stage expert-parallel load balancer for MoE models based on linear programming.
