@@ -225,7 +225,7 @@
 - [LatticeQCD/SIMULATeQCD](https://github.com/LatticeQCD/SIMULATeQCD) - SIMULATeQCD is a multi-GPU Lattice QCD framework that makes it easy for physicists to implement lattice QCD formulas while still providing competitive performance.
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [hmvege/GLAC](https://github.com/hmvege/GLAC) - A code for generating SU(3) Yang-Mills gauge configurations and applying gradient flow.
-- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 - [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension to DeepSpeed that brings feature support with SYCL kernels on Intel GPU(XPU) device. Note XPU is already supported in stock DeepSpeed (upstream).
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [jax-ml/ml_dtypes](https://github.com/jax-ml/ml_dtypes) - A stand-alone implementation of several NumPy dtype extensions used in machine learning.
@@ -3557,7 +3557,7 @@
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [crlf0710/tectonic](https://github.com/crlf0710/tectonic) - Experimental Oxidization of Tectonic the TeX/LaTeX engine.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
 ## SCSS 
@@ -3915,7 +3915,7 @@
 - [Ellpeck/ObsidianJustSharePlease](https://github.com/Ellpeck/ObsidianJustSharePlease) - An Obsidian plugin that allows quickly and easily sharing individual notes online using an anonymized link
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
