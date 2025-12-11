@@ -153,7 +153,7 @@
 - [mrlhansen/YaHMC](https://github.com/mrlhansen/YaHMC) - Numerical simulation code for non-abelian gauge theories
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [argonne-lcf/alcl](https://github.com/argonne-lcf/alcl) - Argonne Leadership Computing Facility OpenCL tutorial
-- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
+- [asmvik/skhd](https://github.com/asmvik/skhd) - Simple hotkey daemon for macOS
 - [jppbsi/LibDEEP](https://github.com/jppbsi/LibDEEP) - 
 - [etmc/tmLQCD](https://github.com/etmc/tmLQCD) - tmLQCD is a freely available software suite providing a set of tools to be used in lattice QCD simulations. This is mainly a HMC implementation (including PHMC and RHMC) for Wilson, Wilson Clover and 
 - [ardagnir/athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
@@ -396,6 +396,7 @@
 
 ## Cython 
 
+- [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python: Performance meets Productivity
 - [IntelPython/mkl-service](https://github.com/IntelPython/mkl-service) - Python hooks for Intel® oneAPI Math Kernel Library (oneMKL) runtime control settings.
 
 ## Dart 
@@ -591,7 +592,7 @@
 - [codewithsadee/dashboard](https://github.com/codewithsadee/dashboard) - This dashboard is fully responsive for all devices
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
-- [judge0/judge0](https://github.com/judge0/judge0) - Robust and scalable online code execution system.
+- [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, sandboxed, and open-source online code execution system for humans and AI.
 - [tashapiro/intro-observable](https://github.com/tashapiro/intro-observable) - This is an introductory workshop hosted by R-Ladies Philadelphia. Participants will sample how to use Observable Notebooks, Observable Plot, and combine Observable with R Quarto.
 - [pytorch/kineto](https://github.com/pytorch/kineto) - A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
@@ -1351,6 +1352,8 @@
 
 ## Lua 
 
+- [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
+- [xiyaowong/nvim-cursorword](https://github.com/xiyaowong/nvim-cursorword) - highlight the word under the cursor.
 - [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 web server runtime for Lua
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [craftzdog/solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim) - 🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.
@@ -1786,6 +1789,7 @@
 
 ## Python 
 
+- [ray-project/multimodal-training](https://github.com/ray-project/multimodal-training) - 
 - [ActivityWatch/aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) - Import data from Apple's Screen Time on macOS and iOS to ActivityWatch
 - [RTnhN/aw-importer-lastfm](https://github.com/RTnhN/aw-importer-lastfm) - 
 - [stapply-ai/data](https://github.com/stapply-ai/data) - An interactive map of jobs around the world
@@ -1956,7 +1960,6 @@
 - [abravalheri/validate-pyproject](https://github.com/abravalheri/validate-pyproject) - Validation library for simple check on `pyproject.toml`
 - [klieret/wandb-offline-sync-hook](https://github.com/klieret/wandb-offline-sync-hook) - A convenient way to trigger synchronizations to wandb / Weights & Biases if your compute nodes don't have internet!
 - [huggingface/lighteval](https://github.com/huggingface/lighteval) - Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends
-- [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python: Performance meets Productivity
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
 - [openai/chz](https://github.com/openai/chz) - 
 - [google-research/weatherbenchX](https://github.com/google-research/weatherbenchX) - A modular framework for evaluating weather forecasts
@@ -2919,7 +2922,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-626-Stars](https://github.com/iBug/This-Repo-Has-626-Stars) - Yes, it's true :revolving_hearts: This repository has 626 stars.
+- [iBug/This-Repo-Has-625-Stars](https://github.com/iBug/This-Repo-Has-625-Stars) - Yes, it's true :orange_heart: This repository has 625 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
