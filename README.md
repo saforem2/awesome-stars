@@ -209,7 +209,6 @@
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
-- [intel/torch-xpu-ops](https://github.com/intel/torch-xpu-ops) - 
 - [eth-cscs/node-burn](https://github.com/eth-cscs/node-burn) - 
 - [refresh-bio/SPLASH](https://github.com/refresh-bio/SPLASH) - 
 - [llnl/conduit](https://github.com/llnl/conduit) - Simplified Data Exchange for HPC Simulations
@@ -445,6 +444,7 @@
 
 ## Go 
 
+- [jxy/lmtools](https://github.com/jxy/lmtools) - vibe-coded LLM tools for vibe-coding
 - [nekorg/pawbar](https://github.com/nekorg/pawbar) - A kitten-panel based desktop panel for your desktop
 - [kriuchkov/tock](https://github.com/kriuchkov/tock) - Tock is a powerful time tracking tool for the command line.
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -1808,6 +1808,7 @@
 
 ## Python 
 
+- [zichongli5/NorMuon](https://github.com/zichongli5/NorMuon) - Official Implementation for NorMuon paper
 - [ninoseki/uv-dynamic-versioning](https://github.com/ninoseki/uv-dynamic-versioning) - Dynamic versioning based on VCS tags for uv/hatch project
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -1833,7 +1834,7 @@
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 - [scikit-hep/cabinetry](https://github.com/scikit-hep/cabinetry) - design and steer profile likelihood fits
 - [anistark/sot](https://github.com/anistark/sot) - Command-line System Obervation Tool
-- [emaballarin/torch_jax_interop](https://github.com/emaballarin/torch_jax_interop) - 🩹 Simple tools to mix and match PyTorch and Jax - Get the best of both worlds! Band-aid "fixed".
+- [emaballarin/torch_jax_interop](https://github.com/emaballarin/torch_jax_interop) - 🍽️ Simple tools to mix and match PyTorch and Jax - Get the best of both worlds! Personal fork.
 - [lebrice/parallel_wandb](https://github.com/lebrice/parallel_wandb) - Small library to facilitate logging to multiple Weights and Biases runs in parallel
 - [allenai/olmoearth_projects](https://github.com/allenai/olmoearth_projects) - OlmoEarth projects
 - [meta-pytorch/torchfix](https://github.com/meta-pytorch/torchfix) - TorchFix - a linter for PyTorch-using code with autofix support
@@ -2096,6 +2097,7 @@
 - [NVIDIA/physicsnemo](https://github.com/NVIDIA/physicsnemo) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
 - [olcf/ai-training-series](https://github.com/olcf/ai-training-series) - AI Training Series Material
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
+- [intel/torch-xpu-ops](https://github.com/intel/torch-xpu-ops) - 
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [cjolowicz/hypermodern-python](https://github.com/cjolowicz/hypermodern-python) - Hypermodern Python
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -2910,7 +2912,7 @@
 - [benedekrozemberczki/pytorch_geometric_temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models (CIKM 2021)
 - [tonywu95/eval_gen](https://github.com/tonywu95/eval_gen) - Evaluation code with models for the paper "On the Quantitative Analysis of Decoder-Based Generative Models"
 - [mariaref/rfvs2lnn_GMM_online](https://github.com/mariaref/rfvs2lnn_GMM_online) - Implementation of numerical simulation and analytical computations for the training, via online SGD, of two layer neural networks and random features on a mixture of Gaussian.
-- [xarray-contrib/xarray-spatial](https://github.com/xarray-contrib/xarray-spatial) - Raster-based Spatial Analytics for Python
+- [xarray-contrib/xarray-spatial](https://github.com/xarray-contrib/xarray-spatial) - Spatial analysis algorithms for xarray implemented in numba
 - [juliagusak/neural-ode-norm](https://github.com/juliagusak/neural-ode-norm) - Models and code for the ICLR 2020 workshop paper "Towards Understanding Normalization in Neural ODEs"
 - [priyankjaini/discFlowMH](https://github.com/priyankjaini/discFlowMH) - Pytorch code for Sampling in Combinatorial Spaces with SurVAE Flow Augmented MCMC
 - [yukimasano/linear-probes](https://github.com/yukimasano/linear-probes) - Evaluating AlexNet features at various depths
@@ -3392,6 +3394,7 @@
 
 ## R 
 
+- [ArghyaStat/HMC_for_dummies](https://github.com/ArghyaStat/HMC_for_dummies) - HMC codes for the paper Hamiltonian Monte Carlo for (Physics) dummies
 - [kazuyanagimoto/quarto-awesomecv-typst](https://github.com/kazuyanagimoto/quarto-awesomecv-typst) - A Quarto + Typst format for CV
 - [EllaKaye/ellakaye.co.uk](https://github.com/EllaKaye/ellakaye.co.uk) - My personal website
 - [mhanf/quarto_website](https://github.com/mhanf/quarto_website) - Personal website
