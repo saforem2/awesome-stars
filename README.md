@@ -644,7 +644,7 @@
 - [argonne-lcf/ALCF_Hands_on_HPC_Workshop](https://github.com/argonne-lcf/ALCF_Hands_on_HPC_Workshop) - The ALCF hosts a regular simulation, data, and learning workshop to help users scale their applications. This repository contains the examples used in the workshop.
 - [keceli/ezHPC](https://github.com/keceli/ezHPC) - Interactive and simplified high-performance computing with Jupyter notebook
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ HugoBlox Kit: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
 - [RealOrangeOne/hugo-theme-revealjs](https://github.com/RealOrangeOne/hugo-theme-revealjs) - Use Hugo to build a presentation, powered by RevealJS
 - [machine19/machine19.github.io](https://github.com/machine19/machine19.github.io) - 
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
@@ -1809,6 +1809,7 @@
 
 ## Python 
 
+- [astral-sh/docstring-adder](https://github.com/astral-sh/docstring-adder) - Add docstrings to stubs
 - [argonne-lcf/ensemble_launcher](https://github.com/argonne-lcf/ensemble_launcher) - A simple tool for launching ensembles
 - [ourresearch/openalex-guts](https://github.com/ourresearch/openalex-guts) - The guts for computing data for OpenAlex.  For more, see https://openalex.org/.
 - [zichongli5/NorMuon](https://github.com/zichongli5/NorMuon) - Official Implementation for NorMuon paper
@@ -3448,6 +3449,7 @@
 
 ## Rust 
 
+- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [orhun/ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen in your terminal ✨
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [kabouzeid/turm](https://github.com/kabouzeid/turm) - TUI for the Slurm Workload Manager
@@ -3610,7 +3612,7 @@
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [crlf0710/tectonic](https://github.com/crlf0710/tectonic) - Experimental Oxidization of Tectonic the TeX/LaTeX engine.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
 ## SCSS 
