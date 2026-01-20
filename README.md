@@ -323,6 +323,7 @@
 
 ## CSS 
 
+- [gadenbuie/quarto-tachyons](https://github.com/gadenbuie/quarto-tachyons) - Tachyons Utility CSS for Quarto
 - [bahamas10/ysap](https://github.com/bahamas10/ysap) - You Suck at Programming - Dave Eddy
 - [nuclearcodecat/shimmer](https://github.com/nuclearcodecat/shimmer) - charming firefox userchrome with sidebery support
 - [koaning/tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
@@ -409,7 +410,7 @@
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [xournalpp/xournalpp_mobile](https://github.com/xournalpp/xournalpp_mobile) - Xournal++ Mobile is an unmaintained port of Xournal++ files and features to various mobile platofrms and the web. Mirror of the Xournal++ Mobile repository on GitLab.
 
@@ -550,7 +551,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - A simple CLI for tracking your working time.
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -700,6 +701,9 @@
 
 ## JavaScript 
 
+- [EmilHvitfeldt/quarto-revealjs-editable](https://github.com/EmilHvitfeldt/quarto-revealjs-editable) - Repositioning and resizing of images and text directly in quarto revealjs slides
+- [parmsam/quarto-excalidraw](https://github.com/parmsam/quarto-excalidraw) - An extension to open an empty or existing Excalidraw canvas for RevealJS in Quarto
+- [andrewheiss/quarto-output-styling](https://github.com/andrewheiss/quarto-output-styling) - Style code output, errors, warnings, and messages in Quarto!
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [muratcankoylan/ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer) - A Claude Code Plugin that provides an autonomous AI copywriter.
@@ -727,7 +731,6 @@
 - [hyparam/hyparquet](https://github.com/hyparam/hyparquet) - parquet file parser for javascript
 - [iMammal/CytoCave](https://github.com/iMammal/CytoCave) - CytoCave: A web-based immersive visual analytics tool for exploring the Multi-Omics Network Data, Developed in collaboration with CoNECt@UIC and EVL.
 - [regorxxx/Wrapped-SMP](https://github.com/regorxxx/Wrapped-SMP) - User listening statistics for foobar2000 using, using Spider Monkey, which output a report similar to Spotify's wrapped and personalized playlists.
-- [parmsam/quarto-excalidraw](https://github.com/parmsam/quarto-excalidraw) - An extension to open an empty or existing Excalidraw canvas for RevealJS in Quarto
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [LeaVerou/md-block](https://github.com/LeaVerou/md-block) - A custom element for rendering stylable (light DOM) Markdown
 - [hexagoncircle/pixel-canvas](https://github.com/hexagoncircle/pixel-canvas) - Web Component that applies a shimmering pixel background on element hover
@@ -1379,6 +1382,9 @@
 
 ## Lua 
 
+- [mcanouil/quarto-masonry](https://github.com/mcanouil/quarto-masonry) - Masonry.js Extension for Quarto.
+- [tomicapretto/quarto-carousel](https://github.com/tomicapretto/quarto-carousel) - A carousel extension for HTML documents in Quarto
+- [coatless-quarto/colab](https://github.com/coatless-quarto/colab) - [Developmental] Quarto Extension to Enable Google Colaboratory Links with Quarto Documents
 - [NvChad/starter](https://github.com/NvChad/starter) - Starter config for NvChad
 - [jim-at-jibba/nvim-stride](https://github.com/jim-at-jibba/nvim-stride) - 
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
@@ -1572,6 +1578,7 @@
 
 ## Makefile 
 
+- [christopherkenny/nature](https://github.com/christopherkenny/nature) - Quarto Template for Springer Nature Submissions
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [jceb/mdshow](https://github.com/jceb/mdshow) - Turn markdown files into beautiful presentations quickly
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
@@ -2117,7 +2124,7 @@
 - [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
 - [tzador/makedown](https://github.com/tzador/makedown) - Organise your shell scripts within executable markdown files
-- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 2 minutes
 - [argonne-lcf/ml_communications](https://github.com/argonne-lcf/ml_communications) - ML communications benchmark
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [EleutherAI/nanoGPT-mup](https://github.com/EleutherAI/nanoGPT-mup) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -3879,6 +3886,7 @@
 
 ## TeX 
 
+- [quarto-journals/acm](https://github.com/quarto-journals/acm) - Quarto template for the Association of Computing Machinery
 - [ElArkk/jax-unirep](https://github.com/ElArkk/jax-unirep) - Reimplementation of the UniRep protein featurization model.
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
 - [mps9506/quarto-cv](https://github.com/mps9506/quarto-cv) - A CV template for quarto
@@ -4166,6 +4174,7 @@
 
 ## Typst 
 
+- [mcanouil/quarto-mcanouil](https://github.com/mcanouil/quarto-mcanouil) - A Quarto extension that provides brand theming and styling for documents (HTML, Typst) and presentations (Reveal.js).
 - [LaPreprint/typst](https://github.com/LaPreprint/typst) - Easily create beautiful preprints in Typst
 - [glambrechts/slydst](https://github.com/glambrechts/slydst) - Create simple static slides with Typst
 - [janosh/diagrams](https://github.com/janosh/diagrams) - Diagrams of concepts in physics/chemistry/ML
