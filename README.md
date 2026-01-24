@@ -615,7 +615,6 @@
 - [tashapiro/intro-observable](https://github.com/tashapiro/intro-observable) - This is an introductory workshop hosted by R-Ladies Philadelphia. Participants will sample how to use Observable Notebooks, Observable Plot, and combine Observable with R Quarto.
 - [pytorch/kineto](https://github.com/pytorch/kineto) - A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
-- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [jurjoroa/hcc-website](https://github.com/jurjoroa/hcc-website) - Repository of the Hertie Coding Club website. Built with Quarto
 - [cranmer/active_sciencing](https://github.com/cranmer/active_sciencing) - active learning + reusable workflows + likelihood free inference
@@ -701,6 +700,8 @@
 
 ## JavaScript 
 
+- [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [EmilHvitfeldt/quarto-revealjs-editable](https://github.com/EmilHvitfeldt/quarto-revealjs-editable) - Repositioning and resizing of images and text directly in quarto revealjs slides
 - [parmsam/quarto-excalidraw](https://github.com/parmsam/quarto-excalidraw) - An extension to open an empty or existing Excalidraw canvas for RevealJS in Quarto
 - [andrewheiss/quarto-output-styling](https://github.com/andrewheiss/quarto-output-styling) - Style code output, errors, warnings, and messages in Quarto!
@@ -824,6 +825,7 @@
 - [Toinane/colorpicker](https://github.com/Toinane/colorpicker) - A mininal but complete colorpicker desktop app
 - [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [maierfelix/poxi](https://github.com/maierfelix/poxi) - A flat pixel art editor
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -1005,9 +1007,9 @@
 
 ## Jupyter Notebook 
 
+- [argonne-lcf/ChemGraph](https://github.com/argonne-lcf/ChemGraph) - Agentic framework for computational chemistry and materials science workflows
 - [rcrowe-google/Learning-JAX](https://github.com/rcrowe-google/Learning-JAX) - Slide decks, coding exercises, and quick references for learning the JAX AI Stack
 - [ManuelPuchner/snapchat-memories-downloader](https://github.com/ManuelPuchner/snapchat-memories-downloader) - 
-- [allenai/dolma3](https://github.com/allenai/dolma3) - 
 - [ZuckermanLab/pyGridSampler](https://github.com/ZuckermanLab/pyGridSampler) - An adaptive grid-based sampling method using iterative batch sizes
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub) - NVIDIA curated collection of educational resources related to general purpose GPU programming.
@@ -1104,7 +1106,7 @@
 - [mli/transformers-benchmarks](https://github.com/mli/transformers-benchmarks) - real Transformer TeraFLOPS on various GPUs
 - [lukasheinrich/generative_models_examples](https://github.com/lukasheinrich/generative_models_examples) - playground for generative models
 - [ameya98/ActionAngleNetworks](https://github.com/ameya98/ActionAngleNetworks) - The official JAX implementation of Action-Angle Networks!
-- [NREL/HPC](https://github.com/NREL/HPC) - A collection of various resources, examples, and executables for the general NREL HPC user community's benefit. Use the following website for accessing documentation.
+- [NatLabRockies/HPC](https://github.com/NatLabRockies/HPC) - A collection of various resources, examples, and executables for the general NLR HPC user community's benefit. Use the following website for accessing documentation.
 - [srshtiputcha/sgmcmc_preferential_subsampling](https://github.com/srshtiputcha/sgmcmc_preferential_subsampling) - Code for Preferential Subsampling for Stochastic Gradient Langevin Dynamics
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [sophiamyang/hvplot_interactive](https://github.com/sophiamyang/hvplot_interactive) - 
@@ -1382,6 +1384,8 @@
 
 ## Lua 
 
+- [Kaiser-Yang/blink-cmp-avante](https://github.com/Kaiser-Yang/blink-cmp-avante) - Avante source for blink-cmp
+- [tomiis4/BufferTabs.nvim](https://github.com/tomiis4/BufferTabs.nvim) - A simple, fancy tabline for Neovim.
 - [mcanouil/quarto-masonry](https://github.com/mcanouil/quarto-masonry) - Masonry.js Extension for Quarto.
 - [tomicapretto/quarto-carousel](https://github.com/tomicapretto/quarto-carousel) - A carousel extension for HTML documents in Quarto
 - [coatless-quarto/colab](https://github.com/coatless-quarto/colab) - [Developmental] Quarto Extension to Enable Google Colaboratory Links with Quarto Documents
@@ -1846,6 +1850,11 @@
 
 ## Python 
 
+- [teorth/erdosproblems](https://github.com/teorth/erdosproblems) - A community database for the problems on the erdosproblems.com site
+- [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
+- [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
+- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
+- [rvantonder/execute_code_py](https://github.com/rvantonder/execute_code_py) - A Claude Code plugin that restricts Claude to ONLY use Python code execution. All other tools are blocked, creating a pure computational environment.
 - [PyCQA/docformatter](https://github.com/PyCQA/docformatter) - Formats docstrings to follow PEP 257
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
@@ -1884,6 +1893,7 @@
 - [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB) - An early research stage expert-parallel load balancer for MoE models based on linear programming.
+- [allenai/dolma3](https://github.com/allenai/dolma3) - 
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 - [scikit-hep/cabinetry](https://github.com/scikit-hep/cabinetry) - design and steer profile likelihood fits
 - [anistark/sot](https://github.com/anistark/sot) - Command-line System Obervation Tool
@@ -2720,7 +2730,6 @@
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -2730,7 +2739,7 @@
 - [argonne-lcf/dlSoftwareTests](https://github.com/argonne-lcf/dlSoftwareTests) - Simple tests to verify ML/DL environments on ALCF HPC resources are working correctly.
 - [mle-infrastructure/mle-logging](https://github.com/mle-infrastructure/mle-logging) - Lightweight ML Experiment Logging 📖
 - [pedroCabrera/PyFlow](https://github.com/pedroCabrera/PyFlow) - Visual scripting framework for python
-- [qiime2/qiime2](https://github.com/qiime2/qiime2) - Source for the QIIME 2 Framework (Q2F).
+- [rachis-org/rachis](https://github.com/rachis-org/rachis) - Source for the QIIME 2 Framework (Q2F).
 - [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
 - [jliu/graph-normalizing-flows](https://github.com/jliu/graph-normalizing-flows) - Code for Graph Normalizing Flows.
 - [twitter-research/cwn](https://github.com/twitter-research/cwn) - Message Passing Neural Networks for Simplicial and Cell Complexes
@@ -2915,7 +2924,7 @@
 - [muhammadhasyim/tps-torch](https://github.com/muhammadhasyim/tps-torch) - A PyTorch-based package for string methods and ML-inspired path sampling methods
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [nianticlabs/manydepth](https://github.com/nianticlabs/manydepth) - [CVPR 2021] Self-supervised depth estimation from short sequences
-- [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
+- [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - This is Meta's fork of the CPython runtime.  The name "cinder" here is historical, see https://github.com/facebookincubator/cinderx for the Python extension / JIT compiler.
 - [facebookresearch/suncet](https://github.com/facebookresearch/suncet) - Code to reproduce the results in the FAIR research papers "Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples" https://arxiv.org/abs/210
 - [facebookresearch/dino](https://github.com/facebookresearch/dino) - PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
@@ -3498,7 +3507,10 @@
 
 ## Rust 
 
-- [PABannier/WSIStreamer](https://github.com/PABannier/WSIStreamer) - WSI Streamer is a tile server for Whole Slide Images (WSI) stored in S3-compatible object storage. It serves tiles on-demand using HTTP range requests, so you never have to download or mount multi-gig
+- [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes.
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+- [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
+- [PABannier/WSIStreamer](https://github.com/PABannier/WSIStreamer) - A tile server for WSI stored in S3-compatible object storage. It serves tiles on-demand using HTTP range requests, so you never have to download or mount multi-gigabyte slides on local disk.
 - [elijah-potter/tatum](https://github.com/elijah-potter/tatum) - Yet another tool for rendering markdown
 - [Aloso/to-html](https://github.com/Aloso/to-html) - Utilities for making the colo documentation
 - [slowli/term-transcript](https://github.com/slowli/term-transcript) - Snapshot testing for CLI / REPL applications, in a fun way
@@ -3508,7 +3520,7 @@
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [orhun/ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen in your terminal ✨
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
-- [kabouzeid/turm](https://github.com/kabouzeid/turm) - TUI for the Slurm Workload Manager
+- [karimknaebel/turm](https://github.com/karimknaebel/turm) - TUI for the Slurm Workload Manager
 - [BaconIsAVeg/outside](https://github.com/BaconIsAVeg/outside) - A multi-purpose weather client for your terminal!
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
@@ -3572,7 +3584,7 @@
 - [TylerBloom/webatui](https://github.com/TylerBloom/webatui) - An integration between the Yew and Ratatui crates for making TUI-themed WASM webapps
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
-- [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
+- [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch) - PyTorch Single Controller
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
@@ -3745,6 +3757,7 @@
 - [z-shell/zprompts](https://github.com/z-shell/zprompts) - Zsh themes (prompts) plugin that uses the original Zsh theming subsystem.
 - [dflock/kitty-save-session](https://github.com/dflock/kitty-save-session) - Allows you to save & restore kitty sessions, with all kitty OS windows, kitty tabs & kitty windows restored.
 - [vinay0410/tectonic-action](https://github.com/vinay0410/tectonic-action) - Compile Tex files easily
+- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
@@ -3944,6 +3957,9 @@
 
 ## TypeScript 
 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
+- [MelonThug/genius-annotations](https://github.com/MelonThug/genius-annotations) - A Spicetify Custom App that displays the annotations, lyrics and description of the current song from Genius
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
 - [dvelton/dm-chess](https://github.com/dvelton/dm-chess) - Chess via DM. Pure ASCII, no third-party app connections.
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
