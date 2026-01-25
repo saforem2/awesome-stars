@@ -202,7 +202,7 @@
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for mobile devices.
 - [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
-- [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine
+- [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine (mirror)
 - [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) - NVIDIA Inference Xfer Library (NIXL)
 - [DataStates/datastates-llm](https://github.com/DataStates/datastates-llm) - LLM checkpointing for DeepSpeed/Megatron
 - [aliyun/SimAI](https://github.com/aliyun/SimAI) - 
@@ -516,7 +516,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [converged-computing/slurm-operator](https://github.com/converged-computing/slurm-operator) - Testing if I can implement slurm in an operator
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
@@ -3564,7 +3564,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
-- [junkdog/tachyonfx](https://github.com/junkdog/tachyonfx) - Effects and animation library for Ratatui applications
+- [ratatui/tachyonfx](https://github.com/ratatui/tachyonfx) - Effects and animation library for Ratatui applications
 - [Tarbetu/website](https://github.com/Tarbetu/website) - 
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
