@@ -397,7 +397,7 @@
 ## Cuda 
 
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
 - [linjames0/Transformer-CUDA](https://github.com/linjames0/Transformer-CUDA) - An implementation of the transformer architecture onto an Nvidia CUDA kernel
 - [SkafteNicki/cuda_expm](https://github.com/SkafteNicki/cuda_expm) - Matrix exponential in cuda for pytorch and tensorflow
 
@@ -3982,7 +3982,7 @@
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [Left-on-Read/leftonread](https://github.com/Left-on-Read/leftonread) - Left on Read
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React with AI superpowers
+- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) - Generate a Breakout game SVG from a GitHub user's contributions graph
 - [MuTsunTsai/fontfreeze](https://github.com/MuTsunTsai/fontfreeze) - Freeze variations and features in font.
 - [BlueprintLabIO/markdown-ui](https://github.com/BlueprintLabIO/markdown-ui) - An open standard for rendering interactive widgets in plain Markdown.
