@@ -1397,7 +1397,7 @@
 - [tamton-aquib/staline.nvim](https://github.com/tamton-aquib/staline.nvim) - A modern lightweight statusline and bufferline plugin for neovim in lua.
 - [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) - A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
-- [wsdjeg/calendar.nvim](https://github.com/wsdjeg/calendar.nvim) - A minimal calendar plugin for Neovim.
+- [wsdjeg/calendar.nvim](https://github.com/wsdjeg/calendar.nvim) - A lightweight and extensible calendar plugin for Neovim.
 - [jrop/tuis.nvim](https://github.com/jrop/tuis.nvim) - A collection of TUIs for Neovim
 - [pandasoli/nekovim](https://github.com/pandasoli/nekovim) - [mirror] 🐈‍⬛ | NeoVim Discord rich presence plugin
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
@@ -2204,9 +2204,8 @@
 - [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy) - A light weight Python library for the Spotify Web API
 - [wightwick/fynesse](https://github.com/wightwick/fynesse) - Pure-Python web app for music exploration with Spotify 🌱
 - [Lightning-AI/lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - PyTorch compiler that accelerates training and inference. Get built-in optimizations for performance, memory, parallelism, and easily write your own.
-- [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [tonyduan/diffusion](https://github.com/tonyduan/diffusion) - From-scratch diffusion model implemented in PyTorch.
 - [InternLM/InternEvo](https://github.com/InternLM/InternEvo) - InternEvo is an open-sourced lightweight training framework aims to support model pre-training without the need for extensive dependencies.
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -2306,7 +2305,7 @@
 - [basnijholt/unidep](https://github.com/basnijholt/unidep) - Single source of truth with requirements for pip and conda
 - [google-research/weatherbench2](https://github.com/google-research/weatherbench2) - A benchmark for the next generation of data-driven global weather models.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [meta-pytorch/gpt-fast](https://github.com/meta-pytorch/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [tedwards2412/ripple](https://github.com/tedwards2412/ripple) - Differentiable Gravitational Waveforms with JAX
 - [simonw/llm-mlx-llama](https://github.com/simonw/llm-mlx-llama) - Run Llama 2 using MLX on macOS
@@ -3741,7 +3740,7 @@
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
 - [doctorfree/MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more
 - [popstas/zsh-command-time](https://github.com/popstas/zsh-command-time) - Show execution time for long commands in zsh
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [crissNb/Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar) - Dynamic Island on iPhone 14 Pro implementation on Mac using Sketchybar
 - [mej/nhc](https://github.com/mej/nhc) - LBNL Node Health Check
@@ -4042,6 +4041,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [OrionReed/orionreed.com](https://github.com/OrionReed/orionreed.com) - A tiny website.
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [rehype-pretty/rehype-pretty-code](https://github.com/rehype-pretty/rehype-pretty-code) - Beautiful code blocks for Markdown or MDX.
 - [richawo/minimal-llm-ui](https://github.com/richawo/minimal-llm-ui) - Minimalistic UI for Ollama LMs - This powerful react interface for LLMs drastically improves the chatbot experience and works offline.
 - [simonw/observable-framework-experiments](https://github.com/simonw/observable-framework-experiments) - Experiments with Observable Framework
