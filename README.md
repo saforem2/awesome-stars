@@ -1040,7 +1040,6 @@
 - [Thomas-Ranner/LFT_DM](https://github.com/Thomas-Ranner/LFT_DM) - Sampling lattice field theories with score-based diffusion models
 - [davidnabergoj/potentials](https://github.com/davidnabergoj/potentials) - Potential functions for sampling or optimization
 - [davidnabergoj/nfmc-nf-evaluation](https://github.com/davidnabergoj/nfmc-nf-evaluation) - NFMC benchmark and code for the paper: "Nabergoj and Štrumbelj. Empirical evaluation of normalizing flows in Markov Chain Monte Carlo, 2024."
-- [runtimed/runtimed](https://github.com/runtimed/runtimed) - Jupyter libraries for Rust
 - [allenai/OLMoE](https://github.com/allenai/OLMoE) - OLMoE: Open Mixture-of-Experts Language Models
 - [rhymes-ai/Aria](https://github.com/rhymes-ai/Aria) - Codebase for Aria - an Open Multimodal Native MoE
 - [VectorSpaceLab/OmniGen](https://github.com/VectorSpaceLab/OmniGen) - OmniGen: Unified Image Generation. https://arxiv.org/pdf/2409.11340
@@ -1416,7 +1415,6 @@
 - [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI plugin that wraps lsp operations.
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) - A Neovim plugin for macOS, Linux & Windows that automatically changes the editor appearance based on system settings.
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 - [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
 - [xiyaowong/nvim-cursorword](https://github.com/xiyaowong/nvim-cursorword) - highlight the word under the cursor.
 - [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 web server runtime for Lua
@@ -3533,6 +3531,7 @@
 - [orhun/ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen in your terminal ✨
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [karimknaebel/turm](https://github.com/karimknaebel/turm) - TUI for the Slurm Workload Manager
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 - [BaconIsAVeg/outside](https://github.com/BaconIsAVeg/outside) - A multi-purpose weather client for your terminal!
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
@@ -3744,7 +3743,7 @@
 - [alex-moon/ban](https://github.com/alex-moon/ban) - ban
 - [Trepan-Debuggers/bashdb](https://github.com/Trepan-Debuggers/bashdb) - Bash debugger (code imported from sourceforge)
 - [igrmk/whiskers](https://github.com/igrmk/whiskers) - Kitty alternative icon
-- [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Neovim, Zsh or Fish, and Ghostty + Tmux
+- [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Neovim, Zsh, and Ghostty + Tmux
 - [marlonrichert/zsh-hist](https://github.com/marlonrichert/zsh-hist) - 📝 Edit your Zsh history from the command line.
 - [muthuishere/mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk) - Yes Mcp server in bash
 - [converged-computing/google-performance-study](https://github.com/converged-computing/google-performance-study) - Experiments on Google Cloud, hoping to extend the performance study
@@ -3982,7 +3981,7 @@
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [fmorroni/peek.nvim](https://github.com/fmorroni/peek.nvim) - Markdown preview plugin for Neovim
-- [gbasin/agentboard](https://github.com/gbasin/agentboard) - Web wrapper around tmux optimized to multiplex AI agent TUIs, special support for iOS safari and mac w/ keyboard shortcuts
+- [gbasin/agentboard](https://github.com/gbasin/agentboard) - Web GUI for tmux optimized for AI agent TUIs, with support for iOS safari and mac w/ keyboard shortcuts
 - [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [jlongster/tigma](https://github.com/jlongster/tigma) - 
@@ -4016,7 +4015,7 @@
 - [egovelox/mozeidon](https://github.com/egovelox/mozeidon) - Mozeidon is a CLI to handle Firefox or Chrome tabs, history and bookmarks.
 - [possibilities/claude-composer](https://github.com/possibilities/claude-composer) - 
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
-- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper for today. Less but handy features for plain Markdown lovers.
+- [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper. Less but handy features for plain Markdown lovers.
 - [JairHuamanBellido/Oxidus](https://github.com/JairHuamanBellido/Oxidus) - A theme color generator
 - [hyparam/hightable](https://github.com/hyparam/hightable) - A dynamic windowed scrolling table component for react
 - [hyparam/hyperparam-cli](https://github.com/hyparam/hyperparam-cli) - Hyperparam local dataset viewer
@@ -4038,6 +4037,7 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
+- [runtimed/runtimed](https://github.com/runtimed/runtimed) - Jupyter libraries for Rust
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
 - [danieltomasz/qmd-as-md-obsidian](https://github.com/danieltomasz/qmd-as-md-obsidian) - A plugin for Obsidian that enables editing and compiling `qmd` Quarto files.
 - [AndreasThinks/obsidian-to-quarto-exporter](https://github.com/AndreasThinks/obsidian-to-quarto-exporter) - Export Obsidian notes to Quarto-compatible QMD files.
