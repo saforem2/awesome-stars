@@ -3517,6 +3517,7 @@
 
 ## Rust 
 
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
 - [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
