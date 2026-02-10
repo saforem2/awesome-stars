@@ -179,6 +179,7 @@
 
 ## C# # 
 
+- [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) - .fmbot is a social Discord bot that provides music statistics for you and your friends.
 - [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
@@ -431,6 +432,7 @@
 
 ## Emacs Lisp 
 
+- [domtronn/all-the-icons.el](https://github.com/domtronn/all-the-icons.el) - A utility package to collect various Icon Fonts and propertize them within Emacs.
 - [yangsheng6810/org-latex-impatient](https://github.com/yangsheng6810/org-latex-impatient) - Instant Previews LaTeX snippets in Org-mode
 
 ## Fennel 
@@ -1388,6 +1390,18 @@
 
 ## Lua 
 
+- [StikyPiston/smudge.nvim](https://github.com/StikyPiston/smudge.nvim) - A performant cursor animation plugin for Neovim
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
+- [DrKJeff16/which-colorscheme.nvim](https://github.com/DrKJeff16/which-colorscheme.nvim) - Use which-key.nvim bindings to cycle between colorschemes.
+- [wsdjeg/picker.nvim](https://github.com/wsdjeg/picker.nvim) - highly customizable and extensible Neovim fuzzy finder
+- [CWood-sdf/pineapple](https://github.com/CWood-sdf/pineapple) - Find, preview, and install any colorscheme without leaving neovim
+- [bravoecho/brook.nvim](https://github.com/bravoecho/brook.nvim) - Ripgrep that feels like Vim
+- [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - A large language model (LLM) plugin for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
+- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Prettify typescript errors, add inline-comments to ignore rules, and lookup rule documentation online.
+- [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
+- [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim) - The full Markdown editing experience in neovim
+- [waiting-for-dev/ergoterm.nvim](https://github.com/waiting-for-dev/ergoterm.nvim) - A single, powerful terminal abstraction for neovim that adapts to any CLI tool
+- [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
 - [mcanouil/quarto-badge](https://github.com/mcanouil/quarto-badge) - Badge is an extension for Quarto to provide a shortcode to display software version or anything as a badge.
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter
 - [luanvil/lnko](https://github.com/luanvil/lnko) - Simple stow-like dotfile linker
@@ -1650,6 +1664,7 @@
 
 ## Others 
 
+- [benjaminzwhite/reasoning-models](https://github.com/benjaminzwhite/reasoning-models) - Experiments with reasoning models, training techniques, papers
 - [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) - A curriculum for learning about gpu performance engineering, from scratch to what the frontier AI labs do
 - [DGoettlich/history-llms](https://github.com/DGoettlich/history-llms) - Information hub for our project training the largest possible historical LLMs.
 - [ActivityWatch/awesome-activitywatch](https://github.com/ActivityWatch/awesome-activitywatch) - A list of awesome ActivityWatch resources
@@ -1861,6 +1876,13 @@
 
 ## Python 
 
+- [AMD-AGI/torchtitan-amd](https://github.com/AMD-AGI/torchtitan-amd) - A PyTorch native platform for training generative AI models
+- [ROCm/aiter](https://github.com/ROCm/aiter) - AI Tensor Engine for ROCm
+- [lasgroup/SDPO](https://github.com/lasgroup/SDPO) - Reinforcement Learning via Self-Distillation (SDPO)
+- [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
+- [memodb-io/memobase](https://github.com/memodb-io/memobase) - User Profile-Based Long-Term Memory for AI Chatbot Applications.
+- [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
+- [Algomancer/Minimal-Drifting-Models](https://github.com/Algomancer/Minimal-Drifting-Models) - A minimal implementation of Drifting Models for 2D toy data. Unlike diffusion/flow models that iterate at inference, drifting models evolve the pushforward distribution during training and generate in
 - [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks lik
 - [bytetriper/RAE](https://github.com/bytetriper/RAE) - Official PyTorch Implementation of "Diffusion Transformers with Representation Autoencoders"
 - [teorth/erdosproblems](https://github.com/teorth/erdosproblems) - A community database for the problems on the erdosproblems.com site
@@ -3517,6 +3539,8 @@
 
 ## Rust 
 
+- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [RillingDev/musicbrainz-enricher](https://github.com/RillingDev/musicbrainz-enricher) - A Java application to enrich MusicBrainz data from linked sources.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
 - [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -3912,6 +3936,7 @@
 
 ## TeX 
 
+- [andrewheiss/hikmah-academic-quarto](https://github.com/andrewheiss/hikmah-academic-quarto) - A set of nice Quarto templates
 - [quarto-journals/acm](https://github.com/quarto-journals/acm) - Quarto template for the Association of Computing Machinery
 - [ElArkk/jax-unirep](https://github.com/ElArkk/jax-unirep) - Reimplementation of the UniRep protein featurization model.
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
@@ -3970,6 +3995,9 @@
 
 ## TypeScript 
 
+- [intellectronica/opencode-convodump](https://github.com/intellectronica/opencode-convodump) - An OpenCode plugin that exports each conversation session to a readable Markdown transcript.
+- [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
+- [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [mcanouil/quarto-wizard](https://github.com/mcanouil/quarto-wizard) - Quarto Wizard is a Visual Studio Code / Positron extension that assists you in managing extensions in Quarto projects.
@@ -4083,7 +4111,6 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr) - Effortlessly save and organize your web links in Obsidian
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
@@ -4220,6 +4247,9 @@
 
 ## Vim Script 
 
+- [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
+- [fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management for Neovim
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [bullets-vim/bullets.vim](https://github.com/bullets-vim/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
