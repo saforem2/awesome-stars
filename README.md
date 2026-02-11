@@ -108,6 +108,8 @@
 
 ## C 
 
+- [cfoust/cy](https://github.com/cfoust/cy) - 🤖 time travel in the terminal
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [sm64-port/sm64-port](https://github.com/sm64-port/sm64-port) - A port of https://www.github.com/n64decomp/sm64 for modern devices.
 - [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze) - Package Python projects into executables
 - [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor
@@ -456,6 +458,8 @@
 
 ## Go 
 
+- [Ethics03/Dots](https://github.com/Ethics03/Dots) - A Dotfiles Manager CLI-tool to symlink, version and sync your config files with git.
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime) - TakaTime is a blazingly fast, privacy-focused coding time tracker for Neovim.  It works just like WakaTime, but with one major difference: You own your data. Instead of sending your coding activity to
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp
@@ -1014,7 +1018,7 @@
 
 ## Jupyter Notebook 
 
-- [argonne-lcf/ChemGraph](https://github.com/argonne-lcf/ChemGraph) - Agentic framework for computational chemistry and materials science workflows
+- [g-luo/generative_latent_prior](https://github.com/g-luo/generative_latent_prior) - Official PyTorch Implementation for Learning a Generative Meta-Model of LLM Activations
 - [rcrowe-google/Learning-JAX](https://github.com/rcrowe-google/Learning-JAX) - Slide decks, coding exercises, and quick references for learning the JAX AI Stack
 - [ManuelPuchner/snapchat-memories-downloader](https://github.com/ManuelPuchner/snapchat-memories-downloader) - 
 - [ZuckermanLab/pyGridSampler](https://github.com/ZuckermanLab/pyGridSampler) - An adaptive grid-based sampling method using iterative batch sizes
@@ -1390,13 +1394,14 @@
 
 ## Lua 
 
+- [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as the colorcolumn
 - [StikyPiston/smudge.nvim](https://github.com/StikyPiston/smudge.nvim) - A performant cursor animation plugin for Neovim
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [DrKJeff16/which-colorscheme.nvim](https://github.com/DrKJeff16/which-colorscheme.nvim) - Use which-key.nvim bindings to cycle between colorschemes.
 - [wsdjeg/picker.nvim](https://github.com/wsdjeg/picker.nvim) - highly customizable and extensible Neovim fuzzy finder
 - [CWood-sdf/pineapple](https://github.com/CWood-sdf/pineapple) - Find, preview, and install any colorscheme without leaving neovim
 - [bravoecho/brook.nvim](https://github.com/bravoecho/brook.nvim) - Ripgrep that feels like Vim
-- [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - A large language model (LLM) plugin for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
+- [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - A large language model (LLM) plugin for Neovim, provides commands to interact with LLM (like ChatGPT, Copilot, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
 - [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Prettify typescript errors, add inline-comments to ignore rules, and lookup rule documentation online.
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
 - [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim) - The full Markdown editing experience in neovim
@@ -1664,6 +1669,7 @@
 
 ## Others 
 
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [benjaminzwhite/reasoning-models](https://github.com/benjaminzwhite/reasoning-models) - Experiments with reasoning models, training techniques, papers
 - [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) - A curriculum for learning about gpu performance engineering, from scratch to what the frontier AI labs do
 - [DGoettlich/history-llms](https://github.com/DGoettlich/history-llms) - Information hub for our project training the largest possible historical LLMs.
@@ -1876,6 +1882,9 @@
 
 ## Python 
 
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+- [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
+- [tajwarfahim/maxrl](https://github.com/tajwarfahim/maxrl) - Official Implementation of "Maximum Likelihood Reinforcement Learning (MaxRL)"
 - [AMD-AGI/torchtitan-amd](https://github.com/AMD-AGI/torchtitan-amd) - A PyTorch native platform for training generative AI models
 - [ROCm/aiter](https://github.com/ROCm/aiter) - AI Tensor Engine for ROCm
 - [lasgroup/SDPO](https://github.com/lasgroup/SDPO) - Reinforcement Learning via Self-Distillation (SDPO)
@@ -1889,6 +1898,7 @@
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
+- [argonne-lcf/ChemGraph](https://github.com/argonne-lcf/ChemGraph) - Agentic framework for computational chemistry and materials science workflows
 - [rvantonder/execute_code_py](https://github.com/rvantonder/execute_code_py) - A Claude Code plugin that restricts Claude to ONLY use Python code execution. All other tools are blocked, creating a pure computational environment.
 - [PyCQA/docformatter](https://github.com/PyCQA/docformatter) - Formats docstrings to follow PEP 257
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
@@ -3511,6 +3521,7 @@
 
 ## Ruby 
 
+- [holman/boom](https://github.com/holman/boom) - Motherfucking TEXT SNIPPETS! On the COMMAND LINE!
 - [DomT4/homebrew-autoupdate](https://github.com/DomT4/homebrew-autoupdate) - :tropical_drink: An easy, convenient way to automatically update Homebrew.
 - [adenta/fire_red_agent](https://github.com/adenta/fire_red_agent) - 
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
@@ -3539,6 +3550,10 @@
 
 ## Rust 
 
+- [taf2/mdvi](https://github.com/taf2/mdvi) - cli based Markdown viewer
+- [bellicose100xp/jiq](https://github.com/bellicose100xp/jiq) - Interactive JSON query tool with real-time output and AI assistance
+- [ricardodantas/hazelnut](https://github.com/ricardodantas/hazelnut) - 🌰 Terminal-based automated file organizer inspired by Hazel. Watch folders and organize files with rules.
+- [danalec/wtfpulse](https://github.com/danalec/wtfpulse) - asynchronous CLI TUI client for the WhatPulse Web API, written in Rust.
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [RillingDev/musicbrainz-enricher](https://github.com/RillingDev/musicbrainz-enricher) - A Java application to enrich MusicBrainz data from linked sources.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
@@ -3745,6 +3760,7 @@
 
 ## Shell 
 
+- [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [argonne-lcf/frameworks-sdk](https://github.com/argonne-lcf/frameworks-sdk) - Build scripts for the Frameworks SDK for internal testing, development, and deployment.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
@@ -3995,6 +4011,9 @@
 
 ## TypeScript 
 
+- [Th0rgal/open-ralph-wiggum](https://github.com/Th0rgal/open-ralph-wiggum) - Type `ralph "prompt"` to start open code in a ralph loop. Also supports a prompt file & status check. Open Code, Claude Code, Codex, Copilot
+- [lguibr/maireadme](https://github.com/lguibr/maireadme) - The Ultimate GitHub Profile README Generator. An intelligent CLI tool that analyzes your repositories, detects tech stacks, categorizes projects, and renders a high-fidelity Markdown dashboard with Sh
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [intellectronica/opencode-convodump](https://github.com/intellectronica/opencode-convodump) - An OpenCode plugin that exports each conversation session to a readable Markdown transcript.
 - [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
 - [RudeySH/lastfm-bulk-edit](https://github.com/RudeySH/lastfm-bulk-edit) - Bulk edit your scrobbles for any artist, album or track on Last.fm at once.
