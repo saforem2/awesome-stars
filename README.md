@@ -116,7 +116,7 @@
 - [toddmaustin/mojo-v](https://github.com/toddmaustin/mojo-v) - Mojo-V: A RISC-V instruction set extension for privacy-oriented programming. Mojo-V allows programmers to write software that computes on data that no software or person can see, except the data owner
 - [cryptocode/terminal-doom](https://github.com/cryptocode/terminal-doom) - Play DOOM in modern terminals
 - [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip) - Running TCP/IP over SWD lines
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI inference engine for mobile devices & wearables
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim) - Play DOOM in Neovim v0.11+ on Linux & macOS
 - [codekitchen/pipeline](https://github.com/codekitchen/pipeline) - the `pipeline` shell command
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
@@ -458,6 +458,7 @@
 
 ## Go 
 
+- [kardolus/chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is a powerful, multi-provider command-line interface for working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more, with features like streaming, interactive chat, p
 - [Ethics03/Dots](https://github.com/Ethics03/Dots) - A Dotfiles Manager CLI-tool to symlink, version and sync your config files with git.
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime) - TakaTime is a blazingly fast, privacy-focused coding time tracker for Neovim.  It works just like WakaTime, but with one major difference: You own your data. Instead of sending your coding activity to
@@ -4006,6 +4007,7 @@
 
 ## TypeScript 
 
+- [wyndhamharyata/lifecontrol](https://github.com/wyndhamharyata/lifecontrol) - 
 - [Th0rgal/open-ralph-wiggum](https://github.com/Th0rgal/open-ralph-wiggum) - Type `ralph "prompt"` to start open code in a ralph loop. Also supports a prompt file & status check. Open Code, Claude Code, Codex, Copilot
 - [lguibr/maireadme](https://github.com/lguibr/maireadme) - The Ultimate GitHub Profile README Generator. An intelligent CLI tool that analyzes your repositories, detects tech stacks, categorizes projects, and renders a high-fidelity Markdown dashboard with Sh
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -4058,7 +4060,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [egovelox/mozeidon](https://github.com/egovelox/mozeidon) - Mozeidon is a CLI to handle Firefox or Chrome tabs, history and bookmarks.
 - [possibilities/claude-composer](https://github.com/possibilities/claude-composer) - 
-- [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
+- [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The Yjs CRDT WebSocket backend for conflict-free real-time collaboration in your app.
 - [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper. Less but handy features for plain Markdown lovers.
 - [JairHuamanBellido/Oxidus](https://github.com/JairHuamanBellido/Oxidus) - A theme color generator
 - [hyparam/hightable](https://github.com/hyparam/hightable) - A dynamic windowed scrolling table component for react
