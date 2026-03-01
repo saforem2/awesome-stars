@@ -108,6 +108,7 @@
 
 ## C 
 
+- [andrewmd5/dawn](https://github.com/andrewmd5/dawn) - A distraction-free writing environment; draft anything, write now.
 - [cfoust/cy](https://github.com/cfoust/cy) - 🤖 time travel in the terminal
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [sm64-port/sm64-port](https://github.com/sm64-port/sm64-port) - A port of https://www.github.com/n64decomp/sm64 for modern devices.
@@ -458,6 +459,7 @@
 
 ## Go 
 
+- [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Roll movie-style credits for your git repo — right in the terminal
 - [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 - [kardolus/chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is a powerful, multi-provider command-line interface for working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more, with features like streaming, interactive chat, p
 - [Ethics03/Dots](https://github.com/Ethics03/Dots) - A Dotfiles Manager CLI-tool to symlink, version and sync your config files with git.
@@ -587,6 +589,7 @@
 
 ## HTML 
 
+- [xalt/xalt](https://github.com/xalt/xalt) - XALT: System tracking of users codes on clusters
 - [trafkin/glypho](https://github.com/trafkin/glypho) - Glypho is a fast, minimal command-line tool written in Rust to preview Markdown files in your browser.
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [bwplotka/my](https://github.com/bwplotka/my) - Personal website with Hugo, KeepIt theme and some automation! (:
@@ -713,7 +716,7 @@
 
 - [mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg) - Quarto: The Definitive Guide
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
 - [EmilHvitfeldt/quarto-revealjs-editable](https://github.com/EmilHvitfeldt/quarto-revealjs-editable) - Repositioning and resizing of images and text directly in quarto revealjs slides
 - [parmsam/quarto-excalidraw](https://github.com/parmsam/quarto-excalidraw) - An extension to open an empty or existing Excalidraw canvas for RevealJS in Quarto
 - [andrewheiss/quarto-output-styling](https://github.com/andrewheiss/quarto-output-styling) - Style code output, errors, warnings, and messages in Quarto!
@@ -1617,6 +1620,7 @@
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [jceb/mdshow](https://github.com/jceb/mdshow) - Turn markdown files into beautiful presentations quickly
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 
 ## Markdown 
@@ -1795,7 +1799,6 @@
 - [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax) - JAX - A curated list of resources https://github.com/google/jax
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [davidenunes/tensorflow-wheels](https://github.com/davidenunes/tensorflow-wheels) - Tensorflow Wheels
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [jjayaram7/learn-by-calibrating](https://github.com/jjayaram7/learn-by-calibrating) - Codes for implementing the learn-by-calibrating approach to build emulators for scientific simulations
 - [Machine-Learning-Tokyo/AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum) - Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley.
@@ -1883,6 +1886,11 @@
 
 ## Python 
 
+- [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+- [qlabs-eng/slowrun](https://github.com/qlabs-eng/slowrun) - 100M tokens, no time limit, best val loss wins!
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+- [NVIDIA/nvidia-resiliency-ext](https://github.com/NVIDIA/nvidia-resiliency-ext) - NVIDIA Resiliency Extension is a python package for framework developers and users to implement fault-tolerant features. It improves the effective training time by minimizing the downtime due to failu
+- [salvozappa/gattino](https://github.com/salvozappa/gattino) - A kitty terminal extension that turns plain language into commands using Ollama.
 - [pnnl/neuromancer](https://github.com/pnnl/neuromancer) - Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification, and parametric model predictive control.
 - [strands-labs/ai-functions](https://github.com/strands-labs/ai-functions) - Python functions powered by AI agents - with runtime post-conditions for reliable agentic workflows.
 - [tjburch/linear-term](https://github.com/tjburch/linear-term) - Terminal user interface for Linear project management
@@ -1965,7 +1973,7 @@
 - [shaochenze/calm](https://github.com/shaochenze/calm) - Official implementation of "Continuous Autoregressive Language Models"
 - [huggingface/transformers-research-projects](https://github.com/huggingface/transformers-research-projects) - Research projects built on top of Transformers
 - [noegroup/ScoreMD](https://github.com/noegroup/ScoreMD) - A framework for training energy-based diffusion models for sampling and energy estimation.
-- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
+- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [Accenture/mcp-bench](https://github.com/Accenture/mcp-bench) - MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [openai/frontier-evals](https://github.com/openai/frontier-evals) - OpenAI Frontier Evals
@@ -3549,6 +3557,11 @@
 
 ## Rust 
 
+- [CleverCloud/mdr](https://github.com/CleverCloud/mdr) - a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded
+- [JayanAXHF/gitv](https://github.com/JayanAXHF/gitv) - gitv is a terminal-based viewer for GitHub issues. It allows you to view and manage your GitHub issues directly from the terminal.
+- [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
+- [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
+- [GreatScott/enject](https://github.com/GreatScott/enject) - enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.
 - [nachoparker/dutree](https://github.com/nachoparker/dutree) - a tool to analyze file system usage written in Rust
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
@@ -3598,7 +3611,7 @@
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ck-zhang/reddix](https://github.com/ck-zhang/reddix) - Reddix – Reddit, refined for the terminal.
-- [CrociDB/bulletty](https://github.com/CrociDB/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
+- [crocidb/bulletty](https://github.com/crocidb/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
 - [tod-org/tod](https://github.com/tod-org/tod) - An unofficial Todoist command line client written in Rust
 - [terror/present](https://github.com/terror/present) - A script interpolation engine for markdown documents
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -4015,6 +4028,7 @@
 
 ## TypeScript 
 
+- [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi) - Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.
 - [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw) - TinyClaw is a team of personal agents that collaborate with each other
 - [lifo-sh/lifo](https://github.com/lifo-sh/lifo) - A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence.
 - [wyndhamharyata/lifecontrol](https://github.com/wyndhamharyata/lifecontrol) - 
