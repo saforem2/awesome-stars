@@ -1399,6 +1399,8 @@
 
 ## Lua 
 
+- [catgoose/wildest.nvim](https://github.com/catgoose/wildest.nvim) - The most wildest wildmenu
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [ya2s/nvim-cursorline](https://github.com/ya2s/nvim-cursorline) - A plugin for neovim that highlights cursor words and lines
 - [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as the colorcolumn
 - [StikyPiston/smudge.nvim](https://github.com/StikyPiston/smudge.nvim) - A performant cursor animation plugin for Neovim
@@ -4024,6 +4026,7 @@
 
 ## Tree-sitter Query 
 
+- [davidmh/mdx.nvim](https://github.com/davidmh/mdx.nvim) - Good enough syntax highlight for MDX in Neovim using Treesitter
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## TypeScript 
