@@ -24,6 +24,7 @@
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
+- [F#](#f#)
 - [Fennel](#fennel)
 - [Fortran](#fortran)
 - [GLSL](#glsl)
@@ -438,6 +439,10 @@
 - [domtronn/all-the-icons.el](https://github.com/domtronn/all-the-icons.el) - A utility package to collect various Icon Fonts and propertize them within Emacs.
 - [yangsheng6810/org-latex-impatient](https://github.com/yangsheng6810/org-latex-impatient) - Instant Previews LaTeX snippets in Org-mode
 
+## F# # 
+
+- [mandel-macaque/memento](https://github.com/mandel-macaque/memento) - Keep track of you codex sessions per commit
+
 ## Fennel 
 
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
@@ -714,6 +719,7 @@
 
 ## JavaScript 
 
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg) - Quarto: The Definitive Guide
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
@@ -2546,7 +2552,7 @@
 - [probabilists/zuko](https://github.com/probabilists/zuko) - Normalizing flows in PyTorch
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
 - [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨
 - [fudan-zvg/PDS](https://github.com/fudan-zvg/PDS) - [ECCV 2022 & IJCV 2025] Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling
