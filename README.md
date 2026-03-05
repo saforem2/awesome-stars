@@ -1685,6 +1685,7 @@
 
 ## Others 
 
+- [nolasoft/okgit](https://github.com/nolasoft/okgit) - 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [benjaminzwhite/reasoning-models](https://github.com/benjaminzwhite/reasoning-models) - Experiments with reasoning models, training techniques, papers
 - [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) - A curriculum for learning about gpu performance engineering, from scratch to what the frontier AI labs do
@@ -1896,8 +1897,9 @@
 
 ## Python 
 
+- [allenai/molmo2](https://github.com/allenai/molmo2) - Code for the Molmo2 Vision-Language Model
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
-- [qlabs-eng/slowrun](https://github.com/qlabs-eng/slowrun) - 100M tokens, no time limit, best val loss wins!
+- [qlabs-eng/slowrun](https://github.com/qlabs-eng/slowrun) - 100M tokens. Infinite compute. Lowest val loss wins.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [NVIDIA/nvidia-resiliency-ext](https://github.com/NVIDIA/nvidia-resiliency-ext) - NVIDIA Resiliency Extension is a python package for framework developers and users to implement fault-tolerant features. It improves the effective training time by minimizing the downtime due to failu
 - [salvozappa/gattino](https://github.com/salvozappa/gattino) - A kitty terminal extension that turns plain language into commands using Ollama.
@@ -1945,7 +1947,7 @@
 - [ourresearch/openalex-guts](https://github.com/ourresearch/openalex-guts) - The guts for computing data for OpenAlex.  For more, see https://openalex.org/.
 - [zichongli5/NorMuon](https://github.com/zichongli5/NorMuon) - Official Implementation for NorMuon paper
 - [ninoseki/uv-dynamic-versioning](https://github.com/ninoseki/uv-dynamic-versioning) - Dynamic versioning based on VCS tags for uv/hatch project
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [gpustack/gpustack](https://github.com/gpustack/gpustack) - Performance-optimized AI inference on your GPUs. Unlock superior throughput by selecting and tuning engines like vLLM or SGLang.
 - [Noumena-Network/nmoe](https://github.com/Noumena-Network/nmoe) - MoE training for Me and You and maybe other people
@@ -3082,7 +3084,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-628-Stars](https://github.com/iBug/This-Repo-Has-628-Stars) - Yes, it's true :two_hearts: This repository has 628 stars.
+- [iBug/This-Repo-Has-628-Stars](https://github.com/iBug/This-Repo-Has-628-Stars) - Yes, it's true :sparkling_heart: This repository has 628 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3891,7 +3893,7 @@
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [zplug/zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh — manage plugins, commands, and themes from GitHub, Bitbucket, oh-my-zsh, prezto, and more with parallel installation and lazy loading.
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [JELGT2011/.dotfiles](https://github.com/JELGT2011/.dotfiles) - 
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
