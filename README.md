@@ -467,6 +467,7 @@
 
 ## Go 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Roll movie-style credits for your git repo — right in the terminal
@@ -563,7 +564,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -775,7 +776,6 @@
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [coatless-quarto/pyodide](https://github.com/coatless-quarto/pyodide) - Community developed Quarto extension to enable interactive Python code cells in HTML documents using Pyodide
-- [Martinomagnifico/quarto-appearance](https://github.com/Martinomagnifico/quarto-appearance) - An animation plugin for Reveal.js that animates elements sequentially like in Powerpoint. Perfect for online portfolios or other presentations with images.
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
@@ -1037,6 +1037,7 @@
 
 ## Jupyter Notebook 
 
+- [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets
 - [g-luo/generative_latent_prior](https://github.com/g-luo/generative_latent_prior) - Official PyTorch Implementation for Learning a Generative Meta-Model of LLM Activations
 - [rcrowe-google/Learning-JAX](https://github.com/rcrowe-google/Learning-JAX) - Slide decks, coding exercises, and quick references for learning the JAX AI Stack
 - [ManuelPuchner/snapchat-memories-downloader](https://github.com/ManuelPuchner/snapchat-memories-downloader) - 
@@ -1606,7 +1607,6 @@
 - [NVIDIA/ngc-container-environment-modules](https://github.com/NVIDIA/ngc-container-environment-modules) - Environment modules for NGC containers
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
-- [richin13/dotfiles](https://github.com/richin13/dotfiles) - My dotfiles: (Neovim + Zsh + Tmux) optimized for Python & React development 🤑
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [dsanson/hs.tiling](https://github.com/dsanson/hs.tiling) - Add tiling window management powers to your hammerspoon
@@ -1723,6 +1723,7 @@
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
 - [NousResearch/DisTrO](https://github.com/NousResearch/DisTrO) - Distributed Training Over-The-Internet
+- [Martinomagnifico/quarto-appearance](https://github.com/Martinomagnifico/quarto-appearance) - An animation plugin for Reveal.js that animates elements sequentially like in Powerpoint. Perfect for online portfolios or other presentations with images.
 - [argonne-lcf/summer-school-2024](https://github.com/argonne-lcf/summer-school-2024) - 
 - [harmonic-ai/datasets](https://github.com/harmonic-ai/datasets) - Harmonic Datasets
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
@@ -2014,7 +2015,7 @@
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) - Deploy any AI model, agent, database, RAG, and pipeline locally or remotely in minutes
 - [samuelwheeler/scattermoe_benchmark](https://github.com/samuelwheeler/scattermoe_benchmark) - 
 - [devvrit/ScaleRL-Curve-Fitting](https://github.com/devvrit/ScaleRL-Curve-Fitting) - ScaleRL Curve Fitting
-- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
+- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
 - [Jentuuh/edge-preserving-diffusion](https://github.com/Jentuuh/edge-preserving-diffusion) - Source code repository for the project "Edge-preserving noise for diffusion models" [ICLR 2025 DeLTa Workshop].
 - [ChinmayK0607/nanosft](https://github.com/ChinmayK0607/nanosft) - minimal implementation of sft with gpt2-124M
 - [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Async RL Training at Scale
@@ -3584,6 +3585,7 @@
 
 ## Rust 
 
+- [flamestro/deff](https://github.com/flamestro/deff) - interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [tejas-raskar/noted.md](https://github.com/tejas-raskar/noted.md) - A command-line tool to convert handwritten notes to markdown files
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
@@ -3896,6 +3898,7 @@
 - [izmailovpavel/flowgmm](https://github.com/izmailovpavel/flowgmm) - 
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [richin13/dotfiles](https://github.com/richin13/dotfiles) - My dotfiles: (Neovim + Zsh + Tmux) optimized for Python & React development 🤑
 - [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action) - :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
 - [RescueTime/git-commits-to-rescuetime-daily-highlights](https://github.com/RescueTime/git-commits-to-rescuetime-daily-highlights) - An example script to show how to log code commits as Daily Highlights in RescueTime
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
@@ -3950,7 +3953,7 @@
 - [smittytone/PreviewCode](https://github.com/smittytone/PreviewCode) - QuickLook source code preview and icon thumbnailing app extensions for macOS Catalina and beyond
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [curzel-it/pipper](https://github.com/curzel-it/pipper) - App that allows users to keep a webview always visible on their screen, on top of other windows, like for watching youtube while working and stuff. Still a proof of concept
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Turn your screen into a timeline of your workday. 1-click standups, perf review receipts, and beautiful time visualizations. Local AI or BYO key.
 - [OrdinarySF/LyricFever-Lite](https://github.com/OrdinarySF/LyricFever-Lite) - Ultimate Spotify & Apple Music Lyrics experience for macOS (spiritual successor to LyricsX and LyricFever)
 - [argmaxinc/apple-speechanalyzer-cli-example](https://github.com/argmaxinc/apple-speechanalyzer-cli-example) - Apple Speech Analyzer CLI Example
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
@@ -4061,6 +4064,8 @@
 
 ## TypeScript 
 
+- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [Prog-Jacob/spicetify-apps](https://github.com/Prog-Jacob/spicetify-apps) - A collection of custom apps for Spicetify.
 - [vaneenige/monochrome-ui](https://github.com/vaneenige/monochrome-ui) - Accessible UI component library. Best performance out of the box. HTML first, React and Vue supported.
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - What Apple Intelligence should have been
@@ -4127,7 +4132,7 @@
 - [hyparam/hyperparam-cli](https://github.com/hyparam/hyperparam-cli) - Hyperparam local dataset viewer
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
-- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
@@ -4252,7 +4257,7 @@
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
 - [schwamic/klangspektrum2](https://github.com/schwamic/klangspektrum2) - An insight into the musical tastes of Spotify users :notes:
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
-- [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [retorquere/zotero-storage-scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography
@@ -4260,7 +4265,7 @@
 - [Dmytro-Shulha/obsidian-plotly](https://github.com/Dmytro-Shulha/obsidian-plotly) - Obsidian plugin to embed Plotly charts into markdown notes.
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [larslockefeer/obsidian-plugin-todo](https://github.com/larslockefeer/obsidian-plugin-todo) - 
-- [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
+- [obsidian-community/obsidian-style-settings](https://github.com/obsidian-community/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
