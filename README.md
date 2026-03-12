@@ -603,6 +603,7 @@
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [xalt/xalt](https://github.com/xalt/xalt) - XALT: System tracking of users codes on clusters
+- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [trafkin/glypho](https://github.com/trafkin/glypho) - Glypho is a fast, minimal command-line tool written in Rust to preview Markdown files in your browser.
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [bwplotka/my](https://github.com/bwplotka/my) - Personal website with Hugo, KeepIt theme and some automation! (:
@@ -903,6 +904,7 @@
 - [eleurent/phd-defense](https://github.com/eleurent/phd-defense) - 
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -1908,6 +1910,7 @@
 
 ## Python 
 
+- [ExaWorks/psij-python](https://github.com/ExaWorks/psij-python) - 
 - [huggingface/labbench2](https://github.com/huggingface/labbench2) - labbench2
 - [black-forest-labs/Self-Flow](https://github.com/black-forest-labs/Self-Flow) - Code and website for Self-Flow: Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis
 - [databricks/flashoptim](https://github.com/databricks/flashoptim) - 
@@ -1943,7 +1946,6 @@
 - [teorth/erdosproblems](https://github.com/teorth/erdosproblems) - A community database for the problems on the erdosproblems.com site
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
-- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [argonne-lcf/ChemGraph](https://github.com/argonne-lcf/ChemGraph) - Agentic framework for computational chemistry and materials science workflows
 - [rvantonder/execute_code_py](https://github.com/rvantonder/execute_code_py) - A Claude Code plugin that restricts Claude to ONLY use Python code execution. All other tools are blocked, creating a pure computational environment.
 - [PyCQA/docformatter](https://github.com/PyCQA/docformatter) - Formats docstrings to follow PEP 257
@@ -2127,7 +2129,7 @@
 - [scoder/lupa](https://github.com/scoder/lupa) - Lua in Python
 - [huggingface/nanoVLM](https://github.com/huggingface/nanoVLM) - The simplest, fastest repository for training/finetuning small-sized VLMs.
 - [allenai/infinigram-api](https://github.com/allenai/infinigram-api) - 
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [NVlabs/Eagle](https://github.com/NVlabs/Eagle) - Eagle: Frontier Vision-Language Models with Data-Centric Strategies
 - [pmh9960/SphereDiff](https://github.com/pmh9960/SphereDiff) - Official PyTorch implementation of "SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation"
@@ -4064,6 +4066,7 @@
 
 ## TypeScript 
 
+- [ourdorm/friends](https://github.com/ourdorm/friends) - 
 - [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [Prog-Jacob/spicetify-apps](https://github.com/Prog-Jacob/spicetify-apps) - A collection of custom apps for Spicetify.
 - [vaneenige/monochrome-ui](https://github.com/vaneenige/monochrome-ui) - Accessible UI component library. Best performance out of the box. HTML first, React and Vue supported.
@@ -4294,7 +4297,6 @@
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [sadn1ck/draw-and-code](https://github.com/sadn1ck/draw-and-code) - Draw your explanation and write your code without pointlessly switching tabs!
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jupyterlab-contrib/jupyterlab-vim](https://github.com/jupyterlab-contrib/jupyterlab-vim) - Vim notebook cell bindings for JupyterLab
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
