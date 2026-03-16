@@ -1416,6 +1416,7 @@
 
 ## Lua 
 
+- [Kicamon/markdown-table-mode.nvim](https://github.com/Kicamon/markdown-table-mode.nvim) - A lightweight markdown format plugin like vim-table-mode but write in lua
 - [gaborvecsei/usage-tracker.nvim](https://github.com/gaborvecsei/usage-tracker.nvim) - NeoVim plugin with which you can track the time you spent on files, projects, repos, filetypes
 - [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles
 - [nvim-mini/mini.surround](https://github.com/nvim-mini/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
@@ -1648,7 +1649,7 @@
 ## Markdown 
 
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Mathematica 
@@ -1910,6 +1911,7 @@
 
 ## Python 
 
+- [monostate/aitraining](https://github.com/monostate/aitraining) - Fine-tune LLMs and ML models with automatic dataset conversion, hyperparameter sweeps, and custom RL environments
 - [ExaWorks/psij-python](https://github.com/ExaWorks/psij-python) - 
 - [huggingface/labbench2](https://github.com/huggingface/labbench2) - labbench2
 - [black-forest-labs/Self-Flow](https://github.com/black-forest-labs/Self-Flow) - Code and website for Self-Flow: Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis
@@ -4072,7 +4074,7 @@
 - [Prog-Jacob/spicetify-apps](https://github.com/Prog-Jacob/spicetify-apps) - A collection of custom apps for Spicetify.
 - [vaneenige/monochrome-ui](https://github.com/vaneenige/monochrome-ui) - Accessible UI component library. Best performance out of the box. HTML first, React and Vue supported.
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
-- [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - What Apple Intelligence should have been
+- [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi) - Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.
 - [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw) - TinyClaw is a team of personal agents that collaborate with each other
 - [lifo-sh/lifo](https://github.com/lifo-sh/lifo) - A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence.
