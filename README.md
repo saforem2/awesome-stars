@@ -1694,6 +1694,7 @@
 
 ## Others 
 
+- [hustvl/MoDA](https://github.com/hustvl/MoDA) - An hardware-aware Efficient Implementation for "Mixture-of-Depths Attention".
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [nolasoft/okgit](https://github.com/nolasoft/okgit) - 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1908,6 +1909,8 @@
 
 ## Python 
 
+- [allenai/OLMo-core](https://github.com/allenai/OLMo-core) - PyTorch building blocks for the OLMo ecosystem
+- [psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done) - The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).
 - [monostate/aitraining](https://github.com/monostate/aitraining) - Fine-tune LLMs and ML models with automatic dataset conversion, hyperparameter sweeps, and custom RL environments
 - [ExaWorks/psij-python](https://github.com/ExaWorks/psij-python) - 
 - [huggingface/labbench2](https://github.com/huggingface/labbench2) - labbench2
