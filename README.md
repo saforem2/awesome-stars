@@ -1380,7 +1380,7 @@
 - [crgagne/pymc3-tensorflow-and-theano-backends](https://github.com/crgagne/pymc3-tensorflow-and-theano-backends) - Within this repo, I altered some of the PyMC3 source code so that it can run on either Theano or TensorFlow backends
 - [brain-research/l2hmc](https://github.com/brain-research/l2hmc) - TensorFlow implementation for training MCMC samplers from the paper: Generalizing Hamiltonian Monte Carlo with Neural Network
 - [rasbt/deep-learning-book](https://github.com/rasbt/deep-learning-book) - Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python"
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
+- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.
 - [SebastianBocquet/pygtc](https://github.com/SebastianBocquet/pygtc) - Make a sweet giant triangle confusogram (GTC) plot
 - [hep-lbdl/adversarial-jets](https://github.com/hep-lbdl/adversarial-jets) - Training, generation, and analysis code for Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics
 - [hep-lbdl/CaloGAN](https://github.com/hep-lbdl/CaloGAN) - Generative Adversarial Networks for High Energy Physics extended to a multi-layer calorimeter simulation
@@ -1929,7 +1929,7 @@
 - [tjburch/linear-term](https://github.com/tjburch/linear-term) - Terminal user interface for Linear project management
 - [globus/globus-mcp](https://github.com/globus/globus-mcp) - An MCP server implementation enabling AI applications to interact with Globus services
 - [facebookresearch/gcm](https://github.com/facebookresearch/gcm) - GPU Cluster Monitoring (GCM): Large-Scale AI Research Cluster Monitoring
-- [huggingface/skills](https://github.com/huggingface/skills) - 
+- [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
 - [ORNL/flowcept](https://github.com/ORNL/flowcept) - Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.
 - [doe-iri/iri-facility-api-python](https://github.com/doe-iri/iri-facility-api-python) - The IRI Facility API reference implementation (Python)
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
@@ -4081,7 +4081,7 @@
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi) - Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.
-- [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw) - TinyClaw is a team of personal agents that collaborate with each other
+- [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
 - [lifo-sh/lifo](https://github.com/lifo-sh/lifo) - A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence.
 - [wyndhamharyata/lifecontrol](https://github.com/wyndhamharyata/lifecontrol) - 
 - [Th0rgal/open-ralph-wiggum](https://github.com/Th0rgal/open-ralph-wiggum) - Type `ralph "prompt"` to start open code in a ralph loop. Also supports a prompt file & status check. Open Code, Claude Code, Codex, Copilot
