@@ -276,7 +276,7 @@
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database that spins up instantly, scale per request, and drop to zero when idle. Multimodal retrieval and streaming to training PyTorch.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [LBANN/lbann](https://github.com/LBANN/lbann) - Livermore Big Artificial Neural Network Toolkit
 - [QMCPACK/qmcpack](https://github.com/QMCPACK/qmcpack) - Main repository for QMCPACK, an open-source production level many-body ab initio Quantum Monte Carlo code for computing the electronic structure of atoms, molecules, and solids with full performance p
@@ -2363,7 +2363,7 @@
 - [Suor/funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
 - [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools
@@ -3244,7 +3244,6 @@
 - [microsoft/MT-DNN](https://github.com/microsoft/MT-DNN) - Multi-Task Deep Neural Networks for Natural Language Understanding
 - [galtay/hilbertcurve](https://github.com/galtay/hilbertcurve) - maps between 1-D space filling hilbert curve and N-D coordinates
 - [originofmatter/MatGAN](https://github.com/originofmatter/MatGAN) - Generative deep learning model for inorganic materials
-- [arviz-devs/arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [singh-jaydeep/lattice-gauge-theory](https://github.com/singh-jaydeep/lattice-gauge-theory) - Framework for computing Wilson loops in U(1), SU(3) gauge theories
 - [PhIMaL/temporal_normalizing_flows](https://github.com/PhIMaL/temporal_normalizing_flows) - 
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -4045,6 +4044,7 @@
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [namedtensor/notation](https://github.com/namedtensor/notation) - 
 - [wzpan/BeamerStyleSlides](https://github.com/wzpan/BeamerStyleSlides) - 🌈Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。
+- [arviz-devs/arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [mastwood/advancedquantum](https://github.com/mastwood/advancedquantum) - My notes from Advanced Quantum Theory (taught by Tobias Osborne). This course covers the mathematical formalism and physics of many-particle quantum mechanics (in the framework of manifolds and config
 - [henryiii/presentation](https://github.com/henryiii/presentation) - A basis for presentations
 - [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - Complete collection of my PGF/TikZ figures.
