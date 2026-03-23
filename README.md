@@ -276,7 +276,7 @@
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database that spins up instantly, scale per request, and drop to zero when idle. Multimodal retrieval and streaming to training PyTorch.
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [LBANN/lbann](https://github.com/LBANN/lbann) - Livermore Big Artificial Neural Network Toolkit
 - [QMCPACK/qmcpack](https://github.com/QMCPACK/qmcpack) - Main repository for QMCPACK, an open-source production level many-body ab initio Quantum Monte Carlo code for computing the electronic structure of atoms, molecules, and solids with full performance p
@@ -631,7 +631,6 @@
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [openjournals/joss-papers](https://github.com/openjournals/joss-papers) - Accepted JOSS papers
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [codewithsadee/dashboard](https://github.com/codewithsadee/dashboard) - This dashboard is fully responsive for all devices
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
@@ -792,7 +791,7 @@
 - [mustache-dev/Mario-Kart-3.js](https://github.com/mustache-dev/Mario-Kart-3.js) - 
 - [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [kaitlinmctigue/kaitlinmctigue.github.io](https://github.com/kaitlinmctigue/kaitlinmctigue.github.io) - 
 - [quarto-dev/quarto-web](https://github.com/quarto-dev/quarto-web) - Quarto website
 - [wandb/gitbook](https://github.com/wandb/gitbook) - Documentation synced with GitBook. For all issues with the wandb library, please use https://github.com/wandb/client/issues
@@ -949,7 +948,7 @@
 - [MakieOrg/GeoMakie.jl](https://github.com/MakieOrg/GeoMakie.jl) - Geographical plotting utilities for Makie.jl
 - [TuringLang/AdvancedMH.jl](https://github.com/TuringLang/AdvancedMH.jl) - Robust implementation for random-walk Metropolis-Hastings algorithms
 - [gaurav-arya/differentiable_mh](https://github.com/gaurav-arya/differentiable_mh) - Code for paper https://arxiv.org/abs/2306.07961
-- [CliMA/ClimaTimeSteppers.jl](https://github.com/CliMA/ClimaTimeSteppers.jl) - A CPU- and GPU-friendly package for solving ordinary differential equations
+- [CliMA/ClimaTimeSteppers.jl](https://github.com/CliMA/ClimaTimeSteppers.jl) - GPU-ready IMEX and multirate ODE solvers for large-scale scientific models
 - [slimgroup/InvertibleNetworks.jl](https://github.com/slimgroup/InvertibleNetworks.jl) - A Julia framework for invertible neural networks
 - [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for the FLINT number theory C library
 - [CliMA/ClimaLand.jl](https://github.com/CliMA/ClimaLand.jl) - Clima's Land Model
@@ -2360,6 +2359,7 @@
 - [yastn/yastn](https://github.com/yastn/yastn) - Yet another symmetric tensor network
 - [alibaba/Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch) - The official repo of Pai-Megatron-Patch for LLM & VLM large scale training developed by Alibaba Cloud.
 - [saforem2/ambivalent](https://github.com/saforem2/ambivalent) - Minimal, beautiful (+ highly-customizable) styles for Matplotlib.
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [Suor/funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
 - [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
@@ -3104,7 +3104,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-628-Stars](https://github.com/iBug/This-Repo-Has-628-Stars) - Yes, it's true :sparkling_heart: This repository has 628 stars.
+- [iBug/This-Repo-Has-628-Stars](https://github.com/iBug/This-Repo-Has-628-Stars) - Yes, it's true :orange_heart: This repository has 628 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3406,7 +3406,7 @@
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [datafolklabs/cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [networkx/grave](https://github.com/networkx/grave) - Grave—dead simple graph visualization
 - [qctrl/open-controls](https://github.com/qctrl/open-controls) - 🎛 Q-CTRL Open Controls
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -3625,7 +3625,7 @@
 - [orhun/ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen in your terminal ✨
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [karimknaebel/turm](https://github.com/karimknaebel/turm) - TUI for the Slurm Workload Manager
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Fast File Finder for your AI and neovim, with memory built-in
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [BaconIsAVeg/outside](https://github.com/BaconIsAVeg/outside) - A multi-purpose weather client for your terminal!
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
