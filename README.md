@@ -2163,7 +2163,7 @@
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [pygfx/pygfx](https://github.com/pygfx/pygfx) - Powerful and versatile visualization for Python.
-- [vispy/jupyter_rfb](https://github.com/vispy/jupyter_rfb) - Remote Frame Buffer for Jupyter
+- [vispy/jupyter_rfb](https://github.com/vispy/jupyter_rfb) - Remote Frame Buffer for Python notebooks
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [ML-GSAI/SMDM](https://github.com/ML-GSAI/SMDM) - Official PyTorch implementation for ICLR2025 paper "Scaling up Masked Diffusion Models on Text"
 - [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
