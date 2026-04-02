@@ -1909,6 +1909,9 @@
 
 ## Python 
 
+- [n-getty/argo-shim](https://github.com/n-getty/argo-shim) - 
+- [Dao-AILab/gram-newton-schulz](https://github.com/Dao-AILab/gram-newton-schulz) - Fast Polar Decomposition for Muon
+- [SemiAnalysisAI/microbench-blackwell](https://github.com/SemiAnalysisAI/microbench-blackwell) - 
 - [htkg/zod-ps](https://github.com/htkg/zod-ps) - Alternating Diffusion for Proximal Sampling with Zeroth Order Queries (ICLR 2026)
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [Future-House/ether0](https://github.com/Future-House/ether0) - A scientific reasoning model, dataset, and reward functions for chemistry.
@@ -4093,6 +4096,7 @@
 
 ## TypeScript 
 
+- [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
 - [chenglou/pretext](https://github.com/chenglou/pretext) - 
 - [jalonsogo/tui-studio](https://github.com/jalonsogo/tui-studio) - Visual design tool for building Terminal User Interfaces
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
