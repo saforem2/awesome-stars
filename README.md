@@ -338,7 +338,6 @@
 - [nuclearcodecat/shimmer](https://github.com/nuclearcodecat/shimmer) - charming firefox userchrome with sidebery support
 - [koaning/tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
 - [barkstone2/vault-to-blog](https://github.com/barkstone2/vault-to-blog) - Automation tool of making react SPA blog by obsidian vault.
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [st1020/kita](https://github.com/st1020/kita) - Kita is a clean, elegant and simple blog theme for Zola.
 - [gadenbuie/quarto-auto-dark](https://github.com/gadenbuie/quarto-auto-dark) - Auto dark mode for Quarto websites and slides
@@ -763,6 +762,7 @@
 - [LeaVerou/md-block](https://github.com/LeaVerou/md-block) - A custom element for rendering stylable (light DOM) Markdown
 - [hexagoncircle/pixel-canvas](https://github.com/hexagoncircle/pixel-canvas) - Web Component that applies a shimmering pixel background on element hover
 - [gadenbuie/quarto-bluesky-comments](https://github.com/gadenbuie/quarto-bluesky-comments) - Bluesky-powered comments sections for Quarto websites
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [google/typograms](https://github.com/google/typograms) - 
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
