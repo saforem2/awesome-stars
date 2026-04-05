@@ -725,6 +725,7 @@
 
 ## JavaScript 
 
+- [LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer) - A beautiful CLI tool to see what's running on your ports
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg) - Quarto: The Definitive Guide
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
@@ -1410,6 +1411,7 @@
 
 ## Lua 
 
+- [notomo/cmdbuf.nvim](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line window plugin for neovim
 - [Kicamon/markdown-table-mode.nvim](https://github.com/Kicamon/markdown-table-mode.nvim) - A lightweight markdown format plugin like vim-table-mode but write in lua
 - [gaborvecsei/usage-tracker.nvim](https://github.com/gaborvecsei/usage-tracker.nvim) - NeoVim plugin with which you can track the time you spent on files, projects, repos, filetypes
 - [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles
@@ -1909,6 +1911,8 @@
 
 ## Python 
 
+- [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
+- [argonne-lcf/AERIS-GB](https://github.com/argonne-lcf/AERIS-GB) - Frozen snapshot of AERIS used for the 2025 submission for ACM Gordon Bell Prize for Climate Modeling
 - [lamm-mit/scienceclaw](https://github.com/lamm-mit/scienceclaw) - 
 - [n-getty/argo-shim](https://github.com/n-getty/argo-shim) - 
 - [Dao-AILab/gram-newton-schulz](https://github.com/Dao-AILab/gram-newton-schulz) - Fast Polar Decomposition for Muon
@@ -3611,6 +3615,7 @@
 
 ## Rust 
 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [googlefonts/Inconsolata](https://github.com/googlefonts/Inconsolata) - Development repo of Inconsolata Fonts by Raph Levien
 - [razziel89/mdslw](https://github.com/razziel89/mdslw) - Prepare your markdown for easy diff'ing!
 - [wezm/git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
@@ -4097,6 +4102,7 @@
 
 ## TypeScript 
 
+- [jonesphillip/sharehtml](https://github.com/jonesphillip/sharehtml) - Deploy HTML, Markdown, and code files from the CLI. Get a shareable URL with live comments, reactions, and presence. Self-hosted on  Cloudflare Workers.
 - [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
 - [chenglou/pretext](https://github.com/chenglou/pretext) - 
 - [jalonsogo/tui-studio](https://github.com/jalonsogo/tui-studio) - Visual design tool for building Terminal User Interfaces
