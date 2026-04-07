@@ -110,6 +110,7 @@
 
 ## C 
 
+- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [viperML/noshell](https://github.com/viperML/noshell) - User-configurable login shell
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [andrewmd5/dawn](https://github.com/andrewmd5/dawn) - A distraction-free writing environment; draft anything, write now.
@@ -462,6 +463,7 @@
 
 ## Go 
 
+- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -595,6 +597,7 @@
 
 ## HTML 
 
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [xalt/xalt](https://github.com/xalt/xalt) - XALT: System tracking of users codes on clusters
@@ -1911,6 +1914,9 @@
 
 ## Python 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [meta-pytorch/torchstore](https://github.com/meta-pytorch/torchstore) - A storage solution for PyTorch tensors with distributed tensor support.
+- [yallup/swig](https://github.com/yallup/swig) - Nested Sampling with Slice within Gibbs
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [argonne-lcf/AERIS-GB](https://github.com/argonne-lcf/AERIS-GB) - Frozen snapshot of AERIS used for the 2025 submission for ACM Gordon Bell Prize for Climate Modeling
 - [lamm-mit/scienceclaw](https://github.com/lamm-mit/scienceclaw) - 
@@ -3615,7 +3621,7 @@
 
 ## Rust 
 
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [googlefonts/Inconsolata](https://github.com/googlefonts/Inconsolata) - Development repo of Inconsolata Fonts by Raph Levien
 - [razziel89/mdslw](https://github.com/razziel89/mdslw) - Prepare your markdown for easy diff'ing!
 - [wezm/git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
@@ -4102,6 +4108,8 @@
 
 ## TypeScript 
 
+- [kessler/gemma-gem](https://github.com/kessler/gemma-gem) - Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.
+- [bddicken/tuitter](https://github.com/bddicken/tuitter) - tuitter
 - [jonesphillip/sharehtml](https://github.com/jonesphillip/sharehtml) - Deploy HTML, Markdown, and code files from the CLI. Get a shareable URL with live comments, reactions, and presence. Self-hosted on  Cloudflare Workers.
 - [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
