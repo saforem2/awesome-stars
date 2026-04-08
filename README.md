@@ -3621,6 +3621,7 @@
 
 ## Rust 
 
+- [dloss/kelora](https://github.com/dloss/kelora) - CLI log processor with embedded Rhai scripting and built-in functions for parsing, transforming, and analyzing logs
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [googlefonts/Inconsolata](https://github.com/googlefonts/Inconsolata) - Development repo of Inconsolata Fonts by Raph Levien
 - [razziel89/mdslw](https://github.com/razziel89/mdslw) - Prepare your markdown for easy diff'ing!
