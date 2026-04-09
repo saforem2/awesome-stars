@@ -597,7 +597,6 @@
 
 ## HTML 
 
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [xalt/xalt](https://github.com/xalt/xalt) - XALT: System tracking of users codes on clusters
@@ -1037,6 +1036,7 @@
 
 ## Jupyter Notebook 
 
+- [amsc-interfaces/amsc-client-tutorial](https://github.com/amsc-interfaces/amsc-client-tutorial) - AmSC Client Tutorial
 - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets
 - [g-luo/generative_latent_prior](https://github.com/g-luo/generative_latent_prior) - Official PyTorch Implementation for Learning a Generative Meta-Model of LLM Activations
 - [rcrowe-google/Learning-JAX](https://github.com/rcrowe-google/Learning-JAX) - Slide decks, coding exercises, and quick references for learning the JAX AI Stack
@@ -1698,6 +1698,7 @@
 
 ## Others 
 
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [nolasoft/okgit](https://github.com/nolasoft/okgit) - 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1914,6 +1915,7 @@
 
 ## Python 
 
+- [argonne-lcf/test_frameworks](https://github.com/argonne-lcf/test_frameworks) - These are a bunch of small python test files for framework testing
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [meta-pytorch/torchstore](https://github.com/meta-pytorch/torchstore) - A storage solution for PyTorch tensors with distributed tensor support.
 - [yallup/swig](https://github.com/yallup/swig) - Nested Sampling with Slice within Gibbs
@@ -3621,6 +3623,7 @@
 
 ## Rust 
 
+- [sassman/amoxide-rs](https://github.com/sassman/amoxide-rs) - amoxide (am) helps to manage your shell aliases either globally, profile- or project-specific. It loads context specific relevant aliases automatically
 - [dloss/kelora](https://github.com/dloss/kelora) - CLI log processor with embedded Rhai scripting and built-in functions for parsing, transforming, and analyzing logs
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [googlefonts/Inconsolata](https://github.com/googlefonts/Inconsolata) - Development repo of Inconsolata Fonts by Raph Levien
@@ -4163,7 +4166,7 @@
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [Left-on-Read/leftonread](https://github.com/Left-on-Read/leftonread) - Left on Read
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) - Generate a Breakout game SVG from a GitHub user's contributions graph
 - [BlueprintLabIO/markdown-ui](https://github.com/BlueprintLabIO/markdown-ui) - An open standard for rendering interactive widgets in plain Markdown.
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
