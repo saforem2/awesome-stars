@@ -1699,7 +1699,7 @@
 
 ## Others 
 
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [nolasoft/okgit](https://github.com/nolasoft/okgit) - 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1916,6 +1916,7 @@
 
 ## Python 
 
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [NVIDIA/earth2studio](https://github.com/NVIDIA/earth2studio) - Open-source deep-learning framework for exploring, building and deploying AI weather/climate workflows.
 - [DLYuanGod/MegaTrain](https://github.com/DLYuanGod/MegaTrain) - 
 - [argonne-lcf/test_frameworks](https://github.com/argonne-lcf/test_frameworks) - These are a bunch of small python test files for framework testing
@@ -3659,7 +3660,7 @@
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
-- [PABannier/WSIStreamer](https://github.com/PABannier/WSIStreamer) - A tile server for WSI stored in S3-compatible object storage. It serves tiles on-demand using HTTP range requests, so you never have to download or mount multi-gigabyte slides on local disk.
+- [PABannier/WSIStreamer](https://github.com/PABannier/WSIStreamer) - A tile server for WSI stored in S3-compatible object storage.
 - [elijah-potter/tatum](https://github.com/elijah-potter/tatum) - Yet another tool for rendering markdown
 - [Aloso/to-html](https://github.com/Aloso/to-html) - Utilities for making the colo documentation
 - [slowli/term-transcript](https://github.com/slowli/term-transcript) - Snapshot testing for CLI / REPL applications, in a fun way
@@ -3772,7 +3773,7 @@
 - [volllly/rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
@@ -3860,6 +3861,7 @@
 
 ## Shell 
 
+- [marimo-team/marimo-pair](https://github.com/marimo-team/marimo-pair) - Drop agents inside running marimo notebook sessions
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [argonne-lcf/frameworks-sdk](https://github.com/argonne-lcf/frameworks-sdk) - Build scripts for the Frameworks SDK for internal testing, development, and deployment.
@@ -4117,6 +4119,7 @@
 
 ## TypeScript 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [OrangeJuiceExtension/OrangeJuice](https://github.com/OrangeJuiceExtension/OrangeJuice) - Orange Juice makes Hacker News sweeter
 - [kessler/gemma-gem](https://github.com/kessler/gemma-gem) - Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.
 - [bddicken/tuitter](https://github.com/bddicken/tuitter) - tuitter
