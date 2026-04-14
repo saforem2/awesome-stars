@@ -471,7 +471,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
-- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
+- [entireio/cli](https://github.com/entireio/cli) - Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [kardolus/chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is a powerful, multi-provider command-line interface for working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more, with features like streaming, interactive chat, p
 - [Ethics03/Dots](https://github.com/Ethics03/Dots) - A Dotfiles Manager CLI-tool to symlink, version and sync your config files with git.
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
@@ -611,7 +611,6 @@
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [imfisk/CPSC](https://github.com/imfisk/CPSC) - 
 - [andrewheiss/ath-quarto](https://github.com/andrewheiss/ath-quarto) - Code and content for andrewheiss.com
-- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [matt-dray/rostrum-blog-2](https://github.com/matt-dray/rostrum-blog-2) - :memo::bug: Blog: source for rostrum.blog
 - [huggingface/yourbench](https://github.com/huggingface/yourbench) - 🤗 Benchmark Large Language Models Reliably On Your Data
 - [ashki23/pandoc-bootstrap](https://github.com/ashki23/pandoc-bootstrap) - Application for converting Markdown files into bootstrap styled HTML pages by Pandoc.
@@ -2050,7 +2049,7 @@
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
 - [Jentuuh/edge-preserving-diffusion](https://github.com/Jentuuh/edge-preserving-diffusion) - Source code repository for the project "Edge-preserving noise for diffusion models" [ICLR 2025 DeLTa Workshop].
 - [ChinmayK0607/nanosft](https://github.com/ChinmayK0607/nanosft) - minimal implementation of sft with gpt2-124M
-- [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Async RL Training at Scale
+- [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Agentic RL Training at Scale
 - [converged-computing/fluxbind](https://github.com/converged-computing/fluxbind) - Intelligent detection and mapping of processors for HPC
 - [snowflakedb/ArcticInference](https://github.com/snowflakedb/ArcticInference) - ArcticInference: vLLM plugin for high-throughput, low-latency inference
 - [stockeh/mlx-trm](https://github.com/stockeh/mlx-trm) - MLX Implementation of Recursive Reasoning with Tiny Networks
@@ -2927,7 +2926,7 @@
 - [iffsid/mmvae](https://github.com/iffsid/mmvae) - Multimodal Mixture-of-Experts VAE
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
-- [lore-labs/academic-file-converter](https://github.com/lore-labs/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
+- [HugoBlox/academic-file-converter](https://github.com/HugoBlox/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
 - [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
 - [fernandobrito/travel_log](https://github.com/fernandobrito/travel_log) - A static website generator for your trip and its records (pictures, tracks, journal, etc).
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
@@ -3639,7 +3638,7 @@
 - [razziel89/mdslw](https://github.com/razziel89/mdslw) - Prepare your markdown for easy diff'ing!
 - [wezm/git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
-- [eljulians/skillfile](https://github.com/eljulians/skillfile) - One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, etc)
+- [eljulians/skillfile](https://github.com/eljulians/skillfile) - One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and mo
 - [flamestro/deff](https://github.com/flamestro/deff) - interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [tejas-raskar/noted.md](https://github.com/tejas-raskar/noted.md) - A command-line tool to convert handwritten notes to markdown files
@@ -4206,6 +4205,7 @@
 - [hyparam/hyperparam-cli](https://github.com/hyparam/hyperparam-cli) - Hyperparam local dataset viewer
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
