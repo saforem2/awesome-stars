@@ -247,7 +247,7 @@
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [jax-ml/ml_dtypes](https://github.com/jax-ml/ml_dtypes) - A stand-alone implementation of several NumPy dtype extensions used in machine learning.
 - [jinluchang/Qlattice](https://github.com/jinluchang/Qlattice) - A lattice QCD library.
-- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
+- [sbarex/QLSyntaxHighlight](https://github.com/sbarex/QLSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
 - [argonne-lcf/GettingStarted](https://github.com/argonne-lcf/GettingStarted) - Collection of small examples for running on ALCF resources
@@ -600,7 +600,7 @@
 
 ## HTML 
 
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [xalt/xalt](https://github.com/xalt/xalt) - XALT: System tracking of users codes on clusters
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
@@ -1424,7 +1424,6 @@
 - [okuuva/auto-save.nvim](https://github.com/okuuva/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
 - [catgoose/wildest.nvim](https://github.com/catgoose/wildest.nvim) - The most wildest wildmenu
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
-- [davidmh/mdx.nvim](https://github.com/davidmh/mdx.nvim) - Good enough syntax highlight for MDX in Neovim using Treesitter
 - [ya2s/nvim-cursorline](https://github.com/ya2s/nvim-cursorline) - A plugin for neovim that highlights cursor words and lines
 - [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as the colorcolumn
 - [indium114/smudge.nvim](https://github.com/indium114/smudge.nvim) - A performant cursor animation plugin for Neovim
@@ -1632,7 +1631,7 @@
 
 ## MDX 
 
-- [webtui/webtui](https://github.com/webtui/webtui) - 
+- [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
 - [primer/presentations](https://github.com/primer/presentations) - Primer Presentations is the presentation design system for GitHub. It's intended to be used only by GitHub staff for presentations that represent GitHub.
 
 ## MLIR 
@@ -1917,6 +1916,7 @@
 
 ## Python 
 
+- [fjonasALICE/arTui](https://github.com/fjonasALICE/arTui) - A small TUI to read and track recent arXiv papers
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [NVIDIA/earth2studio](https://github.com/NVIDIA/earth2studio) - Open-source deep-learning framework for exploring, building and deploying AI weather/climate workflows.
 - [DLYuanGod/MegaTrain](https://github.com/DLYuanGod/MegaTrain) - 
@@ -2183,7 +2183,7 @@
 - [google-research/weatherbenchX](https://github.com/google-research/weatherbenchX) - A modular framework for evaluating weather forecasts
 - [VatsaDev/NanoPoor](https://github.com/VatsaDev/NanoPoor) - NanoGPT-speedrunning for the poor T4 enjoyers
 - [eitchtee/WYGIWYH](https://github.com/eitchtee/WYGIWYH) - A simple but powerful self-hosted finance tracker
-- [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
+- [dropseed/plain](https://github.com/dropseed/plain) - The Python web framework for building apps.
 - [nerveband/Apple-Music-Play-History-Converter](https://github.com/nerveband/Apple-Music-Play-History-Converter) - A modern desktop application that converts Apple Music play history CSV files into Last.fm and Universal Scrobbler compatible format.
 - [UIC-Liu-Lab/ContinualLM](https://github.com/UIC-Liu-Lab/ContinualLM) - An Extensible Continual Learning Framework Focused on Language Models (LMs)
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
@@ -4122,6 +4122,7 @@
 
 ## Tree-sitter Query 
 
+- [davidmh/mdx.nvim](https://github.com/davidmh/mdx.nvim) - Good enough syntax highlight for MDX in Neovim using Treesitter
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## TypeScript 
