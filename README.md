@@ -1924,6 +1924,7 @@
 
 ## Python 
 
+- [meta-pytorch/autoparallel](https://github.com/meta-pytorch/autoparallel) - An experimental implementation of compiler-driven automatic sharding of models across a given device mesh.
 - [dchu917/ctx](https://github.com/dchu917/ctx) - Local context manager for Claude Code and Codex with workstreams, transcript binding, and branching.
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [fjonasALICE/arTui](https://github.com/fjonasALICE/arTui) - A small TUI to read and track recent arXiv papers
@@ -4136,6 +4137,8 @@
 
 ## TypeScript 
 
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - 
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [drasimwagan/mdv](https://github.com/drasimwagan/mdv) - MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension.
 - [redwoodjs/agent-ci](https://github.com/redwoodjs/agent-ci) - Agent-CI is local GitHub Actions for your agents.
