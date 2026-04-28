@@ -116,7 +116,7 @@
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [andrewmd5/dawn](https://github.com/andrewmd5/dawn) - A distraction-free writing environment; draft anything, write now.
 - [cfoust/cy](https://github.com/cfoust/cy) - 🤖 time travel in the terminal
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [sm64-port/sm64-port](https://github.com/sm64-port/sm64-port) - A port of https://www.github.com/n64decomp/sm64 for modern devices.
 - [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze) - Package Python projects into executables
 - [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor
@@ -731,6 +731,8 @@
 
 ## JavaScript 
 
+- [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+- [giannisp/git-contrib-calendar](https://github.com/giannisp/git-contrib-calendar) - Experimental git contributions calendar for the terminal (built with NodeJS, React and Ink).
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer) - A beautiful CLI tool to see what's running on your ports
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
@@ -1419,6 +1421,9 @@
 
 ## Lua 
 
+- [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
+- [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
+- [jeangiraldoo/codedocs.nvim](https://github.com/jeangiraldoo/codedocs.nvim) - Instantly generate sleek, customizable annotations for most languages with a single keystroke. ⌨️✨
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [notomo/cmdbuf.nvim](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line window plugin for neovim
 - [Kicamon/markdown-table-mode.nvim](https://github.com/Kicamon/markdown-table-mode.nvim) - A lightweight markdown format plugin like vim-table-mode but write in lua
@@ -1924,6 +1929,10 @@
 
 ## Python 
 
+- [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
+- [huggingface/hf-sandbox](https://github.com/huggingface/hf-sandbox) - Modal-style sandbox API on top of Hugging Face Jobs
+- [1rgs/nanocode](https://github.com/1rgs/nanocode) - Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 - [meta-pytorch/autoparallel](https://github.com/meta-pytorch/autoparallel) - An experimental implementation of compiler-driven automatic sharding of models across a given device mesh.
 - [dchu917/ctx](https://github.com/dchu917/ctx) - Local context manager for Claude Code and Codex with workstreams, transcript binding, and branching.
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
@@ -2268,7 +2277,7 @@
 - [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
 - [tzador/makedown](https://github.com/tzador/makedown) - Organise your shell scripts within executable markdown files
-- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 2 minutes
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 90 seconds
 - [argonne-lcf/ml_communications](https://github.com/argonne-lcf/ml_communications) - ML communications benchmark
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [EleutherAI/nanoGPT-mup](https://github.com/EleutherAI/nanoGPT-mup) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -3590,6 +3599,7 @@
 
 ## R 
 
+- [kazuyanagimoto/quarto-clean-typst](https://github.com/kazuyanagimoto/quarto-clean-typst) - A minimalistic presentation theme for Quarto + Typst by Touying
 - [ArghyaStat/HMC_for_dummies](https://github.com/ArghyaStat/HMC_for_dummies) - HMC codes for the paper Hamiltonian Monte Carlo for (Physics) dummies
 - [kazuyanagimoto/quarto-awesomecv-typst](https://github.com/kazuyanagimoto/quarto-awesomecv-typst) - A Quarto + Typst format for CV
 - [EllaKaye/ellakaye.co.uk](https://github.com/EllaKaye/ellakaye.co.uk) - My personal website
@@ -3641,6 +3651,7 @@
 
 ## Rust 
 
+- [garritfra/cell](https://github.com/garritfra/cell) - A terminal spreadsheet editor with Vim keybindings
 - [k06a/macpow](https://github.com/k06a/macpow) - 💻🔋 Real-time power tree TUI for Apple Silicon
 - [AnkurRathore/tsastat](https://github.com/AnkurRathore/tsastat) - Thread State Analysis tool using Linux Netlink taskstats
 - [sassman/amoxide-rs](https://github.com/sassman/amoxide-rs) - amoxide (am) helps to manage your shell aliases either globally, profile- or project-specific. It loads context specific relevant aliases automatically
@@ -3876,6 +3887,7 @@
 
 ## Shell 
 
+- [nscottnichols/pyspy-pbs-hang-demo](https://github.com/nscottnichols/pyspy-pbs-hang-demo) - A small example repository that demonstrates dumping the Python stack at scale using `py-spy`.
 - [ShawnPana/smux](https://github.com/ShawnPana/smux) - tmux config with built-in terminal automation and agent-to-agent communication.
 - [marimo-team/marimo-pair](https://github.com/marimo-team/marimo-pair) - Drop agents inside running marimo notebook sessions
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
@@ -4138,6 +4150,8 @@
 
 ## TypeScript 
 
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
+- [tufantunc/ssh-mcp](https://github.com/tufantunc/ssh-mcp) - MCP server exposing SSH control for Linux servers via Model Context Protocol.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
@@ -4490,6 +4504,7 @@
 
 ## Zig 
 
+- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
 - [superstarryeyes/hys](https://github.com/superstarryeyes/hys) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
 - [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
