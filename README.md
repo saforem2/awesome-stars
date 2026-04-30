@@ -1715,6 +1715,7 @@
 
 ## Others 
 
+- [hellocodeco/awesome-exist](https://github.com/hellocodeco/awesome-exist) - Resources for Exist
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [nolasoft/okgit](https://github.com/nolasoft/okgit) - 
@@ -3355,7 +3356,7 @@
 - [nschloe/tikzplotlib](https://github.com/nschloe/tikzplotlib) - :bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.
 - [unixtomato/nmcrg](https://github.com/unixtomato/nmcrg) - Neural Monte Carlo Renormalization Group
 - [tizian/manifold-visualizer](https://github.com/tizian/manifold-visualizer) - 2D visualizer for specular path manifolds
-- [crazybigcat/TSGO](https://github.com/crazybigcat/TSGO) - This is the python code for "Tangent-Space Gradient Optimization of Tensor Network for Machine Learning" at https://arxiv.org/abs/2001.04029.
+- [SunZhengZhi/TSGO](https://github.com/SunZhengZhi/TSGO) - This is the python code for "Tangent-Space Gradient Optimization of Tensor Network for Machine Learning" at https://arxiv.org/abs/2001.04029.
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [torchmd/mdgrad](https://github.com/torchmd/mdgrad) - Pytorch differentiable molecular dynamics
 - [lioryariv/idr](https://github.com/lioryariv/idr) - 
