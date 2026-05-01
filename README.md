@@ -476,7 +476,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
-- [entireio/cli](https://github.com/entireio/cli) - Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
+- [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [kardolus/chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is a powerful, multi-provider command-line interface for working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more, with features like streaming, interactive chat, p
 - [Ethics03/Dots](https://github.com/Ethics03/Dots) - A Dotfiles Manager CLI-tool to symlink, version and sync your config files with git.
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
@@ -540,7 +540,7 @@
 - [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Realtime log viewer with web UI, tail -f for logs with a web interface browser.
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [bottlerocketlabs/remote-pbcopy](https://github.com/bottlerocketlabs/remote-pbcopy) - remote pbcopy over ssh
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [converged-computing/slurm-operator](https://github.com/converged-computing/slurm-operator) - Testing if I can implement slurm in an operator
@@ -1049,7 +1049,7 @@
 - [saurabhaloneai/Llama-3-From-Scratch-In-Pure-Jax](https://github.com/saurabhaloneai/Llama-3-From-Scratch-In-Pure-Jax) - This repository contain the simple llama3  implementation in pure jax.
 - [amsc-interfaces/amsc-client-tutorial](https://github.com/amsc-interfaces/amsc-client-tutorial) - AmSC Client Tutorial
 - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets
-- [g-luo/generative_latent_prior](https://github.com/g-luo/generative_latent_prior) - Official PyTorch Implementation for Learning a Generative Meta-Model of LLM Activations
+- [g-luo/generative_latent_prior](https://github.com/g-luo/generative_latent_prior) - Official PyTorch Implementation for Learning a Generative Meta-Model of LLM Activations, ICML 2026
 - [rcrowe-google/Learning-JAX](https://github.com/rcrowe-google/Learning-JAX) - Slide decks, coding exercises, and quick references for learning the JAX AI Stack
 - [ManuelPuchner/snapchat-memories-downloader](https://github.com/ManuelPuchner/snapchat-memories-downloader) - 
 - [ZuckermanLab/pyGridSampler](https://github.com/ZuckermanLab/pyGridSampler) - An adaptive grid-based sampling method using iterative batch sizes
@@ -3658,7 +3658,7 @@
 
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [garritfra/cell](https://github.com/garritfra/cell) - A terminal spreadsheet editor with Vim keybindings
+- [garritfra/cell](https://github.com/garritfra/cell) - A fast terminal spreadsheet editor with Vim keybindings
 - [k06a/macpow](https://github.com/k06a/macpow) - 💻🔋 Real-time power tree TUI for Apple Silicon
 - [AnkurRathore/tsastat](https://github.com/AnkurRathore/tsastat) - Thread State Analysis tool using Linux Netlink taskstats
 - [sassman/amoxide-rs](https://github.com/sassman/amoxide-rs) - amoxide (am) helps to manage your shell aliases either globally, profile- or project-specific. It loads context specific relevant aliases automatically
