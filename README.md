@@ -1424,6 +1424,8 @@
 
 ## Lua 
 
+- [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
+- [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim) - Tabline lua plugin for neovim
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [jeangiraldoo/codedocs.nvim](https://github.com/jeangiraldoo/codedocs.nvim) - Instantly generate sleek, customizable annotations for most languages with a single keystroke. ⌨️✨
@@ -1934,6 +1936,7 @@
 
 ## Python 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 - [huggingface/hf-sandbox](https://github.com/huggingface/hf-sandbox) - Modal-style sandbox API on top of Hugging Face Jobs
@@ -2072,7 +2075,7 @@
 - [samuelwheeler/scattermoe_benchmark](https://github.com/samuelwheeler/scattermoe_benchmark) - 
 - [devvrit/ScaleRL-Curve-Fitting](https://github.com/devvrit/ScaleRL-Curve-Fitting) - ScaleRL Curve Fitting
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
-- [Jentuuh/edge-preserving-diffusion](https://github.com/Jentuuh/edge-preserving-diffusion) - Source code repository for the project "Edge-preserving noise for diffusion models" [ICLR 2025 DeLTa Workshop].
+- [Jentuuh/edge-preserving-diffusion](https://github.com/Jentuuh/edge-preserving-diffusion) - Source code repository for the project "Edge-preserving noise for diffusion models" [Eurographics 2026 / ICLR 2025 DeLTa Workshop].
 - [ChinmayK0607/nanosft](https://github.com/ChinmayK0607/nanosft) - minimal implementation of sft with gpt2-124M
 - [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Agentic RL Training at Scale
 - [converged-computing/fluxbind](https://github.com/converged-computing/fluxbind) - Intelligent detection and mapping of processors for HPC
@@ -3656,6 +3659,7 @@
 
 ## Rust 
 
+- [guoqingbao/vllm.rs](https://github.com/guoqingbao/vllm.rs) - Minimalist vLLM implementation in Rust
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [garritfra/cell](https://github.com/garritfra/cell) - A fast terminal spreadsheet editor with Vim keybindings
@@ -3894,6 +3898,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [nscottnichols/pyspy-pbs-hang-demo](https://github.com/nscottnichols/pyspy-pbs-hang-demo) - A small example repository that demonstrates dumping the Python stack at scale using `py-spy`.
 - [ShawnPana/smux](https://github.com/ShawnPana/smux) - tmux config with built-in terminal automation and agent-to-agent communication.
 - [marimo-team/marimo-pair](https://github.com/marimo-team/marimo-pair) - Drop agents inside running marimo notebook sessions
@@ -4157,6 +4162,8 @@
 
 ## TypeScript 
 
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [inanimate-tech/mist](https://github.com/inanimate-tech/mist) - Collaborative markdown editor
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [tufantunc/ssh-mcp](https://github.com/tufantunc/ssh-mcp) - MCP server exposing SSH control for Linux servers via Model Context Protocol.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
@@ -4197,7 +4204,7 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [MelonThug/genius-annotations](https://github.com/MelonThug/genius-annotations) - A Spicetify Custom App that displays the annotations, lyrics and description of the current song from Genius
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
 - [dvelton/dm-chess](https://github.com/dvelton/dm-chess) - Chess via DM. Pure ASCII, no third-party app connections.
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
