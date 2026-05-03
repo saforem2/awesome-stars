@@ -843,6 +843,7 @@
 - [sblask-webextensions/webextension-open-tabs-next-to-current](https://github.com/sblask-webextensions/webextension-open-tabs-next-to-current) - Open new tabs to the right of the current one.
 - [EliWimmer/Obsmd-Life-Manager](https://github.com/EliWimmer/Obsmd-Life-Manager) - 
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
+- [mauriciopoppe/function-plot](https://github.com/mauriciopoppe/function-plot) - A versatile 2d function plotter
 - [joshed-io/reveal-hugo](https://github.com/joshed-io/reveal-hugo) - 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -864,7 +865,6 @@
 - [Toinane/colorpicker](https://github.com/Toinane/colorpicker) - Your powerful toolkit for mastering colors.
 - [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [maierfelix/poxi](https://github.com/maierfelix/poxi) - A flat pixel art editor
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -1482,7 +1482,6 @@
 - [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) - A Neovim plugin for macOS, Linux & Windows that automatically changes the editor appearance based on system settings.
 - [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
 - [xiyaowong/nvim-cursorword](https://github.com/xiyaowong/nvim-cursorword) - highlight the word under the cursor.
-- [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 runtime environment for Lua
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [craftzdog/solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim) - 🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.
 - [eero-lehtinen/oklch-color-picker.nvim](https://github.com/eero-lehtinen/oklch-color-picker.nvim) - A graphical color picker and highlighter for Neovim
@@ -1603,7 +1602,6 @@
 - [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
-- [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
 - [nvim-lua/neovim-ui](https://github.com/nvim-lua/neovim-ui) - Vaporware -- nothing to see here
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [ya2s/nvim-nonicons](https://github.com/ya2s/nvim-nonicons) - Icon set using nonicons for neovim plugins and settings
@@ -2306,7 +2304,7 @@
 - [mag-/gpu_benchmark](https://github.com/mag-/gpu_benchmark) - Gpu benchmark
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [HabanaAI/Megatron-DeepSpeed](https://github.com/HabanaAI/Megatron-DeepSpeed) - Intel Gaudi's Megatron DeepSpeed Large Language Models for training
-- [xonsh/xontrib-jupyter](https://github.com/xonsh/xontrib-jupyter) - Xonsh jupyter kernel allows to run Xonsh shell code in Jupyter, JupyterLab, Euporia, etc.
+- [xonsh/xontrib-jupyter](https://github.com/xonsh/xontrib-jupyter) - Xonsh Jupyter kernel allows to run Xonsh shell code in Jupyter, JupyterLab, Euporie, etc.
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [NVIDIA/physicsnemo](https://github.com/NVIDIA/physicsnemo) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
@@ -2880,6 +2878,7 @@
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
@@ -3718,6 +3717,7 @@
 - [0xbrayo/aw-watcher-lastfm](https://github.com/0xbrayo/aw-watcher-lastfm) - ActivityWatch watcher for Spotify and Apple Music streaming.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
+- [ArkForgeLabs/Astra](https://github.com/ArkForgeLabs/Astra) - 🔥 Blazingly Fast 🔥 runtime environment for Lua
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
@@ -4344,7 +4344,6 @@
 - [shabegom/buttons](https://github.com/shabegom/buttons) - Buttons in Obsidian
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
-- [mauriciopoppe/function-plot](https://github.com/mauriciopoppe/function-plot) - A versatile 2d function plotter
 - [leonhma/obsidian-functionplot](https://github.com/leonhma/obsidian-functionplot) - A obsidian.md plugin for rendering maths graphs.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [excalidraw/svg-to-excalidraw](https://github.com/excalidraw/svg-to-excalidraw) - Convert SVGs into Excalidraw data
