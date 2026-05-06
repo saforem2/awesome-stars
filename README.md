@@ -93,6 +93,8 @@
 
 ## Astro 
 
+- [lorenzolewis/starlight-utils](https://github.com/lorenzolewis/starlight-utils) - 🧰 Utilities to use with your 🌟 Starlight site.
+- [WindMillCode/starlight-fullview-mode](https://github.com/WindMillCode/starlight-fullview-mode) - A minimalist plugin that collapses Starlight's sidebars and expands the main content to full width, creating a distraction-free, fullscreen-like reading experience. Toggle with a single click to focus
 - [ElianCodes/brutal](https://github.com/ElianCodes/brutal) - A neobrutalism Astro starter theme
 - [BryanHogan/bryanhogan](https://github.com/BryanHogan/bryanhogan) - Website about Bryan Hogan. Contains my blog, portfolio and more.
 - [zen-browser/www](https://github.com/zen-browser/www) - Homepage for @zen-browser!
@@ -109,6 +111,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [intel/mpi-benchmarks](https://github.com/intel/mpi-benchmarks) - 
 - [hpc/mpifileutils](https://github.com/hpc/mpifileutils) - File utilities designed for scalability and performance.
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
@@ -463,14 +466,16 @@
 
 ## Go 
 
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+- [ezeoleaf/tblogs](https://github.com/ezeoleaf/tblogs) - A fast, modern, and hackable terminal blog reader written in Go
 - [systalyze/utilyze](https://github.com/systalyze/utilyze) - 
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler) - a unified scheduler for online and offline tasks
 - [robinovitch61/lore](https://github.com/robinovitch61/lore) - less-like terminal pager based on robinovitch61/viewport
-- [steipete/wacli](https://github.com/steipete/wacli) - WhatsApp CLI
+- [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
-- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+- [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -1712,6 +1717,7 @@
 
 ## Others 
 
+- [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 - [hellocodeco/awesome-exist](https://github.com/hellocodeco/awesome-exist) - Resources for Exist
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
@@ -1931,6 +1937,8 @@
 
 ## Python 
 
+- [bfly123/claude_codex_bridge](https://github.com/bfly123/claude_codex_bridge) - Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead
+- [huggingface/nanowhale](https://github.com/huggingface/nanowhale) - 
 - [simonw/llm-openrouter](https://github.com/simonw/llm-openrouter) - LLM plugin for models hosted by OpenRouter
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
@@ -2609,7 +2617,7 @@
 - [openai/consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
-- [szmikler/progress-table](https://github.com/szmikler/progress-table) - Display progress as a pretty table in the command line.
+- [szmikler/progress-table](https://github.com/szmikler/progress-table) - Display progress as a pretty table in the command line
 - [chalk-diagrams/chalk](https://github.com/chalk-diagrams/chalk) - A declarative drawing API in Python
 - [google/pyink](https://github.com/google/pyink) - Pyink, pronounced pī-ˈiŋk, is a Python formatter, forked from Black with a few different formatting behaviors.
 - [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
@@ -3167,7 +3175,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-629-Stars](https://github.com/iBug/This-Repo-Has-629-Stars) - Yes, it's true :revolving_hearts: This repository has 629 stars.
+- [iBug/This-Repo-Has-630-Stars](https://github.com/iBug/This-Repo-Has-630-Stars) - Yes, it's true :heart: This repository has 630 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3656,6 +3664,8 @@
 
 ## Rust 
 
+- [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [guoqingbao/vllm.rs](https://github.com/guoqingbao/vllm.rs) - Minimalist vLLM implementation in Rust
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -4160,6 +4170,8 @@
 
 ## TypeScript 
 
+- [trueberryless-org/starlight-view-modes](https://github.com/trueberryless-org/starlight-view-modes) - Starlight plugin adding view mode capabilities to your documentation website.
+- [HiDeoo/starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Starlight plugin to publish Obsidian vaults
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [inanimate-tech/mist](https://github.com/inanimate-tech/mist) - Collaborative markdown editor
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
