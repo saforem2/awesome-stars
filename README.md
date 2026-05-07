@@ -4007,7 +4007,7 @@
 - [BrandonRoehl/zsh-clean](https://github.com/BrandonRoehl/zsh-clean) - Minimal customizable ZSH theme
 - [mjrafferty/apollo-zsh-theme](https://github.com/mjrafferty/apollo-zsh-theme) - Heavily customizable, compatible, and fast ZSH theme framework.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [derekprior/dotfiles](https://github.com/derekprior/dotfiles) - Configuration Files
 - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [jjangsangy/MacOS-TensorflowBuilds](https://github.com/jjangsangy/MacOS-TensorflowBuilds) - Optimized tensorflow wheels binaries build for macos
