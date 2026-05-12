@@ -1938,7 +1938,7 @@
 
 ## Python 
 
-- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead
+- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision
 - [huggingface/nanowhale](https://github.com/huggingface/nanowhale) - 
 - [simonw/llm-openrouter](https://github.com/simonw/llm-openrouter) - LLM plugin for models hosted by OpenRouter
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -2078,7 +2078,7 @@
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) - Deploy any AI model, agent, database, RAG, and pipeline locally or remotely in minutes
 - [samuelwheeler/scattermoe_benchmark](https://github.com/samuelwheeler/scattermoe_benchmark) - 
 - [devvrit/ScaleRL-Curve-Fitting](https://github.com/devvrit/ScaleRL-Curve-Fitting) - ScaleRL Curve Fitting
-- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
+- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!
 - [Jentuuh/edge-preserving-diffusion](https://github.com/Jentuuh/edge-preserving-diffusion) - Source code repository for the project "Edge-preserving noise for diffusion models" [Eurographics 2026 / ICLR 2025 DeLTa Workshop].
 - [ChinmayK0607/nanosft](https://github.com/ChinmayK0607/nanosft) - minimal implementation of sft with gpt2-124M
 - [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Agentic RL Training at Scale
@@ -4109,7 +4109,6 @@
 
 ## TeX 
 
-- [andrewheiss/hikmah-academic-quarto](https://github.com/andrewheiss/hikmah-academic-quarto) - A set of nice Quarto templates
 - [quarto-journals/acm](https://github.com/quarto-journals/acm) - Quarto template for the Association of Computing Machinery
 - [ElArkk/jax-unirep](https://github.com/ElArkk/jax-unirep) - Reimplementation of the UniRep protein featurization model.
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
@@ -4169,6 +4168,7 @@
 
 ## TypeScript 
 
+- [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [trueberryless-org/starlight-view-modes](https://github.com/trueberryless-org/starlight-view-modes) - Starlight plugin adding view mode capabilities to your documentation website.
 - [HiDeoo/starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Starlight plugin to publish Obsidian vaults
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
@@ -4442,6 +4442,7 @@
 
 ## Typst 
 
+- [andrewheiss/hikmah-academic-quarto](https://github.com/andrewheiss/hikmah-academic-quarto) - A set of nice Quarto templates
 - [mcanouil/quarto-mcanouil](https://github.com/mcanouil/quarto-mcanouil) - A Quarto extension that provides brand theming and styling for documents (HTML, Typst) and presentations (Reveal.js).
 - [LaPreprint/typst](https://github.com/LaPreprint/typst) - Easily create beautiful preprints in Typst
 - [glambrechts/slydst](https://github.com/glambrechts/slydst) - Create simple static slides with Typst
