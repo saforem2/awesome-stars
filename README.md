@@ -1478,7 +1478,7 @@
 - [wsdjeg/calendar.nvim](https://github.com/wsdjeg/calendar.nvim) - A lightweight and extensible calendar plugin for Neovim.
 - [jrop/tuis.nvim](https://github.com/jrop/tuis.nvim) - A collection of TUIs for Neovim
 - [pandasoli/nekovim](https://github.com/pandasoli/nekovim) - [mirror] 🐈‍⬛ | NeoVim Discord rich presence plugin
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode AI to stay in your flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Bridge Neovim and OpenCode AI to stay in your flow.
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
 - [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI plugin that wraps lsp operations.
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
@@ -3523,7 +3523,7 @@
 - [deephyper/deephyper](https://github.com/deephyper/deephyper) - DeepHyper: A Python Package for Massively Parallel Hyperparameter Optimization in Machine Learning
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [saforem2/tensor-networks](https://github.com/saforem2/tensor-networks) - O(3) tensor network
-- [MrGemy95/Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template) - A best practice for tensorflow project template architecture.
+- [mgsalem/Tensorflow-Project-Template](https://github.com/mgsalem/Tensorflow-Project-Template) - A best practice for tensorflow project template architecture.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [mcleonard/sampyl](https://github.com/mcleonard/sampyl) - MCMC samplers for Bayesian estimation in Python, including Metropolis-Hastings, NUTS, and Slice
 - [saforem2/lattice_gauge_theory](https://github.com/saforem2/lattice_gauge_theory) - Monte Carlo simulation of Z(N) models in lattice gauge theory.
@@ -3703,7 +3703,7 @@
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [RillingDev/musicbrainz-enricher](https://github.com/RillingDev/musicbrainz-enricher) - A Java application to enrich MusicBrainz data from linked sources.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
-- [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
+- [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
 - [PABannier/WSIStreamer](https://github.com/PABannier/WSIStreamer) - A tile server for WSI stored in S3-compatible object storage.
@@ -3841,6 +3841,7 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim) - :rocket: Blazingly fast colorscheme generator for Neovim written in Rust :crab:
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [caphindsight/ergothic](https://github.com/caphindsight/ergothic) - Rust library for setting up and running distributed Monte-Carlo statistical simulations. Designed primarily for lattice QCD.
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
@@ -4535,7 +4536,6 @@
 - [superstarryeyes/hys](https://github.com/superstarryeyes/hys) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
 - [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
