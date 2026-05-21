@@ -568,7 +568,7 @@
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
@@ -1944,6 +1944,10 @@
 
 ## Python 
 
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
+- [huggingface/carbon](https://github.com/huggingface/carbon) - The home of Carbon Genomic Foundation Model 🧬
+- [huggingface/Megatron-LM-Carbon](https://github.com/huggingface/Megatron-LM-Carbon) - 
+- [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 - [AhsanSheraz/pyresilience](https://github.com/AhsanSheraz/pyresilience) - Unified resilience patterns for Python — retry, circuit breaker, timeout, fallback, bulkhead, rate limiter, and cache in one decorator. Python's Resilience4j.
 - [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision
 - [huggingface/nanowhale](https://github.com/huggingface/nanowhale) - 
@@ -4177,6 +4181,7 @@
 
 ## TypeScript 
 
+- [Jarred-Sumner/mactrace](https://github.com/Jarred-Sumner/mactrace) - Minimal strace for macOS - trace system calls of any process using Instruments.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
