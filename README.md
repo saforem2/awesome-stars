@@ -489,7 +489,7 @@
 - [kardolus/chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is a powerful, multi-provider command-line interface for working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more, with features like streaming, interactive chat, p
 - [Ethics03/Dots](https://github.com/Ethics03/Dots) - A Dotfiles Manager CLI-tool to symlink, version and sync your config files with git.
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
-- [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime) - TakaTime is a blazingly fast, privacy-focused coding time tracker for Neovim Vscode and Antigravity.  It works just like WakaTime, but with one major difference: You own your data. Instead of sending 
+- [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime) - TakaTime is a blazingly fast, privacy-focused coding time tracker for Neovim Vscode JetBrains  and Antigravity.  It works just like WakaTime, but with one major difference: You own your data. Instead 
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp
 - [jxy/lmtools](https://github.com/jxy/lmtools) - vibe-coded LLM tools for vibe-coding
@@ -1945,6 +1945,7 @@
 
 ## Python 
 
+- [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [huggingface/carbon](https://github.com/huggingface/carbon) - The home of Carbon Genomic Foundation Model 🧬
 - [huggingface/Megatron-LM-Carbon](https://github.com/huggingface/Megatron-LM-Carbon) - 
@@ -3678,7 +3679,7 @@
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-- [guoqingbao/vllm.rs](https://github.com/guoqingbao/vllm.rs) - Minimalist vLLM implementation in Rust
+- [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer) - Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime. Just fast, portable, production-ready inference.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
