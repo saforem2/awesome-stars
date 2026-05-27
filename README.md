@@ -1658,6 +1658,7 @@
 
 - [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
 - [primer/presentations](https://github.com/primer/presentations) - Primer Presentations is the presentation design system for GitHub. It's intended to be used only by GitHub staff for presentations that represent GitHub.
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
 ## MLIR 
 
@@ -2016,7 +2017,7 @@
 - [memodb-io/memobase](https://github.com/memodb-io/memobase) - User Profile-Based Long-Term Memory for AI Chatbot Applications.
 - [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
 - [Algomancer/Minimal-Drifting-Models](https://github.com/Algomancer/Minimal-Drifting-Models) - A minimal implementation of Drifting Models for 2D toy data. Unlike diffusion/flow models that iterate at inference, drifting models evolve the pushforward distribution during training and generate in
-- [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks lik
+- [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstre
 - [bytetriper/RAE](https://github.com/bytetriper/RAE) - Official PyTorch Implementation of "Diffusion Transformers with Representation Autoencoders"
 - [teorth/erdosproblems](https://github.com/teorth/erdosproblems) - A community database for the problems on the erdosproblems.com site
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
@@ -2025,7 +2026,7 @@
 - [rvantonder/execute_code_py](https://github.com/rvantonder/execute_code_py) - A Claude Code plugin that restricts Claude to ONLY use Python code execution. All other tools are blocked, creating a pure computational environment.
 - [PyCQA/docformatter](https://github.com/PyCQA/docformatter) - Formats docstrings to follow PEP 257
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
-- [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
+- [LMCache/LMCache](https://github.com/LMCache/LMCache) - LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
 - [KyleKing/mdformat-mkdocs](https://github.com/KyleKing/mdformat-mkdocs) - An mdformat plugin for mkdocs and Material for MkDocs
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [timvink/mkdocs-git-authors-plugin](https://github.com/timvink/mkdocs-git-authors-plugin) - MkDocs plugin to display git authors of a page.
@@ -2244,6 +2245,7 @@
 - [deepseek-ai/DualPipe](https://github.com/deepseek-ai/DualPipe) - A bidirectional pipeline parallelism algorithm for computation-communication overlap in DeepSeek V3/R1 training.
 - [emergent-misalignment/emergent-misalignment](https://github.com/emergent-misalignment/emergent-misalignment) - 
 - [ecmwf-lab/ai-models](https://github.com/ecmwf-lab/ai-models) - Run AI-based weather forecasting models with ECMWF data
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [fla-org/flame](https://github.com/fla-org/flame) - 🔥 A minimal training framework for scaling FLA models
 - [microsoft/Magma](https://github.com/microsoft/Magma) - [CVPR 2025] Magma: A Foundation Model for Multimodal AI Agents
 - [mfontanini/presenterm-export](https://github.com/mfontanini/presenterm-export) - PDF exporter for presenterm presentations
@@ -3188,7 +3190,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-633-Stars](https://github.com/iBug/This-Repo-Has-633-Stars) - Yes, it's true :orange_heart: This repository has 633 stars.
+- [iBug/This-Repo-Has-630-Stars](https://github.com/iBug/This-Repo-Has-630-Stars) - Yes, it's true :heart: This repository has 630 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3678,7 +3680,7 @@
 ## Rust 
 
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer) - Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
@@ -3937,7 +3939,7 @@
 - [jvns/shell-examples](https://github.com/jvns/shell-examples) - 
 - [hatanp/ml-scripts](https://github.com/hatanp/ml-scripts) - Common helper scripts for some HPC systems
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
 - [renemarc/dotfiles](https://github.com/renemarc/dotfiles) - ~/. Cross-platform, cross-shell configuration files. ⚙️💻
@@ -3955,7 +3957,6 @@
 - [marlonrichert/zsh-hist](https://github.com/marlonrichert/zsh-hist) - 📝 Edit your Zsh history from the command line.
 - [muthuishere/mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk) - Yes Mcp server in bash
 - [converged-computing/google-performance-study](https://github.com/converged-computing/google-performance-study) - Experiments on Google Cloud, hoping to extend the performance study
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained.
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
 - [doctorfree/MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more
@@ -4391,7 +4392,6 @@
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Manage tasks and logs within an Obsidian note.
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [jupyterlab-contrib/jupyter-ui-toolkit](https://github.com/jupyterlab-contrib/jupyter-ui-toolkit) - UI Toolkit for Jupyter
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
