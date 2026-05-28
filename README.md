@@ -741,6 +741,7 @@
 
 ## JavaScript 
 
+- [Oaklight/tinyleaf](https://github.com/Oaklight/tinyleaf) - A lightweight, self-hosted Overleaf alternative — zero Python dependencies, CLI-first. pip install tinyleaf && tinyleaf /path
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [giannisp/git-contrib-calendar](https://github.com/giannisp/git-contrib-calendar) - Experimental git contributions calendar for the terminal (built with NodeJS, React and Ink).
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
@@ -1574,7 +1575,7 @@
 - [dreamsofcode-io/neovim-python](https://github.com/dreamsofcode-io/neovim-python) - 
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [bamonroe/rnoweb-nvim](https://github.com/bamonroe/rnoweb-nvim) - A neovim plugin for rnoweb files
-- [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like NeoVim plugin.
+- [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like Neovim plugin.
 - [andvarfolomeev/obsidian](https://github.com/andvarfolomeev/obsidian) - :book: Base Obsidian functionality in your Neovim
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
 - [garyhurtz/cmp_kitty](https://github.com/garyhurtz/cmp_kitty) - Kitty completion source for nvim-cmp
@@ -1666,7 +1667,6 @@
 
 ## Makefile 
 
-- [rtvkiz/minimal](https://github.com/rtvkiz/minimal) - Minimal CVE Hardened container image collection
 - [christopherkenny/nature](https://github.com/christopherkenny/nature) - Quarto Template for Springer Nature Submissions
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [jceb/mdshow](https://github.com/jceb/mdshow) - Turn markdown files into beautiful presentations quickly
@@ -2079,7 +2079,7 @@
 - [shaochenze/calm](https://github.com/shaochenze/calm) - Official implementation of "Continuous Autoregressive Language Models"
 - [huggingface/transformers-research-projects](https://github.com/huggingface/transformers-research-projects) - Research projects built on top of Transformers
 - [noegroup/ScoreMD](https://github.com/noegroup/ScoreMD) - A framework for training energy-based diffusion models for sampling and energy estimation.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 - [Accenture/mcp-bench](https://github.com/Accenture/mcp-bench) - MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [openai/frontier-evals](https://github.com/openai/frontier-evals) - OpenAI Frontier Evals
@@ -3190,7 +3190,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-630-Stars](https://github.com/iBug/This-Repo-Has-630-Stars) - Yes, it's true :heart: This repository has 630 stars.
+- [iBug/This-Repo-Has-631-Stars](https://github.com/iBug/This-Repo-Has-631-Stars) - Yes, it's true :two_hearts: This repository has 631 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3680,7 +3680,7 @@
 ## Rust 
 
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer) - Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
@@ -3931,6 +3931,7 @@
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [argonne-lcf/frameworks-sdk](https://github.com/argonne-lcf/frameworks-sdk) - Build scripts for the Frameworks SDK for internal testing, development, and deployment.
+- [rtvkiz/minimal](https://github.com/rtvkiz/minimal) - Minimal CVE Hardened container image collection
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
