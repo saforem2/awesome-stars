@@ -128,7 +128,6 @@
 - [toddmaustin/mojo-v](https://github.com/toddmaustin/mojo-v) - Mojo-V: A RISC-V instruction set extension for privacy-oriented programming. Mojo-V allows programmers to write software that computes on data that no software or person can see, except the data owner
 - [cryptocode/terminal-doom](https://github.com/cryptocode/terminal-doom) - Play DOOM in modern terminals
 - [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip) - Running TCP/IP over SWD lines
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim) - Play DOOM in Neovim v0.11+ on Linux & macOS
 - [codekitchen/pipeline](https://github.com/codekitchen/pipeline) - the `pipeline` shell command
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
@@ -217,6 +216,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples) - 
 - [google-deepmind/gemini_icpc2025](https://github.com/google-deepmind/gemini_icpc2025) - Gemini 2025 ICPC World Finals Code Submissions
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine (mirror)
@@ -744,7 +744,6 @@
 ## JavaScript 
 
 - [traxaber/spicetify-lastfm-history](https://github.com/traxaber/spicetify-lastfm-history) - Spicetify custom app: last.fm top artists, tracks, and albums inside Spotify
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [Oaklight/tinyleaf](https://github.com/Oaklight/tinyleaf) - A lightweight, self-hosted Overleaf alternative — zero Python dependencies, CLI-first. pip install tinyleaf && tinyleaf /path
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [giannisp/git-contrib-calendar](https://github.com/giannisp/git-contrib-calendar) - Experimental git contributions calendar for the terminal (built with NodeJS, React and Ink).
@@ -1952,6 +1951,7 @@
 
 ## Python 
 
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
 - [huggingface/Repo2RLEnv](https://github.com/huggingface/Repo2RLEnv) - Convert any Repo into an RL Environment
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
@@ -3646,7 +3646,6 @@
 
 ## Roff 
 
-- [argonne-lcf/alcf-nccl-tests](https://github.com/argonne-lcf/alcf-nccl-tests) - NCCL tests for ALCF machines
 - [risilab/Learnable_MMF](https://github.com/risilab/Learnable_MMF) - Learning Multiresolution Matrix Factorization and its Wavelet Networks on Graphs
 - [lanl/McPhD](https://github.com/lanl/McPhD) - A Parallel Haskell framework for particle-based Monte Carlo simulations
 - [WenboGong/MetaSGMCMC](https://github.com/WenboGong/MetaSGMCMC) - The code for Meta Learning for SGMCMC
