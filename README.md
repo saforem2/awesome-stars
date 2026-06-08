@@ -617,6 +617,7 @@
 
 ## HTML 
 
+- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -1436,7 +1437,6 @@
 ## Lua 
 
 - [Cris-lml007/NeoPlus](https://github.com/Cris-lml007/NeoPlus) - configurations for nvim, convert your Neovim to IDE
-- [elliotbonneville/dotfiles](https://github.com/elliotbonneville/dotfiles) - 
 - [CWood-sdf/spaceport.nvim](https://github.com/CWood-sdf/spaceport.nvim) - The blazingly fastest way to get to your projects
 - [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
 - [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim) - Tabline lua plugin for neovim
@@ -3150,7 +3150,7 @@
 - [Spenhouet/tensorboard-aggregator](https://github.com/Spenhouet/tensorboard-aggregator) - Aggregate multiple tensorboard runs to new summary or csv files
 - [ASTAugustin/WNTK_Machine_Learning](https://github.com/ASTAugustin/WNTK_Machine_Learning) - Code for the paper: Weighted Neural Tangent Kernel: A Generalized and Improved Network-Induced Kernel
 - [jeanfeydy/geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes
-- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy
+- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy https://visdom.dev
 - [benedekrozemberczki/pytorch_geometric_temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models (CIKM 2021)
 - [tonywu95/eval_gen](https://github.com/tonywu95/eval_gen) - Evaluation code with models for the paper "On the Quantitative Analysis of Decoder-Based Generative Models"
 - [mariaref/rfvs2lnn_GMM_online](https://github.com/mariaref/rfvs2lnn_GMM_online) - Implementation of numerical simulation and analytical computations for the training, via online SGD, of two layer neural networks and random features on a mixture of Gaussian.
