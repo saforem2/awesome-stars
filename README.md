@@ -1957,6 +1957,7 @@
 
 ## Python 
 
+- [vllm-project/vime](https://github.com/vllm-project/vime) - An LLM post-training framework with vLLM for RL Scaling
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
 - [huggingface/Repo2RLEnv](https://github.com/huggingface/Repo2RLEnv) - Convert any Repo into an RL Environment
@@ -2525,7 +2526,7 @@
 - [zdhNarsil/Diffusion-Generative-Flow-Samplers](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers) - PyTorch implementation for our ICLR 2024 paper "Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization"
 - [machow/quartodoc](https://github.com/machow/quartodoc) - Generate API documentation with quarto
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
-- [mljar/mercury](https://github.com/mljar/mercury) - Create web apps from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [BeastByteAI/scikit-llm](https://github.com/BeastByteAI/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [google/grain](https://github.com/google/grain) - Library for reading and processing ML training data.
@@ -4084,6 +4085,7 @@
 
 ## Swift 
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [gotoplanb/Hermit](https://github.com/gotoplanb/Hermit) - iOS SSH client for tmux + Claude Code workflows
 - [MioMioOS/MioIsland](https://github.com/MioMioOS/MioIsland) - macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.
@@ -4208,6 +4210,7 @@
 
 ## TypeScript 
 
+- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - 
 - [kenforthewin/atomic-editor](https://github.com/kenforthewin/atomic-editor) - CodeMirror 6 markdown editor with Obsidian-style inline live preview.
 - [Xndr2/listening-stats](https://github.com/Xndr2/listening-stats) - A real-time listening statistics dashboard for Spotify, powered by Spicetify.
 - [Jarred-Sumner/mactrace](https://github.com/Jarred-Sumner/mactrace) - Minimal strace for macOS - trace system calls of any process using Instruments.
