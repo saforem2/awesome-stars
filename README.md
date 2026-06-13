@@ -1957,6 +1957,9 @@
 
 ## Python 
 
+- [Oaklight/llm-rosetta](https://github.com/Oaklight/llm-rosetta) - Production-ready LLM API translation layer for Python — bidirectional conversion between OpenAI, Anthropic & Google formats via hub-and-spoke IR. Optional API gateway. Streaming & non-streaming. Zero 
+- [croqaz/vintage-LLM](https://github.com/croqaz/vintage-LLM) - Experimental LLM trained from scratch on very old texts.
+- [dougcalobrisi/erm](https://github.com/dougcalobrisi/erm) - Local CLI that strips disfluencies (um, uh, er, erm, ah, hmm, mhm, mm, uh-huh, etc) from recordings of English speech.
 - [vllm-project/vime](https://github.com/vllm-project/vime) - An LLM post-training framework with vLLM for RL Scaling
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
@@ -2526,7 +2529,7 @@
 - [zdhNarsil/Diffusion-Generative-Flow-Samplers](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers) - PyTorch implementation for our ICLR 2024 paper "Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization"
 - [machow/quartodoc](https://github.com/machow/quartodoc) - Generate API documentation with quarto
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [BeastByteAI/scikit-llm](https://github.com/BeastByteAI/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [google/grain](https://github.com/google/grain) - Library for reading and processing ML training data.
@@ -3696,10 +3699,10 @@
 - [darshanmakwana412/tsplat](https://github.com/darshanmakwana412/tsplat) - Enjoy gaussian splatting in your terminal, supports xterm, kitty, gnome, works over SSH
 - [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management.
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer) - Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [garritfra/cell](https://github.com/garritfra/cell) - A fast terminal spreadsheet editor with Vim keybindings
@@ -4572,7 +4575,7 @@
 
 ## Zig 
 
-- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
+- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal.
 - [superstarryeyes/hys](https://github.com/superstarryeyes/hys) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
 - [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
