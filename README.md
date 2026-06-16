@@ -2394,6 +2394,7 @@
 - [Lightning-AI/lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - PyTorch compiler that accelerates training and inference. Get built-in optimizations for performance, memory, parallelism, and easily write your own.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [tonyduan/diffusion](https://github.com/tonyduan/diffusion) - From-scratch diffusion model implemented in PyTorch.
 - [InternLM/InternEvo](https://github.com/InternLM/InternEvo) - InternEvo is an open-sourced lightweight training framework aims to support model pre-training without the need for extensive dependencies.
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -2988,7 +2989,7 @@
 - [facebookarchive/ml_sampler](https://github.com/facebookarchive/ml_sampler) - Model assisted random sampling.
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
 - [dionhaefner/pyhpc-benchmarks](https://github.com/dionhaefner/pyhpc-benchmarks) - A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python :rocket:
-- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+- [fivetran/great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data.
 - [iffsid/mmvae](https://github.com/iffsid/mmvae) - Multimodal Mixture-of-Experts VAE
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
@@ -4345,7 +4346,6 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [OrionReed/orionreed.com](https://github.com/OrionReed/orionreed.com) - A tiny website.
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [rehype-pretty/rehype-pretty-code](https://github.com/rehype-pretty/rehype-pretty-code) - Beautiful code blocks for Markdown or MDX.
 - [richawo/minimal-llm-ui](https://github.com/richawo/minimal-llm-ui) - Minimalistic UI for Ollama LMs - This powerful react interface for LLMs drastically improves the chatbot experience and works offline.
 - [simonw/observable-framework-experiments](https://github.com/simonw/observable-framework-experiments) - Experiments with Observable Framework
