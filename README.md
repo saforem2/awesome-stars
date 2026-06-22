@@ -1194,7 +1194,6 @@
 - [LukasRinder/normalizing-flows](https://github.com/LukasRinder/normalizing-flows) - Implementation of normalizing flows in TensorFlow 2 including a small tutorial.
 - [nimadehmamy/L-conv-code](https://github.com/nimadehmamy/L-conv-code) - Lie Algebra Convolutional Network implementation
 - [Rupt/paper-which-is-real](https://github.com/Rupt/paper-which-is-real) - Code and data to reproduce content for "A method to challenge symmetries in data with self-supervised learning" (https://arxiv.org/abs/2111.05442)
-- [rocketmlhq/sciml](https://github.com/rocketmlhq/sciml) - Scientific Machine Learning Tutorials
 - [nec-research/tf-imle](https://github.com/nec-research/tf-imle) - Tensorflow implementation and notebooks for Implicit Maximum Likelihood Estimation
 - [google/brain-tokyo-workshop](https://github.com/google/brain-tokyo-workshop) - 🧠🗼
 - [GTorlai/NeuralNetworks-for-Quantum](https://github.com/GTorlai/NeuralNetworks-for-Quantum) - Tutorials for the paper: "Neural network in quantum many-body physics: a hands-on tutorial"
@@ -3366,7 +3365,7 @@
 - [google-research/football](https://github.com/google-research/football) - Check out the new game server:
 - [pytorch/examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 - [kiwi0fruit/ipynb-py-convert](https://github.com/kiwi0fruit/ipynb-py-convert) - Convert .py files runnable in VSCode or Atom/Hydrogen to Jupyter .ipynb notebooks and vice versa
-- [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
+- [jupytext/jupytext](https://github.com/jupytext/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [spatialaudio/nbsphinx](https://github.com/spatialaudio/nbsphinx) - :ledger: Sphinx source parser for Jupyter notebooks
 - [remykarem/python2jupyter](https://github.com/remykarem/python2jupyter) - Convert from Python script to Jupyter notebook and vice versa
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
