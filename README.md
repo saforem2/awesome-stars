@@ -469,6 +469,8 @@
 
 ## Go 
 
+- [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
+- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [herald-email/herald-mail-app](https://github.com/herald-email/herald-mail-app) - Herald is a terminal email client and inbox cleanup tool with IMAP, AI-assisted triage, MCP tools, and SSH/browser-friendly app modes.
 - [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
 - [B33pBeeps/redthread](https://github.com/B33pBeeps/redthread) - A sticky-note pegboard TUI for your terminal — drag notes around an ASCII corkboard, dangle red strings between them, switch through named boards. Mouse-first, written in Go.
@@ -1958,6 +1960,7 @@
 
 ## Python 
 
+- [dermatologist/genomic-tokenizer](https://github.com/dermatologist/genomic-tokenizer) - Genomic Tokenizer: Biology-driven Tokenizer for DNA sequences
 - [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) - Qwen-AgentWorld: Language World Models for General Agents
 - [Oaklight/llm-rosetta](https://github.com/Oaklight/llm-rosetta) - Production-ready LLM API translation layer for Python — bidirectional conversion between OpenAI, Anthropic & Google formats via hub-and-spoke IR. Optional API gateway. Streaming & non-streaming. Zero 
 - [croqaz/vintage-LLM](https://github.com/croqaz/vintage-LLM) - Experimental LLM trained from scratch on very old texts.
@@ -3949,6 +3952,7 @@
 
 ## Shell 
 
+- [pwittchen/spotify-cli-macos](https://github.com/pwittchen/spotify-cli-macos) - A command line interface to Spotify on macOS
 - [envs-net/bashblog](https://github.com/envs-net/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [mijndert/dotfiles](https://github.com/mijndert/dotfiles) - very opinionated dotfiles
 - [webcoyote/sandvault](https://github.com/webcoyote/sandvault) - Run AI agents isolated in a macOS user account and sandbox-exec. Configured to run Claude Code, OpenAI Codex, Cursor Agent, Google Gemini.
@@ -4220,6 +4224,8 @@
 
 ## TypeScript 
 
+- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchest
+- [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor and LLM Wiki
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [kenforthewin/atomic-editor](https://github.com/kenforthewin/atomic-editor) - CodeMirror 6 markdown editor with Obsidian-style inline live preview.
 - [Xndr2/listening-stats](https://github.com/Xndr2/listening-stats) - A real-time listening statistics dashboard for Spotify, powered by Spicetify.
