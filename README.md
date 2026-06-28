@@ -1960,6 +1960,7 @@
 
 ## Python 
 
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [dermatologist/genomic-tokenizer](https://github.com/dermatologist/genomic-tokenizer) - Genomic Tokenizer: Biology-driven Tokenizer for DNA sequences
 - [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) - Qwen-AgentWorld: Language World Models for General Agents
 - [Oaklight/llm-rosetta](https://github.com/Oaklight/llm-rosetta) - Production-ready LLM API translation layer for Python — bidirectional conversion between OpenAI, Anthropic & Google formats via hub-and-spoke IR. Optional API gateway. Streaming & non-streaming. Zero 
@@ -2003,7 +2004,7 @@
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [Future-House/ether0](https://github.com/Future-House/ether0) - A scientific reasoning model, dataset, and reward functions for chemistry.
 - [FLASK-LLNL/ChARGe](https://github.com/FLASK-LLNL/ChARGe) - Chemistry Augment Reasoning models for Generating molecules and Reactions
-- [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR) - High-Performance Symbolic Regression in Python and Julia
+- [astroautomata/PySR](https://github.com/astroautomata/PySR) - High-Performance Symbolic Regression in Python and Julia
 - [allenai/OLMo-core](https://github.com/allenai/OLMo-core) - PyTorch building blocks for the OLMo ecosystem
 - [hustvl/MoDA](https://github.com/hustvl/MoDA) - An hardware-aware Efficient Implementation for "Mixture-of-Depths Attention".
 - [psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done) - The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).
