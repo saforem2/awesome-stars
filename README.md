@@ -2174,7 +2174,7 @@
 - [astral-sh/uv-fastapi-example](https://github.com/astral-sh/uv-fastapi-example) - 
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
 - [brentyi/jaxlie](https://github.com/brentyi/jaxlie) - Rigid transforms + Lie groups for JAX
-- [gradio-app/trackio](https://github.com/gradio-app/trackio) - A lightweight, local-first, and 🆓 experiment tracking library from Hugging Face 🤗
+- [gradio-app/trackio](https://github.com/gradio-app/trackio) - A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗
 - [ISEEKYAN/mbridge](https://github.com/ISEEKYAN/mbridge) - Bridge Megatron-Core to Hugging Face/Reinforcement Learning
 - [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling.
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
