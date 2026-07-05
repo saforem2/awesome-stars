@@ -2199,7 +2199,7 @@
 - [acadev/warp-tutorial](https://github.com/acadev/warp-tutorial) - Warp tutorial developed as part of Argonne's vibe coding hackathon
 - [xrsrke/pipegoose](https://github.com/xrsrke/pipegoose) - Large scale 4D parallelism pre-training for 🤗 transformers in Mixture of Experts *(still work in progress)*
 - [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [tanishqkumar/beyond-nanogpt](https://github.com/tanishqkumar/beyond-nanogpt) - Minimal and annotated implementations of key ideas from modern deep learning research.
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
