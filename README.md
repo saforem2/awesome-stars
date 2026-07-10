@@ -978,6 +978,7 @@
 - [Nemocas/AbstractAlgebra.jl](https://github.com/Nemocas/AbstractAlgebra.jl) - Generic abstract algebra functionality in pure Julia (no C dependencies)
 - [MakieOrg/GeoMakie.jl](https://github.com/MakieOrg/GeoMakie.jl) - Geographical plotting utilities for Makie.jl
 - [TuringLang/AdvancedMH.jl](https://github.com/TuringLang/AdvancedMH.jl) - Robust implementation for random-walk Metropolis-Hastings algorithms
+- [gaurav-arya/differentiable_mh](https://github.com/gaurav-arya/differentiable_mh) - Code for paper https://arxiv.org/abs/2306.07961
 - [CliMA/ClimaTimeSteppers.jl](https://github.com/CliMA/ClimaTimeSteppers.jl) - GPU-ready IMEX and multirate ODE solvers for large-scale scientific models
 - [slimgroup/InvertibleNetworks.jl](https://github.com/slimgroup/InvertibleNetworks.jl) - A Julia framework for invertible neural networks
 - [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for the FLINT number theory C library
@@ -1152,7 +1153,6 @@
 - [tcapelle/Diffusion-Models-pytorch](https://github.com/tcapelle/Diffusion-Models-pytorch) - Pytorch implementation of Diffusion Models (https://arxiv.org/pdf/2006.11239.pdf)
 - [tcapelle/torch_moving_mnist](https://github.com/tcapelle/torch_moving_mnist) - A simple Dataset generator for Moving Mnist
 - [empathy87/storytelling-with-data](https://github.com/empathy87/storytelling-with-data) - Plots from the book "Storytelling with data" implementation using Python and matplotlib
-- [gaurav-arya/differentiable_mh](https://github.com/gaurav-arya/differentiable_mh) - Code for paper https://arxiv.org/abs/2306.07961
 - [jiwidi/time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) - A use-case focused tutorial for time series forecasting with python
 - [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, for human consumption
 - [gradient-ai/stable-diffusion](https://github.com/gradient-ai/stable-diffusion) - 
@@ -1726,6 +1726,7 @@
 
 ## Objective-C 
 
+- [KonsomeJona/OctoMouse](https://github.com/KonsomeJona/OctoMouse) - OctoMouse is an open-source application for MAC OSX that measures your mouse and keyboard activities.
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [dsouzarc/iMessageAnalyzer](https://github.com/dsouzarc/iMessageAnalyzer) - Analyzes a user's iMessage
 - [shahruz/Sketch-Toolbox](https://github.com/shahruz/Sketch-Toolbox) - A plugin manager for Sketch.app
@@ -1962,6 +1963,7 @@
 
 ## Python 
 
+- [argonne-lcf/FIRST](https://github.com/argonne-lcf/FIRST) - Inference Gateway for Batch and Interactive LLM requests
 - [a-attia/scrollback](https://github.com/a-attia/scrollback) - Agents (Cli-Tools) chat history scrolling
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [dermatologist/genomic-tokenizer](https://github.com/dermatologist/genomic-tokenizer) - Genomic Tokenizer: Biology-driven Tokenizer for DNA sequences
@@ -2133,7 +2135,7 @@
 - [fmperf-project/fmperf](https://github.com/fmperf-project/fmperf) - Cloud Native Benchmarking of Foundation Models
 - [montefiore-sail/appa](https://github.com/montefiore-sail/appa) - Code for the publication "Appa: Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation".
 - [converged-computing/aws-performance-study](https://github.com/converged-computing/aws-performance-study) - 
-- [als-apg/osprey](https://github.com/als-apg/osprey) - 
+- [als-apg/osprey](https://github.com/als-apg/osprey) - An agentic interface and safety harness for safety-critical control systems
 - [stockeh/swift](https://github.com/stockeh/swift) - An Autoregressive Consistency Model for Efficient Weather Forecasting
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
@@ -2540,7 +2542,7 @@
 - [zdhNarsil/Diffusion-Generative-Flow-Samplers](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers) - PyTorch implementation for our ICLR 2024 paper "Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization"
 - [machow/quartodoc](https://github.com/machow/quartodoc) - Generate API documentation with quarto
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
-- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
+- [mljar/mercury](https://github.com/mljar/mercury) - Impress your boss and turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [BeastByteAI/scikit-llm](https://github.com/BeastByteAI/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [google/grain](https://github.com/google/grain) - Library for reading and processing ML training data.
@@ -3215,7 +3217,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-628-Stars](https://github.com/iBug/This-Repo-Has-628-Stars) - Yes, it's true :yellow_heart: This repository has 628 stars.
+- [iBug/This-Repo-Has-629-Stars](https://github.com/iBug/This-Repo-Has-629-Stars) - Yes, it's true :revolving_hearts: This repository has 629 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3704,6 +3706,7 @@
 
 ## Rust 
 
+- [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI.
 - [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -4232,7 +4235,7 @@
 
 - [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - CodeNomad: The command center that puts AI coding on steroids.
 - [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchest
-- [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor.
+- [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor and LLM wiki
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [kenforthewin/atomic-editor](https://github.com/kenforthewin/atomic-editor) - CodeMirror 6 markdown editor with Obsidian-style inline live preview.
 - [Xndr2/listening-stats](https://github.com/Xndr2/listening-stats) - A real-time listening statistics dashboard for Spotify, powered by Spicetify.
