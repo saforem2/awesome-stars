@@ -1963,6 +1963,7 @@
 
 ## Python 
 
+- [X-Square-Robot/dmuon](https://github.com/X-Square-Robot/dmuon) - 
 - [argonne-lcf/FIRST](https://github.com/argonne-lcf/FIRST) - Inference Gateway for Batch and Interactive LLM requests
 - [a-attia/scrollback](https://github.com/a-attia/scrollback) - Agents (Cli-Tools) chat history scrolling
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
@@ -2517,7 +2518,7 @@
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [Nerocraft4/habittracker](https://github.com/Nerocraft4/habittracker) - 
-- [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
+- [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) - 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [argonne-lcf/Megatron-DeepSpeed](https://github.com/argonne-lcf/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [aesara-devs/aesara](https://github.com/aesara-devs/aesara) - Aesara is a Python library for defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays.
@@ -4597,7 +4598,7 @@
 ## Zig 
 
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
-- [paulilaaso/hys](https://github.com/paulilaaso/hys) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
+- [paulilaaso/hys](https://github.com/paulilaaso/hys) - Terminal RSS Reader for Digital Minimalists — Tool for Escaping the Doomscroll
 - [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
