@@ -468,6 +468,7 @@
 
 ## Go 
 
+- [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [harshalgajjar/Reminal](https://github.com/harshalgajjar/Reminal) - Zero-config alternative to SSH
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
@@ -752,6 +753,7 @@
 ## JavaScript 
 
 - [fdeox/termspot](https://github.com/fdeox/termspot) - CRT phosphor terminal theme for Spotify — scanlines, phosphor glow, ASCII album art, a hidden command terminal and 17 color schemes. Pairs with the Terminal Greeting extension.
+- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchest
 - [traxaber/spicetify-lastfm-history](https://github.com/traxaber/spicetify-lastfm-history) - Spicetify custom app: last.fm top artists, tracks, and albums inside Spotify
 - [Oaklight/tinyleaf](https://github.com/Oaklight/tinyleaf) - A lightweight, self-hosted Overleaf alternative — zero Python dependencies, CLI-first. pip install tinyleaf && tinyleaf /path
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
@@ -1193,7 +1195,7 @@
 - [HPCL/ideas-uo](https://github.com/HPCL/ideas-uo) - IDEAS project work
 - [undark-lab/swyft](https://github.com/undark-lab/swyft) - A system for scientific simulation-based inference at scale.
 - [geomstats/challenge-iclr-2022](https://github.com/geomstats/challenge-iclr-2022) - GitHub repository for the ICLR Computational Geometry & Topology Challenge 2021
-- [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX
+- [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Open-sourced course notes for Artificial Intelligence and Data Science related topics, prepared in LaTeX
 - [sscardapane/hydra-tutorial](https://github.com/sscardapane/hydra-tutorial) - Companion code for a tutorial on using Hydra.
 - [khanhnamle1994/cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
 - [LukasRinder/normalizing-flows](https://github.com/LukasRinder/normalizing-flows) - Implementation of normalizing flows in TensorFlow 2 including a small tutorial.
@@ -1963,6 +1965,11 @@
 
 ## Python 
 
+- [Soju06/codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [bufbuild/protobuf-py](https://github.com/bufbuild/protobuf-py) - Idiomatic Protocol Buffers for Python.
+- [connectrpc/connect-py](https://github.com/connectrpc/connect-py) - The Python implementation of Connect: Protobuf RPC that works.
+- [ML-GSAI/Width-Depth-muP](https://github.com/ML-GSAI/Width-Depth-muP) - Official implementation for our paper "Spectral Condition for μP under Width–Depth Scaling".
 - [X-Square-Robot/dmuon](https://github.com/X-Square-Robot/dmuon) - 
 - [argonne-lcf/FIRST](https://github.com/argonne-lcf/FIRST) - Inference Gateway for Batch and Interactive LLM requests
 - [a-attia/scrollback](https://github.com/a-attia/scrollback) - Agents (Cli-Tools) chat history scrolling
@@ -4234,8 +4241,10 @@
 
 ## TypeScript 
 
+- [binaricat/Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - CodeNomad: The command center that puts AI coding on steroids.
-- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchest
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor and LLM wiki
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [kenforthewin/atomic-editor](https://github.com/kenforthewin/atomic-editor) - CodeMirror 6 markdown editor with Obsidian-style inline live preview.
