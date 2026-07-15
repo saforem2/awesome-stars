@@ -671,7 +671,6 @@
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [jurjoroa/hcc-website](https://github.com/jurjoroa/hcc-website) - Repository of the Hertie Coding Club website. Built with Quarto
 - [cranmer/active_sciencing](https://github.com/cranmer/active_sciencing) - active learning + reusable workflows + likelihood free inference
-- [djnavarro/quarto-blog](https://github.com/djnavarro/quarto-blog) - 
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [EmilHvitfeldt/quarto-revealjs-letterbox](https://github.com/EmilHvitfeldt/quarto-revealjs-letterbox) - A Quarto reveal.js theme based on xaringan letterbox
@@ -753,7 +752,6 @@
 ## JavaScript 
 
 - [fdeox/termspot](https://github.com/fdeox/termspot) - CRT phosphor terminal theme for Spotify — scanlines, phosphor glow, ASCII album art, a hidden command terminal and 17 color schemes. Pairs with the Terminal Greeting extension.
-- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchest
 - [traxaber/spicetify-lastfm-history](https://github.com/traxaber/spicetify-lastfm-history) - Spicetify custom app: last.fm top artists, tracks, and albums inside Spotify
 - [Oaklight/tinyleaf](https://github.com/Oaklight/tinyleaf) - A lightweight, self-hosted Overleaf alternative — zero Python dependencies, CLI-first. pip install tinyleaf && tinyleaf /path
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
@@ -984,13 +982,13 @@
 - [CliMA/ClimaTimeSteppers.jl](https://github.com/CliMA/ClimaTimeSteppers.jl) - GPU-ready IMEX and multirate ODE solvers for large-scale scientific models
 - [slimgroup/InvertibleNetworks.jl](https://github.com/slimgroup/InvertibleNetworks.jl) - A Julia framework for invertible neural networks
 - [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for the FLINT number theory C library
-- [CliMA/ClimaLand.jl](https://github.com/CliMA/ClimaLand.jl) - Clima's Land Model
+- [CliMA/ClimaLand.jl](https://github.com/CliMA/ClimaLand.jl) - Modular, GPU-capable land surface model of the CliMA Earth System Model, designed for data-driven parameterizations
 - [JuliaStrings/LaTeXStrings.jl](https://github.com/JuliaStrings/LaTeXStrings.jl) - convenient input and display of LaTeX equation strings for the Julia language
 - [fbuessen/SpinMC.jl](https://github.com/fbuessen/SpinMC.jl) - Classical Monte Carlo simulations for lattice spin systems
 - [vtjnash/Glob.jl](https://github.com/vtjnash/Glob.jl) - Posix-compliant file name pattern matching
-- [CliMA/ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl) - CliMA model dycore
+- [CliMA/ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl) - GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools
 - [tpapp/LogDensityProblems.jl](https://github.com/tpapp/LogDensityProblems.jl) - A common framework for implementing and using log densities for inference.
-- [CliMA/ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl) - ClimaAtmos.jl is an atmosphere model that is designed to leverage data assimilation and machine learning tools for modeling and calibrating subgrid-scale processes.
+- [CliMA/ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl) - GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning
 - [caleb-allen/VimBindings.jl](https://github.com/caleb-allen/VimBindings.jl) - Vim emulation in the Julia REPL
 - [HighDimensionalEconLab/HMCExamples.jl](https://github.com/HighDimensionalEconLab/HMCExamples.jl) - 
 - [JuliaAI/MLJModels.jl](https://github.com/JuliaAI/MLJModels.jl) - Home of the MLJ model registry and tools for model queries and mode code loading
@@ -1067,6 +1065,8 @@
 
 ## Jupyter Notebook 
 
+- [hlzhang109/critical-batch-size](https://github.com/hlzhang109/critical-batch-size) - [ICLR 2025] How Does Critical Batch Size Scale in Pre-training?
+- [doe-iri/iri-facility-api-examples](https://github.com/doe-iri/iri-facility-api-examples) - Jupyter notebook examples for the IRI Facility API
 - [AyaanARaza/Explainable-Eye-Tracking-Analysis-For-Autism-Detection](https://github.com/AyaanARaza/Explainable-Eye-Tracking-Analysis-For-Autism-Detection) - 
 - [saurabhaloneai/Llama-3-From-Scratch-In-Pure-Jax](https://github.com/saurabhaloneai/Llama-3-From-Scratch-In-Pure-Jax) - This repository contain the simple llama3  implementation in pure jax.
 - [amsc-interfaces/amsc-client-tutorial](https://github.com/amsc-interfaces/amsc-client-tutorial) - AmSC Client Tutorial
@@ -4245,6 +4245,7 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - CodeNomad: The command center that puts AI coding on steroids.
+- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchest
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [kenforthewin/atomic-editor](https://github.com/kenforthewin/atomic-editor) - CodeMirror 6 markdown editor with Obsidian-style inline live preview.
