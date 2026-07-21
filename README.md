@@ -473,6 +473,7 @@
 
 ## Go 
 
+- [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus) - An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it better: Projects and Quick Actions.
 - [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [harshalgajjar/Reminal](https://github.com/harshalgajjar/Reminal) - Zero-config alternative to SSH
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
@@ -482,7 +483,7 @@
 - [B33pBeeps/redthread](https://github.com/B33pBeeps/redthread) - A sticky-note pegboard TUI for your terminal — drag notes around an ASCII corkboard, dangle red strings between them, switch through named boards. Mouse-first, written in Go.
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from
-- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly.
+- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files.
 - [pion/rtwatch](https://github.com/pion/rtwatch) - Watch videos with friends using WebRTC, let the server do the pausing and seeking.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [ezeoleaf/tblogs](https://github.com/ezeoleaf/tblogs) - A fast, modern, and hackable terminal blog reader written in Go
@@ -1660,7 +1661,6 @@
 - [NVIDIA/ngc-container-environment-modules](https://github.com/NVIDIA/ngc-container-environment-modules) - Environment modules for NGC containers
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
-- [richin13/dotfiles](https://github.com/richin13/dotfiles) - My dotfiles: (Neovim + Zsh + Tmux) optimized for Python & React development 🤑
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [dsanson/hs.tiling](https://github.com/dsanson/hs.tiling) - Add tiling window management powers to your hammerspoon
@@ -3724,6 +3724,7 @@
 
 ## Rust 
 
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [uccl-project/rdmatop](https://github.com/uccl-project/rdmatop) - htop-like TUI for real-time RDMA network monitoring.
@@ -4080,6 +4081,7 @@
 - [izmailovpavel/flowgmm](https://github.com/izmailovpavel/flowgmm) - 
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [richin13/dotfiles](https://github.com/richin13/dotfiles) - My dotfiles: (Neovim + Zsh + Tmux) optimized for Python & React development 🤑
 - [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action) - :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
 - [RescueTime/git-commits-to-rescuetime-daily-highlights](https://github.com/RescueTime/git-commits-to-rescuetime-daily-highlights) - An example script to show how to log code commits as Daily Highlights in RescueTime
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
@@ -4130,6 +4132,7 @@
 
 ## Swift 
 
+- [dcolinmorgan/herdr-remote](https://github.com/dcolinmorgan/herdr-remote) - Monitor and approve herdr agents from your phone, menu bar, or Telegram — no SSH required
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [gotoplanb/Hermit](https://github.com/gotoplanb/Hermit) - iOS SSH client for tmux + Claude Code workflows
