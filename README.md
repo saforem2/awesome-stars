@@ -220,7 +220,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples) - 
 - [google-deepmind/gemini_icpc2025](https://github.com/google-deepmind/gemini_icpc2025) - Gemini 2025 ICPC World Finals Code Submissions
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices; quantization, kernels, inference engine for mobiles, wearables and smart home and robots.
 - [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine (mirror)
@@ -473,6 +473,8 @@
 
 ## Go 
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus) - An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it better: Projects and Quick Actions.
 - [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [harshalgajjar/Reminal](https://github.com/harshalgajjar/Reminal) - Zero-config alternative to SSH
@@ -1071,6 +1073,8 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/mup](https://github.com/microsoft/mup) - maximal update parametrization (µP)
+- [microsoft/mutransformers](https://github.com/microsoft/mutransformers) - some common Huggingface transformers in maximal update parametrization (µP)
 - [ericmjl/website](https://github.com/ericmjl/website) - Eric Ma's Personal Website
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step
 - [hlzhang109/critical-batch-size](https://github.com/hlzhang109/critical-batch-size) - [ICLR 2025] How Does Critical Batch Size Scale in Pre-training?
@@ -1103,7 +1107,6 @@
 - [pamelafox/ollama-python-playground](https://github.com/pamelafox/ollama-python-playground) - A dev container with ollama and ollama examples with the Python OpenAI SDK
 - [zzzqt/DM4U1](https://github.com/zzzqt/DM4U1) - Diffusion model for gauge field simulations
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
-- [argonne-lcf/inference-endpoints](https://github.com/argonne-lcf/inference-endpoints) - This is a repository with examples to run inference endpoints on various ALCF clusters
 - [Thomas-Ranner/LFT_DM](https://github.com/Thomas-Ranner/LFT_DM) - Sampling lattice field theories with score-based diffusion models
 - [davidnabergoj/potentials](https://github.com/davidnabergoj/potentials) - Potential functions for sampling or optimization
 - [davidnabergoj/nfmc-nf-evaluation](https://github.com/davidnabergoj/nfmc-nf-evaluation) - NFMC benchmark and code for the paper: "Nabergoj and Štrumbelj. Empirical evaluation of normalizing flows in Markov Chain Monte Carlo, 2024."
@@ -1756,6 +1759,7 @@
 
 ## Others 
 
+- [plugyawn/Megaprop](https://github.com/plugyawn/Megaprop) - Newton-Muon + Preconditioned Optimizers for MoE Training at scale, with out-of-the-box support for MuP and FSDP support for Muon, built on top of Megatron-LM and TransformerEngine.
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 - [hellocodeco/awesome-exist](https://github.com/hellocodeco/awesome-exist) - Resources for Exist
@@ -1788,7 +1792,7 @@
 - [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
 - [FZJ-JSC/jubench](https://github.com/FZJ-JSC/jubench) - JUPITER Benchmark Suite
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
-- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
+- [piotrkulpinski/open-source-alternatives](https://github.com/piotrkulpinski/open-source-alternatives) - Curated list of open source alternatives to proprietary software.
 - [NousResearch/DisTrO](https://github.com/NousResearch/DisTrO) - Distributed Training Over-The-Internet
 - [Martinomagnifico/quarto-appearance](https://github.com/Martinomagnifico/quarto-appearance) - An animation plugin for Reveal.js that animates elements sequentially like in Powerpoint. Perfect for online portfolios or other presentations with images.
 - [argonne-lcf/summer-school-2024](https://github.com/argonne-lcf/summer-school-2024) - 
@@ -1976,6 +1980,8 @@
 
 ## Python 
 
+- [deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels) - A kernel library written in tilelang
+- [NVIDIA-NeMo/Emerging-Optimizers](https://github.com/NVIDIA-NeMo/Emerging-Optimizers) - 
 - [alxndrTL/little-book-rl](https://github.com/alxndrTL/little-book-rl) - The Little Book of Reinforcement Learning
 - [Soju06/codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
@@ -3725,6 +3731,8 @@
 
 ## Rust 
 
+- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
@@ -4026,6 +4034,7 @@
 - [muthuishere/mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk) - Yes Mcp server in bash
 - [converged-computing/google-performance-study](https://github.com/converged-computing/google-performance-study) - Experiments on Google Cloud, hoping to extend the performance study
 - [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained.
+- [argonne-lcf/inference-endpoints](https://github.com/argonne-lcf/inference-endpoints) - This is a repository with examples to run inference endpoints on various ALCF clusters
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
 - [doctorfree/MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more
 - [popstas/zsh-command-time](https://github.com/popstas/zsh-command-time) - Show execution time for long commands in zsh
