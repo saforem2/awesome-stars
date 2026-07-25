@@ -760,6 +760,7 @@
 
 - [mjyoo2/OverleafMCP](https://github.com/mjyoo2/OverleafMCP) - Model Context Protocol (MCP) server that lets AI assistants read Overleaf projects, parse LaTeX document structure, and push          section-level edits back via Git. Compatible with Claude Desktop, 
 - [fdeox/termspot](https://github.com/fdeox/termspot) - CRT phosphor terminal theme for Spotify — scanlines, phosphor glow, ASCII album art, a hidden command terminal and 17 color schemes. Pairs with the Terminal Greeting extension.
+- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchest
 - [traxaber/spicetify-lastfm-history](https://github.com/traxaber/spicetify-lastfm-history) - Spicetify custom app: last.fm top artists, tracks, and albums inside Spotify
 - [Oaklight/tinyleaf](https://github.com/Oaklight/tinyleaf) - A lightweight, self-hosted Overleaf alternative — zero Python dependencies, CLI-first. pip install tinyleaf && tinyleaf /path
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
@@ -1448,7 +1449,7 @@
 - [oneapi-src/SYCLomatic](https://github.com/oneapi-src/SYCLomatic) - 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [meifeng/GridMini](https://github.com/meifeng/GridMini) - This is a mini-app based on the Grid C++ lattice QCD library (https://github.com/paboyle/Grid)
-- [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - Lecture and hands-on material for Track 8- Machine Learning of  Argonne Training Program on Extreme-Scale Computing
+- [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - Lecture and hands-on material for Track 6 - AI/ML - of  Argonne Training Program on Extreme-Scale Computing
 
 ## Lean 
 
@@ -4276,7 +4277,6 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - CodeNomad: The command center that puts AI coding on steroids.
-- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchest
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [kenforthewin/atomic-editor](https://github.com/kenforthewin/atomic-editor) - CodeMirror 6 markdown editor with Obsidian-style inline live preview.
