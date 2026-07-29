@@ -785,6 +785,7 @@
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
 - [Link-/starred_search](https://github.com/Link-/starred_search) - Search your starred ★ repositories on GitHub from your terminal
+- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [hoeci/sort-play](https://github.com/hoeci/sort-play) - A Spicetify extension that adds powerful sorting, filtering, UI features, and more to the Spotify desktop client.
 - [mulfok/periodic-note-templates](https://github.com/mulfok/periodic-note-templates) - A set of periodic note templates for Obsidian.md.
 - [gadenbuie/mynorfolk-dash](https://github.com/gadenbuie/mynorfolk-dash) - MyNorfolk Dashboard: A Quarto Dashboards Demo
@@ -2000,6 +2001,7 @@
 - [croqaz/vintage-LLM](https://github.com/croqaz/vintage-LLM) - Experimental LLM trained from scratch on very old texts.
 - [dougcalobrisi/erm](https://github.com/dougcalobrisi/erm) - Local CLI that strips disfluencies (um, uh, er, erm, ah, hmm, mhm, mm, uh-huh, etc) from recordings of English speech.
 - [vllm-project/vime](https://github.com/vllm-project/vime) - An LLM post-training framework with vLLM for RL Scaling
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
 - [huggingface/Repo2RLEnv](https://github.com/huggingface/Repo2RLEnv) - Convert any Repo into an RL Environment
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
@@ -2135,7 +2137,7 @@
 - [shaochenze/calm](https://github.com/shaochenze/calm) - Official implementation of "Continuous Autoregressive Language Models"
 - [huggingface/transformers-research-projects](https://github.com/huggingface/transformers-research-projects) - Research projects built on top of Transformers
 - [noegroup/ScoreMD](https://github.com/noegroup/ScoreMD) - A framework for training energy-based diffusion models for sampling and energy estimation.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 156 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 - [Accenture/mcp-bench](https://github.com/Accenture/mcp-bench) - MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [openai/frontier-evals](https://github.com/openai/frontier-evals) - OpenAI Frontier Evals
@@ -4347,7 +4349,6 @@
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [rictic/jsonriver](https://github.com/rictic/jsonriver) - A simple, fast streaming JSON parser built on standards.
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
-- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [Left-on-Read/leftonread](https://github.com/Left-on-Read/leftonread) - Left on Read
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
