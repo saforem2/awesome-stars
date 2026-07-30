@@ -2246,7 +2246,7 @@
 - [finnschi/heic-shenanigans](https://github.com/finnschi/heic-shenanigans) - Doing some dev work on HEIC files , HDR GAIn maps and so on
 - [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL) - Scalable toolkit for efficient model reinforcement
 - [FeNNol-tools/FeNNol](https://github.com/FeNNol-tools/FeNNol) - Force-field-enhanced Neural Networks optimized library
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSeek-R1, or any open source LLM / VLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen, Gemma, or any open weight LLM!
 - [rackslab/Slurm-web](https://github.com/rackslab/Slurm-web) - Open source web interface for Slurm HPC & AI clusters
 - [Greyyy-HJC/gpt_benchmark](https://github.com/Greyyy-HJC/gpt_benchmark) - collection of benchmark of gpt code
 - [eth-cscs/cscs-reframe-tests](https://github.com/eth-cscs/cscs-reframe-tests) - The CSCS ReFrame test suite
@@ -3735,10 +3735,11 @@
 
 ## Rust 
 
+- [HaseebKhalid1507/Myx](https://github.com/HaseebKhalid1507/Myx) - Spotify player for the terminal. With reactive themes.
 - [snackbit/daydream](https://github.com/snackbit/daydream) - Local-first desktop recall assistant that turns screen, audio, activity, and window context into a searchable timeline of your day.
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal.
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [uccl-project/rdmatop](https://github.com/uccl-project/rdmatop) - htop-like TUI for real-time RDMA network monitoring.
