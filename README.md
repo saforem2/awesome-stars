@@ -1240,6 +1240,7 @@
 - [noegroup/stochastic_normalizing_flows](https://github.com/noegroup/stochastic_normalizing_flows) - Stochastic Normalizing Flows
 - [noegroup/paper_boltzmann_generators](https://github.com/noegroup/paper_boltzmann_generators) - 
 - [noegroup/bgflow](https://github.com/noegroup/bgflow) - Boltzmann Generators and Normalizing Flows in PyTorch
+- [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - Lecture and hands-on material for Track 6 - AI/ML - of  Argonne Training Program on Extreme-Scale Computing
 - [bandframework/surmise](https://github.com/bandframework/surmise) - A python package for surrogate models that interface with calibration and other tools
 - [twitter-research/graph-neural-pde](https://github.com/twitter-research/graph-neural-pde) - Graph Neural PDEs
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
@@ -1449,7 +1450,6 @@
 - [oneapi-src/SYCLomatic](https://github.com/oneapi-src/SYCLomatic) - 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [meifeng/GridMini](https://github.com/meifeng/GridMini) - This is a mini-app based on the Grid C++ lattice QCD library (https://github.com/paboyle/Grid)
-- [argonne-lcf/ATPESC_MachineLearning](https://github.com/argonne-lcf/ATPESC_MachineLearning) - Lecture and hands-on material for Track 6 - AI/ML - of  Argonne Training Program on Extreme-Scale Computing
 
 ## Lean 
 
@@ -4037,7 +4037,7 @@
 - [igrmk/whiskers](https://github.com/igrmk/whiskers) - Kitty alternative icon
 - [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Neovim, Zsh, and Ghostty + Tmux
 - [marlonrichert/zsh-hist](https://github.com/marlonrichert/zsh-hist) - 📝 Edit your Zsh history from the command line.
-- [muthuishere/mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk) - Yes Mcp server in bash
+- [muthuishere/mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk) - MCP server SDK/example implemented entirely in bash — build a Model Context Protocol server with no runtime dependency beyond a POSIX shell.
 - [converged-computing/google-performance-study](https://github.com/converged-computing/google-performance-study) - Experiments on Google Cloud, hoping to extend the performance study
 - [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained.
 - [argonne-lcf/inference-endpoints](https://github.com/argonne-lcf/inference-endpoints) - This is a repository with examples to run inference endpoints on various ALCF clusters
