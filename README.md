@@ -1460,6 +1460,7 @@
 
 ## Lean 
 
+- [leanprover-community/physlib](https://github.com/leanprover-community/physlib) - A project to digitalise results from physics into Lean.
 - [math-inc/strongpnt](https://github.com/math-inc/strongpnt) - 
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 
@@ -2145,7 +2146,7 @@
 - [shaochenze/calm](https://github.com/shaochenze/calm) - Official implementation of "Continuous Autoregressive Language Models"
 - [huggingface/transformers-research-projects](https://github.com/huggingface/transformers-research-projects) - Research projects built on top of Transformers
 - [noegroup/ScoreMD](https://github.com/noegroup/ScoreMD) - A framework for training energy-based diffusion models for sampling and energy estimation.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [Accenture/mcp-bench](https://github.com/Accenture/mcp-bench) - MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [openai/frontier-evals](https://github.com/openai/frontier-evals) - OpenAI Frontier Evals
@@ -4292,6 +4293,7 @@
 
 ## TypeScript 
 
+- [JochemKuipers/playlists-manager-app](https://github.com/JochemKuipers/playlists-manager-app) - 
 - [iurysza/herdr-tab-smart-rename](https://github.com/iurysza/herdr-tab-smart-rename) - Generates context-aware workspace and tab names for Herdr.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [leo-lem/leolem.dev](https://github.com/leo-lem/leolem.dev) - My personal website, built with Astro.
@@ -4330,7 +4332,7 @@
 - [jalonsogo/tui-studio](https://github.com/jalonsogo/tui-studio) - Visual design tool for building Terminal User Interfaces
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [katspaugh/ichinichi](https://github.com/katspaugh/ichinichi) - One note per day
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [Prog-Jacob/spicetify-apps](https://github.com/Prog-Jacob/spicetify-apps) - A collection of custom apps for Spicetify.
 - [vaneenige/monochrome-ui](https://github.com/vaneenige/monochrome-ui) - Accessible UI component library. Best performance out of the box. HTML first, React and Vue supported.
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
