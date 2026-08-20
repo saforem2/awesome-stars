@@ -99,6 +99,7 @@
 - [ElianCodes/brutal](https://github.com/ElianCodes/brutal) - A neobrutalism Astro starter theme
 - [BryanHogan/bryanhogan](https://github.com/BryanHogan/bryanhogan) - Website about Bryan Hogan. Contains my blog, portfolio and more.
 - [zen-browser/www](https://github.com/zen-browser/www) - Homepage for @zen-browser!
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [argyleink/morphull](https://github.com/argyleink/morphull) - Astro starter powered by MPA view transitions
 
 ## Awk 
@@ -348,6 +349,7 @@
 
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [gadenbuie/quarto-tachyons](https://github.com/gadenbuie/quarto-tachyons) - Tachyons Utility CSS for Quarto
 - [nuclearcodecat/shimmer](https://github.com/nuclearcodecat/shimmer) - charming firefox userchrome with sidebery support
 - [koaning/tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
@@ -642,7 +644,7 @@
 
 ## HTML 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [doe-iri/iri-facility-api-docs](https://github.com/doe-iri/iri-facility-api-docs) - A repository for storing IRI Facility API related documentation.
 - [mlfoundations/dclm](https://github.com/mlfoundations/dclm) - DataComp for Language Models
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
@@ -672,7 +674,6 @@
 - [revolter/notepadtab.com](https://github.com/revolter/notepadtab.com) - 
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [zachleat/carouscroll](https://github.com/zachleat/carouscroll) - Add next/previous buttons to a horizontal scrollable container.
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
@@ -769,7 +770,6 @@
 
 - [mjyoo2/OverleafMCP](https://github.com/mjyoo2/OverleafMCP) - Model Context Protocol (MCP) server that lets AI assistants read Overleaf projects, parse LaTeX document structure, and push          section-level edits back via Git. Compatible with Claude Desktop, 
 - [fdeox/termspot](https://github.com/fdeox/termspot) - CRT phosphor terminal theme for Spotify — scanlines, phosphor glow, ASCII album art, a hidden command terminal and 17 color schemes. Pairs with the Terminal Greeting extension.
-- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [traxaber/spicetify-lastfm-history](https://github.com/traxaber/spicetify-lastfm-history) - Spicetify custom app: last.fm top artists, tracks, and albums inside Spotify
 - [Oaklight/tinyleaf](https://github.com/Oaklight/tinyleaf) - A lightweight, self-hosted Overleaf alternative — zero Python dependencies, CLI-first. pip install tinyleaf && tinyleaf /path
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
@@ -1995,8 +1995,9 @@
 
 ## Python 
 
-- [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
+- [alexzhang13/rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 - [PrimeIntellect-ai/frontier-automated-speedrun](https://github.com/PrimeIntellect-ai/frontier-automated-speedrun) - An attempt to understand automated AI research
+- [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [alexander-akhmetov/grafana-agento11y-hermes](https://github.com/alexander-akhmetov/grafana-agento11y-hermes) - Unofficial Grafana Agent Observability plugin for Hermes Agent
 - [HazyResearch/Megakernels](https://github.com/HazyResearch/Megakernels) - Kernels, of the mega variety :)
 - [izeigerman/claude-thermos](https://github.com/izeigerman/claude-thermos) - Keeps your Claude session warm for you
@@ -2154,7 +2155,7 @@
 - [shaochenze/calm](https://github.com/shaochenze/calm) - Official implementation of "Continuous Autoregressive Language Models"
 - [huggingface/transformers-research-projects](https://github.com/huggingface/transformers-research-projects) - Research projects built on top of Transformers
 - [noegroup/ScoreMD](https://github.com/noegroup/ScoreMD) - A framework for training energy-based diffusion models for sampling and energy estimation.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [Accenture/mcp-bench](https://github.com/Accenture/mcp-bench) - MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [openai/frontier-evals](https://github.com/openai/frontier-evals) - OpenAI Frontier Evals
@@ -3169,7 +3170,7 @@
 - [muhammadhasyim/tps-torch](https://github.com/muhammadhasyim/tps-torch) - A PyTorch-based package for string methods and ML-inspired path sampling methods
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [nianticlabs/manydepth](https://github.com/nianticlabs/manydepth) - [CVPR 2021] Self-supervised depth estimation from short sequences
-- [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - This is Meta's fork of the CPython runtime.  The name "cinder" here is historical, see https://github.com/facebookincubator/cinderx for the Python extension / JIT compiler.
+- [facebookincubator/MetaPython](https://github.com/facebookincubator/MetaPython) - This is Meta's fork of the CPython runtime.  The name "cinder" here is historical, see https://github.com/facebookincubator/cinderx for the Python extension / JIT compiler.
 - [facebookresearch/suncet](https://github.com/facebookresearch/suncet) - Code to reproduce the results in the FAIR research papers "Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples" https://arxiv.org/abs/210
 - [facebookresearch/dino](https://github.com/facebookresearch/dino) - PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
@@ -3753,7 +3754,8 @@
 
 ## Rust 
 
-- [tappunk/gsty](https://github.com/tappunk/gsty) - Ghostty terminal theme browser with live preview TUI. Filters by dark or light, searches by name, signals Ghostty to reload on apply.
+- [jorge07RD/herdr-ssh-manager](https://github.com/jorge07RD/herdr-ssh-manager) - Save SSH hosts and reconnect from a fuzzy popup inside Herdr — Enter hands the popup straight to ssh.
+- [tappunk/gsty](https://github.com/tappunk/gsty) - Ghostty live preview theme browser and installer TUI
 - [buhuipao/agent-console](https://github.com/buhuipao/agent-console) - A local terminal control plane for Codex and Claude Code sessions—discover, monitor, resume, and work beside persistent workspace shells.
 - [AksharP5/blippy](https://github.com/AksharP5/blippy) - GitHub in your terminal
 - [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Orchestrate a swarm of Claude Code agents with a local brain that learns from you.
@@ -4023,6 +4025,7 @@
 
 ## Shell 
 
+- [JanTvrdik/herdr-command-palette](https://github.com/JanTvrdik/herdr-command-palette) - fzf command palette for herdr — fuzzy-pick and run any plugin action
 - [dcolinmorgan/herdr-push](https://github.com/dcolinmorgan/herdr-push) - herdr plugin: zero-dep event push to herdr-remote for mobile monitoring and one-tap approval
 - [rick-stevens-ai/ATPI](https://github.com/rick-stevens-ai/ATPI) - 
 - [ykdojo/claude-controls-mac](https://github.com/ykdojo/claude-controls-mac) - Step-by-step guide to turning your spare Mac into an always-on machine Claude Code can fully control - talk to it from your phone through the Claude app or from your main Mac over SSH.
@@ -4171,7 +4174,6 @@
 ## Svelte 
 
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [janosh/blog](https://github.com/janosh/blog) - My blog.
 
@@ -4302,6 +4304,9 @@
 
 ## TypeScript 
 
+- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- [ogulcancelik/herdr-browser](https://github.com/ogulcancelik/herdr-browser) - Render a real Chromium view inside a Herdr pane and drive it over CDP.
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [JochemKuipers/playlists-manager-app](https://github.com/JochemKuipers/playlists-manager-app) - 
 - [iurysza/herdr-tab-smart-rename](https://github.com/iurysza/herdr-tab-smart-rename) - Generates context-aware workspace and tab names for Herdr.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -4419,6 +4424,7 @@
 - [sarimabbas/authortrail](https://github.com/sarimabbas/authortrail) - See all the files you have ever touched in a Git repo
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
+- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
 - [danieltomasz/qmd-as-md-obsidian](https://github.com/danieltomasz/qmd-as-md-obsidian) - A plugin for Obsidian that enables editing and compiling `qmd` Quarto files.
