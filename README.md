@@ -768,6 +768,7 @@
 
 ## JavaScript 
 
+- [huggingface/agent-manager](https://github.com/huggingface/agent-manager) - 
 - [mjyoo2/OverleafMCP](https://github.com/mjyoo2/OverleafMCP) - Model Context Protocol (MCP) server that lets AI assistants read Overleaf projects, parse LaTeX document structure, and push          section-level edits back via Git. Compatible with Claude Desktop, 
 - [fdeox/termspot](https://github.com/fdeox/termspot) - CRT phosphor terminal theme for Spotify — scanlines, phosphor glow, ASCII album art, a hidden command terminal and 17 color schemes. Pairs with the Terminal Greeting extension.
 - [traxaber/spicetify-lastfm-history](https://github.com/traxaber/spicetify-lastfm-history) - Spicetify custom app: last.fm top artists, tracks, and albums inside Spotify
@@ -3762,10 +3763,10 @@
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [itzenata/iris-tui](https://github.com/itzenata/iris-tui) - 
 - [Cateds/opencode-stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for tracking your OpenCode usage statistics - tokens, costs, models, and activity heatmap.
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser that runs directly inside your existing terminal
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [HaseebKhalid1507/Myx](https://github.com/HaseebKhalid1507/Myx) - Spotify player for the terminal. With reactive themes.
 - [snackbit/daydream](https://github.com/snackbit/daydream) - Local-first desktop recall assistant that turns screen, audio, activity, and window context into a searchable timeline of your day.
-- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
+- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for computer people. Lofi, games, chat, artboard, and tech news, all via SSH.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
@@ -4051,7 +4052,7 @@
 - [jvns/shell-examples](https://github.com/jvns/shell-examples) - 
 - [hatanp/ml-scripts](https://github.com/hatanp/ml-scripts) - Common helper scripts for some HPC systems
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [argonne-lcf/checkmate](https://github.com/argonne-lcf/checkmate) - This repo is for providing instructions on how to do checkpoint/restart at large scale simulations on exasscale machines
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
