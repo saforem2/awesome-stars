@@ -1784,7 +1784,6 @@
 - [nolasoft/okgit](https://github.com/nolasoft/okgit) - 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [benjaminzwhite/reasoning-models](https://github.com/benjaminzwhite/reasoning-models) - Experiments with reasoning models, training techniques, papers
-- [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) - A curriculum for learning about gpu performance engineering, from scratch to what the frontier AI labs do
 - [DGoettlich/history-llms](https://github.com/DGoettlich/history-llms) - Information hub for our project training the largest possible historical LLMs.
 - [ActivityWatch/awesome-activitywatch](https://github.com/ActivityWatch/awesome-activitywatch) - A list of awesome ActivityWatch resources
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications.
@@ -1995,6 +1994,7 @@
 
 ## Python 
 
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [lillian039/ELF](https://github.com/lillian039/ELF) - 
 - [alexzhang13/rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 - [PrimeIntellect-ai/frontier-automated-speedrun](https://github.com/PrimeIntellect-ai/frontier-automated-speedrun) - An attempt to understand automated AI research
@@ -2107,6 +2107,7 @@
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [timvink/mkdocs-git-authors-plugin](https://github.com/timvink/mkdocs-git-authors-plugin) - MkDocs plugin to display git authors of a page.
 - [byrnereese/mkdocs-git-committers-plugin](https://github.com/byrnereese/mkdocs-git-committers-plugin) - A mkdocs plugin for displaying the last commit and a list of a file's contributors.
+- [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources) - A curated resource list for learning AI performance engineering, from GPU fundamentals to production inference.
 - [SakanaAI/DroPE](https://github.com/SakanaAI/DroPE) - Extending the Context of Pretrained LLMs by Dropping Their Positional Embedding
 - [camel-ai/seta-env](https://github.com/camel-ai/seta-env) - 💻 SETA: Scaling Environments for Terminal Agents - Environments
 - [jsirois/dev-cmd](https://github.com/jsirois/dev-cmd) - A simple command runner for Python project development.
@@ -4316,7 +4317,7 @@
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.
 - [binaricat/Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - CodeNomad: The command center that puts AI coding on steroids.
 - [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, & WebSockets. It tracks sessions, agent activity, tool usage, and subagent o
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
