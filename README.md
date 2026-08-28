@@ -235,6 +235,7 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [eth-cscs/node-burn](https://github.com/eth-cscs/node-burn) - 
 - [refresh-bio/SPLASH](https://github.com/refresh-bio/SPLASH) - 
@@ -487,7 +488,7 @@
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus) - An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it better: Projects and Quick Actions.
 - [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
-- [harshalgajjar/Reminal](https://github.com/harshalgajjar/Reminal) - Control any machine from any browser — every window, desktop and terminal. No ports, no client, no config.
+- [harshalgajjar/Reminal](https://github.com/harshalgajjar/Reminal) - Close the lid and walk away — every window, desktop and terminal on your machines, live in any browser. E2E-encrypted, no open ports, no client, no account.
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [herald-email/herald-mail-app](https://github.com/herald-email/herald-mail-app) - Herald is a terminal email client and inbox cleanup tool with IMAP, AI-assisted triage, MCP tools, and SSH/browser-friendly app modes.
@@ -820,7 +821,6 @@
 - [valeriangalliat/markdown-it-highlightjs](https://github.com/valeriangalliat/markdown-it-highlightjs) - Preset to use highlight.js with markdown-it.
 - [siyuan-note/siyuan-chrome](https://github.com/siyuan-note/siyuan-chrome) - Chrome/Edge extension for SiYuan
 - [Nenuial/ThemeTest](https://github.com/Nenuial/ThemeTest) - 
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [coatless-quarto/pyodide](https://github.com/coatless-quarto/pyodide) - Community developed Quarto extension to enable interactive Python code cells in HTML documents using Pyodide
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
@@ -1777,6 +1777,7 @@
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [plugyawn/Megaprop](https://github.com/plugyawn/Megaprop) - Newton-Muon + Preconditioned Optimizers for MoE Training at scale, with out-of-the-box support for MuP and FSDP support for Muon, built on top of Megatron-LM and TransformerEngine.
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 - [hellocodeco/awesome-exist](https://github.com/hellocodeco/awesome-exist) - Resources for Exist
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -1994,6 +1995,9 @@
 
 ## Python 
 
+- [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
+- [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
+- [Oaklight/veilrender](https://github.com/Oaklight/veilrender) - Headless browser rendering API — self-hostable on HF Spaces, Docker, or bare metal
 - [YanwenPneg/StateBridge](https://github.com/YanwenPneg/StateBridge) - 
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [lillian039/ELF](https://github.com/lillian039/ELF) - 
@@ -2008,7 +2012,7 @@
 - [dcolinmorgan/herdr-remote](https://github.com/dcolinmorgan/herdr-remote) - Monitor and drive your herdr agents from menu bar, phone, or Telegram. Zero config locally. Free tunnel for remote. No Tailscale needed.
 - [alxndrTL/little-book-rl](https://github.com/alxndrTL/little-book-rl) - The Little Book of Reinforcement Learning
 - [Soju06/codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [bufbuild/protobuf-py](https://github.com/bufbuild/protobuf-py) - Idiomatic Protocol Buffers for Python.
 - [connectrpc/connect-py](https://github.com/connectrpc/connect-py) - The Python implementation of Connect: Protobuf RPC that works.
 - [ML-GSAI/Width-Depth-muP](https://github.com/ML-GSAI/Width-Depth-muP) - Official implementation for our paper "Spectral Condition for μP under Width–Depth Scaling".
@@ -2023,7 +2027,7 @@
 - [dougcalobrisi/erm](https://github.com/dougcalobrisi/erm) - Local CLI that strips disfluencies (um, uh, er, erm, ah, hmm, mhm, mm, uh-huh, etc) from recordings of English speech.
 - [vllm-project/vime](https://github.com/vllm-project/vime) - An LLM post-training framework with vLLM for RL Scaling
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
-- [HarleyCoops/Math-To-Manim-lfs-archive](https://github.com/HarleyCoops/Math-To-Manim-lfs-archive) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
+- [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
 - [huggingface/Repo2RLEnv](https://github.com/huggingface/Repo2RLEnv) - Convert any Repo into an RL Environment
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
@@ -4029,6 +4033,9 @@
 
 ## Shell 
 
+- [stablyai/call-claude](https://github.com/stablyai/call-claude) - Delegate prompts to Claude via claude -p. Install-free: npx github:stablyai/call-claude
+- [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
+- [laude-institute/headlong](https://github.com/laude-institute/headlong) - An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it's shells all the way down.
 - [JanTvrdik/herdr-command-palette](https://github.com/JanTvrdik/herdr-command-palette) - fzf command palette for herdr — fuzzy-pick and run any plugin action
 - [dcolinmorgan/herdr-push](https://github.com/dcolinmorgan/herdr-push) - herdr plugin: zero-dep event push to herdr-remote for mobile monitoring and one-tap approval
 - [rick-stevens-ai/ATPI](https://github.com/rick-stevens-ai/ATPI) - 
@@ -4190,7 +4197,7 @@
 - [farouqaldori/vibe-notch](https://github.com/farouqaldori/vibe-notch) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 - [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for claude code & codex
 - [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) - A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.
-- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.
 - [rauchg/typing-stats](https://github.com/rauchg/typing-stats) - 
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [smittytone/PreviewCode](https://github.com/smittytone/PreviewCode) - QuickLook source code preview and icon thumbnailing app extensions for macOS Catalina and beyond
@@ -4308,6 +4315,8 @@
 
 ## TypeScript 
 
+- [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
+- [murerkinn/bookshelf](https://github.com/murerkinn/bookshelf) - Self-hosted ebook library that runs on object storage - a Cloudflare Worker over R2, or a Node server over a directory. No database.
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [ogulcancelik/herdr-browser](https://github.com/ogulcancelik/herdr-browser) - Render a real Chromium view inside a Herdr pane and drive it over CDP.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
@@ -4327,7 +4336,6 @@
 - [Xndr2/listening-stats](https://github.com/Xndr2/listening-stats) - A real-time listening statistics dashboard for Spotify, powered by Spicetify.
 - [Jarred-Sumner/mactrace](https://github.com/Jarred-Sumner/mactrace) - Minimal strace for macOS - trace system calls of any process using Instruments.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [trueberryless-org/starlight-view-modes](https://github.com/trueberryless-org/starlight-view-modes) - Starlight plugin adding view mode capabilities to your documentation website.
 - [HiDeoo/starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Starlight plugin to publish Obsidian vaults
