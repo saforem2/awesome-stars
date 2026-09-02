@@ -213,7 +213,6 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 - [microsoft/comic-chat](https://github.com/microsoft/comic-chat) - Source code for the Microsoft Comic Chat IRC client
-- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [intel/pti-gpu](https://github.com/intel/pti-gpu) - Profiling Tools Interfaces for GPU (PTI for GPU) is a set of Getting Started Documentation and Tools Library to start performance analysis on Intel(R) Processor Graphics easily
 - [ROCm/TransferBench](https://github.com/ROCm/TransferBench) - TransferBench is a utility capable of benchmarking simultaneous copies between user-specified devices (CPUs/GPUs)
 - [adamantine-sim/adamantine](https://github.com/adamantine-sim/adamantine) - Software to simulate heat transfer for additive manufacturing
@@ -506,6 +505,7 @@
 - [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler) - a unified scheduler for online and offline tasks
 - [robinovitch61/lore](https://github.com/robinovitch61/lore) - less-like terminal pager based on robinovitch61/viewport
 - [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
+- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -594,7 +594,6 @@
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -1826,6 +1825,7 @@
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of full time roles in SWE, Quant, and PM for new grads.
 - [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim) - 🚀 A great starting point for your LunarVim journey!
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro. 🕹
 - [petykowski/London-Underground-Dot-Matrix-Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) - A set of dot matrix fonts in the style of TfL's Underground arrivals board.
@@ -2686,7 +2686,7 @@
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [cybertronai/gradient-checkpointing](https://github.com/cybertronai/gradient-checkpointing) - Make huge neural nets fit in memory
 - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools) - Intel PMU profiling tools
-- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [yixuan/temperflow](https://github.com/yixuan/temperflow) - Efficient Multimodal Sampling via Tempered Distribution Flow
 - [microsoft/NPKit](https://github.com/microsoft/NPKit) - NCCL Profiling Kit
@@ -3797,7 +3797,7 @@
 - [darshanmakwana412/tsplat](https://github.com/darshanmakwana412/tsplat) - Enjoy gaussian splatting in your terminal, supports xterm, kitty, gnome, works over SSH
 - [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source Rust terminal coding agent.
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer) - Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
@@ -4444,7 +4444,7 @@
 - [sarimabbas/authortrail](https://github.com/sarimabbas/authortrail) - See all the files you have ever touched in a Git repo
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
+- [dont-be-evil-company/p2p.kiwi](https://github.com/dont-be-evil-company/p2p.kiwi) - p2p.kiwi 🥝, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
 - [danieltomasz/qmd-as-md-obsidian](https://github.com/danieltomasz/qmd-as-md-obsidian) - A plugin for Obsidian that enables editing and compiling `qmd` Quarto files.
