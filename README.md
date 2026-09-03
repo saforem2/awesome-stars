@@ -122,7 +122,6 @@
 - [intel/mpi-benchmarks](https://github.com/intel/mpi-benchmarks) - 
 - [hpc/mpifileutils](https://github.com/hpc/mpifileutils) - File utilities designed for scalability and performance.
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
-- [viperML/noshell](https://github.com/viperML/noshell) - User-configurable login shell
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [andrewmd5/dawn](https://github.com/andrewmd5/dawn) - A distraction-free writing environment; draft anything, write now.
 - [cfoust/cy](https://github.com/cfoust/cy) - 🤖 time travel in the terminal
@@ -1778,7 +1777,6 @@
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [plugyawn/Megaprop](https://github.com/plugyawn/Megaprop) - Newton-Muon + Preconditioned Optimizers for MoE Training at scale, with out-of-the-box support for MuP and FSDP support for Muon, built on top of Megatron-LM and TransformerEngine.
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 - [hellocodeco/awesome-exist](https://github.com/hellocodeco/awesome-exist) - Resources for Exist
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -3868,7 +3866,7 @@
 - [terror/just-lsp](https://github.com/terror/just-lsp) - A language server for just
 - [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state-of-the-art framework for columnar compression, and the fastest FOSS columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Fo
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [kaushiksrini/parqeye](https://github.com/kaushiksrini/parqeye) - Peek inside Parquet files right from your terminal
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, PDF, and Markdown viewer
@@ -4344,6 +4342,7 @@
 - [Xndr2/listening-stats](https://github.com/Xndr2/listening-stats) - A real-time listening statistics dashboard for Spotify, powered by Spicetify.
 - [Jarred-Sumner/mactrace](https://github.com/Jarred-Sumner/mactrace) - Minimal strace for macOS - trace system calls of any process using Instruments.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [trueberryless-org/starlight-view-modes](https://github.com/trueberryless-org/starlight-view-modes) - Starlight plugin adding view mode capabilities to your documentation website.
 - [HiDeoo/starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Starlight plugin to publish Obsidian vaults
