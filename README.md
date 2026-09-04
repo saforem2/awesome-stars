@@ -59,7 +59,6 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
-- [Prolog](#prolog)
 - [Pug](#pug)
 - [Python](#python)
 - [R](#r)
@@ -488,7 +487,7 @@
 - [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus) - An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it better: Projects and Quick Actions.
 - [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [harshalgajjar/Reminal](https://github.com/harshalgajjar/Reminal) - Close the lid and walk away — every window, desktop and terminal on your machines, live in any browser. E2E-encrypted, no open ports, no client, no account.
-- [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
+- [weave-os/router](https://github.com/weave-os/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [herald-email/herald-mail-app](https://github.com/herald-email/herald-mail-app) - Herald is a terminal email client and inbox cleanup tool with IMAP, AI-assisted triage, MCP tools, and SSH/browser-friendly app modes.
 - [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
@@ -728,6 +727,7 @@
 - [RealOrangeOne/hugo-theme-revealjs](https://github.com/RealOrangeOne/hugo-theme-revealjs) - Use Hugo to build a presentation, powered by RevealJS
 - [machine19/machine19.github.io](https://github.com/machine19/machine19.github.io) - 
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [bjpcjp/scikit-and-tensorflow-workbooks](https://github.com/bjpcjp/scikit-and-tensorflow-workbooks) - based on "Hands-On Machine Learning with Scikit-Learn & TensorFlow" (O'Reilly, Aurelien Geron)
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs
@@ -1985,10 +1985,6 @@
 - [kyle-sylvestre/mightygrep-misc](https://github.com/kyle-sylvestre/mightygrep-misc) - Public repository for miscellaneous MightyGrep files
 - [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
 
-## Prolog 
-
-- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
-
 ## Pug 
 
 - [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
@@ -3114,7 +3110,7 @@
 - [matplotlib/cycler](https://github.com/matplotlib/cycler) - cycler: composable cycles
 - [altosaar/variational-autoencoder](https://github.com/altosaar/variational-autoencoder) - Variational autoencoder implemented in tensorflow and pytorch (including inverse autoregressive flow)
 - [sysuin/pycolordetector](https://github.com/sysuin/pycolordetector) - A simple Python package for detecting colors in images
-- [nv-legate/cupynumeric](https://github.com/nv-legate/cupynumeric) - NumPy and SciPy on Multi-Node Multi-GPU systems
+- [nv-legate/cupynumeric](https://github.com/nv-legate/cupynumeric) - End of life; no longer maintained. Final public release: v26.06.01.
 - [lspvic/jupyter_tensorboard](https://github.com/lspvic/jupyter_tensorboard) - Start Tensorboard in Jupyter Notebook
 - [t-makaro/animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 - [jbusecke/xmovie](https://github.com/jbusecke/xmovie) - A simple way of creating movies from xarray objects
@@ -3768,7 +3764,7 @@
 - [mco-org/squad](https://github.com/mco-org/squad) - Multi-AI agent terminal collaboration tool
 - [allmight-ai/herdr-pet](https://github.com/allmight-ai/herdr-pet) - Companion V-Pet for Herdr — mirrors your coding agent
 - [jorge07RD/herdr-ssh-manager](https://github.com/jorge07RD/herdr-ssh-manager) - Save SSH hosts and reconnect from a fuzzy popup inside Herdr — Enter hands the popup straight to ssh.
-- [tappunk/gsty](https://github.com/tappunk/gsty) - Ghostty live preview theme browser and installer TUI
+- [tappunk/gsty](https://github.com/tappunk/gsty) - Live-preview Ghostty theme browser and installer
 - [buhuipao/agent-console](https://github.com/buhuipao/agent-console) - A local terminal control plane for Codex, Claude Code, and pi sessions—discover, monitor, resume, and work beside persistent workspace shells.
 - [AksharP5/blippy](https://github.com/AksharP5/blippy) - GitHub in your terminal
 - [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Orchestrate a swarm of Claude Code agents with a local brain that learns from you.
@@ -4384,7 +4380,7 @@
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [mcanouil/quarto-wizard](https://github.com/mcanouil/quarto-wizard) - Quarto Wizard is a Visual Studio Code / Positron extension that assists you in managing extensions in Quarto projects.
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [MelonThug/genius-annotations](https://github.com/MelonThug/genius-annotations) - A Spicetify Custom App that displays the annotations, lyrics and description of the current song from Genius
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
