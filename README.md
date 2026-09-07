@@ -1508,6 +1508,7 @@
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [Kaiser-Yang/blink-cmp-avante](https://github.com/Kaiser-Yang/blink-cmp-avante) - Avante source for blink-cmp
 - [tomiis4/BufferTabs.nvim](https://github.com/tomiis4/BufferTabs.nvim) - A simple, fancy tabline for Neovim.
+- [mcanouil/quarto-mcanouil](https://github.com/mcanouil/quarto-mcanouil) - A Quarto extension that provides brand theming and styling for documents (HTML, Typst) and presentations (Reveal.js).
 - [mcanouil/quarto-masonry](https://github.com/mcanouil/quarto-masonry) - Masonry.js Extension for Quarto.
 - [tomicapretto/quarto-carousel](https://github.com/tomicapretto/quarto-carousel) - A carousel extension for HTML documents in Quarto
 - [coatless-quarto/colab](https://github.com/coatless-quarto/colab) - [Developmental] Quarto Extension to Enable Google Colaboratory Links with Quarto Documents
@@ -4612,7 +4613,6 @@
 
 - [kazuyanagimoto/quarto-clean-typst](https://github.com/kazuyanagimoto/quarto-clean-typst) - A minimalistic presentation theme for Quarto + Typst by Touying
 - [andrewheiss/hikmah-academic-quarto](https://github.com/andrewheiss/hikmah-academic-quarto) - A set of nice Quarto templates
-- [mcanouil/quarto-mcanouil](https://github.com/mcanouil/quarto-mcanouil) - A Quarto extension that provides brand theming and styling for documents (HTML, Typst) and presentations (Reveal.js).
 - [LaPreprint/typst](https://github.com/LaPreprint/typst) - Easily create beautiful preprints in Typst
 - [glambrechts/slydst](https://github.com/glambrechts/slydst) - Create simple static slides with Typst
 - [janosh/diagrams](https://github.com/janosh/diagrams) - Diagrams of concepts in physics/chemistry/ML
