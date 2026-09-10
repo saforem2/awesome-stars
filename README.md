@@ -1154,7 +1154,7 @@
 - [pacman100/LLM-Workshop](https://github.com/pacman100/LLM-Workshop) - LLM Workshop by Sourab Mangrulkar
 - [vislearn/FFF](https://github.com/vislearn/FFF) - Free-form flows are a generative model training a pair of neural networks via maximum likelihood
 - [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - Automatic GPU+CPU memory profiling, re-use and memory leaks detection using jupyter/ipython experiment containers
-- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [eiln/ane-ex](https://github.com/eiln/ane-ex) - 
 - [JakobRobnik/MicroCanonicalHMC](https://github.com/JakobRobnik/MicroCanonicalHMC) - MCHMC: sampler from an arbitrary differentiable distribution
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -3771,7 +3771,7 @@
 - [tappunk/gsty](https://github.com/tappunk/gsty) - Live-preview Ghostty theme browser and installer
 - [buhuipao/agent-console](https://github.com/buhuipao/agent-console) - A local terminal control plane for Codex, Claude Code, and pi sessions—discover, monitor, resume, and work beside persistent workspace shells.
 - [AksharP5/blippy](https://github.com/AksharP5/blippy) - GitHub in your terminal
-- [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Orchestrate a swarm of Claude Code agents with a local brain that learns from you.
+- [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Swarm orchestration for claude code agents with a local brain that steers based on your preferences
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [itzenata/iris-tui](https://github.com/itzenata/iris-tui) - 
 - [Cateds/opencode-stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for tracking your OpenCode usage statistics - tokens, costs, models, and activity heatmap.
