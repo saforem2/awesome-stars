@@ -1992,6 +1992,7 @@
 
 ## Python 
 
+- [IntelLabs/Optimus-LM](https://github.com/IntelLabs/Optimus-LM) - Large scale LLM pretraining of MoE models on the Aurora super computer.
 - [VirusZzHkP/The-Black-Tiger](https://github.com/VirusZzHkP/The-Black-Tiger) - The Black Tiger is all in one OSINT Tool, which has the best methods to collect Information about something or someone just by few mouse clicks.
 - [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI agents on research workflows across scientific domains
 - [Oaklight/llm-comply](https://github.com/Oaklight/llm-comply) - Multi-format LLM API compliance testing tool — validates endpoints against OpenAI Chat, Open Responses, Anthropic, and Google GenAI specs
@@ -2195,7 +2196,7 @@
 - [stockeh/swift](https://github.com/stockeh/swift) - An Autoregressive Consistency Model for Efficient Weather Forecasting
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
-- [apple/ml-l3m](https://github.com/apple/ml-l3m) - Large multi-modal models (L3M) pre-training.
+- [apple-aiml-research/ml-l3m](https://github.com/apple-aiml-research/ml-l3m) - Large multi-modal models (L3M) pre-training.
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper) - A fast and efficient type assistant for Python, including tensor shape inference
 - [IDeA-ANL-ORNL/StructBioReasoner](https://github.com/IDeA-ANL-ORNL/StructBioReasoner) - 
 - [wmn-231314/diffusion-data-constraint](https://github.com/wmn-231314/diffusion-data-constraint) - Official PyTorch implementation and models for paper "Diffusion Beats Autoregressive in Data-Constrained Settings". We find diffusion models are significantly more data-efficient than standard left to
@@ -2252,7 +2253,7 @@
 - [UCL-ARC/pi_examples](https://github.com/UCL-ARC/pi_examples) - A lot of ways to run the same way of calculating pi. Some of them are dumb.
 - [agruca-polsl/weather4cast-2023](https://github.com/agruca-polsl/weather4cast-2023) - Starter Kit for the NeurIPS 2023 Weather4cast competition
 - [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
-- [apple/ml-diffucoder](https://github.com/apple/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
+- [apple-aiml-research/ml-diffucoder](https://github.com/apple-aiml-research/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
 - [acadev/warp-tutorial](https://github.com/acadev/warp-tutorial) - Warp tutorial developed as part of Argonne's vibe coding hackathon
 - [xrsrke/pipegoose](https://github.com/xrsrke/pipegoose) - Large scale 4D parallelism pre-training for 🤗 transformers in Mixture of Experts *(still work in progress)*
 - [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.
@@ -2369,7 +2370,7 @@
 - [allenai/open-instruct](https://github.com/allenai/open-instruct) - AllenAI's post-training codebase
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [hpc-social/personal-blog](https://github.com/hpc-social/personal-blog) - The HPC.social personal blogs aggregator (contribute yours!)
-- [apple/ml-cross-entropy](https://github.com/apple/ml-cross-entropy) - 
+- [apple-aiml-research/ml-cross-entropy](https://github.com/apple-aiml-research/ml-cross-entropy) - 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [QuixiAI/github2file](https://github.com/QuixiAI/github2file) - 
 - [kirill-markin/repo-to-text](https://github.com/kirill-markin/repo-to-text) - Convert a repository structure and its contents into a single text file, including the tree output and file contents in markdown code blocks. It may be useful to chat with LLM about your code.
@@ -2715,7 +2716,7 @@
 - [deepspeedai/DeepSpeedExamples](https://github.com/deepspeedai/DeepSpeedExamples) - Example models using DeepSpeed
 - [openai/consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
-- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
+- [apple-aiml-research/ml-stable-diffusion](https://github.com/apple-aiml-research/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [szmikler/progress-table](https://github.com/szmikler/progress-table) - Display progress as a pretty table in the command line
 - [chalk-diagrams/chalk](https://github.com/chalk-diagrams/chalk) - A declarative drawing API in Python
 - [google/pyink](https://github.com/google/pyink) - Pyink, pronounced pī-ˈiŋk, is a Python formatter, forked from Black with a few different formatting behaviors.
@@ -3852,7 +3853,7 @@
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
 - [Quantco/pixi-pack](https://github.com/Quantco/pixi-pack) - 📦 Pack and unpack conda environments created with pixi
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [0xbrayo/aw-watcher-lastfm](https://github.com/0xbrayo/aw-watcher-lastfm) - ActivityWatch watcher for Spotify and Apple Music streaming.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
@@ -3932,7 +3933,7 @@
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
@@ -4193,7 +4194,6 @@
 
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
-- [janosh/blog](https://github.com/janosh/blog) - My blog.
 
 ## Swift 
 
@@ -4589,6 +4589,7 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
+- [janosh/blog](https://github.com/janosh/blog) - My blog.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [sadn1ck/draw-and-code](https://github.com/sadn1ck/draw-and-code) - Draw your explanation and write your code without pointlessly switching tabs!
