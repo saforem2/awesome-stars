@@ -215,7 +215,6 @@
 - [intel/pti-gpu](https://github.com/intel/pti-gpu) - Profiling Tools Interfaces for GPU (PTI for GPU) is a set of Getting Started Documentation and Tools Library to start performance analysis on Intel(R) Processor Graphics easily
 - [ROCm/TransferBench](https://github.com/ROCm/TransferBench) - TransferBench is a utility capable of benchmarking simultaneous copies between user-specified devices (CPUs/GPUs)
 - [adamantine-sim/adamantine](https://github.com/adamantine-sim/adamantine) - Software to simulate heat transfer for additive manufacturing
-- [mybigday/whisper.rn](https://github.com/mybigday/whisper.rn) - React Native binding of whisper.cpp.
 - [karthikeyjoshi/bsh](https://github.com/karthikeyjoshi/bsh) - A High-Performance, Git-Aware, Predictive Terminal History Tool
 - [NikolaDucak/caps-log](https://github.com/NikolaDucak/caps-log) - A small TUI journaling tool. 📖
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
@@ -507,7 +506,7 @@
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -583,7 +582,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [converged-computing/slurm-operator](https://github.com/converged-computing/slurm-operator) - Testing if I can implement slurm in an operator
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
@@ -2024,7 +2023,7 @@
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [dermatologist/genomic-tokenizer](https://github.com/dermatologist/genomic-tokenizer) - Genomic Tokenizer: Biology-driven Tokenizer for DNA sequences
 - [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) - Qwen-AgentWorld: Language World Models for General Agents
-- [Oaklight/llm-rosetta](https://github.com/Oaklight/llm-rosetta) - Production-ready LLM API translation layer for Python — bidirectional conversion between OpenAI, Anthropic & Google formats via hub-and-spoke IR. Optional API gateway. Streaming & non-streaming. Zero 
+- [Oaklight/llm-rosetta](https://github.com/Oaklight/llm-rosetta) - Production-ready LLM API translation layer — bidirectional conversion between OpenAI, Anthropic & Google formats via hub-and-spoke IR. Optional API gateway. Streaming & non-streaming. Zero core deps. 
 - [croqaz/vintage-LLM](https://github.com/croqaz/vintage-LLM) - Experimental LLM trained from scratch on very old texts.
 - [dougcalobrisi/erm](https://github.com/dougcalobrisi/erm) - Local CLI that strips disfluencies (um, uh, er, erm, ah, hmm, mhm, mm, uh-huh, etc) from recordings of English speech.
 - [vllm-project/vime](https://github.com/vllm-project/vime) - An LLM post-training framework with vLLM for RL Scaling
@@ -2041,7 +2040,7 @@
 - [huggingface/nanowhale](https://github.com/huggingface/nanowhale) - 
 - [simonw/llm-openrouter](https://github.com/simonw/llm-openrouter) - LLM plugin for models hosted by OpenRouter
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+- [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - Archived — ML Intern is no longer maintained. Continue with HuggingChat.
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 - [huggingface/hf-sandbox](https://github.com/huggingface/hf-sandbox) - Modal-style sandbox API on top of Hugging Face Jobs
 - [1rgs/nanocode](https://github.com/1rgs/nanocode) - Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
@@ -2329,7 +2328,6 @@
 - [deepseek-ai/DualPipe](https://github.com/deepseek-ai/DualPipe) - A bidirectional pipeline parallelism algorithm for computation-communication overlap in DeepSeek V3/R1 training.
 - [emergent-misalignment/emergent-misalignment](https://github.com/emergent-misalignment/emergent-misalignment) - 
 - [ecmwf-lab/ai-models](https://github.com/ecmwf-lab/ai-models) - Run AI-based weather forecasting models with ECMWF data
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [fla-org/flame](https://github.com/fla-org/flame) - 🔥 A minimal training framework for scaling FLA models
 - [microsoft/Magma](https://github.com/microsoft/Magma) - [CVPR 2025] Magma: A Foundation Model for Multimodal AI Agents
 - [mfontanini/presenterm-export](https://github.com/mfontanini/presenterm-export) - PDF exporter for presenterm presentations
@@ -3734,7 +3732,7 @@
 
 ## Ruby 
 
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One delightful Ruby framework for every major AI provider. Build AI agents, chatbots, RAG apps, and multimodal workflows in beautiful, expressive code.
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.
 - [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [garybernhardt/selecta](https://github.com/garybernhardt/selecta) - A fuzzy text selector for files and anything else you need to select. Use it from vim, from the command line, or anywhere you can run a shell command.
 - [holman/boom](https://github.com/holman/boom) - Motherfucking TEXT SNIPPETS! On the COMMAND LINE!
@@ -3776,7 +3774,6 @@
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [itzenata/iris-tui](https://github.com/itzenata/iris-tui) - 
 - [Cateds/opencode-stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for tracking your OpenCode usage statistics - tokens, costs, models, and activity heatmap.
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [HaseebKhalid1507/Myx](https://github.com/HaseebKhalid1507/Myx) - Spotify player for the terminal. With reactive themes.
 - [snackbit/daydream](https://github.com/snackbit/daydream) - Local-first desktop recall assistant that turns screen, audio, activity, and window context into a searchable timeline of your day.
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for computer people. Lofi, games, chat, artboard, and tech news, all via SSH.
@@ -4329,6 +4326,7 @@
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [JochemKuipers/playlists-manager-app](https://github.com/JochemKuipers/playlists-manager-app) - 
 - [iurysza/herdr-tab-smart-rename](https://github.com/iurysza/herdr-tab-smart-rename) - Generates context-aware workspace and tab names for Herdr.
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [leo-lem/leolem.dev](https://github.com/leo-lem/leolem.dev) - My personal website, built with Astro.
 - [binaricat/Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one
@@ -4362,7 +4360,6 @@
 - [jonesphillip/sharehtml](https://github.com/jonesphillip/sharehtml) - Deploy HTML, Markdown, and code files from the CLI. Get a shareable URL with live comments, reactions, and presence. Self-hosted on  Cloudflare Workers.
 - [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
-- [jalonsogo/tui-studio](https://github.com/jalonsogo/tui-studio) - Visual design tool for building Terminal User Interfaces
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [katspaugh/ichinichi](https://github.com/katspaugh/ichinichi) - One note per day
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
@@ -4396,6 +4393,7 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [jlongster/tigma](https://github.com/jlongster/tigma) - 
 - [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
+- [mybigday/whisper.rn](https://github.com/mybigday/whisper.rn) - React Native binding of whisper.cpp.
 - [harshit-exe/FlowKit](https://github.com/harshit-exe/FlowKit) - Free n8n workflow templates. Copy, paste, automate.
 - [google/dotguides](https://github.com/google/dotguides) - 
 - [Kamiloo13/spicetify-extensions](https://github.com/Kamiloo13/spicetify-extensions) - Some spicetify extensions (mostly forked)!
@@ -4437,6 +4435,7 @@
 - [excalidraw-smart-presentation/excalidraw-smart-presentation.github.io](https://github.com/excalidraw-smart-presentation/excalidraw-smart-presentation.github.io) - Excalidraw fork that helps in making presentations with smart animations
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [r-wasm/quarto-drop](https://github.com/r-wasm/quarto-drop) - Drop down an interactive R or Python console, code editor, and plotting window from the top of your Quarto slides.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [internet-development/www-sacred](https://github.com/internet-development/www-sacred) - SRCL is an open-source React component and style repository that helps you build web applications, desktop applications, and static websites with terminal aesthetics.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
