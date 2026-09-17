@@ -113,6 +113,7 @@
 
 ## C 
 
+- [amitv87/PiP](https://github.com/amitv87/PiP) - macOS Picture in Picture and AirPlay Receiver
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [andimatteo/torus](https://github.com/andimatteo/torus) - Just a simple implementation of a rotating torus in C.
 - [jhammond/ibtop](https://github.com/jhammond/ibtop) - monitor InfiniBand usage by job or host
@@ -209,6 +210,7 @@
 
 ## C++ 
 
+- [intel/compute-runtime](https://github.com/intel/compute-runtime) - Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 - [microsoft/comic-chat](https://github.com/microsoft/comic-chat) - Source code for the Microsoft Comic Chat IRC client
@@ -420,7 +422,7 @@
 ## Cuda 
 
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
-- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
 - [linjames0/Transformer-CUDA](https://github.com/linjames0/Transformer-CUDA) - An implementation of the transformer architecture onto an Nvidia CUDA kernel
 - [SkafteNicki/cuda_expm](https://github.com/SkafteNicki/cuda_expm) - Matrix exponential in cuda for pytorch and tensorflow
 
@@ -477,6 +479,7 @@
 
 ## Go 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [senna-lang/herdr-agent-usage](https://github.com/senna-lang/herdr-agent-usage) - Context meters and provider rate limits for agents running in Herdr.
 - [renatoworks/oh-my-reddit](https://github.com/renatoworks/oh-my-reddit) - Beautiful Reddit threads, live in your terminal
 - [Zingzy/diskbloom](https://github.com/Zingzy/diskbloom) - 🌸 a pastel treemap TUI that shows what's eating your disk
@@ -1992,6 +1995,8 @@
 
 ## Python 
 
+- [antoniaci/blackbird](https://github.com/antoniaci/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
+- [Dogacel/auto-gpu-kernel](https://github.com/Dogacel/auto-gpu-kernel) - Winner 🏆 (Agent-only) MLSys 2026 - FlashInfer AI Kernel Generation Contest for the DeepSeek Sparse Attention (DSA) track with an average speedup of 34.93x
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [IntelLabs/Optimus-LM](https://github.com/IntelLabs/Optimus-LM) - Large scale LLM pretraining of MoE models on the Aurora super computer.
 - [VirusZzHkP/The-Black-Tiger](https://github.com/VirusZzHkP/The-Black-Tiger) - The Black Tiger is all in one OSINT Tool, which has the best methods to collect Information about something or someone just by few mouse clicks.
@@ -4195,6 +4200,8 @@
 
 ## Swift 
 
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [gotoplanb/Hermit](https://github.com/gotoplanb/Hermit) - iOS SSH client for tmux + Claude Code workflows
@@ -4320,6 +4327,10 @@
 
 ## TypeScript 
 
+- [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) - 
+- [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
+- [bradygaster/squad](https://github.com/bradygaster/squad) - Squad: AI agent teams for any project
+- [JerryZLiu/AgentPlayback](https://github.com/JerryZLiu/AgentPlayback) - Are you running too few agents, or too many? AgentPlayback visualizes your coding agents so you can see when each one ran, when it was blocked on you, and what it cost.
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
 - [murerkinn/bookshelf](https://github.com/murerkinn/bookshelf) - Self-hosted ebook library that runs on object storage - a Cloudflare Worker over R2, or a Node server over a directory. No database.
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
