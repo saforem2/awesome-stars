@@ -958,6 +958,7 @@
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [WillKoehrsen/jupyter-notebook-extensions](https://github.com/WillKoehrsen/jupyter-notebook-extensions) - Developing new jupyter notebook extensions
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+- [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [MaxKuehn/zotero-scholar-citations](https://github.com/MaxKuehn/zotero-scholar-citations) - Zotero plugin for auto-fetching numbers of citations from Google Scholar
 - [neurals-ro/keras-model-editor](https://github.com/neurals-ro/keras-model-editor) - Web editor for Keras models
@@ -3771,6 +3772,7 @@
 
 ## Rust 
 
+- [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - Turn your coding agents into research agents
 - [mco-org/squad](https://github.com/mco-org/squad) - Multi-AI agent terminal collaboration tool
 - [allmight-ai/herdr-pet](https://github.com/allmight-ai/herdr-pet) - Companion V-Pet for Herdr — mirrors your coding agent
 - [jorge07RD/herdr-ssh-manager](https://github.com/jorge07RD/herdr-ssh-manager) - Save SSH hosts and reconnect from a fuzzy popup inside Herdr — Enter hands the popup straight to ssh.
@@ -4030,7 +4032,6 @@
 - [l-lin/font-awesome-animation](https://github.com/l-lin/font-awesome-animation) - Simple animations using FontAwesome and some CSS3.
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
-- [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [iris-hep/iris-hep.github.io](https://github.com/iris-hep/iris-hep.github.io) - Institute for Research and Innovation in Software for High Energy Physics
 
 ## Sass 
@@ -4286,7 +4287,6 @@
 - [showyourwork/showyourwork](https://github.com/showyourwork/showyourwork) - A workflow for reproducible and open scientific articles
 - [lukeolson/parxiv](https://github.com/lukeolson/parxiv) - a simple script to assist in making a clean directory to upload to arxiv
 - [anishathalye/auriga](https://github.com/anishathalye/auriga) - Auriga is a minimalist LaTeX beamer presentation theme 📽
-- [mazhengcn/suggested-notation-for-machine-learning](https://github.com/mazhengcn/suggested-notation-for-machine-learning) - This introduces a suggestion of mathematical notation protocol for machine learning.
 - [kourgeorge/arxiv-style](https://github.com/kourgeorge/arxiv-style) - A Latex style and template for paper preprints (based on NIPS style)
 - [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [anishathalye/gemini](https://github.com/anishathalye/gemini) - Gemini is a modern LaTex beamerposter theme 🖼
