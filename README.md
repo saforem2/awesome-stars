@@ -1614,7 +1614,6 @@
 - [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) - A library for asynchronous IO in Neovim
 - [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) - 😽 Open your Kitty scrollback buffer with Neovim. Ameowzing!
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
-- [wjschne/apaquarto](https://github.com/wjschne/apaquarto) - A quarto extension for creating APA7 documents in .docx, .html, and .pdf formats
 - [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) - A dark neovim colorscheme written in lua
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
 - [vhyrro/hologram.nvim](https://github.com/vhyrro/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
@@ -4276,6 +4275,7 @@
 - [ElArkk/jax-unirep](https://github.com/ElArkk/jax-unirep) - Reimplementation of the UniRep protein featurization model.
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
 - [mps9506/quarto-cv](https://github.com/mps9506/quarto-cv) - A CV template for quarto
+- [wjschne/apaquarto](https://github.com/wjschne/apaquarto) - A quarto extension for creating APA7 documents in .docx, .html, and .pdf formats
 - [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites) - collection of favorite TikZ graphics
 - [arcruz0/quarto-compact](https://github.com/arcruz0/quarto-compact) - A Quarto format for compact PDF documents. Good for short reports, homework assignments, etc.
 - [ginolhac/unilur](https://github.com/ginolhac/unilur) - A quarto extension for writing teaching practicals
