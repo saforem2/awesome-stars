@@ -2003,6 +2003,7 @@
 
 ## Python 
 
+- [chrissotraidis/meleepad](https://github.com/chrissotraidis/meleepad) - Super Smash Bros Melee, native on iOS and iPadOS.
 - [agents4science/agents4science.github.io](https://github.com/agents4science/agents4science.github.io) - 
 - [GridTools/gt4py](https://github.com/GridTools/gt4py) - Python library for generating high-performance implementations of stencil kernels for weather and climate modeling from a domain-specific language (DSL).
 - [whitecircle/halo](https://github.com/whitecircle/halo) - Halo is an open-source framework built by White Circle for training large language and multimodal models
@@ -2311,7 +2312,6 @@
 - [NVlabs/Eagle](https://github.com/NVlabs/Eagle) - Eagle: Frontier Vision-Language Models with Data-Centric Strategies
 - [pmh9960/SphereDiff](https://github.com/pmh9960/SphereDiff) - Official PyTorch implementation of "SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation"
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
-- [mkaz/libro](https://github.com/mkaz/libro) - A terminal based book tracking tool
 - [lantunes/netomaton](https://github.com/lantunes/netomaton) - Automata on arbitrary networks, with Python
 - [fnoble/Plot-o-matic](https://github.com/fnoble/Plot-o-matic) - Plot data in real-time from arbitrary input streams (serial ports, network, files etc.)
 - [evelynmitchell/Score-Entropy-Discrete-Diffusion](https://github.com/evelynmitchell/Score-Entropy-Discrete-Diffusion) - [ICML 2024 Best Paper] Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution (https://arxiv.org/abs/2310.16834)
@@ -3783,6 +3783,7 @@
 
 ## Rust 
 
+- [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts. Resume sessions. Track tokens.
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -4347,6 +4348,7 @@
 
 ## TypeScript 
 
+- [reladraw/reladraw](https://github.com/reladraw/reladraw) - 
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [zts212653/clowder-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents. Hard rails, soft power, shared mission.
@@ -4466,6 +4468,7 @@
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
+- [mkaz/libro](https://github.com/mkaz/libro) - My book tracking tool
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
