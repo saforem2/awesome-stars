@@ -2003,6 +2003,8 @@
 
 ## Python 
 
+- [ericmjl/agent-autolearn](https://github.com/ericmjl/agent-autolearn) - Self-improvement engine for OpenCode — learns from conversations, captures corrections, and escalates behavioral rules
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 - [chrissotraidis/meleepad](https://github.com/chrissotraidis/meleepad) - Super Smash Bros Melee, native on iOS and iPadOS.
 - [agents4science/agents4science.github.io](https://github.com/agents4science/agents4science.github.io) - 
 - [GridTools/gt4py](https://github.com/GridTools/gt4py) - Python library for generating high-performance implementations of stencil kernels for weather and climate modeling from a domain-specific language (DSL).
