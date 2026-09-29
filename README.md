@@ -621,7 +621,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -2003,6 +2003,7 @@
 
 ## Python 
 
+- [jake-stewart/color256](https://github.com/jake-stewart/color256) - Generate a full 256 palette from base16 your colors
 - [ericmjl/agent-autolearn](https://github.com/ericmjl/agent-autolearn) - Self-improvement engine for OpenCode — learns from conversations, captures corrections, and escalates behavioral rules
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 - [chrissotraidis/meleepad](https://github.com/chrissotraidis/meleepad) - Super Smash Bros Melee, native on iOS and iPadOS.
@@ -3293,7 +3294,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-628-Stars](https://github.com/iBug/This-Repo-Has-628-Stars) - Yes, it's true :sparkling_heart: This repository has 628 stars.
+- [iBug/This-Repo-Has-628-Stars](https://github.com/iBug/This-Repo-Has-628-Stars) - Yes, it's true :purple_heart: This repository has 628 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3785,6 +3786,8 @@
 
 ## Rust 
 
+- [iamrohithrnair/emeraldian](https://github.com/iamrohithrnair/emeraldian) - A terminal UI for your Obsidian vault: live-preview notes, backlinks, images, a force-directed graph and an assistant
+- [smarzban/tsk](https://github.com/smarzban/tsk) - tsk, a Linear alternative that stays in the terminal: a shared task board for you and your agents. TUI for you, CLI for them.
 - [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts. Resume sessions. Track tokens.
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
@@ -4221,6 +4224,9 @@
 
 ## Swift 
 
+- [tomjohndesign/what-the-port](https://github.com/tomjohndesign/what-the-port) - 
+- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
+- [ahmedkhaleel2004/blitztree](https://github.com/ahmedkhaleel2004/blitztree) - A fast, native disk-space treemap for macOS, in the spirit of WizTree
 - [levelsio/xdr-boost](https://github.com/levelsio/xdr-boost) - XDR Boost is an open source alternative to Vivid without the bug that stops it working when you close your MacBook Pro and open it again
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
@@ -4350,6 +4356,8 @@
 
 ## TypeScript 
 
+- [AltanS/collie](https://github.com/AltanS/collie) - Self-hosted mobile terminal for coding agents on herdr (or tmux/zellij). PWA with push alerts + tailnet accessible
+- [ahmd-sh/hntui](https://github.com/ahmd-sh/hntui) - browse hackernews like a hacker
 - [reladraw/reladraw](https://github.com/reladraw/reladraw) - 
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
