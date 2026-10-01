@@ -783,7 +783,8 @@
 
 ## JavaScript 
 
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 42+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.
+- [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit) - Exploit chain for PS5 7.00 - 13.60
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 43+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [huggingface/agent-manager](https://github.com/huggingface/agent-manager) - 
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.
@@ -2005,6 +2006,7 @@
 
 ## Python 
 
+- [argonne-lcf/Service_Enabled_Science](https://github.com/argonne-lcf/Service_Enabled_Science) - Demo materials for ALCF Service-Enabled Science Workshop
 - [argonne-lcf/alcf-agent-skillset](https://github.com/argonne-lcf/alcf-agent-skillset) - A repository of skills to help agents interact with ALCF Systems.
 - [marin-community/marin](https://github.com/marin-community/marin) - Open-source framework for the research and development of foundation models.
 - [jake-stewart/color256](https://github.com/jake-stewart/color256) - Generate a full 256 palette from base16 your colors
@@ -2091,7 +2093,7 @@
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [Future-House/ether0](https://github.com/Future-House/ether0) - A scientific reasoning model, dataset, and reward functions for chemistry.
 - [astroautomata/PySR](https://github.com/astroautomata/PySR) - Symbolic Learning in Python and Julia
-- [allenai/OLMo-core](https://github.com/allenai/OLMo-core) - PyTorch building blocks for the OLMo ecosystem
+- [allenai/Olmo-core](https://github.com/allenai/Olmo-core) - PyTorch building blocks for the OLMo ecosystem
 - [hustvl/MoDA](https://github.com/hustvl/MoDA) - An hardware-aware Efficient Implementation for "Mixture-of-Depths Attention".
 - [psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done) - The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).
 - [monostate/aitraining](https://github.com/monostate/aitraining) - Fine-tune LLMs and ML models with automatic dataset conversion, hyperparameter sweeps, and custom RL environments
@@ -3012,7 +3014,7 @@
 - [simonw/python-lib](https://github.com/simonw/python-lib) - Opinionated cookiecutter template for creating a new Python library
 - [wengong-jin/icml18-jtnn](https://github.com/wengong-jin/icml18-jtnn) - Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)
 - [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
-- [Kautenja/gym-super-mario-bros](https://github.com/Kautenja/gym-super-mario-bros) - An OpenAI Gym interface to Super Mario Bros. & Super Mario Bros. 2 (Lost Levels) on The NES
+- [Kautenja/gym-super-mario-bros](https://github.com/Kautenja/gym-super-mario-bros) - Gymnasium environments for Super Mario Bros. 1, 2, 3, and The Lost Levels on the NES.
 - [materialyzeai/mlearn](https://github.com/materialyzeai/mlearn) - Benchmark Suite for Machine Learning Interatomic Potentials for Materials
 - [argonne-lcf/dlSoftwareTests](https://github.com/argonne-lcf/dlSoftwareTests) - Simple tests to verify ML/DL environments on ALCF HPC resources are working correctly.
 - [mle-infrastructure/mle-logging](https://github.com/mle-infrastructure/mle-logging) - Lightweight ML Experiment Logging 📖
@@ -3866,7 +3868,7 @@
 - [danalec/wtfpulse](https://github.com/danalec/wtfpulse) - asynchronous CLI TUI client for the WhatPulse Web API, written in Rust.
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - a GPU powered yet browserless tool to view markdown files in the blink of an eye
 - [RillingDev/musicbrainz-enricher](https://github.com/RillingDev/musicbrainz-enricher) - A Java application to enrich MusicBrainz data from linked sources.
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
@@ -4362,7 +4364,9 @@
 
 ## TypeScript 
 
-- [AltanS/collie](https://github.com/AltanS/collie) - Self-hosted mobile terminal for coding agents on herdr (or tmux/zellij). PWA with push alerts + tailnet accessible
+- [ledgesh/ledge](https://github.com/ledgesh/ledge) - 
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - Open-source, self-hosted MCP gateway: turn any REST/OpenAPI, SOAP, GraphQL, OData or SQL API into MCP tools for Claude, ChatGPT & Copilot. 265 connectors incl. SAP S/4HANA & Business One, ERP, e-comme
+- [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store.
 - [ahmd-sh/hntui](https://github.com/ahmd-sh/hntui) - browse hackernews like a hacker
 - [reladraw/reladraw](https://github.com/reladraw/reladraw) - 
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
