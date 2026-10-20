@@ -215,6 +215,8 @@
 
 ## C++ 
 
+- [mps-ddp/mccl](https://github.com/mps-ddp/mccl) - metal collective communication library (pytorch DDP)
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
 - [intel/compute-runtime](https://github.com/intel/compute-runtime) - Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -486,7 +488,7 @@
 ## Go 
 
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
-- [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
+- [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) - Async-first agent harness
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
@@ -623,7 +625,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -783,7 +785,7 @@
 ## JavaScript 
 
 - [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit) - Exploit chain for PS5 7.00 - 13.60
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 46+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [huggingface/agent-manager](https://github.com/huggingface/agent-manager) - 
@@ -1115,6 +1117,7 @@
 - [g-luo/generative_latent_prior](https://github.com/g-luo/generative_latent_prior) - Official PyTorch Implementation for Learning a Generative Meta-Model of LLM Activations, ICML 2026
 - [rcrowe-google/Learning-JAX](https://github.com/rcrowe-google/Learning-JAX) - Slide decks, coding exercises, and quick references for learning the JAX AI Stack
 - [ManuelPuchner/snapchat-memories-downloader](https://github.com/ManuelPuchner/snapchat-memories-downloader) - 
+- [SYNAPS-I/ptycho-fm](https://github.com/SYNAPS-I/ptycho-fm) - Physics-informed 2D ViT for ptychography
 - [ZuckermanLab/pyGridSampler](https://github.com/ZuckermanLab/pyGridSampler) - An adaptive grid-based sampling method using iterative batch sizes
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub) - NVIDIA curated collection of educational resources related to general purpose GPU programming.
@@ -1480,6 +1483,7 @@
 
 ## Lean 
 
+- [openai/math](https://github.com/openai/math) - 
 - [leanprover-community/physlib](https://github.com/leanprover-community/physlib) - A project to digitalise results from physics into Lean.
 - [math-inc/strongpnt](https://github.com/math-inc/strongpnt) - 
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
@@ -2005,6 +2009,10 @@
 
 ## Python 
 
+- [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) - Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.
+- [AI-ModCon/PRISM](https://github.com/AI-ModCon/PRISM) - Poly-Reasoning Integrated Scientific Multimodal Modeling Framework
+- [lincc-frameworks/hyrax](https://github.com/lincc-frameworks/hyrax) - Hyrax - A low-code framework for rapid experimentation with ML & unsupervised discovery in astronomy
+- [NOAA-PSL/lw4dvar-torch](https://github.com/NOAA-PSL/lw4dvar-torch) - 
 - [argonne-lcf/Service_Enabled_Science](https://github.com/argonne-lcf/Service_Enabled_Science) - Demo materials for ALCF Service-Enabled Science Workshop
 - [argonne-lcf/alcf-agent-skillset](https://github.com/argonne-lcf/alcf-agent-skillset) - A repository of skills to help agents interact with ALCF Systems.
 - [marin-community/marin](https://github.com/marin-community/marin) - Open-source framework for the research and development of foundation models.
@@ -2170,7 +2178,6 @@
 - [ray-project/multimodal-training](https://github.com/ray-project/multimodal-training) - 
 - [ActivityWatch/aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) - Import data from Apple's Screen Time on macOS and iOS to ActivityWatch
 - [RTnhN/aw-importer-lastfm](https://github.com/RTnhN/aw-importer-lastfm) - 
-- [SYNAPS-I/ptycho-fm](https://github.com/SYNAPS-I/ptycho-fm) - Physics-informed 2D ViT for ptychography
 - [kalil0321/ats-scrapers](https://github.com/kalil0321/ats-scrapers) - Open-source ATS job library
 - [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -2266,7 +2273,7 @@
 - [brentyi/jaxlie](https://github.com/brentyi/jaxlie) - Rigid transforms + Lie groups for JAX
 - [gradio-app/trackio](https://github.com/gradio-app/trackio) - A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗
 - [ISEEKYAN/mbridge](https://github.com/ISEEKYAN/mbridge) - Bridge Megatron-Core to Hugging Face/Reinforcement Learning
-- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling.
+- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM training framework for RL Scaling.
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
 - [NCAR/pbsparse](https://github.com/NCAR/pbsparse) - A package for processing PBS Pro accounting records
 - [NCAR/qhist](https://github.com/NCAR/qhist) - A utility to query historical PBS Pro job data
@@ -2319,7 +2326,7 @@
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [NVlabs/Eagle](https://github.com/NVlabs/Eagle) - Eagle: Frontier Vision-Language Models with Data-Centric Strategies
-- [pmh9960/SphereDiff](https://github.com/pmh9960/SphereDiff) - Official PyTorch implementation of "SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation"
+- [pmh9960/SphereDiff](https://github.com/pmh9960/SphereDiff) - Official PyTorch implementation of "SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation" (AAAI 2026, Oral)
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
 - [lantunes/netomaton](https://github.com/lantunes/netomaton) - Automata on arbitrary networks, with Python
 - [fnoble/Plot-o-matic](https://github.com/fnoble/Plot-o-matic) - Plot data in real-time from arbitrary input streams (serial ports, network, files etc.)
@@ -3298,7 +3305,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-628-Stars](https://github.com/iBug/This-Repo-Has-628-Stars) - Yes, it's true :purple_heart: This repository has 628 stars.
+- [iBug/This-Repo-Has-626-Stars](https://github.com/iBug/This-Repo-Has-626-Stars) - Yes, it's true :orange_heart: This repository has 626 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -3758,7 +3765,7 @@
 
 ## Ruby 
 
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - The Ruby AI framework.
 - [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [garybernhardt/selecta](https://github.com/garybernhardt/selecta) - A fuzzy text selector for files and anything else you need to select. Use it from vim, from the command line, or anywhere you can run a shell command.
 - [holman/boom](https://github.com/holman/boom) - Motherfucking TEXT SNIPPETS! On the COMMAND LINE!
@@ -3805,7 +3812,7 @@
 - [tappunk/gsty](https://github.com/tappunk/gsty) - Live-preview Ghostty theme browser and installer
 - [buhuipao/agent-console](https://github.com/buhuipao/agent-console) - A local terminal control plane for Codex, Claude Code, and pi sessions—discover, monitor, resume, and work beside persistent workspace shells.
 - [AksharP5/blippy](https://github.com/AksharP5/blippy) - GitHub in your terminal
-- [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Hive mind for Claude Code - expand your consciousness with an agentic hive that learns from you once and remembers everywhere
+- [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Hive compute for coding agent swarms - expand your personal compute by adding on-demand agentic swarms
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [itzenata/iris-tui](https://github.com/itzenata/iris-tui) - 
 - [Cateds/opencode-stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for tracking your OpenCode usage statistics - tokens, costs, models, and activity heatmap.
@@ -3834,7 +3841,7 @@
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [garritfra/cell](https://github.com/garritfra/cell) - A fast terminal spreadsheet editor with Vim keybindings
 - [k06a/macpow](https://github.com/k06a/macpow) - 💻🔋 Real-time power tree TUI for Apple Silicon
 - [AnkurRathore/tsastat](https://github.com/AnkurRathore/tsastat) - Thread State Analysis tool using Linux Netlink taskstats
@@ -3934,7 +3941,7 @@
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [TuckerBMorgan/can-t](https://github.com/TuckerBMorgan/can-t) - Clean, simple, hackable ml framework in rust. Supports metal and cuda
 - [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
-- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
+- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast, Neuro-symbolic Data-Wrangling toolkit
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [henriklovhaug/md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -4103,7 +4110,7 @@
 - [jvns/shell-examples](https://github.com/jvns/shell-examples) - 
 - [hatanp/ml-scripts](https://github.com/hatanp/ml-scripts) - Common helper scripts for some HPC systems
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
@@ -4230,6 +4237,7 @@
 
 ## Swift 
 
+- [Saffsanity/sill](https://github.com/Saffsanity/sill) - Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.
 - [tomjohndesign/what-the-port](https://github.com/tomjohndesign/what-the-port) - 
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
 - [ahmedkhaleel2004/blitztree](https://github.com/ahmedkhaleel2004/blitztree) - A fast, native disk-space treemap for macOS, in the spirit of WizTree
@@ -4362,8 +4370,10 @@
 
 ## TypeScript 
 
+- [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
+- [bas3line/ascii](https://github.com/bas3line/ascii) - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag
 - [ledgesh/ledge](https://github.com/ledgesh/ledge) - 
-- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - Open-source, self-hosted MCP gateway: turn any REST/OpenAPI, SOAP, GraphQL, OData or SQL API into MCP tools for Claude, ChatGPT & Copilot. 331 connectors incl. SAP S/4HANA & Business One, ERP, e-comme
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 508 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.
 - [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store.
 - [ahmd-sh/hntui](https://github.com/ahmd-sh/hntui) - browse hackernews like a hacker
 - [reladraw/reladraw](https://github.com/reladraw/reladraw) - 
@@ -4384,7 +4394,7 @@
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [JochemKuipers/playlists-manager-app](https://github.com/JochemKuipers/playlists-manager-app) - 
 - [iurysza/herdr-tab-smart-rename](https://github.com/iurysza/herdr-tab-smart-rename) - Generates context-aware workspace and tab names for Herdr.
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [leo-lem/leolem.dev](https://github.com/leo-lem/leolem.dev) - My personal website, built with Astro.
 - [binaricat/Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one
@@ -4398,7 +4408,7 @@
 - [HeadshotInteractive/listening-stats](https://github.com/HeadshotInteractive/listening-stats) - A real-time listening statistics dashboard for Spotify, powered by Spicetify.
 - [Jarred-Sumner/mactrace](https://github.com/Jarred-Sumner/mactrace) - Minimal strace for macOS - trace system calls of any process using Instruments.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work,
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [trueberryless-org/starlight-view-modes](https://github.com/trueberryless-org/starlight-view-modes) - Starlight plugin adding view mode capabilities to your documentation website.
 - [HiDeoo/starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Starlight plugin to publish Obsidian vaults
