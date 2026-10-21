@@ -268,7 +268,7 @@
 - [hmvege/GLAC](https://github.com/hmvege/GLAC) - A code for generating SU(3) Yang-Mills gauge configurations and applying gradient flow.
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 - [intel/intel-extension-for-deepspeed](https://github.com/intel/intel-extension-for-deepspeed) - Intel® Extension for DeepSpeed* is an extension to DeepSpeed that brings feature support with SYCL kernels on Intel GPU(XPU) device. Note XPU is already supported in stock DeepSpeed (upstream).
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [jax-ml/ml_dtypes](https://github.com/jax-ml/ml_dtypes) - A stand-alone implementation of several NumPy dtype extensions used in machine learning.
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 12 and later.
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
@@ -358,7 +358,6 @@
 
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [gadenbuie/quarto-tachyons](https://github.com/gadenbuie/quarto-tachyons) - Tachyons Utility CSS for Quarto
 - [nuclearcodecat/shimmer](https://github.com/nuclearcodecat/shimmer) - charming firefox userchrome with sidebery support
 - [koaning/tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
@@ -487,6 +486,7 @@
 
 ## Go 
 
+- [szktkfm/mdtt](https://github.com/szktkfm/mdtt) - 🗓️ Markdown Table Editor TUI
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
@@ -665,6 +665,7 @@
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [doe-iri/iri-facility-api-docs](https://github.com/doe-iri/iri-facility-api-docs) - A repository for storing IRI Facility API related documentation.
 - [mlfoundations/dclm](https://github.com/mlfoundations/dclm) - DataComp for Language Models
+- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [xalt/xalt](https://github.com/xalt/xalt) - XALT: System tracking of users codes on clusters
@@ -2009,6 +2010,8 @@
 
 ## Python 
 
+- [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py) - Python bindings for MPI
+- [doe-iri/iri-facility-api-toolkit](https://github.com/doe-iri/iri-facility-api-toolkit) - Python client toolkit for orchestrating IRI facility compute jobs
 - [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) - Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.
 - [AI-ModCon/PRISM](https://github.com/AI-ModCon/PRISM) - Poly-Reasoning Integrated Scientific Multimodal Modeling Framework
 - [lincc-frameworks/hyrax](https://github.com/lincc-frameworks/hyrax) - Hyrax - A low-code framework for rapid experimentation with ML & unsupervised discovery in astronomy
@@ -3797,6 +3800,7 @@
 
 ## Rust 
 
+- [mijowi/edamame](https://github.com/mijowi/edamame) - A Terminal Markdown editor that stays rendered while you edit
 - [iamrohithrnair/emeraldian](https://github.com/iamrohithrnair/emeraldian) - A terminal UI for your Obsidian vault: live-preview notes, backlinks, images, a force-directed graph and an assistant
 - [smarzban/tsk](https://github.com/smarzban/tsk) - tsk, a Linear alternative that stays in the terminal: a shared task board for you and your agents. TUI for you, CLI for them.
 - [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts. Resume sessions. Track tokens.
@@ -4373,7 +4377,7 @@
 - [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
 - [bas3line/ascii](https://github.com/bas3line/ascii) - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag
 - [ledgesh/ledge](https://github.com/ledgesh/ledge) - 
-- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 508 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 517 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.
 - [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store.
 - [ahmd-sh/hntui](https://github.com/ahmd-sh/hntui) - browse hackernews like a hacker
 - [reladraw/reladraw](https://github.com/reladraw/reladraw) - 
@@ -4410,7 +4414,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
-- [trueberryless-org/starlight-view-modes](https://github.com/trueberryless-org/starlight-view-modes) - Starlight plugin adding view mode capabilities to your documentation website.
+- [trueberryless/starlight-view-modes](https://github.com/trueberryless/starlight-view-modes) - Starlight plugin adding view mode capabilities to your documentation website.
 - [HiDeoo/starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Starlight plugin to publish Obsidian vaults
 - [inanimate-tech/mist](https://github.com/inanimate-tech/mist) - Collaborative markdown editor
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
@@ -4658,7 +4662,6 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
-- [janosh/blog](https://github.com/janosh/blog) - My blog.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [taurheim/LastWave](https://github.com/taurheim/LastWave) - Graph your music listening history!
 - [sadn1ck/draw-and-code](https://github.com/sadn1ck/draw-and-code) - Draw your explanation and write your code without pointlessly switching tabs!
@@ -4690,6 +4693,7 @@
 - [LaPreprint/typst](https://github.com/LaPreprint/typst) - Easily create beautiful preprints in Typst
 - [glambrechts/slydst](https://github.com/glambrechts/slydst) - Create simple static slides with Typst
 - [janosh/diagrams](https://github.com/janosh/diagrams) - Diagrams of concepts in physics/chemistry/ML
+- [janosh/blog](https://github.com/janosh/blog) - My blog.
 
 ## Vala 
 
