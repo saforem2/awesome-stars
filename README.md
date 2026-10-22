@@ -387,7 +387,6 @@
 - [Lithou/Sandbox](https://github.com/Lithou/Sandbox) - Testing and Experimentation for Obsidian and CSS
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 - [dginev/ar5iv](https://github.com/dginev/ar5iv) - A web service offering HTML5 articles from arXiv.org as converted with latexml
-- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [1-2-3/remark-it](https://github.com/1-2-3/remark-it) - markdown -&gt; slideshow ——Write PPT like a programmer
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
@@ -662,10 +661,10 @@
 
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [syabro/neat-annotations](https://github.com/syabro/neat-annotations) - Hand-drawn CSS annotations for inline content
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [doe-iri/iri-facility-api-docs](https://github.com/doe-iri/iri-facility-api-docs) - A repository for storing IRI Facility API related documentation.
 - [mlfoundations/dclm](https://github.com/mlfoundations/dclm) - DataComp for Language Models
-- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
+- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - An open programming typeface built on Iosevka. Compact, geometric, and tuned for editors and terminals.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [xalt/xalt](https://github.com/xalt/xalt) - XALT: System tracking of users codes on clusters
@@ -770,6 +769,7 @@
 
 ## Java 
 
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [Loophole-LLC/Bastillion](https://github.com/Loophole-LLC/Bastillion) - Bastillion gives you a clean, browser-based way to manage SSH access across all your systems—like a bastion host with a friendly dashboard.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
@@ -792,7 +792,7 @@
 - [huggingface/agent-manager](https://github.com/huggingface/agent-manager) - 
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.
 - [mjyoo2/OverleafMCP](https://github.com/mjyoo2/OverleafMCP) - Model Context Protocol (MCP) server that lets AI assistants read Overleaf projects, parse LaTeX document structure, and push          section-level edits back via Git. Compatible with Claude Desktop, 
-- [fdeox/termspot](https://github.com/fdeox/termspot) - CRT phosphor terminal theme for Spotify — scanlines, phosphor glow, ASCII album art, a hidden command terminal and 17 color schemes. Pairs with the Terminal Greeting extension.
+- [fdeox/termspot](https://github.com/fdeox/termspot) - CRT phosphor terminal theme for Spotify: scanlines, phosphor glow, ASCII album art, a hidden command terminal and 18 color schemes. Pairs with the Terminal Greeting extension.
 - [traxaber/spicetify-lastfm-history](https://github.com/traxaber/spicetify-lastfm-history) - Spicetify custom app: last.fm top artists, tracks, and albums inside Spotify
 - [Oaklight/tinyleaf](https://github.com/Oaklight/tinyleaf) - A lightweight, self-hosted Overleaf alternative — zero Python dependencies, CLI-first. pip install tinyleaf && tinyleaf /path
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
@@ -902,6 +902,7 @@
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [joshed-io/reveal-hugo](https://github.com/joshed-io/reveal-hugo) - 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
+- [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme) - A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [saforem2/physicsSeminar](https://github.com/saforem2/physicsSeminar) - Talk for physics seminar
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
@@ -2010,6 +2011,8 @@
 
 ## Python 
 
+- [Oaklight/ToolRegistry](https://github.com/Oaklight/ToolRegistry) - ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (OpenAI, Anthropic, Gemini, LangChain, MCP)
+- [meta-pytorch/spmd_types](https://github.com/meta-pytorch/spmd_types) - This module defines a type system for distributed training code, based off of JAX's sharding in types, but adapted for the PyTorch ecosystem.
 - [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py) - Python bindings for MPI
 - [doe-iri/iri-facility-api-toolkit](https://github.com/doe-iri/iri-facility-api-toolkit) - Python client toolkit for orchestrating IRI facility compute jobs
 - [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) - Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.
@@ -3800,6 +3803,7 @@
 
 ## Rust 
 
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
 - [mijowi/edamame](https://github.com/mijowi/edamame) - A Terminal Markdown editor that stays rendered while you edit
 - [iamrohithrnair/emeraldian](https://github.com/iamrohithrnair/emeraldian) - A terminal UI for your Obsidian vault: live-preview notes, backlinks, images, a force-directed graph and an assistant
 - [smarzban/tsk](https://github.com/smarzban/tsk) - tsk, a Linear alternative that stays in the terminal: a shared task board for you and your agents. TUI for you, CLI for them.
