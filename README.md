@@ -215,6 +215,7 @@
 
 ## C++ 
 
+- [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 - [mps-ddp/mccl](https://github.com/mps-ddp/mccl) - metal collective communication library (pytorch DDP)
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
@@ -402,7 +403,7 @@
 - [leriomaggio/notexbook-jupyter-theme](https://github.com/leriomaggio/notexbook-jupyter-theme) - noTeXbook: Jupyter notebook theme for LaTeX lovers
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [channel-42/dotfiles](https://github.com/channel-42/dotfiles) - My dotfiles for my Arch-Install(s)
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [nsonnad/base16-ipython-notebook](https://github.com/nsonnad/base16-ipython-notebook) - Themes for your IPython Notebook
 - [thejmazz/bars](https://github.com/thejmazz/bars) - 
 
@@ -492,7 +493,7 @@
 - [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) - Async-first agent harness
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
-- [senna-lang/herdr-agent-usage](https://github.com/senna-lang/herdr-agent-usage) - Context meters and provider rate limits for agents running in Herdr.
+- [senna-lang/herdr-agent-usage](https://github.com/senna-lang/herdr-agent-usage) - Context meters, quota tracking, and provider rate limits for agents running in Herdr.
 - [renatoworks/oh-my-reddit](https://github.com/renatoworks/oh-my-reddit) - Beautiful Reddit threads, live in your terminal
 - [Zingzy/diskbloom](https://github.com/Zingzy/diskbloom) - 🌸 a pastel treemap TUI that shows what's eating your disk
 - [scaccogatto/nastro](https://github.com/scaccogatto/nastro) - Terminal-native call recorder for macOS: system audio + mic, local files, on-device diarized transcription. No bots, no cloud.
@@ -3843,7 +3844,7 @@
 - [darshanmakwana412/tsplat](https://github.com/darshanmakwana412/tsplat) - Enjoy gaussian splatting in your terminal, supports xterm, kitty, gnome, works over SSH
 - [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source Rust terminal coding agent.
 - [jvanderberg/markless](https://github.com/jvanderberg/markless) - A terminal markdown viewer with image support
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer) - Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
@@ -4088,6 +4089,8 @@
 
 ## Shell 
 
+- [speardragon/herdr-plugin-manager](https://github.com/speardragon/herdr-plugin-manager) - Manage herdr plugins from a popup — install, update, enable/disable, uninstall, and browse the herdr-plugin marketplace. Recommended key: prefix+p
+- [robbyrussell/herdr-ohmyzsh](https://github.com/robbyrussell/herdr-ohmyzsh) - Oh My Zsh plugin for Herdr: slow commands in the sidebar, done notifications, shell helpers, and one key to reload Oh My Zsh in every idle pane
 - [rambaarde/create-ai-memory](https://github.com/rambaarde/create-ai-memory) - Persistent, agent-agnostic session memory for AI coding CLIs (Claude Code, Codex, Gemini, Cursor, opencode). One Markdown vault, any agent.
 - [stablyai/call-claude](https://github.com/stablyai/call-claude) - Delegate prompts to Claude via claude -p. Install-free: npx github:stablyai/call-claude
 - [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
@@ -4245,6 +4248,7 @@
 
 ## Swift 
 
+- [speardragon/herdr-island](https://github.com/speardragon/herdr-island) - Your herdr agents live in the MacBook notch: approve, answer and watch them from a Dynamic Island-style panel
 - [Saffsanity/sill](https://github.com/Saffsanity/sill) - Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.
 - [tomjohndesign/what-the-port](https://github.com/tomjohndesign/what-the-port) - 
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
@@ -4378,10 +4382,11 @@
 
 ## TypeScript 
 
+- [powerfooI/roamgate](https://github.com/powerfooI/roamgate) - A Herdr client for any screen. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile.
 - [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
 - [bas3line/ascii](https://github.com/bas3line/ascii) - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag
 - [ledgesh/ledge](https://github.com/ledgesh/ledge) - 
-- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 517 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 529 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.
 - [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store.
 - [ahmd-sh/hntui](https://github.com/ahmd-sh/hntui) - browse hackernews like a hacker
 - [reladraw/reladraw](https://github.com/reladraw/reladraw) - 
