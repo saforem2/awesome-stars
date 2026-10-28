@@ -231,7 +231,6 @@
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [HazyResearch/HipKittens](https://github.com/HazyResearch/HipKittens) - Fast and Furious AMD Kernels
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
-- [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples) - 
 - [argonne-lcf/checkmate](https://github.com/argonne-lcf/checkmate) - This repo is for providing instructions on how to do checkpoint/restart at large scale simulations on exasscale machines
 - [google-deepmind/gemini_icpc2025](https://github.com/google-deepmind/gemini_icpc2025) - Gemini 2025 ICPC World Finals Code Submissions
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.
@@ -788,7 +787,7 @@
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [huggingface/agent-manager](https://github.com/huggingface/agent-manager) - 
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. One agent skill with 22 internal workflows for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and
 - [mjyoo2/OverleafMCP](https://github.com/mjyoo2/OverleafMCP) - Model Context Protocol (MCP) server that lets AI assistants read Overleaf projects, parse LaTeX document structure, and push          section-level edits back via Git. Compatible with Claude Desktop, 
 - [fdeox/termspot](https://github.com/fdeox/termspot) - CRT phosphor terminal theme for Spotify: scanlines, phosphor glow, ASCII album art, a hidden command terminal and 18 color schemes. Pairs with the Terminal Greeting extension.
 - [traxaber/spicetify-lastfm-history](https://github.com/traxaber/spicetify-lastfm-history) - Spicetify custom app: last.fm top artists, tracks, and albums inside Spotify
@@ -1140,7 +1139,7 @@
 - [zzzqt/DM4U1](https://github.com/zzzqt/DM4U1) - Diffusion model for gauge field simulations
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [Thomas-Ranner/LFT_DM](https://github.com/Thomas-Ranner/LFT_DM) - Sampling lattice field theories with score-based diffusion models
-- [davidnabergoj/potentials](https://github.com/davidnabergoj/potentials) - Potential functions for sampling or optimization
+- [davidnabergoj/potentials](https://github.com/davidnabergoj/potentials) - Probability density functions that support sampling and density evaluation.
 - [davidnabergoj/nfmc-nf-evaluation](https://github.com/davidnabergoj/nfmc-nf-evaluation) - NFMC benchmark and code for the paper: "Nabergoj and Štrumbelj. Empirical evaluation of normalizing flows in Markov Chain Monte Carlo, 2024."
 - [allenai/OLMoE](https://github.com/allenai/OLMoE) - OLMoE: Open Mixture-of-Experts Language Models
 - [rhymes-ai/Aria](https://github.com/rhymes-ai/Aria) - Codebase for Aria - an Open Multimodal Native MoE
@@ -2387,8 +2386,8 @@
 - [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
 - [mil-ad/kitcat](https://github.com/mil-ad/kitcat) - Matplotlib backend for direct plotting in the terminal using Kitty graphics protocol.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
-- [davidnabergoj/nfmc](https://github.com/davidnabergoj/nfmc) - Normalizing flow MCMC algorithms for statistical analyses and sampling.
-- [davidnabergoj/torchflows](https://github.com/davidnabergoj/torchflows) - Modern normalizing flows in Python. Simple to use and easily extensible.
+- [davidnabergoj/nfmc](https://github.com/davidnabergoj/nfmc) - Flow-based MCMC algorithms.
+- [davidnabergoj/torchflows](https://github.com/davidnabergoj/torchflows) - Normalizing flows in PyTorch.
 - [huggingface/picotron_tutorial](https://github.com/huggingface/picotron_tutorial) - 
 - [marcoancona/DeepExplain](https://github.com/marcoancona/DeepExplain) - A unified framework of perturbation and gradient-based attribution methods for Deep Neural Networks interpretability. DeepExplain also includes support for Shapley Values sampling. (ICLR 2018)
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
@@ -2791,7 +2790,7 @@
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [probabilists/lampe](https://github.com/probabilists/lampe) - Likelihood-free AMortized Posterior Estimation with PyTorch
 - [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
-- [pytorch/tensordict](https://github.com/pytorch/tensordict) - TensorDict is a pytorch dedicated tensor container.
+- [pytorch/tensordict](https://github.com/pytorch/tensordict) - A dict[str, torch.Tensor] that behaves like one tensor, and TensorClass: typed, batched dataclasses that compile.
 - [mshakerinava/Equivariant-Networks-for-Pixelized-Spheres](https://github.com/mshakerinava/Equivariant-Networks-for-Pixelized-Spheres) - Authors' implementation of the paper "Equivariant Networks for Pixelized Spheres" published at ICML 2021.
 - [mshakerinava/AutoEquiv](https://github.com/mshakerinava/AutoEquiv) - Group Equivariant Linear Maps
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
@@ -4121,6 +4120,7 @@
 - [jvns/shell-examples](https://github.com/jvns/shell-examples) - 
 - [hatanp/ml-scripts](https://github.com/hatanp/ml-scripts) - Common helper scripts for some HPC systems
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
+- [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples) - 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
@@ -4386,7 +4386,7 @@
 - [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
 - [bas3line/ascii](https://github.com/bas3line/ascii) - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag
 - [ledgesh/ledge](https://github.com/ledgesh/ledge) - 
-- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 547 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 560 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.
 - [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store.
 - [ahmd-sh/hntui](https://github.com/ahmd-sh/hntui) - browse hackernews like a hacker
 - [reladraw/reladraw](https://github.com/reladraw/reladraw) - A text diagram language where you say where things go. Playground: reladraw.github.io/reladraw
