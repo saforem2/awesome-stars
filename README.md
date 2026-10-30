@@ -815,7 +815,7 @@
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
 - [Link-/starred_search](https://github.com/Link-/starred_search) - Search your starred ★ repositories on GitHub from your terminal
-- [hoeci/sort-play](https://github.com/hoeci/sort-play) - A Spicetify extension that adds powerful sorting, filtering, UI features, and more to the Spotify desktop client.
+- [hoeci/sort-play](https://github.com/hoeci/sort-play) - A Spicetify extension that adds powerful sorting, filtering, UI features, and more to Spotify Desktop.
 - [mulfok/periodic-note-templates](https://github.com/mulfok/periodic-note-templates) - A set of periodic note templates for Obsidian.md.
 - [gadenbuie/mynorfolk-dash](https://github.com/gadenbuie/mynorfolk-dash) - MyNorfolk Dashboard: A Quarto Dashboards Demo
 - [kidminks/terminal_resume](https://github.com/kidminks/terminal_resume) - My resume which looks like terminal
@@ -4386,7 +4386,7 @@
 - [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
 - [bas3line/ascii](https://github.com/bas3line/ascii) - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag
 - [ledgesh/ledge](https://github.com/ledgesh/ledge) - 
-- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 562 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 563 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.
 - [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store.
 - [ahmd-sh/hntui](https://github.com/ahmd-sh/hntui) - browse hackernews like a hacker
 - [reladraw/reladraw](https://github.com/reladraw/reladraw) - A text diagram language where you say where things go. Playground: reladraw.github.io/reladraw
