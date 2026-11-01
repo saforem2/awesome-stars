@@ -118,6 +118,7 @@
 
 ## C 
 
+- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [amitv87/PiP](https://github.com/amitv87/PiP) - macOS Picture in Picture and AirPlay Receiver
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [andimatteo/torus](https://github.com/andimatteo/torus) - Just a simple implementation of a rotating torus in C.
@@ -215,6 +216,7 @@
 
 ## C++ 
 
+- [intel/xpumanager](https://github.com/intel/xpumanager) - 
 - [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 - [mps-ddp/mccl](https://github.com/mps-ddp/mccl) - metal collective communication library (pytorch DDP)
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
@@ -356,6 +358,7 @@
 
 ## CSS 
 
+- [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [gadenbuie/quarto-tachyons](https://github.com/gadenbuie/quarto-tachyons) - Tachyons Utility CSS for Quarto
@@ -783,8 +786,9 @@
 ## JavaScript 
 
 - [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit) - Exploit chain for PS5 7.00 - 13.60
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 47+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 48+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [huggingface/agent-manager](https://github.com/huggingface/agent-manager) - 
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. One agent skill with 22 internal workflows for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and
@@ -2008,8 +2012,10 @@
 
 ## Python 
 
+- [Oaklight/agentabi](https://github.com/Oaklight/agentabi) - Unified async Python API for driving coding agent CLIs — Claude Code, Codex, Gemini CLI, and more
+- [saad-hep/proton_agent](https://github.com/saad-hep/proton_agent) - A Tool-Grounded AI Agent for Gauge Coupling Unification and Proton Decay
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-- [Oaklight/ToolRegistry](https://github.com/Oaklight/ToolRegistry) - ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (OpenAI, Anthropic, Gemini, LangChain, MCP)
+- [Oaklight/ToolRegistry](https://github.com/Oaklight/ToolRegistry) - ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (OpenAI, Anthropic, Gemini, MCP, OpenAPI, native Python)
 - [meta-pytorch/spmd_types](https://github.com/meta-pytorch/spmd_types) - This module defines a type system for distributed training code, based off of JAX's sharding in types, but adapted for the PyTorch ecosystem.
 - [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py) - Python bindings for MPI
 - [doe-iri/iri-facility-api-toolkit](https://github.com/doe-iri/iri-facility-api-toolkit) - Python client toolkit for orchestrating IRI facility compute jobs
@@ -2117,7 +2123,7 @@
 - [allenai/molmo2](https://github.com/allenai/molmo2) - Code for the Molmo2 Vision-Language Model
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [qlabs-eng/slowrun](https://github.com/qlabs-eng/slowrun) - 100M tokens. Infinite compute. Lowest val loss wins.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [NVIDIA/nvidia-resiliency-ext](https://github.com/NVIDIA/nvidia-resiliency-ext) - NVIDIA Resiliency Extension is a python package for framework developers and users to implement fault-tolerant features. It improves the effective training time by minimizing the downtime due to failu
 - [salvozappa/gattino](https://github.com/salvozappa/gattino) - A kitty terminal extension that turns plain language into commands using Ollama.
 - [pnnl/neuromancer](https://github.com/pnnl/neuromancer) - Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification, and parametric model predictive control.
@@ -3157,7 +3163,7 @@
 - [ajinkya98/TensorBoard_PyTorch](https://github.com/ajinkya98/TensorBoard_PyTorch) - 
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
-- [anyoptimization/pymoo](https://github.com/anyoptimization/pymoo) - NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO
+- [the-dual-space/pymoo](https://github.com/the-dual-space/pymoo) - NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO
 - [facebookresearch/taskmodularnets](https://github.com/facebookresearch/taskmodularnets) - A set of neural network modules, which are small fully connected layers operating in semantic concept space. These modules are configured through a gating function conditioned on the task to produce f
 - [vietnh1009/Lego-generator](https://github.com/vietnh1009/Lego-generator) - 
 - [intel/ai-reference-models](https://github.com/intel/ai-reference-models) - Intel® AI Reference Models: contains Intel optimizations for running deep learning workloads on Intel® Xeon® Scalable processors and Intel® Data Center GPUs
@@ -3325,7 +3331,7 @@
 - [nucypher/nucypher](https://github.com/nucypher/nucypher) - Threshold Access Control (TACo) Node Runtime
 - [MathInspector/MathInspector](https://github.com/MathInspector/MathInspector) - A visual programing environment for scientific computing with python
 - [CarloGraziani/BayesVaccineEfficacy](https://github.com/CarloGraziani/BayesVaccineEfficacy) - 
-- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - Train and evaluate embeddings for similarity search with PyTorch. Includes contrastive losses, hard example mining, samplers, and retrieval metrics.
 - [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
 - [textext/textext](https://github.com/textext/textext) - Re-editable LaTeX/ typst graphics for Inkscape
 - [Lightning-Universe/lightning-flash](https://github.com/Lightning-Universe/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
@@ -3802,6 +3808,9 @@
 
 ## Rust 
 
+- [Ntarasiuk/glass](https://github.com/Ntarasiuk/glass) - Low-latency remote desktop for macOS and Linux. Control your computer from an iPad or any browser with ~20 ms delay. Free, open source, no app to install. curl -fsSL glassdesk.dev | sh
+- [herdrdev/herdr-core](https://github.com/herdrdev/herdr-core) - herdr-core: terminals for coding agents
+- [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
 - [mijowi/edamame](https://github.com/mijowi/edamame) - A Terminal Markdown editor that stays rendered while you edit
 - [iamrohithrnair/emeraldian](https://github.com/iamrohithrnair/emeraldian) - A terminal UI for your Obsidian vault: live-preview notes, backlinks, images, a force-directed graph and an assistant
@@ -4382,11 +4391,12 @@
 
 ## TypeScript 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [powerfooI/roamgate](https://github.com/powerfooI/roamgate) - A Herdr client for any screen. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile.
 - [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
 - [bas3line/ascii](https://github.com/bas3line/ascii) - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag
 - [ledgesh/ledge](https://github.com/ledgesh/ledge) - 
-- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 563 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 680 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.
 - [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store.
 - [ahmd-sh/hntui](https://github.com/ahmd-sh/hntui) - browse hackernews like a hacker
 - [reladraw/reladraw](https://github.com/reladraw/reladraw) - A text diagram language where you say where things go. Playground: reladraw.github.io/reladraw
@@ -4395,8 +4405,7 @@
 - [zts212653/clowder-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents. Hard rails, soft power, shared mission.
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) - Task and time-tracking management with calendar integration for Obsidian
-- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions
-- [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system
+- [open-inspect/background-agents](https://github.com/open-inspect/background-agents) - An open-source background agents coding system
 - [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) - 
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [bradygaster/squad](https://github.com/bradygaster/squad) - Squad: AI agent teams for any project
