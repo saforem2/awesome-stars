@@ -486,6 +486,7 @@
 
 ## Go 
 
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [szktkfm/mdtt](https://github.com/szktkfm/mdtt) - 🗓️ Markdown Table Editor TUI
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
@@ -672,6 +673,7 @@
 - [trafkin/glypho](https://github.com/trafkin/glypho) - Glypho is a fast, minimal command-line tool written in Rust to preview Markdown files in your browser.
 - [bwplotka/my](https://github.com/bwplotka/my) - Personal website with Hugo, KeepIt theme and some automation! (:
 - [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts
+- [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples) - 
 - [imfisk/CPSC](https://github.com/imfisk/CPSC) - 
 - [andrewheiss/ath-quarto](https://github.com/andrewheiss/ath-quarto) - Code and content for andrewheiss.com
 - [matt-dray/rostrum-blog-2](https://github.com/matt-dray/rostrum-blog-2) - :memo::bug: Blog: source for rostrum.blog
@@ -1488,6 +1490,7 @@
 
 ## Lean 
 
+- [anthropics/FlashProve](https://github.com/anthropics/FlashProve) - A research prototype for zero-knowledge proofs of AI inference. Not maintained.
 - [openai/math](https://github.com/openai/math) - 
 - [leanprover-community/physlib](https://github.com/leanprover-community/physlib) - A project to digitalise results from physics into Lean.
 - [math-inc/strongpnt](https://github.com/math-inc/strongpnt) - 
@@ -2014,6 +2017,8 @@
 
 ## Python 
 
+- [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'
+- [HPE/torch-hammer](https://github.com/HPE/torch-hammer) - Torch Hammer: Strike while the GPU is hot
 - [ekzhang/resin](https://github.com/ekzhang/resin) - 🧱 Experimental library for building inference engines
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [creelie/OpenGluon](https://github.com/creelie/OpenGluon) - Mathematical constructions, exact certificates and automatically synchronized quantum software.
@@ -2066,7 +2071,7 @@
 - [dcolinmorgan/herdr-remote](https://github.com/dcolinmorgan/herdr-remote) - Monitor and drive your herdr agents from menu bar, phone, or Telegram. Zero config locally. Free tunnel for remote. No Tailscale needed.
 - [alxndrTL/little-book-rl](https://github.com/alxndrTL/little-book-rl) - The Little Book of Reinforcement Learning
 - [Soju06/codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engi
 - [bufbuild/protobuf-py](https://github.com/bufbuild/protobuf-py) - Idiomatic Protocol Buffers for Python.
 - [connectrpc/connect-py](https://github.com/connectrpc/connect-py) - The Python implementation of Connect: Protobuf RPC that works.
 - [ML-GSAI/Width-Depth-muP](https://github.com/ML-GSAI/Width-Depth-muP) - Official implementation for our paper "Spectral Condition for μP under Width–Depth Scaling".
@@ -2388,7 +2393,6 @@
 - [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [trygveaa/kitty-kitten-search](https://github.com/trygveaa/kitty-kitten-search) - Kitten for searching in kitty
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Om-Alve/smolGPT](https://github.com/Om-Alve/smolGPT) - 
 - [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
@@ -3813,6 +3817,9 @@
 
 ## Rust 
 
+- [gurgeous/tennis](https://github.com/gurgeous/tennis) - stylish CSV tables in your terminal
+- [vitosans/rail](https://github.com/vitosans/rail) - A modern terminal mail client for Gmail and Microsoft 365, with an MCP server for AI agents
+- [samox73/jotter](https://github.com/samox73/jotter) - A fast Jupyter notebook TUI with vim keys, inline plots and rendered LaTeX
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [omesser/fidget](https://github.com/omesser/fidget) - :mage: AI desktop character for rich dilly-dallying...  I mean "productivity enhancement"
 - [ashayas/icloud-s3](https://github.com/ashayas/icloud-s3) - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.
@@ -4138,7 +4145,6 @@
 - [jvns/shell-examples](https://github.com/jvns/shell-examples) - 
 - [hatanp/ml-scripts](https://github.com/hatanp/ml-scripts) - Common helper scripts for some HPC systems
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
-- [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples) - 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
@@ -4261,6 +4267,7 @@
 ## Svelte 
 
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 
@@ -4341,7 +4348,7 @@
 
 ## TeX 
 
-- [creelie/4Y-M](https://github.com/creelie/4Y-M) - 
+- [creelie/4Y-M](https://github.com/creelie/4Y-M) - In Progress: Yang--Mills Mass Gap on the Lattice and One Cube from the Continuum
 - [quarto-journals/acm](https://github.com/quarto-journals/acm) - Quarto template for the Association of Computing Machinery
 - [ElArkk/jax-unirep](https://github.com/ElArkk/jax-unirep) - Reimplementation of the UniRep protein featurization model.
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
@@ -4406,7 +4413,7 @@
 - [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
 - [bas3line/ascii](https://github.com/bas3line/ascii) - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag
 - [ledgesh/ledge](https://github.com/ledgesh/ledge) - 
-- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - Self-hosted MCP gateway and company brain for AI agents: connect Claude, ChatGPT and Copilot to your ERP, APIs, databases and file servers, with company memory, skills, knowledge graph, SSO/RBAC and a
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - Enterprise Agent Harness & MCP Gateway: connect APIs, databases, file servers and 600+ connectors (SAP, Odoo, Etsy…) to Claude, ChatGPT, Microsoft Copilot and your agents. Memory, skills, knowledge gr
 - [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store.
 - [ahmd-sh/hntui](https://github.com/ahmd-sh/hntui) - browse hackernews like a hacker
 - [reladraw/reladraw](https://github.com/reladraw/reladraw) - A text diagram language where you say where things go. Playground: reladraw.github.io/reladraw
