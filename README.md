@@ -218,7 +218,6 @@
 
 - [linuxundich/gnomos](https://github.com/linuxundich/gnomos) - Sonos controller for Linux: a native GNOME app (GTK 4, libadwaita). Local network only, no Sonos account.
 - [intel/xpumanager](https://github.com/intel/xpumanager) - 
-- [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 - [mps-ddp/mccl](https://github.com/mps-ddp/mccl) - metal collective communication library (pytorch DDP)
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
@@ -236,7 +235,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [argonne-lcf/checkmate](https://github.com/argonne-lcf/checkmate) - This repo is for providing instructions on how to do checkpoint/restart at large scale simulations on exasscale machines
 - [google-deepmind/gemini_icpc2025](https://github.com/google-deepmind/gemini_icpc2025) - Gemini 2025 ICPC World Finals Code Submissions
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.
+- [cactus-compute/engine](https://github.com/cactus-compute/engine) - 2bit quants, kernels and runtime for consumer devices.
 - [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine (mirror)
@@ -787,6 +786,7 @@
 
 ## JavaScript 
 
+- [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents) - https://wiki.seeedstudio.com Seeed Studio Wiki  source code
 - [Bretteroo/Sonora](https://github.com/Bretteroo/Sonora) - A beautiful self-hosted web controller for Sonos S1 and S2 systems
 - [skulitom/Pixelbolt](https://github.com/skulitom/Pixelbolt) - Agent-first pixel art and animation toolkit. JSON recipes to PNG, APNG and sprite atlases via CLI, MCP server and local studio. Zero dependencies. MIT.
 - [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit) - Exploit chain for PS5 7.00 - 13.60
@@ -855,7 +855,6 @@
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [Kiran1689/kiran1689](https://github.com/Kiran1689/kiran1689) - Dynamic readme profile template. Do not just fork, Give Star too :)
 - [JasonPuglisi/descent](https://github.com/JasonPuglisi/descent) - Elegant now playing display for Last.fm showing song metadata and local weather.
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [abskmj/badges-lastfm](https://github.com/abskmj/badges-lastfm) - Markdown Badges for LastFM
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [jienagu/Jiena_McLellan_CV](https://github.com/jienagu/Jiena_McLellan_CV) - This is My CV
@@ -2020,15 +2019,18 @@
 
 ## Python 
 
+- [tingtang2/quantization-loss-spikes](https://github.com/tingtang2/quantization-loss-spikes) - Code for The Role of Quantization in Loss Spikes
+- [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [ewels/rich-click](https://github.com/ewels/rich-click) - Format click help output nicely with rich.
 - [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'
 - [HPE/torch-hammer](https://github.com/HPE/torch-hammer) - Torch Hammer: Strike while the GPU is hot
 - [ekzhang/resin](https://github.com/ekzhang/resin) - 🧱 Experimental library for building inference engines
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [creelie/OpenGluon](https://github.com/creelie/OpenGluon) - Mathematical constructions, exact certificates and automatically synchronized quantum software.
 - [datologyai/torchtitan-zephon](https://github.com/datologyai/torchtitan-zephon) - 
 - [Oaklight/agentabi](https://github.com/Oaklight/agentabi) - Unified async Python API for driving coding agent CLIs — Claude Code, Codex, Gemini CLI, and more
 - [saad-hep/proton_agent](https://github.com/saad-hep/proton_agent) - A Tool-Grounded AI Agent for Gauge Coupling Unification and Proton Decay
+- [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [Oaklight/ToolRegistry](https://github.com/Oaklight/ToolRegistry) - ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (OpenAI, Anthropic, Gemini, MCP, OpenAPI, native Python)
 - [meta-pytorch/spmd_types](https://github.com/meta-pytorch/spmd_types) - This module defines a type system for distributed training code, based off of JAX's sharding in types, but adapted for the PyTorch ecosystem.
@@ -3327,7 +3329,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-626-Stars](https://github.com/iBug/This-Repo-Has-626-Stars) - Yes, it's true :orange_heart: This repository has 626 stars.
+- [iBug/This-Repo-Has-627-Stars](https://github.com/iBug/This-Repo-Has-627-Stars) - Yes, it's true :purple_heart: This repository has 627 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -4024,6 +4026,7 @@
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file
 - [volllly/rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -4117,6 +4120,9 @@
 
 ## Shell 
 
+- [Michael-Matta1/zsh-edit-select](https://github.com/Michael-Matta1/zsh-edit-select) - Edit the command line in your terminal like a text editor with Shift selection, copy/cut/paste/delete, replace on type/paste, undo/redo, mouse integration, and fully customizable keybindings.
+- [mattmc3/ez-compinit](https://github.com/mattmc3/ez-compinit) - 🐣 - Make Zsh compinit suck less
+- [zpm-zsh/clipboard](https://github.com/zpm-zsh/clipboard) - Zsh clipboard plugin
 - [speardragon/herdr-plugin-manager](https://github.com/speardragon/herdr-plugin-manager) - Manage herdr plugins from a popup — install, update, enable/disable, uninstall, and browse the herdr-plugin marketplace. Recommended key: prefix+p
 - [robbyrussell/herdr-ohmyzsh](https://github.com/robbyrussell/herdr-ohmyzsh) - Oh My Zsh plugin for Herdr: slow commands in the sidebar, done notifications, shell helpers, and one key to reload Oh My Zsh in every idle pane
 - [rambaarde/create-ai-memory](https://github.com/rambaarde/create-ai-memory) - Persistent, agent-agnostic session memory for AI coding CLIs (Claude Code, Codex, Gemini, Cursor, opencode). One Markdown vault, any agent.
@@ -4277,6 +4283,7 @@
 
 ## Swift 
 
+- [beeper/platform-imessage](https://github.com/beeper/platform-imessage) - Standalone iMessage automation library for macOS
 - [speardragon/herdr-island](https://github.com/speardragon/herdr-island) - Your herdr agents live in the MacBook notch: approve, answer and watch them from a Dynamic Island-style panel
 - [Saffsanity/sill](https://github.com/Saffsanity/sill) - Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.
 - [tomjohndesign/what-the-port](https://github.com/tomjohndesign/what-the-port) - 
