@@ -507,7 +507,7 @@
 - [weave-os/router](https://github.com/weave-os/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [herald-email/herald-mail-app](https://github.com/herald-email/herald-mail-app) - Herald is a terminal email client and inbox cleanup tool with IMAP, AI-assisted triage, MCP tools, and SSH/browser-friendly app modes.
-- [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
+- [Paca-AI/paca](https://github.com/Paca-AI/paca) - Non-profit, community-owned and free forever: an AI-native, open-source alternative to Jira, Trello, ClickUp & Monday, where humans and AI agents work as equals on the same Scrum board. Self-hosted, f
 - [B33pBeeps/redthread](https://github.com/B33pBeeps/redthread) - A sticky-note pegboard TUI for your terminal — drag notes around an ASCII corkboard, dangle red strings between them, switch through named boards. Mouse-first, written in Go.
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from
@@ -1492,7 +1492,7 @@
 
 - [yang-mills-group/OpenAI-YM-20261028](https://github.com/yang-mills-group/OpenAI-YM-20261028) - OpenAI construction of pure Yang-Mills obtained 10/28/2026
 - [anthropics/FlashProve](https://github.com/anthropics/FlashProve) - A research prototype for zero-knowledge proofs of AI inference. Not maintained.
-- [creelie/4Y-M](https://github.com/creelie/4Y-M) - In Progress: One Cube Estimate Implies the Yang--Mills Mass Gap
+- [anaxia-research/4Y-M](https://github.com/anaxia-research/4Y-M) - Yang-Mills research: lattice results, conditional continuum arguments, and explicit mass-gap proof obligations.
 - [openai/math](https://github.com/openai/math) - 
 - [leanprover-community/physlib](https://github.com/leanprover-community/physlib) - A project to digitalise results from physics into Lean.
 - [math-inc/strongpnt](https://github.com/math-inc/strongpnt) - 
@@ -2031,7 +2031,7 @@
 - [HPE/torch-hammer](https://github.com/HPE/torch-hammer) - Torch Hammer: Strike while the GPU is hot
 - [ekzhang/resin](https://github.com/ekzhang/resin) - 🧱 Experimental library for building inference engines
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
-- [creelie/OpenGluon](https://github.com/creelie/OpenGluon) - Mathematical constructions, exact certificates and automatically synchronized quantum software.
+- [anaxia-research/anaxia](https://github.com/anaxia-research/anaxia) - Open mathematics research workbench: exact arithmetic, local-model connections, bounded experiments, and reproducible verification.
 - [datologyai/torchtitan-zephon](https://github.com/datologyai/torchtitan-zephon) - 
 - [Oaklight/agentabi](https://github.com/Oaklight/agentabi) - Unified async Python API for driving coding agent CLIs — Claude Code, Codex, Gemini CLI, and more
 - [saad-hep/proton_agent](https://github.com/saad-hep/proton_agent) - A Tool-Grounded AI Agent for Gauge Coupling Unification and Proton Decay
@@ -2092,7 +2092,7 @@
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [dermatologist/genomic-tokenizer](https://github.com/dermatologist/genomic-tokenizer) - Genomic Tokenizer: Biology-driven Tokenizer for DNA sequences
 - [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) - Qwen-AgentWorld: Language World Models for General Agents
-- [Oaklight/llm-rosetta](https://github.com/Oaklight/llm-rosetta) - Production-ready LLM API translation layer — bidirectional conversion between OpenAI, Anthropic & Google formats via hub-and-spoke IR. Optional API gateway. Streaming & non-streaming. Zero core deps. 
+- [Oaklight/llm-rosetta](https://github.com/Oaklight/llm-rosetta) - Production-ready LLM API gateway and translation library — bidirectional conversion between OpenAI, Anthropic & Google formats via hub-and-spoke IR. Streaming & non-streaming. Zero core deps. Contribu
 - [croqaz/vintage-LLM](https://github.com/croqaz/vintage-LLM) - Experimental LLM trained from scratch on very old texts.
 - [dougcalobrisi/erm](https://github.com/dougcalobrisi/erm) - Local CLI that strips disfluencies (um, uh, er, erm, ah, hmm, mhm, mm, uh-huh, etc) from recordings of English speech.
 - [vllm-project/vime](https://github.com/vllm-project/vime) - An LLM post-training framework with vLLM for RL Scaling
@@ -2211,7 +2211,7 @@
 - [ray-project/multimodal-training](https://github.com/ray-project/multimodal-training) - 
 - [ActivityWatch/aw-import-screentime](https://github.com/ActivityWatch/aw-import-screentime) - Import data from Apple's Screen Time on macOS and iOS to ActivityWatch
 - [RTnhN/aw-importer-lastfm](https://github.com/RTnhN/aw-importer-lastfm) - 
-- [kalil0321/ats-scrapers](https://github.com/kalil0321/ats-scrapers) - Open-source ATS job library
+- [kalil0321/ats-scrapers](https://github.com/kalil0321/ats-scrapers) - Open job data from ATS platforms and public job sources: free dataset and Python scrapers. By Stapply.
 - [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB) - An early research stage expert-parallel load balancer for MoE models based on linear programming.
@@ -3937,7 +3937,7 @@
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
 - [Quantco/pixi-pack](https://github.com/Quantco/pixi-pack) - 📦 Pack and unpack conda environments created with pixi
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [0xbrayo/aw-watcher-lastfm](https://github.com/0xbrayo/aw-watcher-lastfm) - ActivityWatch watcher for Spotify and Apple Music streaming.
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
@@ -4830,6 +4830,7 @@
 
 ## Zig 
 
+- [joshka/ghostty](https://github.com/joshka/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
 - [paulilaaso/hys](https://github.com/paulilaaso/hys) - Terminal RSS Reader for Digital Minimalists — Tool for Escaping the Doomscroll
 - [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
