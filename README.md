@@ -485,6 +485,7 @@
 
 ## Go 
 
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [szktkfm/mdtt](https://github.com/szktkfm/mdtt) - 🗓️ Markdown Table Editor TUI
@@ -1805,6 +1806,7 @@
 
 ## Others 
 
+- [szabgab/pydigger-data](https://github.com/szabgab/pydigger-data) - 
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [plugyawn/Megaprop](https://github.com/plugyawn/Megaprop) - Newton-Muon + Preconditioned Optimizers for MoE Training at scale, with out-of-the-box support for MuP and FSDP support for Muon, built on top of Megatron-LM and TransformerEngine.
@@ -2019,6 +2021,7 @@
 
 ## Python 
 
+- [parallelworks/activate-iri](https://github.com/parallelworks/activate-iri) - Parallel Works ACTIVATE as a DOE IRI Facility API v2 facility: adapters, edge kit, consumer workflow, prototype, topology dashboard
 - [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 - [swallow-llm/swallow-corpus](https://github.com/swallow-llm/swallow-corpus) - 
 - [llm-jp/llm-jp-sft](https://github.com/llm-jp/llm-jp-sft) - 
@@ -2915,7 +2918,7 @@
 - [adambielski/siamese-triplet](https://github.com/adambielski/siamese-triplet) - Siamese and triplet networks with online pair/triplet mining in PyTorch
 - [CUAI/Equivariant-Manifold-Flows](https://github.com/CUAI/Equivariant-Manifold-Flows) - [NeurIPS 2021] Equivariant Manifold Flows (https://arxiv.org/abs/2107.08596)
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Convert Machine Learning Code Between Frameworks
+- [djl11/ivy](https://github.com/djl11/ivy) - Convert Machine Learning Code Between Frameworks
 - [1kbgz/tributary](https://github.com/1kbgz/tributary) - Streaming reactive and dataflow graphs in Python
 - [Enveloppe/obsidian-mkdocs-publisher-python](https://github.com/Enveloppe/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [labmlai/labml](https://github.com/labmlai/labml) - 🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱
@@ -4241,7 +4244,7 @@
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [izmailovpavel/flowgmm](https://github.com/izmailovpavel/flowgmm) - 
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 1000 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources
 - [richin13/dotfiles](https://github.com/richin13/dotfiles) - My dotfiles: (Neovim + Zsh + Tmux) optimized for Python & React development 🤑
 - [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action) - :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
 - [RescueTime/git-commits-to-rescuetime-daily-highlights](https://github.com/RescueTime/git-commits-to-rescuetime-daily-highlights) - An example script to show how to log code commits as Daily Highlights in RescueTime
