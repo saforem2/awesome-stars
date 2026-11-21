@@ -95,6 +95,7 @@
 
 ## Astro 
 
+- [HiDeoo/starlight-showcases](https://github.com/HiDeoo/starlight-showcases) - Set of Starlight components to author showcase pages
 - [lorenzolewis/starlight-utils](https://github.com/lorenzolewis/starlight-utils) - 🧰 Utilities to use with your 🌟 Starlight site.
 - [WindMillCode/starlight-fullview-mode](https://github.com/WindMillCode/starlight-fullview-mode) - A minimalist plugin that collapses Starlight's sidebars and expands the main content to full width, creating a distraction-free, fullscreen-like reading experience. Toggle with a single click to focus
 - [ElianCodes/brutal](https://github.com/ElianCodes/brutal) - A neobrutalism Astro starter theme
@@ -486,6 +487,7 @@
 
 ## Go 
 
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -792,9 +794,8 @@
 - [Bretteroo/Sonora](https://github.com/Bretteroo/Sonora) - A beautiful self-hosted web controller for Sonos S1 and S2 systems
 - [skulitom/Pixelbolt](https://github.com/skulitom/Pixelbolt) - Agent-first pixel art and animation toolkit. JSON recipes to PNG, APNG and sprite atlases via CLI, MCP server and local studio. Zero dependencies. MIT.
 - [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit) - Exploit chain for PS5 7.00 - 13.60
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 54+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 56+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
-- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [huggingface/agent-manager](https://github.com/huggingface/agent-manager) - 
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. One agent skill with 22 internal workflows for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and
@@ -1491,9 +1492,9 @@
 
 ## Lean 
 
+- [tristanbuckmaster/navier-stokes](https://github.com/tristanbuckmaster/navier-stokes) - 
 - [yang-mills-group/OpenAI-YM-20261028](https://github.com/yang-mills-group/OpenAI-YM-20261028) - OpenAI construction of pure Yang-Mills obtained 10/28/2026
 - [anthropics/FlashProve](https://github.com/anthropics/FlashProve) - A research prototype for zero-knowledge proofs of AI inference. Not maintained.
-- [anaxia-research/4Y-M](https://github.com/anaxia-research/4Y-M) - Yang-Mills research: lattice results, conditional continuum arguments, and explicit mass-gap proof obligations.
 - [openai/math](https://github.com/openai/math) - 
 - [leanprover-community/physlib](https://github.com/leanprover-community/physlib) - A project to digitalise results from physics into Lean.
 - [math-inc/strongpnt](https://github.com/math-inc/strongpnt) - 
@@ -1736,6 +1737,7 @@
 
 ## Makefile 
 
+- [shytikov/pragmasevka](https://github.com/shytikov/pragmasevka) - Pragmata Pro doppelgänger made of Iosevka SS08
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [jceb/mdshow](https://github.com/jceb/mdshow) - Turn markdown files into beautiful presentations quickly
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
@@ -1872,7 +1874,6 @@
 - [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto) - A curated list of Quarto talks, tools, examples & articles! Contributions welcome!
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [paperswithcode/releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
-- [saforem2/saforem2](https://github.com/saforem2/saforem2) - Profile README
 - [Jack000/fontjoy](https://github.com/Jack000/fontjoy) - font vectors used for fontjoy.com
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -2021,6 +2022,9 @@
 
 ## Python 
 
+- [bsc-wdc/ParEval-WF](https://github.com/bsc-wdc/ParEval-WF) - Parallel Code Evaluation Benchmark
+- [PASAUCMerced/CoCoDiff](https://github.com/PASAUCMerced/CoCoDiff) - CoCoDiff inference engine (SC26 artifact): xfuser extended with tile-aware all-to-all, V-First scheduling, and   V-Major selective communication for distributed DiT inference on Aurora.
+- [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) - Offline knowledge AI, maps and videos for survival and rebuilding
 - [Supercomputing-System-AI-Lab/X-MoE](https://github.com/Supercomputing-System-AI-Lab/X-MoE) - 
 - [parallelworks/activate-iri](https://github.com/parallelworks/activate-iri) - Parallel Works ACTIVATE as a DOE IRI Facility API v2 facility: adapters, edge kit, consumer workflow, prototype, topology dashboard
 - [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
@@ -2041,7 +2045,7 @@
 - [saad-hep/proton_agent](https://github.com/saad-hep/proton_agent) - A Tool-Grounded AI Agent for Gauge Coupling Unification and Proton Decay
 - [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-- [Oaklight/ToolRegistry](https://github.com/Oaklight/ToolRegistry) - ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (OpenAI, Anthropic, Gemini, MCP, OpenAPI, native Python)
+- [Oaklight/toolregistry](https://github.com/Oaklight/toolregistry) - ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (OpenAI, Anthropic, Gemini, MCP, OpenAPI, native Python)
 - [meta-pytorch/spmd_types](https://github.com/meta-pytorch/spmd_types) - This module defines a type system for distributed training code, based off of JAX's sharding in types, but adapted for the PyTorch ecosystem.
 - [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py) - Python bindings for MPI
 - [doe-iri/iri-facility-api-toolkit](https://github.com/doe-iri/iri-facility-api-toolkit) - Python client toolkit for orchestrating IRI facility compute jobs
@@ -2207,7 +2211,7 @@
 - [delock/deepspeed_finetune_demo](https://github.com/delock/deepspeed_finetune_demo) - A finetune demo modifed from DeepSpeedExamples/training/DeepSpeed-ZenFlow/finetuning
 - [ridiculousfish/widecharwidth](https://github.com/ridiculousfish/widecharwidth) - public domain wcwidth implementation
 - [NousResearch/nomos](https://github.com/NousResearch/nomos) - 
-- [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL) - SkyRL: A Modular Full-stack RL Library for LLMs
+- [skyrl-project/SkyRL](https://github.com/skyrl-project/SkyRL) - SkyRL: A Modular Full-stack RL Library for LLMs
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [jlevy/py-app-standalone](https://github.com/jlevy/py-app-standalone) - Standalone, relocatable Python app installs with uv
@@ -3302,7 +3306,7 @@
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [distdl/distdl](https://github.com/distdl/distdl) - 
 - [maxjiang93/ugscnn](https://github.com/maxjiang93/ugscnn) - Spherical CNNs on Unstructured Grids Using Parameterized Differential Operators
-- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - Layout-aware document engine for AI and a feature-rich Python toolkit for extracting, rendering and editing PDFs and other documents. Since version 2.0, its ML-based layout analysis turns PDFs and Off
 - [hackingmaterials/rocketsled](https://github.com/hackingmaterials/rocketsled) - plug-n-play black box optimizer for high-throughput computing
 - [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 - [bnmnetp/pythonds](https://github.com/bnmnetp/pythonds) - Data Structures package for Problem Solving with Algorithms and Data Structures using Python
@@ -3831,6 +3835,9 @@
 
 ## Rust 
 
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [storytold/deckcraft](https://github.com/storytold/deckcraft) - DeckCraft: presentations and slide shows; an open-source, clean-room presentation app in pure Rust. Part of the ArtCraft Crafting Apps.
 - [thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui) - Play chess in any terminal. Rust TUI, Stockfish, Lichess.
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [gurgeous/tennis](https://github.com/gurgeous/tennis) - stylish CSV tables in your terminal
@@ -3844,7 +3851,7 @@
 - [herdrdev/herdr-core](https://github.com/herdrdev/herdr-core) - herdr-core: terminals for coding agents
 - [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
-- [mijowi/edamame](https://github.com/mijowi/edamame) - A Terminal Markdown editor that stays rendered while you edit
+- [mijowi/edamame](https://github.com/mijowi/edamame) - A Terminal Markdown editor
 - [iamrohithrnair/emeraldian](https://github.com/iamrohithrnair/emeraldian) - A terminal UI for your Obsidian vault: live-preview notes, backlinks, images, a force-directed graph and an assistant
 - [smarzban/tsk](https://github.com/smarzban/tsk) - tsk, a Linear/Notion alternative that stays in the terminal: a shared task board for you and your agents. TUI for you, CLI for them.
 - [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts. Resume sessions. Track tokens.
@@ -4043,7 +4050,7 @@
 - [volllly/rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
@@ -4139,12 +4146,10 @@
 - [speardragon/herdr-plugin-manager](https://github.com/speardragon/herdr-plugin-manager) - Manage herdr plugins from a popup — install, update, enable/disable, uninstall, and browse the herdr-plugin marketplace. Recommended key: prefix+p
 - [robbyrussell/herdr-ohmyzsh](https://github.com/robbyrussell/herdr-ohmyzsh) - Oh My Zsh plugin for Herdr: slow commands in the sidebar, done notifications, shell helpers, and one key to reload Oh My Zsh in every idle pane
 - [rambaarde/create-ai-memory](https://github.com/rambaarde/create-ai-memory) - Persistent, agent-agnostic session memory for AI coding CLIs (Claude Code, Codex, Gemini, Cursor, opencode). One Markdown vault, any agent.
-- [stablyai/call-claude](https://github.com/stablyai/call-claude) - Delegate prompts to Claude via claude -p. Install-free: npx github:stablyai/call-claude
 - [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
 - [laude-institute/headlong](https://github.com/laude-institute/headlong) - An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it's shells all the way down.
 - [JanTvrdik/herdr-command-palette](https://github.com/JanTvrdik/herdr-command-palette) - fzf command palette for herdr — fuzzy-pick and run any plugin action
 - [dcolinmorgan/herdr-push](https://github.com/dcolinmorgan/herdr-push) - herdr plugin: zero-dep event push to herdr-remote for mobile monitoring and one-tap approval
-- [rick-stevens-ai/ATPI](https://github.com/rick-stevens-ai/ATPI) - 
 - [ykdojo/claude-controls-mac](https://github.com/ykdojo/claude-controls-mac) - Step-by-step guide to turning your spare Mac into an always-on machine Claude Code can fully control - talk to it from your phone through the Claude app or from your main Mac over SSH.
 - [pwittchen/spotify-cli-macos](https://github.com/pwittchen/spotify-cli-macos) - A command line interface to Spotify on macOS
 - [envs-net/bashblog](https://github.com/envs-net/bashblog) - A single Bash script to create blogs. Download, run, write, done!
@@ -4374,6 +4379,7 @@
 
 ## TeX 
 
+- [anaxia-research/4Y-M](https://github.com/anaxia-research/4Y-M) - Yang-Mills research: lattice results, conditional continuum arguments, and explicit mass-gap proof obligations.
 - [quarto-journals/acm](https://github.com/quarto-journals/acm) - Quarto template for the Association of Computing Machinery
 - [ElArkk/jax-unirep](https://github.com/ElArkk/jax-unirep) - Reimplementation of the UniRep protein featurization model.
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
@@ -4433,9 +4439,10 @@
 
 ## TypeScript 
 
+- [HiDeoo/starlight-auto-sidebar](https://github.com/HiDeoo/starlight-auto-sidebar) - Starlight plugin to tweak autogenerated sidebar entries
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - Keep your coding agent up to date with the latest web best practices
 - [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui) - A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source.
-- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.
 - [beeper/cli](https://github.com/beeper/cli) - One CLI for all your chats
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [powerfooI/roamgate](https://github.com/powerfooI/roamgate) - A Herdr client for any screen. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile.
@@ -4451,6 +4458,7 @@
 - [zts212653/clowder-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents. Hard rails, soft power, shared mission.
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) - Task and time-tracking management with calendar integration for Obsidian
+- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - Coolest app to use agents, local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents
 - [open-inspect/background-agents](https://github.com/open-inspect/background-agents) - An open-source background agents coding system
 - [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) - 
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
