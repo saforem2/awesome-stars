@@ -423,6 +423,7 @@
 ## Common Lisp 
 
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
+- [briangu/klongpy](https://github.com/briangu/klongpy) - High-Performance Klong array language in Python.
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## Component Pascal 
@@ -1176,7 +1177,6 @@
 - [infocusp/llm_seminar_series](https://github.com/infocusp/llm_seminar_series) - Material for the series of seminars on Large Language Models
 - [DavidRuhe/hba_flows](https://github.com/DavidRuhe/hba_flows) - 
 - [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
-- [pyt-team/TopoNetX](https://github.com/pyt-team/TopoNetX) - Computing on Topological Domains
 - [argonne-lcf/llm-workshop](https://github.com/argonne-lcf/llm-workshop) - 
 - [divelab/AIRS](https://github.com/divelab/AIRS) - Artificial Intelligence Research for Science (AIRS)
 - [pacman100/LLM-Workshop](https://github.com/pacman100/LLM-Workshop) - LLM Workshop by Sourab Mangrulkar
@@ -2554,6 +2554,7 @@
 - [EleutherAI/cookbook](https://github.com/EleutherAI/cookbook) - Deep learning for dummies. All the practical details and useful utilities that go into working with real models.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [carlini/yet-another-applied-llm-benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - A benchmark to evaluate language models on questions I've previously asked them to solve.
+- [pyt-team/TopoNetX](https://github.com/pyt-team/TopoNetX) - Computing on Topological Domains
 - [DavidRuhe/clifford-group-equivariant-neural-networks](https://github.com/DavidRuhe/clifford-group-equivariant-neural-networks) - Code used by the "Clifford Group Equivariant Neural Networks" paper.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - Next-gen fast plotting library running on WGPU using the pygfx rendering engine
@@ -2590,7 +2591,6 @@
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [ecmwf-lab/ai-models-fourcastnetv2](https://github.com/ecmwf-lab/ai-models-fourcastnetv2) - 
-- [briangu/klongpy](https://github.com/briangu/klongpy) - High-Performance Klong array language in Python.
 - [yastn/yastn](https://github.com/yastn/yastn) - Yet another symmetric tensor network
 - [alibaba/Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch) - The official repo of Pai-Megatron-Patch for LLM & VLM large scale training developed by Alibaba Cloud.
 - [saforem2/ambivalent](https://github.com/saforem2/ambivalent) - Minimal, beautiful (+ highly-customizable) styles for Matplotlib.
