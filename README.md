@@ -668,7 +668,7 @@
 
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [syabro/neat-annotations](https://github.com/syabro/neat-annotations) - Hand-drawn CSS annotations for inline content
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [doe-iri/iri-facility-api-docs](https://github.com/doe-iri/iri-facility-api-docs) - A repository for storing IRI Facility API related documentation.
 - [mlfoundations/dclm](https://github.com/mlfoundations/dclm) - DataComp for Language Models
 - [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - An open programming typeface built on Iosevka. Compact, geometric, and tuned for editors and terminals.
@@ -3341,7 +3341,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [pyannote/pyannote-metrics](https://github.com/pyannote/pyannote-metrics) - A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems
-- [iBug/This-Repo-Has-627-Stars](https://github.com/iBug/This-Repo-Has-627-Stars) - Yes, it's true :purple_heart: This repository has 627 stars.
+- [iBug/This-Repo-Has-628-Stars](https://github.com/iBug/This-Repo-Has-628-Stars) - Yes, it's true :revolving_hearts: This repository has 628 stars.
 - [janosh/pymatviz](https://github.com/janosh/pymatviz) - A toolkit for visualizations in materials informatics.
 - [danieljtait/jax_xla_adventures](https://github.com/danieljtait/jax_xla_adventures) - Dive into Jax, Flax, XLA and C++
 - [google/model_search](https://github.com/google/model_search) - 
@@ -4311,7 +4311,7 @@
 - [ahmedkhaleel2004/blitztree](https://github.com/ahmedkhaleel2004/blitztree) - A fast, native disk-space treemap for macOS, in the spirit of WizTree
 - [levelsio/xdr-boost](https://github.com/levelsio/xdr-boost) - XDR Boost is an open source alternative to Vivid without the bug that stops it working when you close your MacBook Pro and open it again
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher built for productivity. Fast, lightweight, and open source.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
@@ -4450,7 +4450,7 @@
 - [bas3line/ascii](https://github.com/bas3line/ascii) - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag
 - [ledgesh/ledge](https://github.com/ledgesh/ledge) - 
 - [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - Enterprise Agent Harness & MCP Gateway: connect APIs, databases, file servers and 600+ connectors (SAP, Odoo, Etsy…) to Claude, ChatGPT, Microsoft Copilot and your agents. Memory, skills, knowledge gr
-- [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile app for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store.
+- [AltanS/collie](https://github.com/AltanS/collie) - Herdr and Rex mobile app for Android and iPhone. ColliePWA shows Claude Code, Codex, OpenCode or pi on your phone: read the chat or the screen, reply by text or voice, get push alerts. Self-hosted PWA
 - [ahmd-sh/hntui](https://github.com/ahmd-sh/hntui) - browse hackernews like a hacker
 - [reladraw/reladraw](https://github.com/reladraw/reladraw) - A text diagram language where you say where things go. Playground: reladraw.github.io/reladraw
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
