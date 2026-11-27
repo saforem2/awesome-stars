@@ -799,7 +799,6 @@
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [huggingface/agent-manager](https://github.com/huggingface/agent-manager) - 
-- [leo-lem/website](https://github.com/leo-lem/website) - The code behind leolem.dev. A read-only mirror, updated on each new version.
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. One agent skill with 22 internal workflows for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and
 - [mjyoo2/OverleafMCP](https://github.com/mjyoo2/OverleafMCP) - Model Context Protocol (MCP) server that lets AI assistants read Overleaf projects, parse LaTeX document structure, and push          section-level edits back via Git. Compatible with Claude Desktop, 
 - [fdeox/termspot](https://github.com/fdeox/termspot) - CRT phosphor terminal theme for Spotify: scanlines, phosphor glow, ASCII album art, a hidden command terminal and 18 color schemes. Pairs with the Terminal Greeting extension.
@@ -810,7 +809,7 @@
 - [LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer) - A beautiful CLI tool to see what's running on your ports
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-- [mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg) - Quarto: The Definitive Guide
+- [mine-cetinkaya-rundel/quarto-tdg](https://github.com/mine-cetinkaya-rundel/quarto-tdg) - Quarto: The Practical Guide
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [EmilHvitfeldt/quarto-revealjs-editable](https://github.com/EmilHvitfeldt/quarto-revealjs-editable) - Repositioning and resizing of images and text directly in quarto revealjs slides
@@ -1496,7 +1495,7 @@
 - [tristanbuckmaster/navier-stokes](https://github.com/tristanbuckmaster/navier-stokes) - 
 - [yang-mills-group/OpenAI-YM-20261028](https://github.com/yang-mills-group/OpenAI-YM-20261028) - OpenAI construction of pure Yang-Mills obtained 10/28/2026
 - [anthropics/FlashProve](https://github.com/anthropics/FlashProve) - A research prototype for zero-knowledge proofs of AI inference. Not maintained.
-- [anaxia-research/4Y-M](https://github.com/anaxia-research/4Y-M) - Yang-Mills research: lattice results, conditional continuum arguments, and explicit mass-gap proof obligations.
+- [anaxia-research/4Y-M](https://github.com/anaxia-research/4Y-M) - 
 - [openai/math](https://github.com/openai/math) - 
 - [leanprover-community/physlib](https://github.com/leanprover-community/physlib) - A project to digitalise results from physics into Lean.
 - [math-inc/strongpnt](https://github.com/math-inc/strongpnt) - 
@@ -1517,6 +1516,7 @@
 - [notomo/cmdbuf.nvim](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line window plugin for neovim
 - [Kicamon/markdown-table-mode.nvim](https://github.com/Kicamon/markdown-table-mode.nvim) - A lightweight markdown format plugin like vim-table-mode but write in lua
 - [gaborvecsei/usage-tracker.nvim](https://github.com/gaborvecsei/usage-tracker.nvim) - NeoVim plugin with which you can track the time you spent on files, projects, repos, filetypes
+- [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles
 - [nvim-mini/mini.surround](https://github.com/nvim-mini/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
 - [okuuva/auto-save.nvim](https://github.com/okuuva/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
 - [catgoose/wildest.nvim](https://github.com/catgoose/wildest.nvim) - The most wildest wildmenu
@@ -3909,7 +3909,7 @@
 - [razziel89/mdslw](https://github.com/razziel89/mdslw) - Prepare your markdown for easy diff'ing!
 - [wezm/git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
-- [eljulians/skillfile](https://github.com/eljulians/skillfile) - One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and mo
+- [eljulians/skillfile](https://github.com/eljulians/skillfile) - Manage AI skills and agents like dependencies, with built-in search across 100K+ community skills. Lock versions, keep your edits on update, install to Claude Code, Codex, Cursor and more.
 - [flamestro/deff](https://github.com/flamestro/deff) - interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 - [tejas-raskar/noted.md](https://github.com/tejas-raskar/noted.md) - A command-line tool to convert handwritten notes to markdown files
@@ -4163,7 +4163,6 @@
 - [ShawnPana/smux](https://github.com/ShawnPana/smux) - tmux config with built-in terminal automation and agent-to-agent communication.
 - [marimo-team/marimo-pair](https://github.com/marimo-team/marimo-pair) - Drop agents inside running marimo notebook sessions
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
-- [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [argonne-lcf/frameworks-sdk](https://github.com/argonne-lcf/frameworks-sdk) - Build scripts for the Frameworks SDK for internal testing, development, and deployment.
 - [rtvkiz/minimal](https://github.com/rtvkiz/minimal) - Minimal CVE Hardened container image collection
@@ -4309,7 +4308,7 @@
 - [speardragon/herdr-island](https://github.com/speardragon/herdr-island) - Your herdr agents live in the MacBook notch: approve, answer and watch them from a Dynamic Island-style panel
 - [Saffsanity/sill](https://github.com/Saffsanity/sill) - Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.
 - [tomjohndesign/what-the-port](https://github.com/tomjohndesign/what-the-port) - 
-- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for the coding agents on your own machines. Works with herdr and tmux over SSH.
+- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone & iPad console for Claude Code, Codex, and other coding agents on your own machines. Connect over SSH to Herdr TUI, herdr-core, or tmux.
 - [ahmedkhaleel2004/blitztree](https://github.com/ahmedkhaleel2004/blitztree) - A fast, native disk-space treemap for macOS, in the spirit of WizTree
 - [levelsio/xdr-boost](https://github.com/levelsio/xdr-boost) - XDR Boost is an open source alternative to Vivid without the bug that stops it working when you close your MacBook Pro and open it again
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
@@ -4459,7 +4458,7 @@
 - [zts212653/clowder-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents. Hard rails, soft power, shared mission.
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) - Task and time-tracking management with calendar integration for Obsidian
-- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - Coolest app to use agents, local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents
+- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - Coolest app to use agents. A local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents
 - [open-inspect/background-agents](https://github.com/open-inspect/background-agents) - An open-source background agents coding system
 - [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) - 
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
@@ -4472,6 +4471,7 @@
 - [JochemKuipers/playlists-manager-app](https://github.com/JochemKuipers/playlists-manager-app) - 
 - [iurysza/herdr-tab-smart-rename](https://github.com/iurysza/herdr-tab-smart-rename) - Generates context-aware workspace and tab names for Herdr.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [leo-lem/website](https://github.com/leo-lem/website) - The code behind leolem.dev. A read-only mirror, updated on each new version.
 - [binaricat/Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
